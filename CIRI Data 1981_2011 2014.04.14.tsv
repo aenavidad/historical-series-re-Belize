@@ -1,0 +1,39 @@
+"Sources = US state repots, Amnesty Intl repots"								Physical Integrity (aggregate of 4 measures)	Disappearances w political motivation likely			Tortue		Empowerment (agg of 7)									Worker’s rights	Women’s Economic rights	Women’s political rights		
+								0 = no respect	0 = none	0 = many	0 = many	0 = frequent		0 = no respect									0 = severe restriction	0 = none	0 = none		
+								8 = full respect	2 = lots	2 = none	2 = none	2 = none		14 = full respect									2 = full protection	3 = full protection	3 = full protection		
+																											
+																											
+																											
+																											
+CTRY	YEAR	CIRI	COW	POLITY	UNCTRY	UNREG	UNSUBREG	PHYSINT	DISAP	KILL	POLPRIS	TORT	OLD_EMPINX	NEW_EMPINX	ASSN	FORMOV	DOMMOV	OLD_MOVE	SPEECH	ELECSD	OLD_RELFRE	NEW_RELFRE	WORKER	WECON	WOPOL	WOSOC	INJUD
+Belize	1981	152	80	80	84	419	13	8	2	2	2	2	7	11	2	2	2	1	0	1	1	2	2	2	2	2	2
+Belize	1982	152	80	80	84	419	13	8	2	2	2	2	9	13	2	2	2	1	1	2	1	2	2	2	2	2	2
+Belize	1983	152	80	80	84	419	13	8	2	2	2	2	9	13	2	2	2	1	1	2	1	2	2	2	2	2	2
+Belize	1984	152	80	80	84	419	13	7	2	2	2	1	9	13	2	2	2	1	1	2	1	2	2	2	2	2	2
+Belize	1985	152	80	80	84	419	13	8	2	2	2	2	9	13	2	2	2	1	1	2	1	2	2	1	2	2	2
+Belize	1986	152	80	80	84	419	13	8	2	2	2	2	9	13	2	2	2	1	1	2	1	2	2	1	2	2	2
+Belize	1987	152	80	80	84	419	13	7	2	2	2	1	9	13	2	2	2	1	1	2	1	2	2	2	2	2	2
+Belize	1988	152	80	80	84	419	13	8	2	2	2	2	10	14	2	2	2	1	2	2	1	2	2	2	2	2	2
+Belize	1989	152	80	80	84	419	13	8	2	2	2	2	10	14	2	2	2	1	2	2	1	2	2	2	2	1	2
+Belize	1990	152	80	80	84	419	13	7	2	2	2	1	10	14	2	2	2	1	2	2	1	2	2	2	2	2	2
+Belize	1991	152	80	80	84	419	13	8	2	2	2	2	10	14	2	2	2	1	2	2	1	2	2	2	2	1	1
+Belize	1992	152	80	80	84	419	13	8	2	2	2	2	10	14	2	2	2	1	2	2	1	2	2	2	2	2	1
+Belize	1993	152	80	80	84	419	13	6	2	1	2	1	9	13	2	2	2	1	1	2	1	2	2	2	2	2	1
+Belize	1994	152	80	80	84	419	13	7	2	2	2	1	10	14	2	2	2	1	2	2	1	2	2	2	2	2	1
+Belize	1995	152	80	80	84	419	13	7	2	2	2	1	9	13	2	2	2	1	1	2	1	2	2	2	2	2	1
+Belize	1996	152	80	80	84	419	13	7	2	2	2	1	9	13	2	2	2	1	1	2	1	2	2	1	2	1	1
+Belize	1997	152	80	80	84	419	13	7	2	2	2	1	9	13	2	2	2	1	1	2	1	2	2	1	2	1	1
+Belize	1998	152	80	80	84	419	13	7	2	2	2	1	9	13	2	2	2	1	1	2	1	2	2	1	2	1	1
+Belize	1999	152	80	80	84	419	13	7	2	2	2	1	9	13	2	2	2	1	1	2	1	2	2	1	2	1	1
+Belize	2000	152	80	80	84	419	13	5	2	1	2	0	9	13	2	2	2	1	1	2	1	2	2	1	2	1	1
+Belize	2001	152	80	80	84	419	13	7	2	2	2	1	9	13	2	2	2	1	1	2	1	2	2	1	2	1	1
+Belize	2002	152	80	80	84	419	13	6	2	1	2	1	8	11	1	2	2	1	1	2	1	2	1	2	2	1	2
+Belize	2003	152	80	80	84	419	13	6	2	1	2	1	9	13	2	2	2	1	2	2	1	2	1	1	2	2	2
+Belize	2004	152	80	80	84	419	13	5	2	1	2	0	9	13	2	2	2	1	2	2	1	2	1	2	2	2	2
+Belize	2005	152	80	80	84	419	13	5	2	1	2	0	9	13	2	2	2	1	2	2	1	2	1	1	2		2
+Belize	2006	152	80	80	84	419	13	6	2	2	2	0	9	13	2	2	2	1	2	2	1	2	1	1	2		2
+Belize	2007	152	80	80	84	419	13	7	2	2	2	1		13	2	2	2		2	2		2	1	2	2	-999	2
+Belize	2008	152	80	80	84	419	13	6	2	1	2	1		12	2	2	2		1	2		2	1	2	3		2
+Belize	2009	152	80	80	84	419	13	6	2	1	2	1		13	2	2	2		2	2		2	1	2	2		2
+Belize	2010	152	80	80	84	419	13	6	2	1	2	1		14	2	2	2		2	2		2	2	2	2		2
+Belize	2011	152	80	80	84	419	13	7	2	2	2	1		14	2	2	2		2	2		2	2	2	2		2

@@ -1,0 +1,113 @@
+START
+1638 V 1.0
+21 July 2022 NAVIDAD 27 WORDSWORTH
+
+
+
+
+
+
+0	SPACE
+We first want to see the shape and size ie the outside of the agglomerate of things we're going to examine or study. As these are events, the plurality of these is ugly and unseemly so we need to carve it up. Say we take instead something containing the events ie spacetime. Its still ugly and unseemly, but has pretty easily-to-see dimensions in R^4 space it time, breadth, width, and height. And we'll find what we want to examine inside of this space. So first we carve out spacetime to know what we want.
+
+0.0	FIRST CARVING
+0.0.0	FIRST DIMENSION
+Let's go from and including 1 Jan 1543 Gregorian ie NS, to and including 31 Dec 1717 Greg ie NS, ie from first day of year of Bacalar's founding to last day of year of Capture of Trist.
+0.0.1	SECOND DIMENSION
+This cut can be arbitrary eg 1 mile up and down.
+0.0.2	THIRD AND FOURTH DIMENSIONS
+This cut is an n-gon eg /Users/angelnavidad/Documents/Screenshot 2022-07-21 at 09.35.10.png
+0.0.3	END RESULT
+We now have our cut  of spacetime and can now move or look inside of this cutout shape to further whittle it down.
+
+0.1	SECOND CARVING
+Now we want to consider some shapes within our first cutout, but to see these shapes we first need to know where to look out, as there are too many shapes within out cutout to consider all of them. So, instead, we focus on line segments which model minds whether collective or otherwise ie agents whether complex or simple. We're going to restrict attention to only some of these. We'll build a restricted list of which line segments ie agents to look at, and exclude all others, assuming all these line segments have at least some portion within our first cutout.
+0.1.0	FIRST ADDITIONS
+We want to include a number of de jure state-like collective agents both Spanish and non-Spanish, these being
+	i.   a few first-order civil subdivisions of the state or colony of New Spain, namely the provinces of Yucatan and Goathemala, including successor states and incorporates subdivisions of these ie the four districts of the four Spanish settlements in Yucatan, and the constituent settlements of each district, and the sub-provinces or governorships of Goathemala eg [Sp] Honduras-Higueras, including successor states and incorporated subdivisions of these eg the various districts of the various settlements in the governorship of Sp Honduras, GIVING US two first-order subdivisions of New Spain, and 4+1+n second-order subdivisions of New Spain [ie 4 subdivisions of Yucatan, and 1+n subdivisions of Goathemala ie Sp Honduras-Higueras and the n=1 or n>1 subdivisions of Goathemala which held authority or jurisdiccion over area around Sarstoon or Golfo Dulce or Toledo or Stann Creek], and 4+m+p third-order subdivisions of New Spain [ie 4 distritos or municipalities of Yucatan, and m+p distritos or municipalities within Goathemala ie m>1 distritos of Sp Honduras-Higueras and p>1 distritos of the n=1 or n>1 subdivision of Goathemala responsible for area around Sarstoon or Golfo Dulce or Toledo or Stann Creek, GIVING US 5+n SECOND-ORDER SUBDIVISIONS OF NEW SPAIN ie governorships et AND 
+		i.i.   NEW SPAIN colony
+		       - YUCATAN province
+		          - VALLADOLID distrito
+			     - vars villas eg Valladolid villa
+		          - CAMPEACHY distrito
+			     - vars villas
+		          - MERIDA distrito
+			     - vars villas 
+		          - BACALAR distrito
+			     - vars villas eg Bacalar villa, Tipu settlement
+		i.ii.    NEW SPAIN colony
+			- GOATHEMALA province
+			   - HONDURAS-HIGUERAS subprovince
+			      - TRUXILLO distrito
+			         - vars villas eg Truxillo villa
+			      - COMAYAGUA distrito
+			         - vars villas
+			      - ??? distrito
+			         - vars villas
+			   - ??? subprovince
+			      - ??? distrito
+			         - vars villas eg Truxillo villa
+	ii.   a few first order military subdivisions of Spain inc naval subdivisions of Spanish Empire
+		ii.i.   SPAIN armed forces
+		        - NAVAL department
+			  - NEW WORLD subdept
+			     - NON-DELEGATED commands eg Armada de Barlovento
+			     - DELEGATED commands
+			        - NEW SPAIN subommands
+			          - YUCATAN subsubcommand eg forts
+			          - GOATHEMALA subsubcommands
+			             - HONDURAS-HIGUERAS subsubsubcommand eg forts, armadillas
+			- ARMY department
+			  - NEW WORLD subdept
+			     - DELEGATED commands
+			        - NEW SPAIN subommands
+			          - YUCATAN subsubcommand eg garrisons
+			          - GOATHEMALA subsubcommands
+			             - HONDURAS-HIGUERAS subsubsubcommand eg garrisons
+	iii.   a few first-order civil and military subdivions of the Dutch West India Company
+	iv.   a few first-order civil and military subdivisions of the English or British Crown eg Jamaica, Old Providence, their dependencies, Royal Navy, etc
+	v.   no one else.
+0.1.1	SECOND ADDITIONS
+We want to include a number of non-de-jure yet state-like collective agents both Spanish and non-Spanish, assuming there were no such Spanish examples, so effectively we only have non-Spanish sort of these agents, namely
+	i.   a few first-order xxx,
+	ii.   a few first-order xxx,
+	iii.   a few first-order xxx,
+	???.   no one else.
+0.1.2	THIRD ADDITIONS
+???
+0.1.3	END RESULT
+We now have a *finite* list of *n*-many ???.
+
+0.2	THIRD CARVING
+Now that we have a fixed list of agents ie line segments lying within a few select shapes found inside of our first cutout, we can look inside our first cutout and locate all shapes which have these selected line segments inside of them. As we still get too many shapes ie events of all sorts, we want to whittle these down to only a select few shapes ie events which contain within them some one or other of the agents we've already enumerated. Eg as we have listed Armada de Barlovento as an agent, and all collective subagents of the Armada eg all crews, we currently have all shapes containing the line segment modelling the Armada as a collective agent, which further contains all crews and ships and voyages so there are way to may events ie shapes which contain the Armada itself, not to mention its constituent agents. So we need select only a few sort of these events to be ablet to consider them. This is what we'll do right now. So hold all these uncountably many shapes in one hand, and we'll now give a list of those which will be passed onto the other hand for inclusion in our study.
+0.2.0	FIRST ADDITIONS
+???
+0.2.1	SECOND ADDITIONS
+???
+0.2.2	END RESULT
+We now have a *finite* list of *n*-xxx.
+
+
+
+
+
+
+
+1	???
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2	???
+STOP

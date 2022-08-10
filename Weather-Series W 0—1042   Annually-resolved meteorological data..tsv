@@ -1,0 +1,524 @@
+Series W 0—1042 / Annually-resolved meteorological data.
+ID	NO	START 0	STOP 0	BH TC	CF 0	START 1	STOP 1	GUAT HI	CF 1	NINO MQ	NINA MQ	CF 2	END	
+W 0	0	1 Jun 2021	30 Nov 2021	xnp	xnp	1 May 2021	30 Oct 2021	xnp	xnp	xnp	xnp	xnp	###	
+W 2	2	1 Jun 2020	30 Nov 2020	xnp	xnp	1 May 2020	30 Oct 2020	xnp	xnp	xnp	xnp	xnp	###	
+W 4	4	1 Jun 2019	30 Nov 2019	xnp	xnp	1 May 2019	30 Oct 2019	xnp	xnp	xnp	xnp	xnp	###	
+W 6	6	1 Jun 2018	30 Nov 2018	xnp	xnp	1 May 2018	30 Oct 2018	xnp	xnp	xnp	xnp	xnp	###	
+W 8	8	1 Jun 2017	30 Nov 2017	1	Schmitt [Supp 1]	1 May 2017	30 Oct 2017	xnp	xnp	xnp	xnp	xnp	###	
+W 10	10	1 Jun 2016	30 Nov 2016	1	Schmitt [Supp 1]	1 May 2016	30 Oct 2016	xnp	xnp	xnp	xnp	xnp	###	
+W 12	12	1 Jun 2015	30 Nov 2015	1	Schmitt [Supp 1]	1 May 2015	30 Oct 2015	xnp	xnp	xnp	xnp	xnp	###	
+W 14	14	1 Jun 2014	30 Nov 2014	0	Schmitt [Supp 1]	1 May 2014	30 Oct 2014	xnp	xnp	xnp	xnp	xnp	###	
+W 16	16	1 Jun 2013	30 Nov 2013	1	Schmitt [Supp 1]	1 May 2013	30 Oct 2013	xnp	xnp	xnp	xnp	xnp	###	
+W 18	18	1 Jun 2012	30 Nov 2012	0	Schmitt [Supp 1]	1 May 2012	30 Oct 2012	xnp	xnp	xnp	xnp	xnp	###	
+W 20	20	1 Jun 2011	30 Nov 2011	0	Schmitt [Supp 1]	1 May 2011	30 Oct 2011	xnp	xnp	xnp	xnp	xnp	###	
+W 22	22	1 Jun 2010	30 Nov 2010	1	Schmitt [Supp 1]	1 May 2010	30 Oct 2010	xnp	xnp	xnp	xnp	xnp	###	
+W 24	24	1 Jun 2009	30 Nov 2009	0	Schmitt [Supp 1]	1 May 2009	30 Oct 2009	xnp	xnp	xnp	xnp	xnp	###	
+W 26	26	1 Jun 2008	30 Nov 2008	0	Schmitt [Supp 1]	1 May 2008	30 Oct 2008	xnp	xnp	xnp	xnp	xnp	###	
+W 28	28	1 Jun 2007	30 Nov 2007	1	Schmitt [Supp 1]	1 May 2007	30 Oct 2007	xnp	xnp	xnp	xnp	xnp	###	
+W 30	30	1 Jun 2006	30 Nov 2006	0	Schmitt [Supp 1]	1 May 2006	30 Oct 2006	xnp	xnp	xnp	xnp	xnp	###	
+W 32	32	1 Jun 2005	30 Nov 2005	1	Schmitt [Supp 1]	1 May 2005	30 Oct 2005	xnp	xnp	xnp	xnp	xnp	###	
+W 34	34	1 Jun 2004	30 Nov 2004	0	Schmitt [Supp 1]	1 May 2004	30 Oct 2004	xnp	xnp	xnp	xnp	xnp	###	
+W 36	36	1 Jun 2003	30 Nov 2003	1	Schmitt [Supp 1]	1 May 2003	30 Oct 2003	xnp	xnp	xnp	xnp	xnp	###	
+W 38	38	1 Jun 2002	30 Nov 2002	0	Schmitt [Supp 1]	1 May 2002	30 Oct 2002	xnp	xnp	74	0	Gergis [Table 9]	###	
+W 40	40	1 Jun 2001	30 Nov 2001	0	Schmitt [Supp 1]	1 May 2001	30 Oct 2001	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 42	42	1 Jun 2000	30 Nov 2000	0	Schmitt [Supp 1]	1 May 2000	30 Oct 2000	xnp	xnp	0	37	Gergis [Table 9]	###	
+W 44	44	1 Jun 1999	30 Nov 1999	0	Schmitt [Supp 1]	1 May 1999	30 Oct 1999	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 46	46	1 Jun 1998	30 Nov 1998	0	Schmitt [Supp 1]	1 May 1998	30 Oct 1998	xnp	xnp	0	51	Gergis [Table 9]	###	
+W 48	48	1 Jun 1997	30 Nov 1997	0	Schmitt [Supp 1]	1 May 1997	30 Oct 1997	xnp	xnp	25	0	Gergis [Table 9]	###	
+W 50	50	1 Jun 1996	30 Nov 1996	0	Schmitt [Supp 1]	1 May 1996	30 Oct 1996	xnp	xnp	0	29	Gergis [Table 9]	###	
+W 52	52	1 Jun 1995	30 Nov 1995	0	Schmitt [Supp 1]	1 May 1995	30 Oct 1995	xnp	xnp	0	33	Gergis [Table 9]	###	
+W 54	54	1 Jun 1994	30 Nov 1994	0	Schmitt [Supp 1]	1 May 1994	30 Oct 1994	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 56	56	1 Jun 1993	30 Nov 1993	0	Schmitt [Supp 1]	1 May 1993	30 Oct 1993	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 58	58	1 Jun 1992	30 Nov 1992	0	Schmitt [Supp 1]	1 May 1992	30 Oct 1992	xnp	xnp	44	0	Gergis [Table 9]	###	
+W 60	60	1 Jun 1991	30 Nov 1991	0	Schmitt [Supp 1]	1 May 1991	30 Oct 1991	xnp	xnp	42	0	Gergis [Table 9]	###	
+W 62	62	1 Jun 1990	30 Nov 1990	0	Schmitt [Supp 1]	1 May 1990	30 Oct 1990	xnp	xnp	0	39	Gergis [Table 9]	###	
+W 64	64	1 Jun 1989	30 Nov 1989	1	Schmitt [Supp 1]	1 May 1989	30 Oct 1989	xnp	xnp	0	49	Gergis [Table 9]	###	
+W 66	66	1 Jun 1988	30 Nov 1988	0	Schmitt [Supp 1]	1 May 1988	30 Oct 1988	xnp	xnp	0	29	Gergis [Table 9]	###	
+W 68	68	1 Jun 1987	30 Nov 1987	0	Schmitt [Supp 1]	1 May 1987	30 Oct 1987	xnp	xnp	37	0	Gergis [Table 9]	###	
+W 70	70	1 Jun 1986	30 Nov 1986	1	Schmitt [Supp 1]	1 May 1986	30 Oct 1986	xnp	xnp	0	29	Gergis [Table 9]	###	
+W 72	72	1 Jun 1985	30 Nov 1985	0	Schmitt [Supp 1]	1 May 1985	30 Oct 1985	xnp	xnp	22	24	Gergis [Table 9]	###	
+W 74	74	1 Jun 1984	30 Nov 1984	0	Schmitt [Supp 1]	1 May 1984	30 Oct 1984	xnp	xnp	0	27	Gergis [Table 9]	###	
+W 76	76	1 Jun 1983	30 Nov 1983	0	Schmitt [Supp 1]	1 May 1983	30 Oct 1983	xnp	xnp	48	0	Gergis [Table 9]	###	
+W 78	78	1 Jun 1982	30 Nov 1982	1	Schmitt [Supp 1]	1 May 1982	30 Oct 1982	xnp	xnp	46	0	Gergis [Table 9]	###	
+W 80	80	1 Jun 1981	30 Nov 1981	0	Schmitt [Supp 1]	1 May 1981	30 Oct 1981	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 82	82	1 Jun 1980	30 Nov 1980	0	Schmitt [Supp 1]	1 May 1980	30 Oct 1980	xnp	xnp	28	0	Gergis [Table 9]	###	
+W 84	84	1 Jun 1979	30 Nov 1979	0	Schmitt [Supp 1]	1 May 1979	30 Oct 1979	xnp	xnp	29	0	Gergis [Table 9]	###	
+W 86	86	1 Jun 1978	30 Nov 1978	0	Schmitt [Supp 1]	1 May 1978	30 Oct 1978	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 88	88	1 Jun 1977	30 Nov 1977	0	Schmitt [Supp 1]	1 May 1977	30 Oct 1977	xnp	xnp	20	0	Gergis [Table 9]	###	
+W 90	90	1 Jun 1976	30 Nov 1976	0	Schmitt [Supp 1]	1 May 1976	30 Oct 1976	xnp	xnp	32	0	Gergis [Table 9]	###	
+W 92	92	1 Jun 1975	30 Nov 1975	0	Schmitt [Supp 1]	1 May 1975	30 Oct 1975	xnp	xnp	0	36	Gergis [Table 9]	###	
+W 94	94	1 Jun 1974	30 Nov 1974	0	Schmitt [Supp 1]	1 May 1974	30 Oct 1974	xnp	xnp	0	56	Gergis [Table 9]	###	
+W 96	96	1 Jun 1973	30 Nov 1973	0	Schmitt [Supp 1]	1 May 1973	30 Oct 1973	xnp	xnp	20	24	Gergis [Table 9]	###	
+W 98	98	1 Jun 1972	30 Nov 1972	0	Schmitt [Supp 1]	1 May 1972	30 Oct 1972	xnp	xnp	35	25	Gergis [Table 9]	###	
+W 100	100	1 Jun 1971	30 Nov 1971	0	Schmitt [Supp 1]	1 May 1971	30 Oct 1971	xnp	xnp	0	43	Gergis [Table 9]	###	
+W 102	102	1 Jun 1970	30 Nov 1970	0	Schmitt [Supp 1]	1 May 1970	30 Oct 1970	xnp	xnp	0	30	Gergis [Table 9]	###	
+W 104	104	1 Jun 1969	30 Nov 1969	1	Schmitt [Supp 1]	1 May 1969	30 Oct 1969	xnp	xnp	33	0	Gergis [Table 9]	###	
+W 106	106	1 Jun 1968	30 Nov 1968	0	Schmitt [Supp 1]	1 May 1968	30 Oct 1968	xnp	xnp	34	24	Gergis [Table 9]	###	
+W 108	108	1 Jun 1967	30 Nov 1967	0	Schmitt [Supp 1]	1 May 1967	30 Oct 1967	xnp	xnp	19	0	Gergis [Table 9]	###	
+W 110	110	1 Jun 1966	30 Nov 1966	1	Schmitt [Supp 1]	1 May 1966	30 Oct 1966	xnp	xnp	29	0	Gergis [Table 9]	###	
+W 112	112	1 Jun 1965	30 Nov 1965	0	Schmitt [Supp 1]	1 May 1965	30 Oct 1965	xnp	xnp	35	0	Gergis [Table 9]	###	
+W 114	114	1 Jun 1964	30 Nov 1964	0	Schmitt [Supp 1]	1 May 1964	30 Oct 1964	xnp	xnp	32	0	Gergis [Table 9]	###	
+W 116	116	1 Jun 1963	30 Nov 1963	1	Schmitt [Supp 1]	1 May 1963	30 Oct 1963	xnp	xnp	0	25	Gergis [Table 9]	###	
+W 118	118	1 Jun 1962	30 Nov 1962	1	Schmitt [Supp 1]	1 May 1962	30 Oct 1962	xnp	xnp	0	25	Gergis [Table 9]	###	
+W 120	120	1 Jun 1961	30 Nov 1961	0	Schmitt [Supp 1]	1 May 1961	30 Oct 1961	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 122	122	1 Jun 1960	30 Nov 1960	0	Schmitt [Supp 1]	1 May 1960	30 Oct 1960	xnp	xnp	0	25	Gergis [Table 9]	###	
+W 124	124	1 Jun 1959	30 Nov 1959	0	Schmitt [Supp 1]	1 May 1959	30 Oct 1959	xnp	xnp	20	25	Gergis [Table 9]	###	
+W 126	126	1 Jun 1958	30 Nov 1958	0	Schmitt [Supp 1]	1 May 1958	30 Oct 1958	xnp	xnp	27	30	Gergis [Table 9]	###	
+W 128	128	1 Jun 1957	30 Nov 1957	0	Schmitt [Supp 1]	1 May 1957	30 Oct 1957	xnp	xnp	32	25	Gergis [Table 9]	###	
+W 130	130	1 Jun 1956	30 Nov 1956	0	Schmitt [Supp 1]	1 May 1956	30 Oct 1956	xnp	xnp	0	43	Gergis [Table 9]	###	
+W 132	132	1 Jun 1955	30 Nov 1955	1	Schmitt [Supp 1]	1 May 1955	30 Oct 1955	xnp	xnp	0	36	Gergis [Table 9]	###	
+W 134	134	1 Jun 1954	30 Nov 1954	0	Schmitt [Supp 1]	1 May 1954	30 Oct 1954	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 136	136	1 Jun 1953	30 Nov 1953	0	Schmitt [Supp 1]	1 May 1953	30 Oct 1953	xnp	xnp	0	56	Gergis [Table 9]	###	
+W 138	138	1 Jun 1952	30 Nov 1952	0	Schmitt [Supp 1]	1 May 1952	30 Oct 1952	xnp	xnp	22	0	Gergis [Table 9]	###	
+W 140	140	1 Jun 1951	30 Nov 1951	0	Schmitt [Supp 1]	1 May 1951	30 Oct 1951	xnp	xnp	29	31	Gergis [Table 9]	###	
+W 142	142	1 Jun 1950	30 Nov 1950	0	Schmitt [Supp 1]	1 May 1950	30 Oct 1950	xnp	xnp	0	50	Gergis [Table 9]	###	
+W 144	144	1 Jun 1949	30 Nov 1949	0	Schmitt [Supp 1]	1 May 1949	30 Oct 1949	xnp	xnp	20	0	Gergis [Table 9]	###	
+W 146	146	1 Jun 1948	30 Nov 1948	0	Schmitt [Supp 1]	1 May 1948	30 Oct 1948	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 148	148	1 Jun 1947	30 Nov 1947	0	Schmitt [Supp 1]	1 May 1947	30 Oct 1947	xnp	xnp	19	0	Gergis [Table 9]	###	
+W 150	150	1 Jun 1946	30 Nov 1946	0	Schmitt [Supp 1]	1 May 1946	30 Oct 1946	xnp	xnp	0	38	Gergis [Table 9]	###	
+W 152	152	1 Jun 1945	30 Nov 1945	0	Schmitt [Supp 1]	1 May 1945	30 Oct 1945	0	Guevara-Murua [Supp]	0	25	Gergis [Table 9]	###	
+W 154	154	1 Jun 1944	30 Nov 1944	0	Schmitt [Supp 1]	1 May 1944	30 Oct 1944	1	Guevara-Murua [Supp]	33	0	Gergis [Table 9]	###	
+W 156	156	1 Jun 1943	30 Nov 1943	1	Schmitt [Supp 1]	1 May 1943	30 Oct 1943	0	Guevara-Murua [Supp]	0	24	Gergis [Table 9]	###	
+W 158	158	1 Jun 1942	30 Nov 1942	0	Schmitt [Supp 1]	1 May 1942	30 Oct 1942	0	Guevara-Murua [Supp]	46	0	Gergis [Table 9]	###	
+W 160	160	1 Jun 1941	30 Nov 1941	0	Schmitt [Supp 1]	1 May 1941	30 Oct 1941	0	Guevara-Murua [Supp]	48	0	Gergis [Table 9]	###	
+W 162	162	1 Jun 1940	30 Nov 1940	0	Schmitt [Supp 1]	1 May 1940	30 Oct 1940	0	Guevara-Murua [Supp]	39	0	Gergis [Table 9]	###	
+W 164	164	1 Jun 1939	30 Nov 1939	0	Schmitt [Supp 1]	1 May 1939	30 Oct 1939	0	Guevara-Murua [Supp]	28	0	Gergis [Table 9]	###	
+W 166	166	1 Jun 1938	30 Nov 1938	1	Schmitt [Supp 1]	1 May 1938	30 Oct 1938	0	Guevara-Murua [Supp]	26	0	Gergis [Table 9]	###	
+W 168	168	1 Jun 1937	30 Nov 1937	0	Schmitt [Supp 1]	1 May 1937	30 Oct 1937	0	Guevara-Murua [Supp]	19	0	Gergis [Table 9]	###	
+W 170	170	1 Jun 1936	30 Nov 1936	0	Schmitt [Supp 1]	1 May 1936	30 Oct 1936	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 172	172	1 Jun 1935	30 Nov 1935	0	Schmitt [Supp 1]	1 May 1935	30 Oct 1935	0	Guevara-Murua [Supp]	26	0	Gergis [Table 9]	###	
+W 174	174	1 Jun 1934	30 Nov 1934	0	Schmitt [Supp 1]	1 May 1934	30 Oct 1934	0	Guevara-Murua [Supp]	0	25	Gergis [Table 9]	###	
+W 176	176	1 Jun 1933	30 Nov 1933	0	Schmitt [Supp 1]	1 May 1933	30 Oct 1933	2	Guevara-Murua [Supp]	20	0	Gergis [Table 9]	###	
+W 178	178	1 Jun 1932	30 Nov 1932	0	Schmitt [Supp 1]	1 May 1932	30 Oct 1932	0	Guevara-Murua [Supp]	0	24	Gergis [Table 9]	###	
+W 180	180	1 Jun 1931	30 Nov 1931	0	Schmitt [Supp 1]	1 May 1931	30 Oct 1931	0	Guevara-Murua [Supp]	34	0	Gergis [Table 9]	###	
+W 182	182	1 Jun 1930	30 Nov 1930	0	Schmitt [Supp 1]	1 May 1930	30 Oct 1930	0	Guevara-Murua [Supp]	27	0	Gergis [Table 9]	###	
+W 184	184	1 Jun 1929	30 Nov 1929	0	Schmitt [Supp 1]	1 May 1929	30 Oct 1929	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 186	186	1 Jun 1928	30 Nov 1928	0	Schmitt [Supp 1]	1 May 1928	30 Oct 1928	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 188	188	1 Jun 1927	30 Nov 1927	0	Schmitt [Supp 1]	1 May 1927	30 Oct 1927	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 190	190	1 Jun 1926	30 Nov 1926	0	Schmitt [Supp 1]	1 May 1926	30 Oct 1926	0	Guevara-Murua [Supp]	54	0	Gergis [Table 9]	###	
+W 192	192	1 Jun 1925	30 Nov 1925	0	Schmitt [Supp 1]	1 May 1925	30 Oct 1925	0	Guevara-Murua [Supp]	35	0	Gergis [Table 9]	###	
+W 194	194	1 Jun 1924	30 Nov 1924	1	Schmitt [Supp 1]	1 May 1924	30 Oct 1924	0	Guevara-Murua [Supp]	20	0	Gergis [Table 9]	###	
+W 196	196	1 Jun 1923	30 Nov 1923	0	Schmitt [Supp 1]	1 May 1923	30 Oct 1923	1	Guevara-Murua [Supp]	0	31	Gergis [Table 9]	###	
+W 198	198	1 Jun 1922	30 Nov 1922	1	Schmitt [Supp 1]	1 May 1922	30 Oct 1922	-1	Guevara-Murua [Supp]	0	38	Gergis [Table 9]	###	
+W 200	200	1 Jun 1921	30 Nov 1921	0	Schmitt [Supp 1]	1 May 1921	30 Oct 1921	1	Guevara-Murua [Supp]	0	25	Gergis [Table 9]	###	
+W 202	202	1 Jun 1920	30 Nov 1920	0	Schmitt [Supp 1]	1 May 1920	30 Oct 1920	-1	Guevara-Murua [Supp]	22	0	Gergis [Table 9]	###	
+W 204	204	1 Jun 1919	30 Nov 1919	1	Schmitt [Supp 1]	1 May 1919	30 Oct 1919	0	Guevara-Murua [Supp]	34	0	Gergis [Table 9]	###	
+W 206	206	1 Jun 1918	30 Nov 1918	0	Schmitt [Supp 1]	1 May 1918	30 Oct 1918	0	Guevara-Murua [Supp]	36	38	Gergis [Table 9]	###	
+W 208	208	1 Jun 1917	30 Nov 1917	0	Schmitt [Supp 1]	1 May 1917	30 Oct 1917	0	Guevara-Murua [Supp]	0	43	Gergis [Table 9]	###	
+W 210	210	1 Jun 1916	30 Nov 1916	0	Schmitt [Supp 1]	1 May 1916	30 Oct 1916	0	Guevara-Murua [Supp]	0	32	Gergis [Table 9]	###	
+W 212	212	1 Jun 1915	30 Nov 1915	0	Schmitt [Supp 1]	1 May 1915	30 Oct 1915	0	Guevara-Murua [Supp]	43	0	Gergis [Table 9]	###	
+W 214	214	1 Jun 1914	30 Nov 1914	0	Schmitt [Supp 1]	1 May 1914	30 Oct 1914	-2	Guevara-Murua [Supp]	40	0	Gergis [Table 9]	###	
+W 216	216	1 Jun 1913	30 Nov 1913	0	Schmitt [Supp 1]	1 May 1913	30 Oct 1913	0	Guevara-Murua [Supp]	43	0	Gergis [Table 9]	###	
+W 218	218	1 Jun 1912	30 Nov 1912	0	Schmitt [Supp 1]	1 May 1912	30 Oct 1912	-1	Guevara-Murua [Supp]	40	0	Gergis [Table 9]	###	
+W 220	220	1 Jun 1911	30 Nov 1911	0	Schmitt [Supp 1]	1 May 1911	30 Oct 1911	1	Guevara-Murua [Supp]	29	0	Gergis [Table 9]	###	
+W 222	222	1 Jun 1910	30 Nov 1910	0	Schmitt [Supp 1]	1 May 1910	30 Oct 1910	0	Guevara-Murua [Supp]	0	44	Gergis [Table 9]	###	
+W 224	224	1 Jun 1909	30 Nov 1909	0	Schmitt [Supp 1]	1 May 1909	30 Oct 1909	1	Guevara-Murua [Supp]	0	38	Gergis [Table 9]	###	
+W 226	226	1 Jun 1908	30 Nov 1908	0	Schmitt [Supp 1]	1 May 1908	30 Oct 1908	0	Guevara-Murua [Supp]	0	32	Gergis [Table 9]	###	
+W 228	228	1 Jun 1907	30 Nov 1907	0	Schmitt [Supp 1]	1 May 1907	30 Oct 1907	0	Guevara-Murua [Supp]	0	31	Gergis [Table 9]	###	
+W 230	230	1 Jun 1906	30 Nov 1906	0	Schmitt [Supp 1]	1 May 1906	30 Oct 1906	0	Guevara-Murua [Supp]	20	0	Gergis [Table 9]	###	
+W 232	232	1 Jun 1905	30 Nov 1905	0	Schmitt [Supp 1]	1 May 1905	30 Oct 1905	0	Guevara-Murua [Supp]	48	0	Gergis [Table 9]	###	
+W 234	234	1 Jun 1904	30 Nov 1904	0	Schmitt [Supp 1]	1 May 1904	30 Oct 1904	0	Guevara-Murua [Supp]	22	26	Gergis [Table 9]	###	
+W 236	236	1 Jun 1903	30 Nov 1903	0	Schmitt [Supp 1]	1 May 1903	30 Oct 1903	1	Guevara-Murua [Supp]	19	0	Gergis [Table 9]	###	
+W 238	238	1 Jun 1902	30 Nov 1902	0	Schmitt [Supp 1]	1 May 1902	30 Oct 1902	0	Guevara-Murua [Supp]	41	0	Gergis [Table 9]	###	
+W 240	240	1 Jun 1901	30 Nov 1901	1	Schmitt [Supp 1]	1 May 1901	30 Oct 1901	0	Guevara-Murua [Supp]	30	0	Gergis [Table 9]	###	
+W 242	242	1 Jun 1900	30 Nov 1900	0	Schmitt [Supp 1]	1 May 1900	30 Oct 1900	0	Guevara-Murua [Supp]	41	0	Gergis [Table 9]	###	
+W 244	244	1 Jun 1899	30 Nov 1899	1	Schmitt [Supp 1]	1 May 1899	30 Oct 1899	-1	Guevara-Murua [Supp]	30	0	Gergis [Table 9]	###	
+W 246	246	1 Jun 1898	30 Nov 1898	0	Schmitt [Supp 1]	1 May 1898	30 Oct 1898	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 248	248	1 Jun 1897	30 Nov 1897	0	Schmitt [Supp 1]	1 May 1897	30 Oct 1897	2	Guevara-Murua [Supp]	30	0	Gergis [Table 9]	###	
+W 250	250	1 Jun 1896	30 Nov 1896	0	Schmitt [Supp 1]	1 May 1896	30 Oct 1896	1	Guevara-Murua [Supp]	27	25	Gergis [Table 9]	###	
+W 252	252	1 Jun 1895	30 Nov 1895	0	Schmitt [Supp 1]	1 May 1895	30 Oct 1895	-1	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 254	254	1 Jun 1894	30 Nov 1894	0	Schmitt [Supp 1]	1 May 1894	30 Oct 1894	0	Guevara-Murua [Supp]	0	51	Gergis [Table 9]	###	
+W 256	256	1 Jun 1893	30 Nov 1893	0	Schmitt [Supp 1]	1 May 1893	30 Oct 1893	0	Guevara-Murua [Supp]	0	39	Gergis [Table 9]	###	
+W 258	258	1 Jun 1892	30 Nov 1892	1	Schmitt [Supp 1]	1 May 1892	30 Oct 1892	0	Guevara-Murua [Supp]	0	38	Gergis [Table 9]	###	
+W 260	260	1 Jun 1891	30 Nov 1891	0	Schmitt [Supp 1]	1 May 1891	30 Oct 1891	-1	Guevara-Murua [Supp]	42	25	Gergis [Table 9]	###	
+W 262	262	1 Jun 1890	30 Nov 1890	0	Schmitt [Supp 1]	1 May 1890	30 Oct 1890	0	Guevara-Murua [Supp]	0	36	Gergis [Table 9]	###	
+W 264	264	1 Jun 1889	30 Nov 1889	0	Schmitt [Supp 1]	1 May 1889	30 Oct 1889	0	Guevara-Murua [Supp]	21	0	Gergis [Table 9]	###	
+W 266	266	1 Jun 1888	30 Nov 1888	0	Schmitt [Supp 1]	1 May 1888	30 Oct 1888	-1	Guevara-Murua [Supp]	40	0	Gergis [Table 9]	###	
+W 268	268	1 Jun 1887	30 Nov 1887	0	Schmitt [Supp 1]	1 May 1887	30 Oct 1887	0	Guevara-Murua [Supp]	0	38	Gergis [Table 9]	###	
+W 270	270	1 Jun 1886	30 Nov 1886	0	Schmitt [Supp 1]	1 May 1886	30 Oct 1886	0	Guevara-Murua [Supp]	0	30	Gergis [Table 9]	###	
+W 272	272	1 Jun 1885	30 Nov 1885	1	Schmitt [Supp 1]	1 May 1885	30 Oct 1885	-1	Guevara-Murua [Supp]	35	0	Gergis [Table 9]	###	
+W 274	274	1 Jun 1884	30 Nov 1884	0	Schmitt [Supp 1]	1 May 1884	30 Oct 1884	0	Guevara-Murua [Supp]	20	0	Gergis [Table 9]	###	
+W 276	276	1 Jun 1883	30 Nov 1883	0	Schmitt [Supp 1]	1 May 1883	30 Oct 1883	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 278	278	1 Jun 1882	30 Nov 1882	0	Schmitt [Supp 1]	1 May 1882	30 Oct 1882	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 280	280	1 Jun 1881	30 Nov 1881	0	Schmitt [Supp 1]	1 May 1881	30 Oct 1881	0	Guevara-Murua [Supp]	27	0	Gergis [Table 9]	###	
+W 282	282	1 Jun 1880	30 Nov 1880	0	Schmitt [Supp 1]	1 May 1880	30 Oct 1880	0	Guevara-Murua [Supp]	0	38	Gergis [Table 9]	###	
+W 284	284	1 Jun 1879	30 Nov 1879	0	Schmitt [Supp 1]	1 May 1879	30 Oct 1879	0	Guevara-Murua [Supp]	0	51	Gergis [Table 9]	###	
+W 286	286	1 Jun 1878	30 Nov 1878	0	Schmitt [Supp 1]	1 May 1878	30 Oct 1878	2	Guevara-Murua [Supp]	26	24	Gergis [Table 9]	###	
+W 288	288	1 Jun 1877	30 Nov 1877	0	Schmitt [Supp 1]	1 May 1877	30 Oct 1877	0	Guevara-Murua [Supp]	37	0	Gergis [Table 9]	###	
+W 290	290	1 Jun 1876	30 Nov 1876	0	Schmitt [Supp 1]	1 May 1876	30 Oct 1876	0	Guevara-Murua [Supp]	21	0	Gergis [Table 9]	###	
+W 292	292	1 Jun 1875	30 Nov 1875	1	Schmitt [Supp 1]	1 May 1875	30 Oct 1875	0	Guevara-Murua [Supp]	0	32	Gergis [Table 9]	###	
+W 294	294	1 Jun 1874	30 Nov 1874	0	Schmitt [Supp 1]	1 May 1874	30 Oct 1874	1	Guevara-Murua [Supp]	20	32	Gergis [Table 9]	###	
+W 296	296	1 Jun 1873	30 Nov 1873	0	Schmitt [Supp 1]	1 May 1873	30 Oct 1873	0	Guevara-Murua [Supp]	0	38	Gergis [Table 9]	###	
+W 298	298	1 Jun 1872	30 Nov 1872	1	Schmitt [Supp 1]	1 May 1872	30 Oct 1872	0	Guevara-Murua [Supp]	0	31	Gergis [Table 9]	###	
+W 300	300	1 Jun 1871	30 Nov 1871	0	Schmitt [Supp 1]	1 May 1871	30 Oct 1871	0	Guevara-Murua [Supp]	0	39	Gergis [Table 9]	###	
+W 302	302	1 Jun 1870	30 Nov 1870	0	Schmitt [Supp 1]	1 May 1870	30 Oct 1870	0	Guevara-Murua [Supp]	0	39	Gergis [Table 9]	###	
+W 304	304	1 Jun 1869	30 Nov 1869	0	Schmitt [Supp 1]	1 May 1869	30 Oct 1869	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 306	306	1 Jun 1868	30 Nov 1868	0	Schmitt [Supp 1]	1 May 1868	30 Oct 1868	-1	Guevara-Murua [Supp]	36	32	Gergis [Table 9]	###	
+W 308	308	1 Jun 1867	30 Nov 1867	1	Schmitt [Supp 1]	1 May 1867	30 Oct 1867	1	Guevara-Murua [Supp]	0	38	Gergis [Table 9]	###	
+W 310	310	1 Jun 1866	30 Nov 1866	0	Schmitt [Supp 1]	1 May 1866	30 Oct 1866	0	Guevara-Murua [Supp]	36	31	Gergis [Table 9]	###	
+W 312	312	1 Jun 1865	30 Nov 1865	0	Schmitt [Supp 1]	1 May 1865	30 Oct 1865	1	Guevara-Murua [Supp]	29	0	Gergis [Table 9]	###	
+W 314	314	1 Jun 1864	30 Nov 1864	1	Schmitt [Supp 1]	1 May 1864	30 Oct 1864	0	Guevara-Murua [Supp]	22	26	Gergis [Table 9]	###	
+W 316	316	1 Jun 1863	30 Nov 1863	0	Schmitt [Supp 1]	1 May 1863	30 Oct 1863	0	Guevara-Murua [Supp]	0	44	Gergis [Table 9]	###	
+W 318	318	1 Jun 1862	30 Nov 1862	0	Schmitt [Supp 1]	1 May 1862	30 Oct 1862	xnp	xnp	0	31	Gergis [Table 9]	###	
+W 320	320	1 Jun 1861	30 Nov 1861	0	Schmitt [Supp 1]	1 May 1861	30 Oct 1861	xnp	xnp	0	50	Gergis [Table 9]	###	
+W 322	322	1 Jun 1860	30 Nov 1860	0	Schmitt [Supp 1]	1 May 1860	30 Oct 1860	-1	Guevara-Murua [Supp]	23	38	Gergis [Table 9]	###	
+W 324	324	1 Jun 1859	30 Nov 1859	0	Schmitt [Supp 1]	1 May 1859	30 Oct 1859	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 326	326	1 Jun 1858	30 Nov 1858	0	Schmitt [Supp 1]	1 May 1858	30 Oct 1858	xnp	xnp	27	0	Gergis [Table 9]	###	
+W 328	328	1 Jun 1857	30 Nov 1857	0	Schmitt [Supp 1]	1 May 1857	30 Oct 1857	0	Guevara-Murua [Supp]	26	25	Gergis [Table 9]	###	
+W 330	330	1 Jun 1856	30 Nov 1856	0	Schmitt [Supp 1]	1 May 1856	30 Oct 1856	0	Guevara-Murua [Supp]	27	0	Gergis [Table 9]	###	
+W 332	332	1 Jun 1855	30 Nov 1855	0	Schmitt [Supp 1]	1 May 1855	30 Oct 1855	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 334	334	1 Jun 1854	30 Nov 1854	0	Schmitt [Supp 1]	1 May 1854	30 Oct 1854	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 336	336	1 Jun 1853	30 Nov 1853	0	Schmitt [Supp 1]	1 May 1853	30 Oct 1853	0	Guevara-Murua [Supp]	37	0	Gergis [Table 9]	###	
+W 338	338	1 Jun 1852	30 Nov 1852	0	Schmitt [Supp 1]	1 May 1852	30 Oct 1852	1	Guevara-Murua [Supp]	21	0	Gergis [Table 9]	###	
+W 340	340	1 Jun 1851	30 Nov 1851	0	Schmitt [Supp 1]	1 May 1851	30 Oct 1851	0	Guevara-Murua [Supp]	0	31	Gergis [Table 9]	###	
+W 342	342	1 Jun 1850	30 Nov 1850	0	Schmitt [Supp 1]	1 May 1850	30 Oct 1850	0	Guevara-Murua [Supp]	0	24	Gergis [Table 9]	###	
+W 344	344	1 Jun 1849	30 Nov 1849	0	Schmitt [Supp 1]	1 May 1849	30 Oct 1849	0	Guevara-Murua [Supp]	0	31	Gergis [Table 9]	###	
+W 346	346	1 Jun 1848	30 Nov 1848	0	Schmitt [Supp 1]	1 May 1848	30 Oct 1848	0	Guevara-Murua [Supp]	20	25	Gergis [Table 9]	###	
+W 348	348	1 Jun 1847	30 Nov 1847	0	Schmitt [Supp 1]	1 May 1847	30 Oct 1847	0	Guevara-Murua [Supp]	20	38	Gergis [Table 9]	###	
+W 350	350	1 Jun 1846	30 Nov 1846	0	Schmitt [Supp 1]	1 May 1846	30 Oct 1846	2	Guevara-Murua [Supp]	20	0	Gergis [Table 9]	###	
+W 352	352	1 Jun 1845	30 Nov 1845	0	Schmitt [Supp 1]	1 May 1845	30 Oct 1845	0	Guevara-Murua [Supp]	41	0	Gergis [Table 9]	###	
+W 354	354	1 Jun 1844	30 Nov 1844	0	Schmitt [Supp 1]	1 May 1844	30 Oct 1844	-1	Guevara-Murua [Supp]	29	0	Gergis [Table 9]	###	
+W 356	356	1 Jun 1843	30 Nov 1843	0	Schmitt [Supp 1]	1 May 1843	30 Oct 1843	-1	Guevara-Murua [Supp]	0	26	Gergis [Table 9]	###	
+W 358	358	1 Jun 1842	30 Nov 1842	0	Schmitt [Supp 1]	1 May 1842	30 Oct 1842	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 360	360	1 Jun 1841	30 Nov 1841	0	Schmitt [Supp 1]	1 May 1841	30 Oct 1841	0	Guevara-Murua [Supp]	0	25	Gergis [Table 9]	###	
+W 362	362	1 Jun 1840	30 Nov 1840	0	Schmitt [Supp 1]	1 May 1840	30 Oct 1840	-2	Guevara-Murua [Supp]	0	25	Gergis [Table 9]	###	
+W 364	364	1 Jun 1839	30 Nov 1839	1	Schmitt [Supp 1]	1 May 1839	30 Oct 1839	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 366	366	1 Jun 1838	30 Nov 1838	0	Schmitt [Supp 1]	1 May 1838	30 Oct 1838	0	Guevara-Murua [Supp]	22	0	Gergis [Table 9]	###	
+W 368	368	1 Jun 1837	30 Nov 1837	1	Schmitt [Supp 1]	1 May 1837	30 Oct 1837	0	Guevara-Murua [Supp]	30	0	Gergis [Table 9]	###	
+W 370	370	1 Jun 1836	30 Nov 1836	0	Schmitt [Supp 1]	1 May 1836	30 Oct 1836	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 372	372	1 Jun 1835	30 Nov 1835	1	Schmitt [Supp 1]	1 May 1835	30 Oct 1835	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 374	374	1 Jun 1834	30 Nov 1834	0	Schmitt [Supp 1]	1 May 1834	30 Oct 1834	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 376	376	1 Jun 1833	30 Nov 1833	1	Schmitt [Supp 1]	1 May 1833	30 Oct 1833	0	Guevara-Murua [Supp]	35	0	Gergis [Table 9]	###	
+W 378	378	1 Jun 1832	30 Nov 1832	0	Schmitt [Supp 1]	1 May 1832	30 Oct 1832	0	Guevara-Murua [Supp]	22	0	Gergis [Table 9]	###	
+W 380	380	1 Jun 1831	30 Nov 1831	0	Schmitt [Supp 1]	1 May 1831	30 Oct 1831	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 382	382	1 Jun 1830	30 Nov 1830	0	Schmitt [Supp 1]	1 May 1830	30 Oct 1830	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 384	384	1 Jun 1829	30 Nov 1829	0	Schmitt [Supp 1]	1 May 1829	30 Oct 1829	-1	Guevara-Murua [Supp]	20	0	Gergis [Table 9]	###	
+W 386	386	1 Jun 1828	30 Nov 1828	0	Schmitt [Supp 1]	1 May 1828	30 Oct 1828	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 388	388	1 Jun 1827	30 Nov 1827	0	Schmitt [Supp 1]	1 May 1827	30 Oct 1827	1	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 390	390	1 Jun 1826	30 Nov 1826	0	Schmitt [Supp 1]	1 May 1826	30 Oct 1826	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 392	392	1 Jun 1825	30 Nov 1825	0	Schmitt [Supp 1]	1 May 1825	30 Oct 1825	0	Guevara-Murua [Supp]	0	31	Gergis [Table 9]	###	
+W 394	394	1 Jun 1824	30 Nov 1824	0	Schmitt [Supp 1]	1 May 1824	30 Oct 1824	-1	Guevara-Murua [Supp]	29	0	Gergis [Table 9]	###	
+W 396	396	1 Jun 1823	30 Nov 1823	1	Schmitt [Supp 1]	1 May 1823	30 Oct 1823	0	Guevara-Murua [Supp]	0	28	Gergis [Table 9]	###	
+W 398	398	1 Jun 1822	30 Nov 1822	0	Schmitt [Supp 1]	1 May 1822	30 Oct 1822	-2	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 400	400	1 Jun 1821	30 Nov 1821	0	Schmitt [Supp 1]	1 May 1821	30 Oct 1821	-2	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 402	402	1 Jun 1820	30 Nov 1820	0	Schmitt [Supp 1]	1 May 1820	30 Oct 1820	0	Guevara-Murua [Supp]	0	35	Gergis [Table 9]	###	
+W 404	404	1 Jun 1819	30 Nov 1819	0	Schmitt [Supp 1]	1 May 1819	30 Oct 1819	1	Guevara-Murua [Supp]	0	35	Gergis [Table 9]	###	
+W 406	406	1 Jun 1818	30 Nov 1818	0	Schmitt [Supp 1]	1 May 1818	30 Oct 1818	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 408	408	1 Jun 1817	30 Nov 1817	0	Schmitt [Supp 1]	1 May 1817	30 Oct 1817	1	Guevara-Murua [Supp]	30	0	Gergis [Table 9]	###	
+W 410	410	1 Jun 1816	30 Nov 1816	0	Schmitt [Supp 1]	1 May 1816	30 Oct 1816	2	Guevara-Murua [Supp]	23	0	Gergis [Table 9]	###	
+W 412	412	1 Jun 1815	30 Nov 1815	0	Schmitt [Supp 1]	1 May 1815	30 Oct 1815	0	Guevara-Murua [Supp]	23	0	Gergis [Table 9]	###	
+W 414	414	1 Jun 1814	30 Nov 1814	0	Schmitt [Supp 1]	1 May 1814	30 Oct 1814	0	Guevara-Murua [Supp]	23	0	Gergis [Table 9]	###	
+W 416	416	1 Jun 1813	30 Nov 1813	0	Schmitt [Supp 1]	1 May 1813	30 Oct 1813	1	Guevara-Murua [Supp]	0	29	Gergis [Table 9]	###	
+W 418	418	1 Jun 1812	30 Nov 1812	0	Schmitt [Supp 1]	1 May 1812	30 Oct 1812	0	Guevara-Murua [Supp]	33	0	Gergis [Table 9]	###	
+W 420	420	1 Jun 1811	30 Nov 1811	0	Schmitt [Supp 1]	1 May 1811	30 Oct 1811	0	Guevara-Murua [Supp]	0	34	Gergis [Table 9]	###	
+W 422	422	1 Jun 1810	30 Nov 1810	0	Schmitt [Supp 1]	1 May 1810	30 Oct 1810	-1	Guevara-Murua [Supp]	0	34	Gergis [Table 9]	###	
+W 424	424	1 Jun 1809	30 Nov 1809	0	Schmitt [Supp 1]	1 May 1809	30 Oct 1809	0	Guevara-Murua [Supp]	0	36	Gergis [Table 9]	###	
+W 426	426	1 Jun 1808	30 Nov 1808	0	Schmitt [Supp 1]	1 May 1808	30 Oct 1808	0	Guevara-Murua [Supp]	0	48	Gergis [Table 9]	###	
+W 428	428	1 Jun 1807	30 Nov 1807	0	Schmitt [Supp 1]	1 May 1807	30 Oct 1807	1	Guevara-Murua [Supp]	30	0	Gergis [Table 9]	###	
+W 430	430	1 Jun 1806	30 Nov 1806	0	Schmitt [Supp 1]	1 May 1806	30 Oct 1806	0	Guevara-Murua [Supp]	40	0	Gergis [Table 9]	###	
+W 432	432	1 Jun 1805	30 Nov 1805	0	Schmitt [Supp 1]	1 May 1805	30 Oct 1805	0	Guevara-Murua [Supp]	0	49	Gergis [Table 9]	###	
+W 434	434	1 Jun 1804	30 Nov 1804	0	Schmitt [Supp 1]	1 May 1804	30 Oct 1804	0	Guevara-Murua [Supp]	23	0	Gergis [Table 9]	###	
+W 436	436	1 Jun 1803	30 Nov 1803	0	Schmitt [Supp 1]	1 May 1803	30 Oct 1803	-1	Guevara-Murua [Supp]	33	0	Gergis [Table 9]	###	
+W 438	438	1 Jun 1802	30 Nov 1802	0	Schmitt [Supp 1]	1 May 1802	30 Oct 1802	0	Guevara-Murua [Supp]	0	48	Gergis [Table 9]	###	
+W 440	440	1 Jun 1801	30 Nov 1801	0	Schmitt [Supp 1]	1 May 1801	30 Oct 1801	0	Guevara-Murua [Supp]	0	42	Gergis [Table 9]	###	
+W 442	442	1 Jun 1800	30 Nov 1800	0	Schmitt [Supp 1]	1 May 1800	30 Oct 1800	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 444	444	1 Jun 1799	30 Nov 1799	0	Schmitt [Supp 1]	1 May 1799	30 Oct 1799	0	Guevara-Murua [Supp]	34	0	Gergis [Table 9]	###	
+W 446	446	1 Jun 1798	30 Nov 1798	0	Schmitt [Supp 1]	1 May 1798	30 Oct 1798	xnp	xnp	20	25	Gergis [Table 9]	###	
+W 448	448	1 Jun 1797	30 Nov 1797	0	Schmitt [Supp 1]	1 May 1797	30 Oct 1797	xnp	xnp	0	31	Gergis [Table 9]	###	
+W 450	450	1 Jun 1796	30 Nov 1796	1	Schmitt [Supp 1]	1 May 1796	30 Oct 1796	-2	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 452	452	1 Jun 1795	30 Nov 1795	0	Schmitt [Supp 1]	1 May 1795	30 Oct 1795	0	Guevara-Murua [Supp]	0	25	Gergis [Table 9]	###	
+W 454	454	1 Jun 1794	30 Nov 1794	0	Schmitt [Supp 1]	1 May 1794	30 Oct 1794	1	Guevara-Murua [Supp]	27	0	Gergis [Table 9]	###	
+W 456	456	1 Jun 1793	30 Nov 1793	0	Schmitt [Supp 1]	1 May 1793	30 Oct 1793	0	Guevara-Murua [Supp]	27	0	Gergis [Table 9]	###	
+W 458	458	1 Jun 1792	30 Nov 1792	0	Schmitt [Supp 1]	1 May 1792	30 Oct 1792	2	Guevara-Murua [Supp]	20	0	Gergis [Table 9]	###	
+W 460	460	1 Jun 1791	30 Nov 1791	0	Schmitt [Supp 1]	1 May 1791	30 Oct 1791	0	Guevara-Murua [Supp]	42	0	Gergis [Table 9]	###	
+W 462	462	1 Jun 1790	30 Nov 1790	0	Schmitt [Supp 1]	1 May 1790	30 Oct 1790	0	Guevara-Murua [Supp]	0	32	Gergis [Table 9]	###	
+W 464	464	1 Jun 1789	30 Nov 1789	0	Schmitt [Supp 1]	1 May 1789	30 Oct 1789	0	Guevara-Murua [Supp]	0	26	Gergis [Table 9]	###	
+W 466	466	1 Jun 1788	30 Nov 1788	0	Schmitt [Supp 1]	1 May 1788	30 Oct 1788	0	Guevara-Murua [Supp]	0	38	Gergis [Table 9]	###	
+W 468	468	1 Jun 1787	30 Nov 1787	1	Schmitt [Supp 1]	1 May 1787	30 Oct 1787	0	Guevara-Murua [Supp]	0	37	Gergis [Table 9]	###	
+W 470	470	1 Jun 1786	30 Nov 1786	1	Schmitt [Supp 1]	1 May 1786	30 Oct 1786	xnp	xnp	0	32	Gergis [Table 9]	###	
+W 472	472	1 Jun 1785	30 Nov 1785	1	Schmitt [Supp 1]	1 May 1785	30 Oct 1785	xnp	xnp	0	26	Gergis [Table 9]	###	
+W 474	474	1 Jun 1784	30 Nov 1784	0	Schmitt [Supp 1]	1 May 1784	30 Oct 1784	1	Guevara-Murua [Supp]	20	0	Gergis [Table 9]	###	
+W 476	476	1 Jun 1783	30 Nov 1783	0	Schmitt [Supp 1]	1 May 1783	30 Oct 1783	2	Guevara-Murua [Supp]	29	0	Gergis [Table 9]	###	
+W 478	478	1 Jun 1782	30 Nov 1782	0	Schmitt [Supp 1]	1 May 1782	30 Oct 1782	xnp	xnp	22	25	Gergis [Table 9]	###	
+W 480	480	1 Jun 1781	30 Nov 1781	0	Schmitt [Supp 1]	1 May 1781	30 Oct 1781	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 482	482	1 Jun 1780	30 Nov 1780	1	Schmitt [Supp 1]	1 May 1780	30 Oct 1780	1	Guevara-Murua [Supp]	0	32	Gergis [Table 9]	###	
+W 484	484	1 Jun 1779	30 Nov 1779	0	Schmitt [Supp 1]	1 May 1779	30 Oct 1779	0	Guevara-Murua [Supp]	0	32	Gergis [Table 9]	###	
+W 486	486	1 Jun 1778	30 Nov 1778	0	Schmitt [Supp 1]	1 May 1778	30 Oct 1778	0	Guevara-Murua [Supp]	0	26	Gergis [Table 9]	###	
+W 488	488	1 Jun 1777	30 Nov 1777	0	Schmitt [Supp 1]	1 May 1777	30 Oct 1777	0	Guevara-Murua [Supp]	21	0	Gergis [Table 9]	###	
+W 490	490	1 Jun 1776	30 Nov 1776	0	Schmitt [Supp 1]	1 May 1776	30 Oct 1776	xnp	xnp	0	26	Gergis [Table 9]	###	
+W 492	492	1 Jun 1775	30 Nov 1775	0	Schmitt [Supp 1]	1 May 1775	30 Oct 1775	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 494	494	1 Jun 1774	30 Nov 1774	0	Schmitt [Supp 1]	1 May 1774	30 Oct 1774	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 496	496	1 Jun 1773	30 Nov 1773	1	Schmitt [Supp 1]	1 May 1773	30 Oct 1773	1	Guevara-Murua [Supp]	0	26	Gergis [Table 9]	###	
+W 498	498	1 Jun 1772	30 Nov 1772	0	Schmitt [Supp 1]	1 May 1772	30 Oct 1772	0	Guevara-Murua [Supp]	0	31	Gergis [Table 9]	###	
+W 500	500	1 Jun 1771	30 Nov 1771	0	Schmitt [Supp 1]	1 May 1771	30 Oct 1771	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 502	502	1 Jun 1770	30 Nov 1770	1	Schmitt [Supp 1]	1 May 1770	30 Oct 1770	0	Guevara-Murua [Supp]	36	0	Gergis [Table 9]	###	
+W 504	504	1 Jun 1769	30 Nov 1769	0	Schmitt [Supp 1]	1 May 1769	30 Oct 1769	0	Guevara-Murua [Supp]	29	0	Gergis [Table 9]	###	
+W 506	506	1 Jun 1768	30 Nov 1768	0	Schmitt [Supp 1]	1 May 1768	30 Oct 1768	0	Guevara-Murua [Supp]	20	0	Gergis [Table 9]	###	
+W 508	508	1 Jun 1767	30 Nov 1767	0	Schmitt [Supp 1]	1 May 1767	30 Oct 1767	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 510	510	1 Jun 1766	30 Nov 1766	0	Schmitt [Supp 1]	1 May 1766	30 Oct 1766	0	Guevara-Murua [Supp]	21	0	Gergis [Table 9]	###	
+W 512	512	1 Jun 1765	30 Nov 1765	0	Schmitt [Supp 1]	1 May 1765	30 Oct 1765	1	Guevara-Murua [Supp]	0	37	Gergis [Table 9]	###	
+W 514	514	1 Jun 1764	30 Nov 1764	0	Schmitt [Supp 1]	1 May 1764	30 Oct 1764	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 516	516	1 Jun 1763	30 Nov 1763	0	Schmitt [Supp 1]	1 May 1763	30 Oct 1763	0	Guevara-Murua [Supp]	0	32	Gergis [Table 9]	###	
+W 518	518	1 Jun 1762	30 Nov 1762	0	Schmitt [Supp 1]	1 May 1762	30 Oct 1762	2	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 520	520	1 Jun 1761	30 Nov 1761	0	Schmitt [Supp 1]	1 May 1761	30 Oct 1761	0	Guevara-Murua [Supp]	0	32	Gergis [Table 9]	###	
+W 522	522	1 Jun 1760	30 Nov 1760	0	Schmitt [Supp 1]	1 May 1760	30 Oct 1760	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 524	524	1 Jun 1759	30 Nov 1759	0	Schmitt [Supp 1]	1 May 1759	30 Oct 1759	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 526	526	1 Jun 1758	30 Nov 1758	0	Schmitt [Supp 1]	1 May 1758	30 Oct 1758	0	Guevara-Murua [Supp]	0	25	Gergis [Table 9]	###	
+W 528	528	1 Jun 1757	30 Nov 1757	0	Schmitt [Supp 1]	1 May 1757	30 Oct 1757	0	Guevara-Murua [Supp]	0	37	Gergis [Table 9]	###	
+W 530	530	1 Jun 1756	30 Nov 1756	0	Schmitt [Supp 1]	1 May 1756	30 Oct 1756	1	Guevara-Murua [Supp]	0	31	Gergis [Table 9]	###	
+W 532	532	1 Jun 1755	30 Nov 1755	1	Schmitt [Supp 1]	1 May 1755	30 Oct 1755	0	Guevara-Murua [Supp]	0	32	Gergis [Table 9]	###	
+W 534	534	1 Jun 1754	30 Nov 1754	0	Schmitt [Supp 1]	1 May 1754	30 Oct 1754	0	Guevara-Murua [Supp]	20	31	Gergis [Table 9]	###	
+W 536	536	1 Jun 1753	30 Nov 1753	1	Schmitt [Supp 1]	1 May 1753	30 Oct 1753	0	Guevara-Murua [Supp]	0	38	Gergis [Table 9]	###	
+W 538	538	1 Jun 1752	30 Nov 1752	0	Schmitt [Supp 1]	1 May 1752	30 Oct 1752	-1	Guevara-Murua [Supp]	0	44	Gergis [Table 9]	###	
+W 540	540	1 Jun 1751	30 Nov 1751	0	Schmitt [Supp 1]	1 May 1751	30 Oct 1751	0	Guevara-Murua [Supp]	0	31	Gergis [Table 9]	###	
+W 542	542	1 Jun 1750	30 Nov 1750	0	Schmitt [Supp 1]	1 May 1750	30 Oct 1750	0	Guevara-Murua [Supp]	0	32	Gergis [Table 9]	###	
+W 544	544	1 Jun 1749	30 Nov 1749	1	Schmitt [Supp 1]	1 May 1749	30 Oct 1749	2	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 546	546	1 Jun 1748	30 Nov 1748	0	Schmitt [Supp 1]	1 May 1748	30 Oct 1748	-2	Guevara-Murua [Supp]	28	26	Gergis [Table 9]	###	
+W 548	548	1 Jun 1747	30 Nov 1747	0	Schmitt [Supp 1]	1 May 1747	30 Oct 1747	-1	Guevara-Murua [Supp]	29	26	Gergis [Table 9]	###	
+W 550	550	1 Jun 1746	30 Nov 1746	0	Schmitt [Supp 1]	1 May 1746	30 Oct 1746	-2	Guevara-Murua [Supp]	22	0	Gergis [Table 9]	###	
+W 552	552	1 Jun 1745	30 Nov 1745	0	Schmitt [Supp 1]	1 May 1745	30 Oct 1745	0	Guevara-Murua [Supp]	0	32	Gergis [Table 9]	###	
+W 554	554	1 Jun 1744	30 Nov 1744	1	Schmitt [Supp 1]	1 May 1744	30 Oct 1744	0	Guevara-Murua [Supp]	22	0	Gergis [Table 9]	###	
+W 556	556	1 Jun 1743	30 Nov 1743	1	Schmitt [Supp 1]	1 May 1743	30 Oct 1743	0	Guevara-Murua [Supp]	0	38	Gergis [Table 9]	###	
+W 558	558	1 Jun 1742	30 Nov 1742	0	Schmitt [Supp 1]	1 May 1742	30 Oct 1742	0	Guevara-Murua [Supp]	0	51	Gergis [Table 9]	###	
+W 560	560	1 Jun 1741	30 Nov 1741	0	Schmitt [Supp 1]	1 May 1741	30 Oct 1741	0	Guevara-Murua [Supp]	0	32	Gergis [Table 9]	###	
+W 562	562	1 Jun 1740	30 Nov 1740	1	Schmitt [Supp 1]	1 May 1740	30 Oct 1740	0	Guevara-Murua [Supp]	0	45	Gergis [Table 9]	###	
+W 564	564	1 Jun 1739	30 Nov 1739	0	Schmitt [Supp 1]	1 May 1739	30 Oct 1739	-2	Guevara-Murua [Supp]	0	38	Gergis [Table 9]	###	
+W 566	566	1 Jun 1738	30 Nov 1738	0	Schmitt [Supp 1]	1 May 1738	30 Oct 1738	0	Guevara-Murua [Supp]	19	0	Gergis [Table 9]	###	
+W 568	568	1 Jun 1737	30 Nov 1737	0	Schmitt [Supp 1]	1 May 1737	30 Oct 1737	0	Guevara-Murua [Supp]	50	0	Gergis [Table 9]	###	
+W 570	570	1 Jun 1736	30 Nov 1736	0	Schmitt [Supp 1]	1 May 1736	30 Oct 1736	-2	Guevara-Murua [Supp]	0	26	Gergis [Table 9]	###	
+W 572	572	1 Jun 1735	30 Nov 1735	0	Schmitt [Supp 1]	1 May 1735	30 Oct 1735	0	Guevara-Murua [Supp]	0	26	Gergis [Table 9]	###	
+W 574	574	1 Jun 1734	30 Nov 1734	1	Schmitt [Supp 1]	1 May 1734	30 Oct 1734	-2	Guevara-Murua [Supp]	21	0	Gergis [Table 9]	###	
+W 576	576	1 Jun 1733	30 Nov 1733	0	Schmitt [Supp 1]	1 May 1733	30 Oct 1733	-1	Guevara-Murua [Supp]	0	38	Gergis [Table 9]	###	
+W 578	578	1 Jun 1732	30 Nov 1732	0	Schmitt [Supp 1]	1 May 1732	30 Oct 1732	-1	Guevara-Murua [Supp]	0	31	Gergis [Table 9]	###	
+W 580	580	1 Jun 1731	30 Nov 1731	0	Schmitt [Supp 1]	1 May 1731	30 Oct 1731	0	Guevara-Murua [Supp]	0	31	Gergis [Table 9]	###	
+W 582	582	1 Jun 1730	30 Nov 1730	0	Schmitt [Supp 1]	1 May 1730	30 Oct 1730	0	Guevara-Murua [Supp]	0	25	Gergis [Table 9]	###	
+W 584	584	1 Jun 1729	30 Nov 1729	0	Schmitt [Supp 1]	1 May 1729	30 Oct 1729	0	Guevara-Murua [Supp]	20	0	Gergis [Table 9]	###	
+W 586	586	1 Jun 1728	30 Nov 1728	0	Schmitt [Supp 1]	1 May 1728	30 Oct 1728	0	Guevara-Murua [Supp]	35	0	Gergis [Table 9]	###	
+W 588	588	1 Jun 1727	30 Nov 1727	0	Schmitt [Supp 1]	1 May 1727	30 Oct 1727	1	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 590	590	1 Jun 1726	30 Nov 1726	0	Schmitt [Supp 1]	1 May 1726	30 Oct 1726	-1	Guevara-Murua [Supp]	23	0	Gergis [Table 9]	###	
+W 592	592	1 Jun 1725	30 Nov 1725	0	Schmitt [Supp 1]	1 May 1725	30 Oct 1725	0	Guevara-Murua [Supp]	0	27	Gergis [Table 9]	###	
+W 594	594	1 Jun 1724	30 Nov 1724	1	Schmitt [Supp 1]	1 May 1724	30 Oct 1724	0	Guevara-Murua [Supp]	23	28	Gergis [Table 9]	###	
+W 596	596	1 Jun 1723	30 Nov 1723	0	Schmitt [Supp 1]	1 May 1723	30 Oct 1723	-1	Guevara-Murua [Supp]	46	0	Gergis [Table 9]	###	
+W 598	598	1 Jun 1722	30 Nov 1722	0	Schmitt [Supp 1]	1 May 1722	30 Oct 1722	-1	Guevara-Murua [Supp]	29	0	Gergis [Table 9]	###	
+W 600	600	1 Jun 1721	30 Nov 1721	0	Schmitt [Supp 1]	1 May 1721	30 Oct 1721	-2	Guevara-Murua [Supp]	23	0	Gergis [Table 9]	###	
+W 602	602	1 Jun 1720	30 Nov 1720	0	Schmitt [Supp 1]	1 May 1720	30 Oct 1720	-2	Guevara-Murua [Supp]	23	0	Gergis [Table 9]	###	
+W 604	604	1 Jun 1719	30 Nov 1719	1	Schmitt [Supp 1]	1 May 1719	30 Oct 1719	0	Guevara-Murua [Supp]	33	0	Gergis [Table 9]	###	
+W 606	606	1 Jun 1718	30 Nov 1718	0	Schmitt [Supp 1]	1 May 1718	30 Oct 1718	-2	Guevara-Murua [Supp]	44	0	Gergis [Table 9]	###	
+W 608	608	1 Jun 1717	30 Nov 1717	0	Schmitt [Supp 1]	1 May 1717	30 Oct 1717	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 610	610	1 Jun 1716	30 Nov 1716	0	Schmitt [Supp 1]	1 May 1716	30 Oct 1716	0	Guevara-Murua [Supp]	0	35	Gergis [Table 9]	###	
+W 612	612	1 Jun 1715	30 Nov 1715	0	Schmitt [Supp 1]	1 May 1715	30 Oct 1715	0	Guevara-Murua [Supp]	0	35	Gergis [Table 9]	###	
+W 614	614	1 Jun 1714	30 Nov 1714	0	Schmitt [Supp 1]	1 May 1714	30 Oct 1714	-1	Guevara-Murua [Supp]	22	0	Gergis [Table 9]	###	
+W 616	616	1 Jun 1713	30 Nov 1713	0	Schmitt [Supp 1]	1 May 1713	30 Oct 1713	0	Guevara-Murua [Supp]	30	0	Gergis [Table 9]	###	
+W 618	618	1 Jun 1712	30 Nov 1712	0	Schmitt [Supp 1]	1 May 1712	30 Oct 1712	0	Guevara-Murua [Supp]	23	0	Gergis [Table 9]	###	
+W 620	620	1 Jun 1711	30 Nov 1711	0	Schmitt [Supp 1]	1 May 1711	30 Oct 1711	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 622	622	1 Jun 1710	30 Nov 1710	0	Schmitt [Supp 1]	1 May 1710	30 Oct 1710	-1	Guevara-Murua [Supp]	23	0	Gergis [Table 9]	###	
+W 624	624	1 Jun 1709	30 Nov 1709	0	Schmitt [Supp 1]	1 May 1709	30 Oct 1709	-1	Guevara-Murua [Supp]	24	28	Gergis [Table 9]	###	
+W 626	626	1 Jun 1708	30 Nov 1708	0	Schmitt [Supp 1]	1 May 1708	30 Oct 1708	0	Guevara-Murua [Supp]	0	34	Gergis [Table 9]	###	
+W 628	628	1 Jun 1707	30 Nov 1707	0	Schmitt [Supp 1]	1 May 1707	30 Oct 1707	0	Guevara-Murua [Supp]	23	0	Gergis [Table 9]	###	
+W 630	630	1 Jun 1706	30 Nov 1706	0	Schmitt [Supp 1]	1 May 1706	30 Oct 1706	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 632	632	1 Jun 1705	30 Nov 1705	0	Schmitt [Supp 1]	1 May 1705	30 Oct 1705	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 634	634	1 Jun 1704	30 Nov 1704	0	Schmitt [Supp 1]	1 May 1704	30 Oct 1704	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 636	636	1 Jun 1703	30 Nov 1703	0	Schmitt [Supp 1]	1 May 1703	30 Oct 1703	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 638	638	1 Jun 1702	30 Nov 1702	0	Schmitt [Supp 1]	1 May 1702	30 Oct 1702	0	Guevara-Murua [Supp]	0	28	Gergis [Table 9]	###	
+W 640	640	1 Jun 1701	30 Nov 1701	0	Schmitt [Supp 1]	1 May 1701	30 Oct 1701	-1	Guevara-Murua [Supp]	0	28	Gergis [Table 9]	###	
+W 642	642	1 Jun 1700	30 Nov 1700	0	Schmitt [Supp 1]	1 May 1700	30 Oct 1700	0	Guevara-Murua [Supp]	25	0	Gergis [Table 9]	###	
+W 644	644	1 Jun 1699	30 Nov 1699	0	Schmitt [Supp 1]	1 May 1699	30 Oct 1699	-2	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 646	646	1 Jun 1698	30 Nov 1698	0	Schmitt [Supp 1]	1 May 1698	30 Oct 1698	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 648	648	1 Jun 1697	30 Nov 1697	0	Schmitt [Supp 1]	1 May 1697	30 Oct 1697	2	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 650	650	1 Jun 1696	30 Nov 1696	0	Schmitt [Supp 1]	1 May 1696	30 Oct 1696	-2	Guevara-Murua [Supp]	0	39	Gergis [Table 9]	###	
+W 652	652	1 Jun 1695	30 Nov 1695	0	Schmitt [Supp 1]	1 May 1695	30 Oct 1695	0	Guevara-Murua [Supp]	24	0	Gergis [Table 9]	###	
+W 654	654	1 Jun 1694	30 Nov 1694	0	Schmitt [Supp 1]	1 May 1694	30 Oct 1694	-1	Guevara-Murua [Supp]	32	0	Gergis [Table 9]	###	
+W 656	656	1 Jun 1693	30 Nov 1693	0	Schmitt [Supp 1]	1 May 1693	30 Oct 1693	1	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 658	658	1 Jun 1692	30 Nov 1692	0	Schmitt [Supp 1]	1 May 1692	30 Oct 1692	0	Guevara-Murua [Supp]	24	0	Gergis [Table 9]	###	
+W 660	660	1 Jun 1691	30 Nov 1691	0	Schmitt [Supp 1]	1 May 1691	30 Oct 1691	-2	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 662	662	1 Jun 1690	30 Nov 1690	1	Schmitt [Supp 1]	1 May 1690	30 Oct 1690	-1	Guevara-Murua [Supp]	0	31	Gergis [Table 9]	###	
+W 664	664	1 Jun 1689	30 Nov 1689	0	Schmitt [Supp 1]	1 May 1689	30 Oct 1689	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 666	666	1 Jun 1688	30 Nov 1688	1	Schmitt [Supp 1]	1 May 1688	30 Oct 1688	2	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 668	668	1 Jun 1687	30 Nov 1687	0	Schmitt [Supp 1]	1 May 1687	30 Oct 1687	0	Guevara-Murua [Supp]	43	0	Gergis [Table 9]	###	
+W 670	670	1 Jun 1686	30 Nov 1686	0	Schmitt [Supp 1]	1 May 1686	30 Oct 1686	-2	Guevara-Murua [Supp]	0	31	Gergis [Table 9]	###	
+W 672	672	1 Jun 1685	30 Nov 1685	0	Schmitt [Supp 1]	1 May 1685	30 Oct 1685	2	Guevara-Murua [Supp]	0	32	Gergis [Table 9]	###	
+W 674	674	1 Jun 1684	30 Nov 1684	0	Schmitt [Supp 1]	1 May 1684	30 Oct 1684	0	Guevara-Murua [Supp]	25	0	Gergis [Table 9]	###	
+W 676	676	1 Jun 1683	30 Nov 1683	0	Schmitt [Supp 1]	1 May 1683	30 Oct 1683	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 678	678	1 Jun 1682	30 Nov 1682	0	Schmitt [Supp 1]	1 May 1682	30 Oct 1682	-1	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 680	680	1 Jun 1681	30 Nov 1681	0	Schmitt [Supp 1]	1 May 1681	30 Oct 1681	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 682	682	1 Jun 1680	30 Nov 1680	0	Schmitt [Supp 1]	1 May 1680	30 Oct 1680	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 684	684	1 Jun 1679	30 Nov 1679	1	Schmitt [Supp 1]	1 May 1679	30 Oct 1679	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 686	686	1 Jun 1678	30 Nov 1678	0	Schmitt [Supp 1]	1 May 1678	30 Oct 1678	-1	Guevara-Murua [Supp]	0	31	Gergis [Table 9]	###	
+W 688	688	1 Jun 1677	30 Nov 1677	0	Schmitt [Supp 1]	1 May 1677	30 Oct 1677	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 690	690	1 Jun 1676	30 Nov 1676	0	Schmitt [Supp 1]	1 May 1676	30 Oct 1676	0	Guevara-Murua [Supp]	0	32	Gergis [Table 9]	###	
+W 692	692	1 Jun 1675	30 Nov 1675	0	Schmitt [Supp 1]	1 May 1675	30 Oct 1675	0	Guevara-Murua [Supp]	0	30	Gergis [Table 9]	###	
+W 694	694	1 Jun 1674	30 Nov 1674	0	Schmitt [Supp 1]	1 May 1674	30 Oct 1674	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 696	696	1 Jun 1673	30 Nov 1673	0	Schmitt [Supp 1]	1 May 1673	30 Oct 1673	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 698	698	1 Jun 1672	30 Nov 1672	1	Schmitt [Supp 1]	1 May 1672	30 Oct 1672	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 700	700	1 Jun 1671	30 Nov 1671	0	Schmitt [Supp 1]	1 May 1671	30 Oct 1671	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 702	702	1 Jun 1670	30 Nov 1670	0	Schmitt [Supp 1]	1 May 1670	30 Oct 1670	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 704	704	1 Jun 1669	30 Nov 1669	0	Schmitt [Supp 1]	1 May 1669	30 Oct 1669	-1	Guevara-Murua [Supp]	25	0	Gergis [Table 9]	###	
+W 706	706	1 Jun 1668	30 Nov 1668	0	Schmitt [Supp 1]	1 May 1668	30 Oct 1668	0	Guevara-Murua [Supp]	0	31	Gergis [Table 9]	###	
+W 708	708	1 Jun 1667	30 Nov 1667	0	Schmitt [Supp 1]	1 May 1667	30 Oct 1667	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 710	710	1 Jun 1666	30 Nov 1666	0	Schmitt [Supp 1]	1 May 1666	30 Oct 1666	-1	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 712	712	1 Jun 1665	30 Nov 1665	0	Schmitt [Supp 1]	1 May 1665	30 Oct 1665	0	Guevara-Murua [Supp]	25	0	Gergis [Table 9]	###	
+W 714	714	1 Jun 1664	30 Nov 1664	0	Schmitt [Supp 1]	1 May 1664	30 Oct 1664	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 716	716	1 Jun 1663	30 Nov 1663	0	Schmitt [Supp 1]	1 May 1663	30 Oct 1663	0	Guevara-Murua [Supp]	0	39	Gergis [Table 9]	###	
+W 718	718	1 Jun 1662	30 Nov 1662	0	Schmitt [Supp 1]	1 May 1662	30 Oct 1662	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 720	720	1 Jun 1661	30 Nov 1661	0	Schmitt [Supp 1]	1 May 1661	30 Oct 1661	-1	Guevara-Murua [Supp]	35	0	Gergis [Table 9]	###	
+W 722	722	1 Jun 1660	30 Nov 1660	1	Schmitt [Supp 1]	1 May 1660	30 Oct 1660	-2	Guevara-Murua [Supp]	44	0	Gergis [Table 9]	###	
+W 724	724	1 Jun 1659	30 Nov 1659	0	Schmitt [Supp 1]	1 May 1659	30 Oct 1659	0	Guevara-Murua [Supp]	28	0	Gergis [Table 9]	###	
+W 726	726	1 Jun 1658	30 Nov 1658	0	Schmitt [Supp 1]	1 May 1658	30 Oct 1658	0	Guevara-Murua [Supp]	0	31	Gergis [Table 9]	###	
+W 728	728	1 Jun 1657	30 Nov 1657	1	Schmitt [Supp 1]	1 May 1657	30 Oct 1657	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 730	730	1 Jun 1656	30 Nov 1656	0	Schmitt [Supp 1]	1 May 1656	30 Oct 1656	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 732	732	1 Jun 1655	30 Nov 1655	0	Schmitt [Supp 1]	1 May 1655	30 Oct 1655	-2	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 734	734	1 Jun 1654	30 Nov 1654	1	Schmitt [Supp 1]	1 May 1654	30 Oct 1654	0	Guevara-Murua [Supp]	0	44	Gergis [Table 9]	###	
+W 736	736	1 Jun 1653	30 Nov 1653	0	Schmitt [Supp 1]	1 May 1653	30 Oct 1653	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 738	738	1 Jun 1652	30 Nov 1652	0	Schmitt [Supp 1]	1 May 1652	30 Oct 1652	1	Guevara-Murua [Supp]	25	0	Gergis [Table 9]	###	
+W 740	740	1 Jun 1651	30 Nov 1651	0	Schmitt [Supp 1]	1 May 1651	30 Oct 1651	0	Guevara-Murua [Supp]	25	0	Gergis [Table 9]	###	
+W 742	742	1 Jun 1650	30 Nov 1650	0	Schmitt [Supp 1]	1 May 1650	30 Oct 1650	-2	Guevara-Murua [Supp]	52	0	Gergis [Table 9]	###	
+W 744	744	1 Jun 1649	30 Nov 1649	0	Schmitt [Supp 1]	1 May 1649	30 Oct 1649	0	Guevara-Murua [Supp]	0	26	Gergis [Table 9]	###	
+W 746	746	1 Jun 1648	30 Nov 1648	0	Schmitt [Supp 1]	1 May 1648	30 Oct 1648	0	Guevara-Murua [Supp]	27	27	Gergis [Table 9]	###	
+W 748	748	1 Jun 1647	30 Nov 1647	0	Schmitt [Supp 1]	1 May 1647	30 Oct 1647	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 750	750	1 Jun 1646	30 Nov 1646	0	Schmitt [Supp 1]	1 May 1646	30 Oct 1646	0	Guevara-Murua [Supp]	25	0	Gergis [Table 9]	###	
+W 752	752	1 Jun 1645	30 Nov 1645	0	Schmitt [Supp 1]	1 May 1645	30 Oct 1645	-2	Guevara-Murua [Supp]	0	52	Gergis [Table 9]	###	
+W 754	754	1 Jun 1644	30 Nov 1644	0	Schmitt [Supp 1]	1 May 1644	30 Oct 1644	0	Guevara-Murua [Supp]	0	34	Gergis [Table 9]	###	
+W 756	756	1 Jun 1643	30 Nov 1643	0	Schmitt [Supp 1]	1 May 1643	30 Oct 1643	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 758	758	1 Jun 1642	30 Nov 1642	0	Schmitt [Supp 1]	1 May 1642	30 Oct 1642	0	Guevara-Murua [Supp]	24	35	Gergis [Table 9]	###	
+W 760	760	1 Jun 1641	30 Nov 1641	0	Schmitt [Supp 1]	1 May 1641	30 Oct 1641	0	Guevara-Murua [Supp]	25	44	Gergis [Table 9]	###	
+W 762	762	1 Jun 1640	30 Nov 1640	0	Schmitt [Supp 1]	1 May 1640	30 Oct 1640	0	Guevara-Murua [Supp]	0	0	Gergis [Table 9]	###	
+W 764	764	1 Jun 1639	30 Nov 1639	0	Schmitt [Supp 1]	1 May 1639	30 Oct 1639	xnp	xnp	24	27	Gergis [Table 9]	###	
+W 766	766	1 Jun 1638	30 Nov 1638	0	Schmitt [Supp 1]	1 May 1638	30 Oct 1638	xnp	xnp	26	27	Gergis [Table 9]	###	
+W 768	768	1 Jun 1637	30 Nov 1637	0	Schmitt [Supp 1]	1 May 1637	30 Oct 1637	xnp	xnp	0	35	Gergis [Table 9]	###	
+W 770	770	1 Jun 1636	30 Nov 1636	0	Schmitt [Supp 1]	1 May 1636	30 Oct 1636	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 772	772	1 Jun 1635	30 Nov 1635	0	Schmitt [Supp 1]	1 May 1635	30 Oct 1635	xnp	xnp	32	27	Gergis [Table 9]	###	
+W 774	774	1 Jun 1634	30 Nov 1634	1	Schmitt [Supp 1]	1 May 1634	30 Oct 1634	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 776	776	1 Jun 1633	30 Nov 1633	0	Schmitt [Supp 1]	1 May 1633	30 Oct 1633	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 778	778	1 Jun 1632	30 Nov 1632	0	Schmitt [Supp 1]	1 May 1632	30 Oct 1632	xnp	xnp	0	61	Gergis [Table 9]	###	
+W 780	780	1 Jun 1631	30 Nov 1631	0	Schmitt [Supp 1]	1 May 1631	30 Oct 1631	xnp	xnp	0	44	Gergis [Table 9]	###	
+W 782	782	1 Jun 1630	30 Nov 1630	0	Schmitt [Supp 1]	1 May 1630	30 Oct 1630	xnp	xnp	28	34	Gergis [Table 9]	###	
+W 784	784	1 Jun 1629	30 Nov 1629	0	Schmitt [Supp 1]	1 May 1629	30 Oct 1629	xnp	xnp	0	35	Gergis [Table 9]	###	
+W 786	786	1 Jun 1628	30 Nov 1628	0	Schmitt [Supp 1]	1 May 1628	30 Oct 1628	xnp	xnp	0	26	Gergis [Table 9]	###	
+W 788	788	1 Jun 1627	30 Nov 1627	0	Schmitt [Supp 1]	1 May 1627	30 Oct 1627	xnp	xnp	0	26	Gergis [Table 9]	###	
+W 790	790	1 Jun 1626	30 Nov 1626	0	Schmitt [Supp 1]	1 May 1626	30 Oct 1626	xnp	xnp	0	43	Gergis [Table 9]	###	
+W 792	792	1 Jun 1625	30 Nov 1625	0	Schmitt [Supp 1]	1 May 1625	30 Oct 1625	xnp	xnp	0	27	Gergis [Table 9]	###	
+W 794	794	1 Jun 1624	30 Nov 1624	0	Schmitt [Supp 1]	1 May 1624	30 Oct 1624	xnp	xnp	0	45	Gergis [Table 9]	###	
+W 796	796	1 Jun 1623	30 Nov 1623	0	Schmitt [Supp 1]	1 May 1623	30 Oct 1623	xnp	xnp	0	44	Gergis [Table 9]	###	
+W 798	798	1 Jun 1622	30 Nov 1622	0	Schmitt [Supp 1]	1 May 1622	30 Oct 1622	xnp	xnp	0	34	Gergis [Table 9]	###	
+W 800	800	1 Jun 1621	30 Nov 1621	0	Schmitt [Supp 1]	1 May 1621	30 Oct 1621	xnp	xnp	25	0	Gergis [Table 9]	###	
+W 802	802	1 Jun 1620	30 Nov 1620	0	Schmitt [Supp 1]	1 May 1620	30 Oct 1620	xnp	xnp	24	0	Gergis [Table 9]	###	
+W 804	804	1 Jun 1619	30 Nov 1619	0	Schmitt [Supp 1]	1 May 1619	30 Oct 1619	xnp	xnp	34	0	Gergis [Table 9]	###	
+W 806	806	1 Jun 1618	30 Nov 1618	0	Schmitt [Supp 1]	1 May 1618	30 Oct 1618	xnp	xnp	44	0	Gergis [Table 9]	###	
+W 808	808	1 Jun 1617	30 Nov 1617	0	Schmitt [Supp 1]	1 May 1617	30 Oct 1617	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 810	810	1 Jun 1616	30 Nov 1616	0	Schmitt [Supp 1]	1 May 1616	30 Oct 1616	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 812	812	1 Jun 1615	30 Nov 1615	0	Schmitt [Supp 1]	1 May 1615	30 Oct 1615	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 814	814	1 Jun 1614	30 Nov 1614	0	Schmitt [Supp 1]	1 May 1614	30 Oct 1614	xnp	xnp	25	0	Gergis [Table 9]	###	
+W 816	816	1 Jun 1613	30 Nov 1613	0	Schmitt [Supp 1]	1 May 1613	30 Oct 1613	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 818	818	1 Jun 1612	30 Nov 1612	0	Schmitt [Supp 1]	1 May 1612	30 Oct 1612	xnp	xnp	0	31	Gergis [Table 9]	###	
+W 820	820	1 Jun 1611	30 Nov 1611	0	Schmitt [Supp 1]	1 May 1611	30 Oct 1611	xnp	xnp	0	35	Gergis [Table 9]	###	
+W 822	822	1 Jun 1610	30 Nov 1610	0	Schmitt [Supp 1]	1 May 1610	30 Oct 1610	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 824	824	1 Jun 1609	30 Nov 1609	0	Schmitt [Supp 1]	1 May 1609	30 Oct 1609	xnp	xnp	25	0	Gergis [Table 9]	###	
+W 826	826	1 Jun 1608	30 Nov 1608	0	Schmitt [Supp 1]	1 May 1608	30 Oct 1608	xnp	xnp	42	0	Gergis [Table 9]	###	
+W 828	828	1 Jun 1607	30 Nov 1607	0	Schmitt [Supp 1]	1 May 1607	30 Oct 1607	xnp	xnp	41	0	Gergis [Table 9]	###	
+W 830	830	1 Jun 1606	30 Nov 1606	0	Schmitt [Supp 1]	1 May 1606	30 Oct 1606	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 832	832	1 Jun 1605	30 Nov 1605	0	Schmitt [Supp 1]	1 May 1605	30 Oct 1605	xnp	xnp	0	30	Gergis [Table 9]	###	
+W 834	834	1 Jun 1604	30 Nov 1604	0	Schmitt [Supp 1]	1 May 1604	30 Oct 1604	xnp	xnp	0	30	Gergis [Table 9]	###	
+W 836	836	1 Jun 1603	30 Nov 1603	1	Schmitt [Supp 1]	1 May 1603	30 Oct 1603	xnp	xnp	0	29	Gergis [Table 9]	###	
+W 838	838	1 Jun 1602	30 Nov 1602	0	Schmitt [Supp 1]	1 May 1602	30 Oct 1602	xnp	xnp	0	29	Gergis [Table 9]	###	
+W 840	840	1 Jun 1601	30 Nov 1601	0	Schmitt [Supp 1]	1 May 1601	30 Oct 1601	xnp	xnp	26	30	Gergis [Table 9]	###	
+W 842	842	1 Jun 1600	30 Nov 1600	0	Schmitt [Supp 1]	1 May 1600	30 Oct 1600	xnp	xnp	0	40	Gergis [Table 9]	###	
+W 844	844	1 Jun 1599	30 Nov 1599	0	Schmitt [Supp 1]	1 May 1599	30 Oct 1599	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 846	846	1 Jun 1598	30 Nov 1598	0	Schmitt [Supp 1]	1 May 1598	30 Oct 1598	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 848	848	1 Jun 1597	30 Nov 1597	1	Schmitt [Supp 1]	1 May 1597	30 Oct 1597	xnp	xnp	27	30	Gergis [Table 9]	###	
+W 850	850	1 Jun 1596	30 Nov 1596	0	Schmitt [Supp 1]	1 May 1596	30 Oct 1596	xnp	xnp	34	0	Gergis [Table 9]	###	
+W 852	852	1 Jun 1595	30 Nov 1595	0	Schmitt [Supp 1]	1 May 1595	30 Oct 1595	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 854	854	1 Jun 1594	30 Nov 1594	1	Schmitt [Supp 1]	1 May 1594	30 Oct 1594	xnp	xnp	34	0	Gergis [Table 9]	###	
+W 856	856	1 Jun 1593	30 Nov 1593	0	Schmitt [Supp 1]	1 May 1593	30 Oct 1593	xnp	xnp	0	41	Gergis [Table 9]	###	
+W 858	858	1 Jun 1592	30 Nov 1592	0	Schmitt [Supp 1]	1 May 1592	30 Oct 1592	xnp	xnp	0	40	Gergis [Table 9]	###	
+W 860	860	1 Jun 1591	30 Nov 1591	1	Schmitt [Supp 1]	1 May 1591	30 Oct 1591	xnp	xnp	33	0	Gergis [Table 9]	###	
+W 862	862	1 Jun 1590	30 Nov 1590	0	Schmitt [Supp 1]	1 May 1590	30 Oct 1590	xnp	xnp	0	31	Gergis [Table 9]	###	
+W 864	864	1 Jun 1589	30 Nov 1589	0	Schmitt [Supp 1]	1 May 1589	30 Oct 1589	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 866	866	1 Jun 1588	30 Nov 1588	0	Schmitt [Supp 1]	1 May 1588	30 Oct 1588	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 868	868	1 Jun 1587	30 Nov 1587	0	Schmitt [Supp 1]	1 May 1587	30 Oct 1587	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 870	870	1 Jun 1586	30 Nov 1586	0	Schmitt [Supp 1]	1 May 1586	30 Oct 1586	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 872	872	1 Jun 1585	30 Nov 1585	0	Schmitt [Supp 1]	1 May 1585	30 Oct 1585	xnp	xnp	37	0	Gergis [Table 9]	###	
+W 874	874	1 Jun 1584	30 Nov 1584	0	Schmitt [Supp 1]	1 May 1584	30 Oct 1584	xnp	xnp	26	47	Gergis [Table 9]	###	
+W 876	876	1 Jun 1583	30 Nov 1583	1	Schmitt [Supp 1]	1 May 1583	30 Oct 1583	xnp	xnp	27	36	Gergis [Table 9]	###	
+W 878	878	1 Jun 1582	30 Nov 1582	1	Schmitt [Supp 1]	1 May 1582	30 Oct 1582	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 880	880	1 Jun 1581	30 Nov 1581	0	Schmitt [Supp 1]	1 May 1581	30 Oct 1581	xnp	xnp	0	35	Gergis [Table 9]	###	
+W 882	882	1 Jun 1580	30 Nov 1580	0	Schmitt [Supp 1]	1 May 1580	30 Oct 1580	xnp	xnp	0	35	Gergis [Table 9]	###	
+W 884	884	1 Jun 1579	30 Nov 1579	0	Schmitt [Supp 1]	1 May 1579	30 Oct 1579	xnp	xnp	0	36	Gergis [Table 9]	###	
+W 886	886	1 Jun 1578	30 Nov 1578	0	Schmitt [Supp 1]	1 May 1578	30 Oct 1578	xnp	xnp	0	36	Gergis [Table 9]	###	
+W 888	888	1 Jun 1577	30 Nov 1577	0	Schmitt [Supp 1]	1 May 1577	30 Oct 1577	xnp	xnp	0	35	Gergis [Table 9]	###	
+W 890	890	1 Jun 1576	30 Nov 1576	1	Schmitt [Supp 1]	1 May 1576	30 Oct 1576	xnp	xnp	0	36	Gergis [Table 9]	###	
+W 892	892	1 Jun 1575	30 Nov 1575	0	Schmitt [Supp 1]	1 May 1575	30 Oct 1575	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 894	894	1 Jun 1574	30 Nov 1574	0	Schmitt [Supp 1]	1 May 1574	30 Oct 1574	xnp	xnp	37	0	Gergis [Table 9]	###	
+W 896	896	1 Jun 1573	30 Nov 1573	0	Schmitt [Supp 1]	1 May 1573	30 Oct 1573	xnp	xnp	0	58	Gergis [Table 9]	###	
+W 898	898	1 Jun 1572	30 Nov 1572	0	Schmitt [Supp 1]	1 May 1572	30 Oct 1572	xnp	xnp	0	58	Gergis [Table 9]	###	
+W 900	900	1 Jun 1571	30 Nov 1571	0	Schmitt [Supp 1]	1 May 1571	30 Oct 1571	xnp	xnp	0	35	Gergis [Table 9]	###	
+W 902	902	1 Jun 1570	30 Nov 1570	0	Schmitt [Supp 1]	1 May 1570	30 Oct 1570	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 904	904	1 Jun 1569	30 Nov 1569	0	Schmitt [Supp 1]	1 May 1569	30 Oct 1569	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 906	906	1 Jun 1568	30 Nov 1568	0	Schmitt [Supp 1]	1 May 1568	30 Oct 1568	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 908	908	1 Jun 1567	30 Nov 1567	0	Schmitt [Supp 1]	1 May 1567	30 Oct 1567	xnp	xnp	28	0	Gergis [Table 9]	###	
+W 910	910	1 Jun 1566	30 Nov 1566	0	Schmitt [Supp 1]	1 May 1566	30 Oct 1566	xnp	xnp	0	35	Gergis [Table 9]	###	
+W 912	912	1 Jun 1565	30 Nov 1565	0	Schmitt [Supp 1]	1 May 1565	30 Oct 1565	xnp	xnp	38	0	Gergis [Table 9]	###	
+W 914	914	1 Jun 1564	30 Nov 1564	0	Schmitt [Supp 1]	1 May 1564	30 Oct 1564	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 916	916	1 Jun 1563	30 Nov 1563	0	Schmitt [Supp 1]	1 May 1563	30 Oct 1563	xnp	xnp	28	0	Gergis [Table 9]	###	
+W 918	918	1 Jun 1562	30 Nov 1562	0	Schmitt [Supp 1]	1 May 1562	30 Oct 1562	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 920	920	1 Jun 1561	30 Nov 1561	0	Schmitt [Supp 1]	1 May 1561	30 Oct 1561	xnp	xnp	0	35	Gergis [Table 9]	###	
+W 922	922	1 Jun 1560	30 Nov 1560	0	Schmitt [Supp 1]	1 May 1560	30 Oct 1560	xnp	xnp	0	23	Gergis [Table 9]	###	
+W 924	924	1 Jun 1559	30 Nov 1559	0	Schmitt [Supp 1]	1 May 1559	30 Oct 1559	xnp	xnp	38	0	Gergis [Table 9]	###	
+W 926	926	1 Jun 1558	30 Nov 1558	0	Schmitt [Supp 1]	1 May 1558	30 Oct 1558	xnp	xnp	29	0	Gergis [Table 9]	###	
+W 928	928	1 Jun 1557	30 Nov 1557	0	Schmitt [Supp 1]	1 May 1557	30 Oct 1557	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 930	930	1 Jun 1556	30 Nov 1556	0	Schmitt [Supp 1]	1 May 1556	30 Oct 1556	xnp	xnp	40	0	Gergis [Table 9]	###	
+W 932	932	1 Jun 1555	30 Nov 1555	0	Schmitt [Supp 1]	1 May 1555	30 Oct 1555	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 934	934	1 Jun 1554	30 Nov 1554	0	Schmitt [Supp 1]	1 May 1554	30 Oct 1554	xnp	xnp	30	0	Gergis [Table 9]	###	
+W 936	936	1 Jun 1553	30 Nov 1553	0	Schmitt [Supp 1]	1 May 1553	30 Oct 1553	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 938	938	1 Jun 1552	30 Nov 1552	0	Schmitt [Supp 1]	1 May 1552	30 Oct 1552	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 940	940	1 Jun 1551	30 Nov 1551	0	Schmitt [Supp 1]	1 May 1551	30 Oct 1551	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 942	942	1 Jun 1550	30 Nov 1550	1	Schmitt [Supp 1]	1 May 1550	30 Oct 1550	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 944	944	1 Jun 1549	30 Nov 1549	0	Schmitt [Supp 1]	1 May 1549	30 Oct 1549	xnp	xnp	0	35	Gergis [Table 9]	###	
+W 946	946	1 Jun 1548	30 Nov 1548	0	Schmitt [Supp 1]	1 May 1548	30 Oct 1548	xnp	xnp	0	47	Gergis [Table 9]	###	
+W 948	948	1 Jun 1547	30 Nov 1547	0	Schmitt [Supp 1]	1 May 1547	30 Oct 1547	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 950	950	1 Jun 1546	30 Nov 1546	0	Schmitt [Supp 1]	1 May 1546	30 Oct 1546	xnp	xnp	0	35	Gergis [Table 9]	###	
+W 952	952	1 Jun 1545	30 Nov 1545	0	Schmitt [Supp 1]	1 May 1545	30 Oct 1545	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 954	954	1 Jun 1544	30 Nov 1544	0	Schmitt [Supp 1]	1 May 1544	30 Oct 1544	xnp	xnp	38	35	Gergis [Table 9]	###	
+W 956	956	1 Jun 1543	30 Nov 1543	0	Schmitt [Supp 1]	1 May 1543	30 Oct 1543	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 958	958	1 Jun 1542	30 Nov 1542	1	Schmitt [Supp 1]	1 May 1542	30 Oct 1542	xnp	xnp	0	36	Gergis [Table 9]	###	
+W 960	960	1 Jun 1541	30 Nov 1541	0	Schmitt [Supp 1]	1 May 1541	30 Oct 1541	xnp	xnp	0	36	Gergis [Table 9]	###	
+W 962	962	1 Jun 1540	30 Nov 1540	0	Schmitt [Supp 1]	1 May 1540	30 Oct 1540	xnp	xnp	31	34	Gergis [Table 9]	###	
+W 964	964	1 Jun 1539	30 Nov 1539	0	Schmitt [Supp 1]	1 May 1539	30 Oct 1539	xnp	xnp	28	0	Gergis [Table 9]	###	
+W 966	966	1 Jun 1538	30 Nov 1538	0	Schmitt [Supp 1]	1 May 1538	30 Oct 1538	xnp	xnp	0	36	Gergis [Table 9]	###	
+W 968	968	1 Jun 1537	30 Nov 1537	0	Schmitt [Supp 1]	1 May 1537	30 Oct 1537	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 970	970	1 Jun 1536	30 Nov 1536	0	Schmitt [Supp 1]	1 May 1536	30 Oct 1536	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 972	972	1 Jun 1535	30 Nov 1535	0	Schmitt [Supp 1]	1 May 1535	30 Oct 1535	xnp	xnp	0	35	Gergis [Table 9]	###	
+W 974	974	1 Jun 1534	30 Nov 1534	0	Schmitt [Supp 1]	1 May 1534	30 Oct 1534	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 976	976	1 Jun 1533	30 Nov 1533	0	Schmitt [Supp 1]	1 May 1533	30 Oct 1533	xnp	xnp	0	70	Gergis [Table 9]	###	
+W 978	978	1 Jun 1532	30 Nov 1532	0	Schmitt [Supp 1]	1 May 1532	30 Oct 1532	xnp	xnp	0	47	Gergis [Table 9]	###	
+W 980	980	1 Jun 1531	30 Nov 1531	0	Schmitt [Supp 1]	1 May 1531	30 Oct 1531	xnp	xnp	0	47	Gergis [Table 9]	###	
+W 982	982	1 Jun 1530	30 Nov 1530	0	Schmitt [Supp 1]	1 May 1530	30 Oct 1530	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 984	984	1 Jun 1529	30 Nov 1529	0	Schmitt [Supp 1]	1 May 1529	30 Oct 1529	xnp	xnp	0	0	Gergis [Table 9]	###	
+W 986	986	1 Jun 1528	30 Nov 1528	0	Schmitt [Supp 1]	1 May 1528	30 Oct 1528	xnp	xnp	0	58	Gergis [Table 9]	###	
+W 988	988	1 Jun 1527	30 Nov 1527	0	Schmitt [Supp 1]	1 May 1527	30 Oct 1527	xnp	xnp	27	0	Gergis [Table 9]	###	
+W 990	990	1 Jun 1526	30 Nov 1526	1	Schmitt [Supp 1]	1 May 1526	30 Oct 1526	xnp	xnp	36	0	Gergis [Table 9]	###	
+W 992	992	1 Jun 1525	30 Nov 1525	0	Schmitt [Supp 1]	1 May 1525	30 Oct 1525	xnp	xnp	36	0	Gergis [Table 9]	###	
+W 994	994	1 Jun 1524	30 Nov 1524	0	Schmitt [Supp 1]	1 May 1524	30 Oct 1524	xnp	xnp	xnp	xnp	xnp	###	
+W 996	996	1 Jun 1523	30 Nov 1523	0	Schmitt [Supp 1]	1 May 1523	30 Oct 1523	xnp	xnp	xnp	xnp	xnp	###	
+W 998	998	1 Jun 1522	30 Nov 1522	0	Schmitt [Supp 1]	1 May 1522	30 Oct 1522	xnp	xnp	xnp	xnp	xnp	###	
+W 1000	1000	1 Jun 1521	30 Nov 1521	0	Schmitt [Supp 1]	1 May 1521	30 Oct 1521	xnp	xnp	xnp	xnp	xnp	###	
+W 1002	1002	1 Jun 1520	30 Nov 1520	0	Schmitt [Supp 1]	1 May 1520	30 Oct 1520	xnp	xnp	xnp	xnp	xnp	###	
+W 1004	1004	1 Jun 1519	30 Nov 1519	0	Schmitt [Supp 1]	1 May 1519	30 Oct 1519	xnp	xnp	xnp	xnp	xnp	###	
+W 1006	1006	1 Jun 1518	30 Nov 1518	0	Schmitt [Supp 1]	1 May 1518	30 Oct 1518	xnp	xnp	xnp	xnp	xnp	###	
+W 1008	1008	1 Jun 1517	30 Nov 1517	0	Schmitt [Supp 1]	1 May 1517	30 Oct 1517	xnp	xnp	xnp	xnp	xnp	###	
+W 1010	1010	1 Jun 1516	30 Nov 1516	0	Schmitt [Supp 1]	1 May 1516	30 Oct 1516	xnp	xnp	xnp	xnp	xnp	###	
+W 1012	1012	1 Jun 1515	30 Nov 1515	0	Schmitt [Supp 1]	1 May 1515	30 Oct 1515	xnp	xnp	xnp	xnp	xnp	###	
+W 1014	1014	1 Jun 1514	30 Nov 1514	1	Schmitt [Supp 1]	1 May 1514	30 Oct 1514	xnp	xnp	xnp	xnp	xnp	###	
+W 1016	1016	1 Jun 1513	30 Nov 1513	0	Schmitt [Supp 1]	1 May 1513	30 Oct 1513	xnp	xnp	xnp	xnp	xnp	###	
+W 1018	1018	1 Jun 1512	30 Nov 1512	0	Schmitt [Supp 1]	1 May 1512	30 Oct 1512	xnp	xnp	xnp	xnp	xnp	###	
+W 1020	1020	1 Jun 1511	30 Nov 1511	0	Schmitt [Supp 1]	1 May 1511	30 Oct 1511	xnp	xnp	xnp	xnp	xnp	###	
+W 1022	1022	1 Jun 1510	30 Nov 1510	0	Schmitt [Supp 1]	1 May 1510	30 Oct 1510	xnp	xnp	xnp	xnp	xnp	###	
+W 1024	1024	1 Jun 1509	30 Nov 1509	0	Schmitt [Supp 1]	1 May 1509	30 Oct 1509	xnp	xnp	xnp	xnp	xnp	###	
+W 1026	1026	1 Jun 1508	30 Nov 1508	0	Schmitt [Supp 1]	1 May 1508	30 Oct 1508	xnp	xnp	xnp	xnp	xnp	###	
+W 1028	1028	1 Jun 1507	30 Nov 1507	0	Schmitt [Supp 1]	1 May 1507	30 Oct 1507	xnp	xnp	xnp	xnp	xnp	###	
+W 1030	1030	1 Jun 1506	30 Nov 1506	0	Schmitt [Supp 1]	1 May 1506	30 Oct 1506	xnp	xnp	xnp	xnp	xnp	###	
+W 1032	1032	1 Jun 1505	30 Nov 1505	0	Schmitt [Supp 1]	1 May 1505	30 Oct 1505	xnp	xnp	xnp	xnp	xnp	###	
+W 1034	1034	1 Jun 1504	30 Nov 1504	0	Schmitt [Supp 1]	1 May 1504	30 Oct 1504	xnp	xnp	xnp	xnp	xnp	###	
+W 1036	1036	1 Jun 1503	30 Nov 1503	0	Schmitt [Supp 1]	1 May 1503	30 Oct 1503	xnp	xnp	xnp	xnp	xnp	###	
+W 1038	1038	1 Jun 1502	30 Nov 1502	0	Schmitt [Supp 1]	1 May 1502	30 Oct 1502	xnp	xnp	xnp	xnp	xnp	###	
+W 1040	1040	1 Jun 1501	30 Nov 1501	0	Schmitt [Supp 1]	1 May 1501	30 Oct 1501	xnp	xnp	xnp	xnp	xnp	###	
+W 1042	1042	1 Jun 1500	30 Nov 1500	0	Schmitt [Supp 1]	1 May 1500	30 Oct 1500	xnp	xnp	xnp	xnp	xnp	###	

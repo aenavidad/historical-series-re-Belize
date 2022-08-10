@@ -1,0 +1,146 @@
+Intro: Table 1
+sheet	database	link	query	hits	notes	
+	P - Delpher					
+	P - Gallica					
+	P - ProQuest - EEBO Early English Books Online - Books					
+	M - 					
+						
+	P - Delpher boeken basis	https://www.delpher.nl/nl/boeken/results?query=hond*+or+campe*&page=1&sortfield=date&cql%5B%5D=(dateSort+_lte_+%221700%22)&coll=boeken	print to 1700 with hond* or campe*	681 hits	vars false matches	
+	P - Delpher boeken basis	https://www.delpher.nl/nl/boeken/results?query=(hond*+or+campe*)&page=1&sortfield=date&cql%5B%5D=(dateSort+_lte_+%221599%22)&coll=boeken	print to 1599 with hond* or campe*	75 hits		
+Duta	P - Delpher boeken basis	https://www.delpher.nl/nl/boeken/results?coll=boeken&query=%28hondur%2A+or+campec%2A+or+campes%2A+or+campel%2A%29&cql%5B%5D=%28dateSort+_lte_+%221699%22%29&sortfield=date	print to 1699 with (hondur* or campec* or campes* or campel*)	11 hits	vars false matches so only true matches inc in sheet	
+	P - Delpher boeken Google				cannot be queried well ie no date-bound querying nor truncation	
+Frea	P - Gallica livres	https://gallica.bnf.fr/services/engine/search/sru?operation=searchRetrieve&exactSearch=false&collapsing=true&version=1.2&query=(text%20all%20%22honduras%22%20or%20text%20all%20%22hondur*%22%20)%20and%20(dc.type%20all%20%22monographie%22)%20and%20(gallicapublication_date%3C=%221700%22)%20sortby%20dc.date/sort.ascending&suggest=10&keywords=honduras%20hondur*	print to 1700 with honduras or hondur*	19 hits	vars false matches so only true matches inc in sheet	
+
+
+Duta: Table 1
+	TITLE	DATE	LINK	LOC	NOTES	EXTRACT	
+	Dits die Excellente Chronijcke van Vlaenderen	1531	http://resolver.kb.nl/resolve?urn=dbnl:_dit004dits01	^^^	not translated as of 30 JULY 2022	"Den.xvi.sten in Sporcle die cloucke capiteyn Anthonius metten Marschalc vanden here Vrias, ende metten cloucken rudder Mattheus de Becharia, verknaept met twee scharen spaengiaerts met huerlieder capiteyn Bereganus ende Brachamon, ende met drie legioenen duytschen met huerlieder Capiteyns Citelechius de Risach, sy sonden voren in hondert lichte peerden met Garcimandricus ende met Franciscus de Ponte cloucke capiteynen, dese trocken ter Westpoorten huyt ende voerden met hem lieden tmeeste engien naer den franschen leghere, ende ter stont bestormden si en seer groot huys dat Campesia heet vp een berchelken staende, daer eene groote gracht ende eene goede hooghe veste rontsomme lach ontrent vier hondert passen vander stede, daer in dat.iiij.scharen volcx laghen vanden cloucken capiteyn Ioannes de medicis. [para continues]"	
+	De verkrachte Belgica	1669	http://resolver.kb.nl/resolve?urn=dbnl:rogg012verk02	p 94	not translated as of 30 JULY 2022	"[vars verses] Alleen het Spaens gewelt, 
+Hoe weet sijn Majesteyt niet, dat de werelt helt 
+Na uwe luyster glans daer ghy beheerst veel kroonen, 
+Daer uwen Septer dwijnght de fleur van Christen throonen, 
+Ha glans! ha werelts prael monarch ghy, ghy die zyt 
+Een dwynger door u woort, en soeck 't Neerlantse spyt 
+U hoon, O neen! O neen, daer 't al moet voor u schricken 
+Heeft de Manilkas niet gevoelt u Koninghs pricken, 
+Molucke tuyght u maght en 't gansche Sina weet; 
+Beneffens den Megol wat uwe maght afmeet, 
+De Golff Occydentael die kan van u getuyge, 
+d' Honduras soecken vrught uyt u gebodt te suyge, 
+Men siet den Brysyliaen die past op u bevel 
+En 't schynt sijn Majesteyt die staet als in verstel 
+Door u Vaders verbont maer weet u Vaders wille 
+Die zyn noyt soo geweest dat sy u lant verspille, 
+En dwyngen u alsoo gelyck als sy 't verstaen, 
+Maer u Vaders gebodt die wil dat tegen gaen, 
+Wat dunckt sijn Majesteyt O prael! O glans der Sonne, [stanza continues]"	
+	Oost- en West-Indische Warande	1694	http://resolver.kb.nl/resolve?urn=dbnl:bont028oost01	p 258	re sarsaparilla ie grows in Hond	"Aenmerckingh, Fr. Ximenes. De Mexicanen noemen dese edele plant Mecapatli, welcke de Spaenjaerden Sarcaparilla noemen, welcke looten in nieuw Spaenjen veelderley zijn, die wy hier op zijn onder sullen verhalen. d' Eerste is die in Spaenjen wast, ende voornamentlijck op der Hispalensen acker, op de Velden en Valeijen, die sommige kruyd-liefhebbers onder de steeckende winde reeckenen, welcke van Dioscorides beschreven wert: dese groeyt niet verre van Mexico in het Dorp S. Fidei, langhs een Fonteyn wiens Water seer aengenaem is ende gesond, het welck door gooten in de Stad geleyt wert, als mede in Tzonpango ende de Provincie Honduras, van waer sy meest in Europa gebracht wert; van welckers Figuur niets behoeft geseght te werden, om dat Dioscorides die nauwkeurig beschrijft; nochte oock van des selfs krachten, die de selve met d' andere soorten heeft; al-hoe-wel Dioscorides niets van des selfs temperament seght, nochte van"	
+	Oost- en West-Indische Warande	1694	http://resolver.kb.nl/resolve?urn=dbnl:bont028oost01	p 262	re a Hond crop	"Den selfden Ximenes seght: Quantimecapatli soorten, welckers Wortels in Spaengien gevoert werden, heeft groote bladeren van figuur als een Hert, racks gewijs met Doornen bewassen; met een spruytachtige Wortel, draeght geen Vrucht: ende heeft veel Klawieren, die van alle kanten uytwasschen. De selve wast in de Velden Totopic en Miztilan. maer de beste werd geoordeel die in Honduras wast, ende wert meest in Europa gebracht."	
+	Matroosen vreught	1696	http://resolver.kb.nl/resolve?urn=dbnl:_mat002matr02	p 39	not translated as of 30 JULY 2022	"[vars verses] Gout, silver gingh men laden 
+’t Was een lust om te sien, 
+Daer wy soo langh om baden 
+Dat sagh men daer geschien, 
+Concenillie seer schoone, 
+En Indigo heel goet, 
+Wy warent ongewoone, 
+’t Gaf de Matroosen moedt. 
+Hoe sou men konnen swijgen 
+Die groote kostelijckheydt, 
+Dat men daer uyt sagh krijgen 
+Van ’t silver daer geleydt, 
+Seer groote sijde Balen, 
+Seer groote sijde Rollen schoon, 
+Ick moet het u verhalen, 
+Met eenen Konincks Kroon. 
+ De slechtste waer gepresen 
+Dat was Campechy Hout, 
+En huyden uytgeleesen, 
+Soo gingen wy in ’t wout, 
+Orientaelsche steenen [stanza continues]"	
+
+
+Frea: Table 1
+	TITLE	DATE	LINK	LOC	NOTES	EXTRACT	
+	Le miroir de la cruelle et horrible tyrannie espagnole perpétrée au Pays-Bas par le tyran duc de Albe et aultres commandeurs de par le roy Philippe le deuxième	1620	https://gallica.bnf.fr/ark:/12148/bpt6k117329c/f229.image.r=honduras	p 22	re Sp conquest or cruelty in Hond	"Les deux Capitains envojez au Royaumes riches. Avec çeste juste et droicte tiltre, envoya le grãd Capitain tyran 2 autres Capitaines plus cruels, meschant, mauvaix, et de moindre pitie que luy mesme, envers les grands et fleurissants Royaume, pleins de peuple, et habitées: à sçavoir a guatimala: sirve a la mer du Zur: et enders les autre: NACO, HONDURAS, et Guaymura: a la mer du Nort, vis à vis l'un de l'autre: en le Royaume de Mexico estoyt au milieu d'eux: separez l'un de l'autre trois cent lieux. Il envoya l'un par terre, l'autre par Mer: et avec luy gens à pied et à cheval. Ie dis la verite, si je vouloye mettre en escrit tout ce qu'ilz on perpetré, et principalement cest homme qui alloit vers Guatimala, [para continues]"	
+	Le miroir de la cruelle et horrible tyrannie espagnole perpétrée au Pays-Bas par le tyran duc de Albe et aultres commandeurs de par le roy Philippe le deuxième	1620	https://gallica.bnf.fr/ark:/12148/bpt6k117329c/f230.item.r=honduras	p 23	ditto	"Ils tuent un Capitain general. [para begins] a la coustume: en telle maniere depuis l'an 1524. jusques au l'an 1535. ils ruinerent toutes les Provençes, et Royaumes Naco et Honduras, si beaux comme le Paradis mesme, en plaisirs, et abondance du peuple comme au Royaume du monde est à ceste heure: [para continues]"	
+	"Le monde, ou la Description générale de ses quatre parties"	1637	https://gallica.bnf.fr/ark:/12148/bpt6k8726689j/f768.image.r=honduras%20hondur%20?rk=42918;4	v 2 p 92	re description of Hond		
+	"Le Monde, ou La description générale de ses quatre parties"	1643	https://gallica.bnf.fr/ark:/12148/bpt6k5768550f/f191.image.r=honduras%20hondur%20?rk=64378;0	v 1 p 154	re description of waters of New Spain		
+	Histoire generale des plantes	1653	https://gallica.bnf.fr/ark:/12148/bpt6k5408308s/f880.image.r=honduras%20hondur%20?rk=107296;4	v 1 p 757	re description of sarsaparilla		
+	Histoire generale des voyages et conquestes des Castillans dans les isles & Terre-ferme des Indes occidentales	1660	https://gallica.bnf.fr/ark:/12148/bpt6k87272726/f624.image.r=honduras%20hondur%20?rk=128756;0	v 3 p 632	re conquest of Hond / vars other quotes in same volume re same topic		
+	Relation de divers voyages curieux	1663	https://gallica.bnf.fr/ark:/12148/bpt6k116506w/f227.image.r=honduras%20hondur%20?rk=150215;2	pt 4 p 14	re description of Hond / vars other quotes in same volume re voyages or description		
+	Le petit tout dans lequel l'homme aura la connoissance de soy-mesme par l'intelligence de ses propres causes	1664	https://gallica.bnf.fr/ark:/12148/bpt6k9609816p/f370.image.r=honduras%20hondur%20?rk=171674;4	pt 2 p 358	re description of sarsaparilla		
+	"Le Monde, ou la Géographie universelle, contenant les descriptions, les cartes et le blason des principaux païs du monde"	1670	https://gallica.bnf.fr/ark:/12148/bpt6k87126520/f378.image.r=honduras%20hondur%20?rk=214593;2	p 364	re description of Hond / vars other quotes in same volume re description		
+	Voyage de François Pyrard	1679	https://gallica.bnf.fr/ark:/12148/bpt6k87269247/f640.image.r=honduras%20hondur%20?rk=236052;4	p 82	re description or voyage to Hond		
+	"Académie des sciences et des arts, contenant les vies, & les éloges historiques des hommes illustres, qui ont excellé en ces professions depuis environ quatre siècles parmy diverses nations de l'Europe"	1682	https://gallica.bnf.fr/ark:/12148/bpt6k96265450/f285.image.r=honduras%20hondur%20?rk=257512;0	v 2 p 271	re fourth Columbus voyage		
+	"Description de l'univers, contenant les différents systèmes du monde, les cartes générales et particulières de la géographie ancienne et moderne, les plans et les profils des principales villes et des autres lieux plus considérables de la terre"	1683	https://gallica.bnf.fr/ark:/12148/bpt6k8702814q/f328.image.r=honduras%20hondur%20?rk=278971;2	v 5 p 306	re geographic publications on New Spain		
+	"Le grand dictionnaire historique, ou Le mélange curieux de l'histoire sacrée et profane"	1683	https://gallica.bnf.fr/ark:/12148/bpt6k57127282/f500.image.r=honduras%20hondur%20?rk=300430;4	v 1 pt 2 p 1206	re descripton of New Spain / vars other quotes in same volume re description		
+	Histoire métallique de la République de Hollande 	1687	https://gallica.bnf.fr/ark:/12148/bpt6k8727250m/f192.image.r=honduras%20hondur%20?rk=321890;0	p 158	re WIC focus on New Spain fleet		
+	"La geographie ancienne, moderne et historique"	1689	https://gallica.bnf.fr/ark:/12148/bpt6k8727539m/f65.image.r=honduras%20hondur%20?rk=343349;2	v 1 p 45	re description of Hond		
+	Relation du voyage d'Espagne	1691	https://gallica.bnf.fr/ark:/12148/bpt6k83296r/f119.image.r=honduras%20hondur%20?rk=364808;4	v 2 p 116	re description or voyage to Hond		
+	"Histoire des aventuriers, flibustiers et boucaniers"	1699	https://gallica.bnf.fr/ark:/12148/bpt6k9799984k/f308.image.r=honduras%20hondur%20?rk=429186;4	^^^	trans of Exquemeling / vars matches		
+
+
+Sheet 1-1-1: Table 1
+						
+						
+						
+						
+						
+						
+						
+						
+			dasd			
+						
+						
+						
+						
+						
+						
+	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 		
+	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 		
+						
+		asdf	asdf	asdf		
+
+
+Sheet 1-1-1-1: Table 1
+						
+						
+						
+						
+						
+						
+						
+						
+			dasd			
+						
+						
+						
+						
+						
+						
+	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 		
+	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 		
+						
+		asdf	asdf	asdf		
+
+
+Sheet 1-1-1-1-1: Table 1
+						
+						
+						
+						
+						
+						
+						
+						
+			dasd			
+						
+						
+						
+						
+						
+						
+	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 		
+	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 		
+						
+		asdf	asdf	asdf		
