@@ -4,12 +4,12 @@
 series contain various historical data regarding Belize, Yucatan, the Bay of Honduras, and the Mosquito Shore
 
 ## history
-by 2 October 2020 - Project begun in Belmopan during COVID-19 break from school, focussed on 21st century decline of good governance in Belize as measured by Wold Bank
-by 2 November 2020 - Project broadens or shifts focus towards 20th and 21st century violations of human rights by government and non-governmental actors in Belize
-by 14 November 2020 - Project broadens or shift focus towards pre- and post-20th century historical data or statistics for Belize and its predecessor states, including trade, hurricanes, and the like
-by 7 October 2021 - Project output version 1.4 ready for pre-publication archiving as a deposited dataset
-on 4 November 2021 - Project output version 1.4 deposted in dataverse.harvard.edu
-on 9 August 2022 - Project work-file histories and changes first tracked with git for version control
+  0.  by 2 October 2020 - Project begun in Belmopan during COVID-19 break from school, focussed on 21st century decline of good governance in Belize as measured by Wold Bank
+  1.  by 2 November 2020 - Project broadens or shifts focus towards 20th and 21st century violations of human rights by government and non-governmental actors in Belize
+  2.  by 14 November 2020 - Project broadens or shift focus towards pre- and post-20th century historical data or statistics for Belize and its predecessor states, including trade, hurricanes, and the like
+  3.  by 7 October 2021 - Project output version 1.4 ready for pre-publication archiving as a deposited dataset
+  4.  on 4 November 2021 - Project output version 1.4 deposted in dataverse.harvard.edu
+  5.  on 9 August 2022 - Project work-file histories and changes first tracked with git for version control
 
 ## about
 author - Angel Navidad
