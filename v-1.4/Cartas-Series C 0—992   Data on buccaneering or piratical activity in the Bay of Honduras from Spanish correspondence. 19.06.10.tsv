@@ -1,0 +1,994 @@
+ID	NO	SER	CF	REL	EXT	START	STOP	PIR	DEF	IMG	FOL	NOTE	END	
+C 0	0	Gob	"GUATEMALA,39,R.14,N.93"	1	0	28 Sep 1610	np	0	0	np	np	xnp	###	
+C 1	1	Gob	"GUATEMALA,39,R.14,N.94"	1	0	15 May 1611	np	0	0	np	np	xnp	###	
+C 2	2	Gob	"GUATEMALA,39,R.14,N.95"	1	0	21 May 1611	np	0	0	np	np	xnp	###	
+C 3	3	Gob	"GUATEMALA,39,R.14,N.96"	1	0	12 Nov 1611	np	0	0	np	np	xnp	###	
+C 4	4	Gob	"GUATEMALA,39,R.14,N.97"	0	0	np	np	np	np	np	np	xnp	###	
+C 5	5	Gob	"GUATEMALA,39,R.14,N.98"	0	0	np	np	np	np	np	np	xnp	###	
+C 6	6	Gob	"GUATEMALA,39,R.14,N.99"	0	0	np	np	np	np	np	np	xnp	###	
+C 7	7	Gob	"GUATEMALA,39,R.15,N.100"	1	0	3 Mar 1615	np	0	0	np	np	xnp	###	
+C 8	8	Gob	"GUATEMALA,39,R.15,N.101"	1	0	15 Mar 1615	np	0	0	np	np	xnp	###	
+C 9	9	Gob	"GUATEMALA,39,R.15,N.103"	1	0	sd sd 1617	np	0	0	np	np	xnp	###	
+C 10	10	Gob	"GUATEMALA,39,R.15,N.102"	1	0	22 Nov 1617	np	0	0	np	np	xnp	###	
+C 11	11	Gob	"GUATEMALA,39,R.16,N.105"	1	0	18 Jun 1622	np	0	0	np	np	xnp	###	
+C 12	12	Gob	"GUATEMALA,39,R.16,N.106"	1	0	18 Jun 1622	np	0	0	np	np	xnp	###	
+C 13	13	Gob	"GUATEMALA,39,R.16,N.107"	1	0	22 Jun 1622	np	1	1	1	xxx	xnp	###	
+C 14	14	Gob	"GUATEMALA,39,R.16,N.108"	1	0	16 Sep 1623	np	0	1	1	xxx	xnp	###	
+C 15	15	Gob	"GUATEMALA,39,R.15,N.104"	1	0	25 May 1625	np	0	0	np	np	xnp	###	
+C 16	16	Gob	"GUATEMALA,39,R.17,N.111"	1	0	4 Jun 1625	np	0	0	np	np	xnp	###	
+C 17	17	Gob	"GUATEMALA,39,R.17,N.112"	1	0	4 Jun 1625	np	0	0	np	np	xnp	###	
+C 18	18	Gob	"GUATEMALA,39,R.17,N.109"	1	0	4 Jun 1625	np	0	0	np	np	xnp	###	
+C 19	19	Gob	"GUATEMALA,39,R.17,N.110"	1	0	4 Jun 1625	np	0	0	np	np	xnp	###	
+C 20	20	Gob	"GUATEMALA,39,R.18,N.113"	1	0	13 Dec 1629	np	0	1	1	xxx	See Cardona 106	###	
+C 21	21	Gob	"GUATEMALA,39,R.18,N.114"	1	0	18 Jan 1630	np	0	0	np	np	xnp	###	
+C 22	22	Gob	"GUATEMALA,39,R.18,N.115"	1	0	18 Jan 1630	np	0	0	np	np	xnp	###	
+C 23	23	Gob	"GUATEMALA,39,R.18,N.116"	0	0	np	np	np	np	np	np	xnp	###	
+C 24	24	Gob	"GUATEMALA,39,R.18,N.118"	1	0	4 Dec 1630	np	0	0	np	np	See Cardona 106	###	
+C 25	25	Gob	"GUATEMALA,39,R.18,N.117"	1	0	4 Dec 1630	np	0	1	1	xxx	xnp	###	
+C 26	26	Gob	"GUATEMALA,39,R.18,N.119"	1	0	18 Nov 1631	np	0	0	np	np	xnp	###	
+C 27	27	Gob	"GUATEMALA,39,R.18,N.120"	0	0	np	np	np	np	np	np	xnp	###	
+C 28	28	Gob	"GUATEMALA,39,R.18,N.122"	1	0	22 Sep 1634	np	1	1	2	xxx	xnp	###	
+C 29	29	Gob	"GUATEMALA,39,R.18,N.121"	1	0	22 Sep 1634	np	1	1	1	xxx	See Cardona 106	###	
+C 30	30	Gob	"GUATEMALA,39,R.19,N.126"	1	0	7 Oct 1634	np	0	0	np	np	xnp	###	
+C 31	31	Gob	"GUATEMALA,39,R.19,N.125"	1	0	7 Oct 1634	np	0	0	np	np	xnp	###	
+C 32	32	Gob	"GUATEMALA,39,R.19,N.127"	1	0	5 Jun 1635	np	0	0	np	np	xnp	###	
+C 33	33	Gob	"GUATEMALA,39,R.19,N.128"	1	0	22 Sep 1636	np	0	0	np	np	xnp	###	
+C 34	34	Gob	"GUATEMALA,39,R.19,N.129"	1	0	14 Dec 1636	np	1	0	1	xxx	See Cardona 106	###	
+C 35	35	Gob	"GUATEMALA,39,R.18,N.123"	0	0	np	np	np	np	np	np	xnp	###	
+C 36	36	Gob	"GUATEMALA,39,R.18,N.124"	1	0	14 Jun 1638	np	0	0	np	np	xnp	###	
+C 37	37	Gob	"GUATEMALA,39,R.20,N.130"	1	0	24 Jan 1640	np	1	1	1	xxx	xnp	###	
+C 38	38	Gob	"GUATEMALA,39,R.20,N.132"	1	0	1 Sep 1642	np	0	1	1	xxx	See Cardona 106	###	
+C 39	39	Gob	"GUATEMALA,39,R.20,N.131"	1	0	1 Sep 1642	np	0	1	1	xxx	See Cardona 106	###	
+C 40	40	Gob	"GUATEMALA,39,R.21,N.133"	0	0	np	np	np	np	np	np	xnp	###	
+C 41	41	Gob	"GUATEMALA,39,R.22,N.134"	1	0	27 Mar 1645	np	0	0	np	np	xnp	###	
+C 42	42	Gob	"GUATEMALA,39,R.23,N.135"	1	0	5 Sep 1645	np	0	1	1	xxx	xnp	###	
+C 43	43	Gob	"GUATEMALA,39,R.23,N.136"	1	0	1 Aug 1651	np	0	0	np	np	xnp	###	
+C 44	44	Gob	"GUATEMALA,39,R.24,N.137"	0	0	np	np	np	np	np	np	Inc re defence	###	
+C 45	45	Gob	"GUATEMALA,39,R.24,N.138"	0	0	np	np	np	np	np	np	xnp	###	
+C 46	46	Gob	"GUATEMALA,39,R.25,N.139"	1	0	4 Sep 1664	np	0	0	np	np	xnp	###	
+C 47	47	Gob	"GUATEMALA,39,R.26,N.141"	1	0	15 Apr 1671	np	0	0	np	np	xnp	###	
+C 48	48	Gob	"GUATEMALA,39,R.25,N.140"	1	0	5 Aug 1671	np	0	0	np	np	xnp	###	
+C 49	49	Gob	"GUATEMALA,39,R.26,N.142"	1	0	2 Nov 1671	np	0	0	np	np	xnp	###	
+C 50	50	Gob	"GUATEMALA,39,R.26,N.143"	0	0	np	np	np	np	np	np	xnp	###	
+C 51	51	Gob	"GUATEMALA,39,R.26,N.144"	0	0	np	np	np	np	np	np	xnp	###	
+C 52	52	Gob	"GUATEMALA,39,R.26,N.145"	1	0	26 Jun 1675	np	0	0	np	np	xnp	###	
+C 53	53	Gob	"GUATEMALA,39,R.26,N.146"	1	0	26 Jun 1675	np	0	0	np	np	xnp	###	
+C 54	54	Gob	"GUATEMALA,39,R.26,N.147"	1	0	15 Mar 1676	np	0	0	np	np	xnp	###	
+C 55	55	Gob	"GUATEMALA,39,R.27,N.148"	1	0	22 May 1680	np	0	0	np	np	xnp	###	
+C 56	56	Gob	"GUATEMALA,39,R.27,N.149"	1	0	15 Sep 1680	np	0	0	np	np	xnp	###	
+C 57	57	Gob	"GUATEMALA,39,R.28,N.150"	0	0	np	np	np	np	np	np	Inc re defence	###	
+C 58	58	Gob	"GUATEMALA,39,R.29,N.151"	1	0	10 May 1688	np	1	0	1	xxx	xnp	###	
+C 59	59	Gob	"GUATEMALA,39,R.30,N.153"	1	0	23 Feb 1696	np	0	0	np	np	xnp	###	
+C 60	60	Gob	"GUATEMALA,39,R.30,N.154"	1	0	1 Mar 1696	np	0	0	np	np	xnp	###	
+C 61	61	Gob	"GUATEMALA,39,R.30,N.155"	1	0	2 Mar 1696	np	0	0	np	np	xnp	###	
+C 62	62	Gob	"GUATEMALA,39,R.29,N.152"	1	0	12 Jan 1698	np	xxx	xxx	xnp	xnp	Damaged	###	
+C 63	63	Gob	"GUATEMALA,39,R.31,N.156"	0	0	np	np	np	np	np	np	xnp	###	
+C 64	64	Aud	"GUATEMALA,13,R.7,N.64"	0	0	np	np	np	np	np	np	xnp	###	
+C 65	65	Aud	"GUATEMALA,13,R.7,N.65"	1	0	15 Jul 1615	np	0	0	np	np	xnp	###	
+C 66	66	Aud	"GUATEMALA,13,R.7,N.66"	1	0	10 Oct 1615	np	0	0	np	np	xnp	###	
+C 67	67	Aud	"GUATEMALA,13,R.7,N.67"	0	0	np	np	np	np	np	np	xnp	###	
+C 68	68	Aud	"GUATEMALA,13,R.8,N.68"	1	0	10 Jun 1616	np	0	0	np	np	xnp	###	
+C 69	69	Aud	"GUATEMALA,13,R.8,N.69"	1	0	17 Nov 1616	np	0	1	5	xxx	xnp	###	
+C 70	70	Aud	"GUATEMALA,13,R.9,N.70"	1	1	17 Jan 1617	13 Jun 1617	0	0	np	np	xnp	###	
+C 71	71	Aud	"GUATEMALA,13,R.9,N.71"	1	0	10 Jun 1617	np	0	0	np	np	xnp	###	
+C 72	72	Aud	"GUATEMALA,13,R.9,N.72"	1	0	13 Jun 1617	np	0	0	np	np	xnp	###	
+C 73	73	Aud	"GUATEMALA,13,R.9,N.73"	1	0	14 Jun 1617	np	0	0	np	np	xnp	###	
+C 74	74	Aud	"GUATEMALA,13,R.9,N.74"	1	0	14 Jun 1617	np	0	0	np	np	xnp	###	
+C 75	75	Aud	"GUATEMALA,13,R.9,N.75"	0	0	np	np	np	np	np	np	xnp	###	
+C 76	76	Aud	"GUATEMALA,13,R.9,N.76"	0	0	np	np	np	np	np	np	xnp	###	
+C 77	77	Aud	"GUATEMALA,13,R.9,N.77"	1	0	1 Nov 1617	np	0	0	np	np	xnp	###	
+C 78	78	Aud	"GUATEMALA,13,R.9,N.78"	0	0	np	np	np	np	np	np	xnp	###	
+C 79	79	Aud	"GUATEMALA,13,R.9,N.79"	1	0	31 Dec 1617	np	0	0	np	np	xnp	###	
+C 80	80	Aud	"GUATEMALA,13,R.9,N.81"	1	0	31 Dec 1617	np	0	0	np	np	xnp	###	
+C 81	81	Aud	"GUATEMALA,13,R.9,N.80"	1	0	31 Dec 1617	np	0	0	np	np	xnp	###	
+C 82	82	Aud	"GUATEMALA,14,R.1,N.1"	0	0	np	np	np	np	np	np	xnp	###	
+C 83	83	Aud	"GUATEMALA,14,R.1,N.2"	0	0	np	np	np	np	np	np	xnp	###	
+C 84	84	Aud	"GUATEMALA,14,R.1,N.3"	0	0	np	np	np	np	np	np	xnp	###	
+C 85	85	Aud	"GUATEMALA,14,R.1,N.5"	0	0	np	np	np	np	np	np	xnp	###	
+C 86	86	Aud	"GUATEMALA,14,R.1,N.4"	0	0	np	np	np	np	np	np	xnp	###	
+C 87	87	Aud	"GUATEMALA,14,R.1,N.6"	0	0	np	np	np	np	np	np	xnp	###	
+C 88	88	Aud	"GUATEMALA,14,R.1,N.7"	0	0	np	np	np	np	np	np	xnp	###	
+C 89	89	Aud	"GUATEMALA,14,R.1,N.8"	0	0	np	np	np	np	np	np	xnp	###	
+C 90	90	Aud	"GUATEMALA,14,R.1,N.9"	0	0	np	np	np	np	np	np	xnp	###	
+C 91	91	Aud	"GUATEMALA,14,R.1,N.10"	1	0	15 Jun 1618	np	0	0	np	np	xnp	###	
+C 92	92	Aud	"GUATEMALA,14,R.1,N.11"	0	0	np	np	np	np	np	np	xnp	###	
+C 93	93	Aud	"GUATEMALA,14,R.1,N.12"	0	0	np	np	np	np	np	np	xnp	###	
+C 94	94	Aud	"GUATEMALA,14,R.1,N.14"	0	0	np	np	np	np	np	np	xnp	###	
+C 95	95	Aud	"GUATEMALA,14,R.1,N.15"	1	0	20 Jun 1618	np	0	0	np	np	xnp	###	
+C 96	96	Aud	"GUATEMALA,14,R.1,N.13"	1	0	20 Jun 1618	np	0	0	np	np	xnp	###	
+C 97	97	Aud	"GUATEMALA,14,R.1,N.16"	0	0	np	np	np	np	np	np	xnp	###	
+C 98	98	Aud	"GUATEMALA,14,R.1,N.17"	1	0	20 Jul 1618	np	1	1	1	xxx	xnp	###	
+C 99	99	Aud	"GUATEMALA,14,R.1,N.18"	0	0	np	np	np	np	np	np	xnp	###	
+C 100	100	Aud	"GUATEMALA,14,R.1,N.19"	0	0	np	np	np	np	np	np	xnp	###	
+C 101	101	Aud	"GUATEMALA,14,R.1,N.20"	1	0	3 Oct 1618	np	0	0	np	np	xnp	###	
+C 102	102	Aud	"GUATEMALA,14,R.1,N.21"	1	0	4 Oct 1618	np	0	1	1	xxx	xnp	###	
+C 103	103	Aud	"GUATEMALA,14,R.1,N.23"	1	0	4 Oct 1618	np	0	0	np	np	xnp	###	
+C 104	104	Aud	"GUATEMALA,14,R.1,N.22"	1	0	4 Oct 1618	np	0	0	np	np	xnp	###	
+C 105	105	Aud	"GUATEMALA,14,R.2,N.24"	1	0	8 Jan 1619	np	0	0	np	np	xnp	###	
+C 106	106	Aud	"GUATEMALA,14,R.2,N.25"	1	0	9 Jan 1619	np	0	0	np	np	xnp	###	
+C 107	107	Aud	"GUATEMALA,14,R.2,N.26"	1	0	9 Jan 1619	np	0	0	np	np	xnp	###	
+C 108	108	Aud	"GUATEMALA,14,R.2,N.27"	1	0	9 Jan 1619	np	0	0	np	np	xnp	###	
+C 109	109	Aud	"GUATEMALA,14,R.2,N.29"	1	0	15 Jun 1619	np	0	0	np	np	xnp	###	
+C 110	110	Aud	"GUATEMALA,14,R.2,N.28"	1	0	15 Jun 1619	np	0	0	np	np	xnp	###	
+C 111	111	Aud	"GUATEMALA,14,R.2,N.30"	1	0	15 Jun 1619	np	0	0	np	np	xnp	###	
+C 112	112	Aud	"GUATEMALA,14,R.2,N.31"	1	0	15 Jun 1619	np	0	0	np	np	xnp	###	
+C 113	113	Aud	"GUATEMALA,14,R.2,N.33"	1	0	17 Jun 1619	np	0	0	np	np	xnp	###	
+C 114	114	Aud	"GUATEMALA,14,R.2,N.32"	1	0	17 Jun 1619	np	0	0	np	np	xnp	###	
+C 115	115	Aud	"GUATEMALA,14,R.2,N.34"	1	1	25 Jun 1619	19 Sep 1619	0	0	np	np	xnp	###	
+C 116	116	Aud	"GUATEMALA,14,R.2,N.35"	0	0	np	np	np	np	np	np	xnp	###	
+C 117	117	Aud	"GUATEMALA,14,R.2,N.36"	0	0	np	np	np	np	np	np	xnp	###	
+C 118	118	Aud	"GUATEMALA,14,R.2,N.38"	1	0	6 Oct 1619	np	0	1	1	xxx	xnp	###	
+C 119	119	Aud	"GUATEMALA,14,R.2,N.37"	0	0	np	np	np	np	np	np	xnp	###	
+C 120	120	Aud	"GUATEMALA,14,R.2,N.39"	0	0	np	np	np	np	np	np	xnp	###	
+C 121	121	Aud	"GUATEMALA,14,R.2,N.40"	1	0	10 Oct 1619	np	0	0	np	np	xnp	###	
+C 122	122	Aud	"GUATEMALA,14,R.2,N.43"	1	0	12 Oct 1619	np	0	0	np	np	Inc re foreigners	###	
+C 123	123	Aud	"GUATEMALA,14,R.2,N.42"	0	0	np	np	np	np	np	np	xnp	###	
+C 124	124	Aud	"GUATEMALA,14,R.2,N.41"	0	0	np	np	np	np	np	np	xnp	###	
+C 125	125	Aud	"GUATEMALA,14,R.2,N.45"	0	0	np	np	np	np	np	np	xnp	###	
+C 126	126	Aud	"GUATEMALA,14,R.2,N.44"	1	0	18 Dec 1619	np	0	0	np	np	xnp	###	
+C 127	127	Aud	"GUATEMALA,14,R.3,N.63"	0	0	np	np	np	np	np	np	xnp	###	
+C 128	128	Aud	"GUATEMALA,14,R.3,N.64"	0	0	np	np	np	np	np	np	xnp	###	
+C 129	129	Aud	"GUATEMALA,14,R.3,N.46"	0	0	np	np	np	np	np	np	xnp	###	
+C 130	130	Aud	"GUATEMALA,14,R.3,N.47"	1	1	22 Feb 1620	12 May 1620	0	0	np	np	xnp	###	
+C 131	131	Aud	"GUATEMALA,14,R.3,N.48"	0	0	np	np	np	np	np	np	xnp	###	
+C 132	132	Aud	"GUATEMALA,14,R.3,N.49"	0	0	np	np	np	np	np	np	xnp	###	
+C 133	133	Aud	"GUATEMALA,14,R.3,N.50"	0	0	np	np	np	np	np	np	xnp	###	
+C 134	134	Aud	"GUATEMALA,14,R.3,N.52"	1	0	20 May 1620	np	0	1	1	xxx	xnp	###	
+C 135	135	Aud	"GUATEMALA,14,R.3,N.53"	1	0	20 May 1620	np	0	0	np	np	xnp	###	
+C 136	136	Aud	"GUATEMALA,14,R.3,N.55"	0	0	np	np	np	np	np	np	xnp	###	
+C 137	137	Aud	"GUATEMALA,14,R.3,N.51"	1	0	20 May 1620	np	0	0	np	np	xnp	###	
+C 138	138	Aud	"GUATEMALA,14,R.3,N.54"	0	0	np	np	np	np	np	np	xnp	###	
+C 139	139	Aud	"GUATEMALA,14,R.3,N.56"	0	0	np	np	np	np	np	np	xnp	###	
+C 140	140	Aud	"GUATEMALA,14,R.3,N.57"	1	0	23 May 1620	np	0	0	np	np	xnp	###	
+C 141	141	Aud	"GUATEMALA,14,R.3,N.58"	1	1	27 May 1620	4 Sep 1620	0	0	np	np	xnp	###	
+C 142	142	Aud	"GUATEMALA,14,R.3,N.59"	0	0	np	np	np	np	np	np	xnp	###	
+C 143	143	Aud	"GUATEMALA,14,R.3,N.60"	1	0	2 Oct 1620	np	0	0	np	np	xnp	###	
+C 144	144	Aud	"GUATEMALA,14,R.3,N.61"	1	1	29 Oct 1620	27 Nov 1620	0	0	np	np	xnp	###	
+C 145	145	Aud	"GUATEMALA,14,R.3,N.62"	1	1	4 Nov 1620	24 Nov 1620	0	0	np	np	xnp	###	
+C 146	146	Aud	"GUATEMALA,14,R.4,N.65"	0	0	np	np	np	np	np	np	xnp	###	
+C 147	147	Aud	"GUATEMALA,14,R.4,N.66"	0	0	np	np	np	np	np	np	xnp	###	
+C 148	148	Aud	"GUATEMALA,14,R.4,N.67"	1	1	18 Jun 1621	18 Jun 1621	0	0	np	np	xnp	###	
+C 149	149	Aud	"GUATEMALA,14,R.4,N.68"	1	0	6 Sep 1621	np	0	0	np	np	xnp	###	
+C 150	150	Aud	"GUATEMALA,14,R.4,N.69"	1	0	25 Sep 1621	np	0	0	np	np	xnp	###	
+C 151	151	Aud	"GUATEMALA,14,R.4,N.70"	1	0	26 Sep 1621	np	0	0	np	np	xnp	###	
+C 152	152	Aud	"GUATEMALA,14,R.4,N.71"	0	0	np	np	np	np	np	np	xnp	###	
+C 153	153	Aud	"GUATEMALA,15,R.1,N.1"	0	0	np	np	np	np	np	np	xnp	###	
+C 154	154	Aud	"GUATEMALA,15,R.1,N.2"	1	0	10 Jun 1622	np	0	0	np	np	xnp	###	
+C 155	155	Aud	"GUATEMALA,15,R.1,N.3"	1	0	11 Jun 1622	np	0	0	np	np	xnp	###	
+C 156	156	Aud	"GUATEMALA,15,R.1,N.4"	0	0	np	np	np	np	np	np	xnp	###	
+C 157	157	Aud	"GUATEMALA,15,R.1,N.5"	1	0	10 Oct 1622	np	0	0	np	np	xnp	###	
+C 158	158	Aud	"GUATEMALA,15,R.1,N.6"	1	0	8 Oct 1622	np	0	0	np	np	Inc re foreigners	###	
+C 159	159	Aud	"GUATEMALA,15,R.2,N.7"	1	1	2 Mar 1623	13 Dec 1623	0	0	np	np	xnp	###	
+C 160	160	Aud	"GUATEMALA,15,R.2,N.8"	0	0	np	np	np	np	np	np	xnp	###	
+C 161	161	Aud	"GUATEMALA,15,R.2,N.9"	1	0	8 Jun 1623	np	0	0	np	np	Inc re foreigners	###	
+C 162	162	Aud	"GUATEMALA,15,R.2,N.10"	1	0	8 Jun 1623	np	0	0	np	np	xnp	###	
+C 163	163	Aud	"GUATEMALA,15,R.2,N.11"	1	0	12 Oct 1623	np	0	0	np	np	xnp	###	
+C 164	164	Aud	"GUATEMALA,15,R.2,N.12"	1	0	13 Oct 1623	np	0	0	np	np	xnp	###	
+C 165	165	Aud	"GUATEMALA,15,R.2,N.13"	1	0	13 Oct 1623	np	0	0	np	np	xnp	###	
+C 166	166	Aud	"GUATEMALA,15,R.2,N.14"	1	0	13 Oct 1623	np	0	0	np	np	xnp	###	
+C 167	167	Aud	"GUATEMALA,15,R.2,N.15"	0	0	np	np	np	np	np	np	xnp	###	
+C 168	168	Aud	"GUATEMALA,15,R.3,N.16"	0	0	np	np	np	np	np	np	xnp	###	
+C 169	169	Aud	"GUATEMALA,15,R.3,N.17"	1	0	20 May 1624	np	0	0	np	np	xnp	###	
+C 170	170	Aud	"GUATEMALA,15,R.3,N.18"	1	0	22 May 1624	np	0	0	np	np	xnp	###	
+C 171	171	Aud	"GUATEMALA,15,R.3,N.19"	1	0	23 May 1624	np	0	0	np	np	xnp	###	
+C 172	172	Aud	"GUATEMALA,15,R.3,N.20"	1	0	24 May 1624	np	0	0	np	np	xnp	###	
+C 173	173	Aud	"GUATEMALA,15,R.3,N.21"	1	0	24 May 1624	np	0	0	np	np	xnp	###	
+C 174	174	Aud	"GUATEMALA,15,R.3,N.22"	1	0	24 May 1624	np	0	0	np	np	xnp	###	
+C 175	175	Aud	"GUATEMALA,15,R.3,N.23"	0	0	np	np	np	np	np	np	xnp	###	
+C 176	176	Aud	"GUATEMALA,15,R.3,N.24"	1	0	12 Oct 1624	np	0	0	np	np	xnp	###	
+C 177	177	Aud	"GUATEMALA,15,R.3,N.25"	0	0	np	np	np	np	np	np	xnp	###	
+C 178	178	Aud	"GUATEMALA,15,R.3,N.26"	1	0	12 Oct 1624	np	0	1	3	xxx	"Inc piracy, defence in Pacific"	###	
+C 179	179	Aud	"GUATEMALA,15,R.3,N.27"	1	0	13 Oct 1624	np	0	0	np	np	xnp	###	
+C 180	180	Aud	"GUATEMALA,15,R.3,N.28"	1	0	13 Oct 1624	np	0	0	np	np	Dup of N.29	###	
+C 181	181	Aud	"GUATEMALA,15,R.3,N.29"	1	0	15 Oct 1624	np	0	0	np	np	xnp	###	
+C 182	182	Aud	"GUATEMALA,15,R.3,N.30"	0	0	np	np	np	np	np	np	Inc re foreigners	###	
+C 183	183	Aud	"GUATEMALA,15,R.4,N.31"	0	0	np	np	np	np	np	np	Inc re defence	###	
+C 184	184	Aud	"GUATEMALA,15,R.4,N.32"	0	0	np	np	np	np	np	np	xnp	###	
+C 185	185	Aud	"GUATEMALA,15,R.4,N.33"	1	0	24 Jan 1625	np	0	0	np	np	xnp	###	
+C 186	186	Aud	"GUATEMALA,15,R.4,N.34"	1	0	24 Jan 1625	np	0	0	np	np	"Inc re piracy, defence in Pacific"	###	
+C 187	187	Aud	"GUATEMALA,15,R.4,N.35"	1	0	25 Jan 1625	np	0	0	np	np	xnp	###	
+C 188	188	Aud	"GUATEMALA,15,R.4,N.36"	1	0	20 May 1625	np	0	0	np	np	xnp	###	
+C 189	189	Aud	"GUATEMALA,15,R.4,N.37"	1	0	20 May 1625	np	0	0	np	np	xnp	###	
+C 190	190	Aud	"GUATEMALA,15,R.4,N.38"	1	0	20 May 1625	np	0	0	np	np	xnp	###	
+C 191	191	Aud	"GUATEMALA,15,R.4,N.39"	1	0	20 May 1625	np	0	0	np	np	xnp	###	
+C 192	192	Aud	"GUATEMALA,15,R.4,N.40"	1	0	20 May 1625	np	0	0	np	np	xnp	###	
+C 193	193	Aud	"GUATEMALA,15,R.4,N.41"	1	0	20 May 1625	np	0	1	1	xxx	xnp	###	
+C 194	194	Aud	"GUATEMALA,15,R.4,N.42"	1	0	26 May 1625	np	0	0	np	np	xnp	###	
+C 195	195	Aud	"GUATEMALA,15,R.4,N.43"	0	0	np	np	np	np	np	np	xnp	###	
+C 196	196	Aud	"GUATEMALA,15,R.4,N.44"	0	0	np	np	np	np	np	np	xnp	###	
+C 197	197	Aud	"GUATEMALA,15,R.4,N.45"	1	0	20 Sep 1625	np	0	0	np	np	xnp	###	
+C 198	198	Aud	"GUATEMALA,15,R.4,N.46"	0	0	np	np	np	np	np	np	xnp	###	
+C 199	199	Aud	"GUATEMALA,15,R.4,N.47"	0	0	np	np	np	np	np	np	xnp	###	
+C 200	200	Aud	"GUATEMALA,15,R.4,N.48"	0	0	np	np	np	np	np	np	xnp	###	
+C 201	201	Aud	"GUATEMALA,15,R.4,N.49"	1	0	20 Oct 1625	np	0	0	np	np	xnp	###	
+C 202	202	Aud	"GUATEMALA,15,R.4,N.50"	1	0	23 Oct 1625	np	0	0	np	np	xnp	###	
+C 203	203	Aud	"GUATEMALA,15,R.4,N.51"	0	0	np	np	np	np	np	np	xnp	###	
+C 204	204	Aud	"GUATEMALA,15,R.4,N.52"	0	0	np	np	np	np	np	np	xnp	###	
+C 205	205	Aud	"GUATEMALA,15,R.5,N.53"	1	0	6 Jun 1626	np	0	1	2	xxx	xnp	###	
+C 206	206	Aud	"GUATEMALA,15,R.5,N.54"	1	0	8 Jun 1626	np	0	0	np	np	xnp	###	
+C 207	207	Aud	"GUATEMALA,15,R.5,N.55"	0	0	np	np	np	np	np	np	xnp	###	
+C 208	208	Aud	"GUATEMALA,15,R.5,N.56"	0	0	np	np	np	np	np	np	xnp	###	
+C 209	209	Aud	"GUATEMALA,15,R.5,N.57"	1	0	29 Oct 1626	np	0	0	np	np	xnp	###	
+C 210	210	Aud	"GUATEMALA,15,R.6,N.58"	1	0	6 Jun 1627	np	0	0	np	np	xnp	###	
+C 211	211	Aud	"GUATEMALA,15,R.6,N.59"	1	0	8 Jun 1627	np	0	0	np	np	xnp	###	
+C 212	212	Aud	"GUATEMALA,15,R.6,N.60"	1	0	9 Jun 1627	np	0	0	np	np	Inc re piracy in Sto Domingo	###	
+C 213	213	Aud	"GUATEMALA,15,R.6,N.61"	1	0	11 Jun 1627	np	0	0	np	np	xnp	###	
+C 214	214	Aud	"GUATEMALA,15,R.6,N.62"	1	0	22 Jun 1627	np	0	0	np	np	xnp	###	
+C 215	215	Aud	"GUATEMALA,15,R.7,N.63"	1	0	20 Jun 1628	np	0	1	2	xxx	xnp	###	
+C 216	216	Aud	"GUATEMALA,15,R.7,N.64"	0	0	np	np	np	np	np	np	xnp	###	
+C 217	217	Aud	"GUATEMALA,15,R.7,N.65"	1	0	23 Oct 1628	np	0	1	4	xxx	"Inc re defence, possibly, in img 1 / Not complete"	###	
+C 218	218	Aud	"GUATEMALA,15,R.8,N.66"	0	0	np	np	np	np	np	np	xnp	###	
+C 219	219	Aud	"GUATEMALA,15,R.8,N.67"	0	0	np	np	np	np	np	np	xnp	###	
+C 220	220	Aud	"GUATEMALA,15,R.8,N.68"	1	0	4 Jul 1629	np	0	0	np	np	xnp	###	
+C 221	221	Aud	"GUATEMALA,15,R.8,N.69"	1	0	5 Jul 1629	np	0	1	1	xxx	xnp	###	
+C 222	222	Aud	"GUATEMALA,15,R.9,N.70"	1	0	14 Jan 1630	np	0	1	1	xxx	xnp	###	
+C 223	223	Aud	"GUATEMALA,15,R.9,N.71"	1	0	15 Jan 1630	np	0	0	np	np	xnp	###	
+C 224	224	Aud	"GUATEMALA,15,R.9,N.72"	0	0	np	np	np	np	np	np	xnp	###	
+C 225	225	Aud	"GUATEMALA,15,R.9,N.73"	1	0	26 Nov 1630	np	0	0	np	np	xnp	###	
+C 226	226	Aud	"GUATEMALA,15,R.10,N.74"	0	0	np	np	np	np	np	np	xnp	###	
+C 227	227	Aud	"GUATEMALA,15,R.10,N.75"	1	0	29 Aug 1631	np	0	0	np	np	xnp	###	
+C 228	228	Aud	"GUATEMALA,15,R.11,N.76"	0	0	np	np	np	np	np	np	xnp	###	
+C 229	229	Aud	"GUATEMALA,15,R.11,N.77"	0	0	np	np	np	np	np	np	xnp	###	
+C 230	230	Aud	"GUATEMALA,15,R.12,N.78"	0	0	np	np	np	np	np	np	xnp	###	
+C 231	231	Aud	"GUATEMALA,15,R.13,N.79"	1	1	28 Jan 1634	1 Feb 1635	0	0	np	np	"Inc re defence, possibly / Inc Gaut Pres méritos y servicios"	###	
+C 232	232	Aud	"GUATEMALA,15,R.13,N.80"	1	0	28 Mar 1634	np	0	1	1	xxx	xnp	###	
+C 233	233	Aud	"GUATEMALA,15,R.13,N.81"	1	0	6 Apr 1634	np	0	0	np	np	xnp	###	
+C 234	234	Aud	"GUATEMALA,15,R.13,N.82"	1	0	12 Apr 1634	np	0	0	np	np	xnp	###	
+C 235	235	Aud	"GUATEMALA,15,R.13,N.83"	1	0	7 Jun 1634	np	0	0	np	np	xnp	###	
+C 236	236	Aud	"GUATEMALA,15,R.13,N.84"	0	0	np	np	np	np	np	np	xnp	###	
+C 237	237	Aud	"GUATEMALA,15,R.13,N.85"	1	0	13 Aug 1634	np	0	0	np	np	xnp	###	
+C 238	238	Aud	"GUATEMALA,15,R.13,N.86"	0	0	np	np	np	np	np	np	xnp	###	
+C 239	239	Aud	"GUATEMALA,15,R.14,N.87"	0	0	np	np	np	np	np	np	xnp	###	
+C 240	240	Aud	"GUATEMALA,15,R.14,N.88"	0	0	np	np	np	np	np	np	xnp	###	
+C 241	241	Aud	"GUATEMALA,15,R.15,N.89"	1	0	9 Mar 1636	np	0	0	xnp	xnp	xnp	###	
+C 242	242	Aud	"GUATEMALA,15,R.15,N.90"	1	0	9 Mar 1636	np	xxx	xxx	xnp	xnp	xnp	###	
+C 243	243	Aud	"GUATEMALA,15,R.15,N.91"	0	0	np	np	np	np	np	np	xnp	###	
+C 244	244	Aud	"GUATEMALA,15,R.15,N.92"	0	0	np	np	np	np	np	np	xnp	###	
+C 245	245	Aud	"GUATEMALA,15,R.15,N.93"	0	0	np	np	np	np	np	np	xnp	###	
+C 246	246	Aud	"GUATEMALA,15,R.16,N.94"	1	0	16 May 1637	np	xxx	xxx	xnp	xnp	xnp	###	
+C 247	247	Aud	"GUATEMALA,15,R.16,N.95"	0	0	np	np	np	np	np	np	xnp	###	
+C 248	248	Aud	"GUATEMALA,15,R.17,N.96"	1	0	sn Mar 1638	np	xxx	xxx	xnp	xnp	xnp	###	
+C 249	249	Aud	"GUATEMALA,15,R.17,N.97"	1	0	26 May 1638	np	xxx	xxx	xnp	xnp	xnp	###	
+C 250	250	Aud	"GUATEMALA,15,R.17,N.98"	1	0	26 May 1638	np	xxx	xxx	xnp	xnp	xnp	###	
+C 251	251	Aud	"GUATEMALA,15,R.17,N.99"	1	0	26 May 1638	np	xxx	xxx	xnp	xnp	xnp	###	
+C 252	252	Aud	"GUATEMALA,15,R.17,N.100"	1	0	26 May 1638	np	xxx	xxx	xnp	xnp	xnp	###	
+C 253	253	Aud	"GUATEMALA,15,R.17,N.101"	0	0	np	np	np	np	np	np	xnp	###	
+C 254	254	Aud	"GUATEMALA,16,R.1,N.1"	1	1	12 Jan 1639	27 Jul 1640	xxx	xxx	xnp	xnp	xnp	###	
+C 255	255	Aud	"GUATEMALA,16,R.1,N.2"	1	0	14 Jan 1639	np	xxx	xxx	xnp	xnp	xnp	###	
+C 256	256	Aud	"GUATEMALA,16,R.1,N.3"	1	0	15 Jan 1639	np	xxx	xxx	xnp	xnp	xnp	###	
+C 257	257	Aud	"GUATEMALA,16,R.1,N.4"	1	0	15 Jan 1639	np	xxx	xxx	xnp	xnp	xnp	###	
+C 258	258	Aud	"GUATEMALA,16,R.1,N.5"	0	0	np	np	np	np	np	np	xnp	###	
+C 259	259	Aud	"GUATEMALA,16,R.1,N.6"	1	0	30 Jan 1639	np	xxx	xxx	xnp	xnp	xnp	###	
+C 260	260	Aud	"GUATEMALA,16,R.1,N.7"	1	0	31 Jan 1639	np	xxx	xxx	xnp	xnp	xnp	###	
+C 261	261	Aud	"GUATEMALA,16,R.1,N.8"	1	0	7 Feb 1639	np	xxx	xxx	xnp	xnp	xnp	###	
+C 262	262	Aud	"GUATEMALA,16,R.1,N.9"	1	0	9 Feb 1639	np	xxx	xxx	xnp	xnp	xnp	###	
+C 263	263	Aud	"GUATEMALA,16,R.1,N.10"	0	0	np	np	np	np	np	np	xnp	###	
+C 264	264	Aud	"GUATEMALA,16,R.1,N.11"	0	0	np	np	np	np	np	np	xnp	###	
+C 265	265	Aud	"GUATEMALA,16,R.2,N.12"	0	0	np	np	np	np	np	np	xnp	###	
+C 266	266	Aud	"GUATEMALA,16,R.2,N.13"	0	0	np	np	np	np	np	np	See Cardona 106 / Inc re defence	###	
+C 267	267	Aud	"GUATEMALA,16,R.2,N.14"	1	0	25 Jun 1640	np	xxx	xxx	xnp	xnp	xnp	###	
+C 268	268	Aud	"GUATEMALA,16,R.2,N.15"	1	0	25 Jun 1640	np	xxx	xxx	xnp	xnp	xnp	###	
+C 269	269	Aud	"GUATEMALA,16,R.2,N.16"	0	0	np	np	np	np	np	np	xnp	###	
+C 270	270	Aud	"GUATEMALA,16,R.2,N.17"	1	0	26 Jun 1640	np	xxx	xxx	xnp	xnp	xnp	###	
+C 271	271	Aud	"GUATEMALA,16,R.2,N.18"	0	0	np	np	np	np	np	np	xnp	###	
+C 272	272	Aud	"GUATEMALA,16,R.3,N.19"	1	0	7 Jul 1642	np	xxx	xxx	xnp	xnp	xnp	###	
+C 273	273	Aud	"GUATEMALA,16,R.3,N.20"	1	1	19 Dec 1642	3 Dec 1643	xxx	xxx	xnp	xnp	xnp	###	
+C 274	274	Aud	"GUATEMALA,16,R.4,N.21"	1	0	25 Feb 1643	np	xxx	xxx	xnp	xnp	xnp	###	
+C 275	275	Aud	"GUATEMALA,16,R.4,N.22"	1	0	26 Feb 1643	np	xxx	xxx	xnp	xnp	xnp	###	
+C 276	276	Aud	"GUATEMALA,16,R.4,N.23"	1	0	28 Feb 1643	np	xxx	xxx	xnp	xnp	xnp	###	
+C 277	277	Aud	"GUATEMALA,16,R.4,N.24"	1	0	2 Mar 1643	np	xxx	xxx	xnp	xnp	xnp	###	
+C 278	278	Aud	"GUATEMALA,16,R.4,N.25"	0	0	np	np	np	np	np	np	xnp	###	
+C 279	279	Aud	"GUATEMALA,16,R.4,N.26"	1	0	1 Oct 1643	np	xxx	xxx	xnp	xnp	xnp	###	
+C 280	280	Aud	"GUATEMALA,16,R.4,N.27"	1	0	1 Oct 1643	np	xxx	xxx	xnp	xnp	xnp	###	
+C 281	281	Aud	"GUATEMALA,16,R.4,N.28"	0	0	np	np	np	np	np	np	xnp	###	
+C 282	282	Aud	"GUATEMALA,16,R.4,N.29"	1	0	12 Oct 1643	np	xxx	xxx	xnp	xnp	xnp	###	
+C 283	283	Aud	"GUATEMALA,16,R.5,N.30"	0	0	np	np	np	np	np	np	xnp	###	
+C 284	284	Aud	"GUATEMALA,16,R.5,N.31"	0	0	np	np	np	np	np	np	xnp	###	
+C 285	285	Aud	"GUATEMALA,16,R.5,N.32"	0	0	np	np	np	np	np	np	xnp	###	
+C 286	286	Aud	"GUATEMALA,16,R.5,N.33"	0	0	np	np	np	np	np	np	xnp	###	
+C 287	287	Aud	"GUATEMALA,16,R.5,N.34"	0	0	np	np	np	np	np	np	xnp	###	
+C 288	288	Aud	"GUATEMALA,16,R.5,N.35"	0	0	np	np	np	np	np	np	xnp	###	
+C 289	289	Aud	"GUATEMALA,16,R.5,N.36"	1	0	16 May 1644	np	xxx	xxx	xnp	xnp	Inc 13 Oct 1643 letter	###	
+C 290	290	Aud	"GUATEMALA,16,R.5,N.37"	1	0	6 Aug 1644	np	xxx	xxx	xnp	xnp	xnp	###	
+C 291	291	Aud	"GUATEMALA,16,R.6,N.38"	0	0	np	np	np	np	np	np	xnp	###	
+C 292	292	Aud	"GUATEMALA,16,R.6,N.39"	1	0	16 Feb 1645	np	xxx	xxx	xnp	xnp	xnp	###	
+C 293	293	Aud	"GUATEMALA,16,R.6,N.40"	0	0	np	np	np	np	np	np	xnp	###	
+C 294	294	Aud	"GUATEMALA,16,R.6,N.41"	1	1	6 Jul 1645	30 Sep 1645	xxx	xxx	xnp	xnp	xnp	###	
+C 295	295	Aud	"GUATEMALA,16,R.6,N.42"	0	0	np	np	np	np	np	np	xnp	###	
+C 296	296	Aud	"GUATEMALA,16,R.7,N.43"	1	0	22 Mar 1646	np	xxx	xxx	xnp	xnp	xnp	###	
+C 297	297	Aud	"GUATEMALA,16,R.7,N.44"	1	0	24 Mar 1646	np	xxx	xxx	xnp	xnp	xnp	###	
+C 298	298	Aud	"GUATEMALA,16,R.7,N.45"	1	0	30 Jul 1646	np	xxx	xxx	xnp	xnp	xnp	###	
+C 299	299	Aud	"GUATEMALA,16,R.7,N.46"	0	0	np	np	np	np	np	np	xnp	###	
+C 300	300	Aud	"GUATEMALA,16,R.7,N.47"	1	0	8 Nov 1646	np	xxx	xxx	xnp	xnp	xnp	###	
+C 301	301	Aud	"GUATEMALA,16,R.7,N.48"	1	0	10 Nov 1646	np	xxx	xxx	xnp	xnp	xnp	###	
+C 302	302	Aud	"GUATEMALA,16,R.7,N.49"	1	0	10 Nov 1646	np	xxx	xxx	xnp	xnp	xnp	###	
+C 303	303	Aud	"GUATEMALA,16,R.7,N.49BIS"	1	0	10 Nov 1646	np	xxx	xxx	xnp	xnp	xnp	###	
+C 304	304	Aud	"GUATEMALA,16,R.7,N.50"	1	0	15 Nov 1646	np	xxx	xxx	xnp	xnp	xnp	###	
+C 305	305	Aud	"GUATEMALA,16,R.7,N.50BIS"	1	0	15 Nov 1646	np	xxx	xxx	xnp	xnp	xnp	###	
+C 306	306	Aud	"GUATEMALA,16,R.7,N.51"	0	0	np	np	np	np	np	np	xnp	###	
+C 307	307	Aud	"GUATEMALA,16,R.8,N.52"	1	0	2 Mar 1647	np	xxx	xxx	xnp	xnp	xnp	###	
+C 308	308	Aud	"GUATEMALA,16,R.8,N.53"	1	0	2 Mar 1647	np	xxx	xxx	xnp	xnp	xnp	###	
+C 309	309	Aud	"GUATEMALA,16,R.8,N.53BIS"	1	0	6 Mar 1647	np	xxx	xxx	xnp	xnp	xnp	###	
+C 310	310	Aud	"GUATEMALA,16,R.8,N.54"	0	0	np	np	np	np	np	np	xnp	###	
+C 311	311	Aud	"GUATEMALA,16,R.8,N.55"	1	1	sd May 1647	3 Sep 1648	xxx	xxx	xnp	xnp	xnp	###	
+C 312	312	Aud	"GUATEMALA,16,R.8,N.56"	1	0	15 Jun 1647	np	xxx	xxx	xnp	xnp	xnp	###	
+C 313	313	Aud	"GUATEMALA,16,R.8,N.57"	1	0	15 Jun 1647	np	xxx	xxx	xnp	xnp	xnp	###	
+C 314	314	Aud	"GUATEMALA,16,R.8,N.58"	1	0	20 Jun 1647	np	xxx	xxx	xnp	xnp	xnp	###	
+C 315	315	Aud	"GUATEMALA,16,R.8,N.59"	0	0	np	np	np	np	np	np	xnp	###	
+C 316	316	Aud	"GUATEMALA,16,R.8,N.60"	1	1	28 Jun 1647	26 Sep 1648	xxx	xxx	xnp	xnp	xnp	###	
+C 317	317	Aud	"GUATEMALA,16,R.8,N.61"	1	0	28 Jun 1647	np	xxx	xxx	xnp	xnp	xnp	###	
+C 318	318	Aud	"GUATEMALA,16,R.8,N.62"	1	0	8 Nov 1647	np	xxx	xxx	xnp	xnp	xnp	###	
+C 319	319	Aud	"GUATEMALA,17,R.1,N.1"	1	0	4 Mar 1648	np	xxx	xxx	xnp	xnp	xnp	###	
+C 320	320	Aud	"GUATEMALA,17,R.1,N.2"	1	0	4 Mar 1648	np	xxx	xxx	xnp	xnp	xnp	###	
+C 321	321	Aud	"GUATEMALA,17,R.1,N.3"	1	0	4 Mar 1648	np	xxx	xxx	xnp	xnp	xnp	###	
+C 322	322	Aud	"GUATEMALA,17,R.1,N.4"	1	1	17 Mar 1648	9 Jan 1649	xxx	xxx	xnp	xnp	xnp	###	
+C 323	323	Aud	"GUATEMALA,17,R.1,N.5"	0	0	np	np	np	np	np	np	xnp	###	
+C 324	324	Aud	"GUATEMALA,17,R.1,N.6"	1	0	18 Mar 1648	np	xxx	xxx	xnp	xnp	xnp	###	
+C 325	325	Aud	"GUATEMALA,17,R.1,N.7"	1	1	18 Mar 1648	12 May 1654	xxx	xxx	xnp	xnp	xnp	###	
+C 326	326	Aud	"GUATEMALA,17,R.1,N.8"	0	0	np	np	np	np	np	np	xnp	###	
+C 327	327	Aud	"GUATEMALA,17,R.1,N.9"	1	1	20 Mar 1648	22 Apr 1653	xxx	xxx	xnp	xnp	xnp	###	
+C 328	328	Aud	"GUATEMALA,17,R.1,N.10"	1	0	25 Oct 1648	np	xxx	xxx	xnp	xnp	xnp	###	
+C 329	329	Aud	"GUATEMALA,17,R.2,N.11"	1	0	18 Feb 1649	np	xxx	xxx	xnp	xnp	xnp	###	
+C 330	330	Aud	"GUATEMALA,17,R.2,N.12"	1	0	18 Feb 1649	np	xxx	xxx	xnp	xnp	xnp	###	
+C 331	331	Aud	"GUATEMALA,17,R.2,N.13"	1	0	24 Feb 1649	np	xxx	xxx	xnp	xnp	xnp	###	
+C 332	332	Aud	"GUATEMALA,17,R.2,N.14"	1	1	27 Feb 1649	17 Feb 1651	xxx	xxx	xnp	xnp	xnp	###	
+C 333	333	Aud	"GUATEMALA,17,R.2,N.15"	1	1	28 Feb 1649	20 Apr 1652	xxx	xxx	xnp	xnp	xnp	###	
+C 334	334	Aud	"GUATEMALA,17,R.2,N.16"	1	0	28 Feb 1649	np	xxx	xxx	xnp	xnp	xnp	###	
+C 335	335	Aud	"GUATEMALA,17,R.2,N.17"	0	0	np	np	np	np	np	np	xnp	###	
+C 336	336	Aud	"GUATEMALA,17,R.2,N.18"	1	0	4 Mar 1649	np	xxx	xxx	xnp	xnp	xnp	###	
+C 337	337	Aud	"GUATEMALA,17,R.2,N.19"	0	0	np	np	np	np	np	np	xnp	###	
+C 338	338	Aud	"GUATEMALA,17,R.2,N.20"	0	0	np	np	np	np	np	np	xnp	###	
+C 339	339	Aud	"GUATEMALA,17,R.2,N.21"	1	0	9 Mar 1649	np	xxx	xxx	xnp	xnp	xnp	###	
+C 340	340	Aud	"GUATEMALA,17,R.2,N.22"	1	0	9 Mar 1649	np	xxx	xxx	xnp	xnp	xnp	###	
+C 341	341	Aud	"GUATEMALA,17,R.2,N.23"	0	0	np	np	np	np	np	np	xnp	###	
+C 342	342	Aud	"GUATEMALA,17,R.2,N.24"	0	0	np	np	np	np	np	np	xnp	###	
+C 343	343	Aud	"GUATEMALA,17,R.2,N.25"	0	0	np	np	np	np	np	np	xnp	###	
+C 344	344	Aud	"GUATEMALA,17,R.2,N.26"	0	0	np	np	np	np	np	np	xnp	###	
+C 345	345	Aud	"GUATEMALA,17,R.2,N.27"	1	1	20 May 1649	4 Mar 1652	xxx	xxx	xnp	xnp	xnp	###	
+C 346	346	Aud	"GUATEMALA,17,R.2,N.28"	1	0	20 May 1649	np	xxx	xxx	xnp	xnp	xnp	###	
+C 347	347	Aud	"GUATEMALA,17,R.2,N.29"	1	0	sd May 1649	np	xxx	xxx	xnp	xnp	xnp	###	
+C 348	348	Aud	"GUATEMALA,17,R.2,N.30"	0	0	np	np	np	np	np	np	xnp	###	
+C 349	349	Aud	"GUATEMALA,17,R.3,N.31"	0	0	np	np	np	np	np	np	xnp	###	
+C 350	350	Aud	"GUATEMALA,17,R.3,N.32"	0	0	np	np	np	np	np	np	xnp	###	
+C 351	351	Aud	"GUATEMALA,17,R.3,N.33"	1	0	sd May 1650	np	xxx	xxx	xnp	xnp	xnp	###	
+C 352	352	Aud	"GUATEMALA,17,R.3,N.34"	0	0	np	np	np	np	np	np	xnp	###	
+C 353	353	Aud	"GUATEMALA,17,R.3,N.35"	0	0	np	np	np	np	np	np	xnp	###	
+C 354	354	Aud	"GUATEMALA,17,R.3,N.36"	1	0	sd Jun 1650	np	xxx	xxx	xnp	xnp	xnp	###	
+C 355	355	Aud	"GUATEMALA,17,R.3,N.37"	1	0	8 Jul 1650	np	xxx	xxx	xnp	xnp	Possible REL = 0	###	
+C 356	356	Aud	"GUATEMALA,17,R.3,N.38"	0	0	np	np	np	np	np	np	xnp	###	
+C 357	357	Aud	"GUATEMALA,17,R.3,N.39"	0	0	np	np	np	np	np	np	xnp	###	
+C 358	358	Aud	"GUATEMALA,17,R.4,N.40"	0	0	np	np	np	np	np	np	xnp	###	
+C 359	359	Aud	"GUATEMALA,17,R.4,N.41"	1	1	1 Jun 1651	6 Mar 1652	xxx	xxx	xnp	xnp	xnp	###	
+C 360	360	Aud	"GUATEMALA,17,R.4,N.42"	0	0	np	np	np	np	np	np	xnp	###	
+C 361	361	Aud	"GUATEMALA,17,R.4,N.43"	0	0	np	np	np	np	np	np	xnp	###	
+C 362	362	Aud	"GUATEMALA,17,R.4,N.44"	0	0	np	np	np	np	np	np	xnp	###	
+C 363	363	Aud	"GUATEMALA,17,R.4,N.45"	0	0	np	np	np	np	np	np	xnp	###	
+C 364	364	Aud	"GUATEMALA,17,R.4,N.46"	0	0	np	np	np	np	np	np	xnp	###	
+C 365	365	Aud	"GUATEMALA,17,R.4,N.47"	1	0	14 Jun 1651	np	xxx	xxx	xnp	xnp	xnp	###	
+C 366	366	Aud	"GUATEMALA,17,R.4,N.48"	1	0	17 Jun 1651	np	xxx	xxx	xnp	xnp	xnp	###	
+C 367	367	Aud	"GUATEMALA,17,R.4,N.49"	1	1	26 Jun 1651	27 Feb 1652	xxx	xxx	xnp	xnp	xnp	###	
+C 368	368	Aud	"GUATEMALA,17,R.4,N.50"	1	0	26 Jun 1651	np	xxx	xxx	xnp	xnp	xnp	###	
+C 369	369	Aud	"GUATEMALA,17,R.4,N.51"	1	0	26 Jun 1651	np	xxx	xxx	xnp	xnp	xnp	###	
+C 370	370	Aud	"GUATEMALA,17,R.4,N.52"	0	0	np	np	np	np	np	np	xnp	###	
+C 371	371	Aud	"GUATEMALA,17,R.4,N.53"	0	0	np	np	np	np	np	np	xnp	###	
+C 372	372	Aud	"GUATEMALA,17,R.4,N.54"	0	0	np	np	np	np	np	np	xnp	###	
+C 373	373	Aud	"GUATEMALA,17,R.4,N.55"	0	0	np	np	np	np	np	np	xnp	###	
+C 374	374	Aud	"GUATEMALA,17,R.4,N.56"	0	0	np	np	np	np	np	np	xnp	###	
+C 375	375	Aud	"GUATEMALA,17,R.4,N.57"	0	0	np	np	np	np	np	np	xnp	###	
+C 376	376	Aud	"GUATEMALA,17,R.4,N.58"	0	0	np	np	np	np	np	np	xnp	###	
+C 377	377	Aud	"GUATEMALA,17,R.4,N.59"	1	1	2 Jul 1651	20 Apr 1652	xxx	xxx	xnp	xnp	"Inc re defence, possibly"	###	
+C 378	378	Aud	"GUATEMALA,17,R.4,N.60"	0	0	np	np	np	np	np	np	xnp	###	
+C 379	379	Aud	"GUATEMALA,17,R.4,N.61"	0	0	np	np	np	np	np	np	xnp	###	
+C 380	380	Aud	"GUATEMALA,17,R.4,N.62"	0	0	np	np	np	np	np	np	xnp	###	
+C 381	381	Aud	"GUATEMALA,17,R.4,N.63"	0	0	np	np	np	np	np	np	xnp	###	
+C 382	382	Aud	"GUATEMALA,17,R.4,N.64"	0	0	np	np	np	np	np	np	xnp	###	
+C 383	383	Aud	"GUATEMALA,17,R.4,N.65"	0	0	np	np	np	np	np	np	xnp	###	
+C 384	384	Aud	"GUATEMALA,17,R.4,N.66"	0	0	np	np	np	np	np	np	xnp	###	
+C 385	385	Aud	"GUATEMALA,17,R.4,N.67"	0	0	np	np	np	np	np	np	xnp	###	
+C 386	386	Aud	"GUATEMALA,17,R.4,N.68"	1	0	6 Jul 1651	np	xxx	xxx	xnp	xnp	xnp	###	
+C 387	387	Aud	"GUATEMALA,17,R.4,N.69"	1	0	10 Jul 1651	np	xxx	xxx	xnp	xnp	xnp	###	
+C 388	388	Aud	"GUATEMALA,17,R.4,N.70"	1	0	10 Jul 1651	np	xxx	xxx	xnp	xnp	xnp	###	
+C 389	389	Aud	"GUATEMALA,17,R.4,N.71"	1	0	10 Jul 1651	np	xxx	xxx	xnp	xnp	xnp	###	
+C 390	390	Aud	"GUATEMALA,17,R.4,N.72"	0	0	np	np	np	np	np	np	xnp	###	
+C 391	391	Aud	"GUATEMALA,17,R.4,N.73"	1	0	7 Aug 1651	np	xxx	xxx	xnp	xnp	xnp	###	
+C 392	392	Aud	"GUATEMALA,17,R.4,N.74"	1	0	5 Nov 1651	np	xxx	xxx	xnp	xnp	xnp	###	
+C 393	393	Aud	"GUATEMALA,17,R.4,N.75"	1	1	6 Nov 1651	13 May 1652	xxx	xxx	xnp	xnp	xnp	###	
+C 394	394	Aud	"GUATEMALA,17,R.4,N.76"	0	0	np	np	np	np	np	np	xnp	###	
+C 395	395	Aud	"GUATEMALA,17,R.4,N.77"	1	0	23 Nov 1651	np	xxx	xxx	xnp	xnp	xnp	###	
+C 396	396	Aud	"GUATEMALA,17,R.4,N.78"	0	0	np	np	np	np	np	np	"Inc re defence, possibly"	###	
+C 397	397	Aud	"GUATEMALA,18,R.1,N.1"	1	0	15 Jan 1652	np	xxx	xxx	xnp	xnp	xnp	###	
+C 398	398	Aud	"GUATEMALA,18,R.1,N.2"	1	0	15 Jan 1652	np	xxx	xxx	xnp	xnp	xnp	###	
+C 399	399	Aud	"GUATEMALA,18,R.1,N.3"	1	0	15 Jan 1652	np	xxx	xxx	xnp	xnp	xnp	###	
+C 400	400	Aud	"GUATEMALA,18,R.1,N.4"	0	0	np	np	np	np	np	np	xnp	###	
+C 401	401	Aud	"GUATEMALA,18,R.1,N.5"	0	0	np	np	np	np	np	np	xnp	###	
+C 402	402	Aud	"GUATEMALA,18,R.1,N.6"	1	1	20 Jan 1652	14 Apr 1654	xxx	xxx	xnp	xnp	xnp	###	
+C 403	403	Aud	"GUATEMALA,18,R.1,N.7"	0	0	np	np	np	np	np	np	xnp	###	
+C 404	404	Aud	"GUATEMALA,18,R.1,N.8"	0	0	np	np	np	np	np	np	xnp	###	
+C 405	405	Aud	"GUATEMALA,18,R.1,N.9"	0	0	np	np	np	np	np	np	xnp	###	
+C 406	406	Aud	"GUATEMALA,18,R.1,N.10"	1	1	7 Feb 1652	11 Jan 1656	xxx	xxx	xnp	xnp	xnp	###	
+C 407	407	Aud	"GUATEMALA,18,R.1,N.11"	0	0	np	np	np	np	np	np	xnp	###	
+C 408	408	Aud	"GUATEMALA,18,R.1,N.12"	1	0	15 Feb 1652	np	xxx	xxx	xnp	xnp	xnp	###	
+C 409	409	Aud	"GUATEMALA,18,R.1,N.13"	1	0	17 Feb 1652	np	xxx	xxx	xnp	xnp	xnp	###	
+C 410	410	Aud	"GUATEMALA,18,R.1,N.14"	0	0	np	np	np	np	np	np	xnp	###	
+C 411	411	Aud	"GUATEMALA,18,R.1,N.15"	0	0	np	np	np	np	np	np	xnp	###	
+C 412	412	Aud	"GUATEMALA,18,R.1,N.16"	1	1	22 Feb 1652	25 Sep 1654	xxx	xxx	xnp	xnp	xnp	###	
+C 413	413	Aud	"GUATEMALA,18,R.1,N.17"	0	0	np	np	np	np	np	np	xnp	###	
+C 414	414	Aud	"GUATEMALA,18,R.1,N.18"	1	1	23 Feb 1652	5 Oct 1652	xxx	xxx	xnp	xnp	xnp	###	
+C 415	415	Aud	"GUATEMALA,18,R.1,N.19"	0	0	np	np	np	np	np	np	xnp	###	
+C 416	416	Aud	"GUATEMALA,18,R.1,N.20"	0	0	np	np	np	np	np	np	xnp	###	
+C 417	417	Aud	"GUATEMALA,18,R.1,N.21"	1	0	29 Feb 1652	np	xxx	xxx	xnp	xnp	xnp	###	
+C 418	418	Aud	"GUATEMALA,18,R.1,N.22"	0	0	np	np	np	np	np	np	xnp	###	
+C 419	419	Aud	"GUATEMALA,18,R.1,N.23"	1	0	29 Feb 1652	np	xxx	xxx	xnp	xnp	xnp	###	
+C 420	420	Aud	"GUATEMALA,18,R.1,N.24"	0	0	np	np	np	np	np	np	xnp	###	
+C 421	421	Aud	"GUATEMALA,18,R.1,N.25"	1	1	6 Jun 1652	30 Apr 1653	xxx	xxx	xnp	xnp	xnp	###	
+C 422	422	Aud	"GUATEMALA,18,R.1,N.26"	1	0	7 Jun 1652	np	xxx	xxx	xnp	xnp	xnp	###	
+C 423	423	Aud	"GUATEMALA,18,R.2,N.27"	0	0	np	np	np	np	np	np	xnp	###	
+C 424	424	Aud	"GUATEMALA,18,R.2,N.28"	0	0	np	np	np	np	np	np	xnp	###	
+C 425	425	Aud	"GUATEMALA,18,R.2,N.29"	0	0	np	np	np	np	np	np	xnp	###	
+C 426	426	Aud	"GUATEMALA,18,R.2,N.30"	0	0	np	np	np	np	np	np	xnp	###	
+C 427	427	Aud	"GUATEMALA,18,R.2,N.31"	0	0	np	np	np	np	np	np	xnp	###	
+C 428	428	Aud	"GUATEMALA,18,R.2,N.32"	0	0	np	np	np	np	np	np	xnp	###	
+C 429	429	Aud	"GUATEMALA,18,R.2,N.33"	1	1	20 Feb 1653	1 Feb 1656	xxx	xxx	xnp	xnp	xnp	###	
+C 430	430	Aud	"GUATEMALA,18,R.2,N.34"	0	0	np	np	np	np	np	np	xnp	###	
+C 431	431	Aud	"GUATEMALA,18,R.2,N.35"	0	0	np	np	np	np	np	np	xnp	###	
+C 432	432	Aud	"GUATEMALA,18,R.2,N.36"	0	0	np	np	np	np	np	np	xnp	###	
+C 433	433	Aud	"GUATEMALA,18,R.2,N.37"	0	0	np	np	np	np	np	np	xnp	###	
+C 434	434	Aud	"GUATEMALA,18,R.2,N.38"	0	0	np	np	np	np	np	np	xnp	###	
+C 435	435	Aud	"GUATEMALA,18,R.2,N.39"	0	0	np	np	np	np	np	np	xnp	###	
+C 436	436	Aud	"GUATEMALA,18,R.2,N.40"	0	0	np	np	np	np	np	np	xnp	###	
+C 437	437	Aud	"GUATEMALA,18,R.2,N.41"	0	0	np	np	np	np	np	np	xnp	###	
+C 438	438	Aud	"GUATEMALA,18,R.2,N.42"	0	0	np	np	np	np	np	np	xnp	###	
+C 439	439	Aud	"GUATEMALA,18,R.2,N.43"	0	0	np	np	np	np	np	np	xnp	###	
+C 440	440	Aud	"GUATEMALA,18,R.2,N.44"	1	0	6 Aug 1653	np	xxx	xxx	xnp	xnp	xnp	###	
+C 441	441	Aud	"GUATEMALA,18,R.2,N.45"	0	0	np	np	np	np	np	np	xnp	###	
+C 442	442	Aud	"GUATEMALA,18,R.2,N.46"	0	0	np	np	np	np	np	np	xnp	###	
+C 443	443	Aud	"GUATEMALA,18,R.2,N.47"	0	0	np	np	np	np	np	np	"Inc re defence, possibly"	###	
+C 444	444	Aud	"GUATEMALA,18,R.2,N.48"	0	0	np	np	np	np	np	np	xnp	###	
+C 445	445	Aud	"GUATEMALA,18,R.3,N.49"	0	0	np	np	np	np	np	np	xnp	###	
+C 446	446	Aud	"GUATEMALA,18,R.3,N.50"	0	0	np	np	np	np	np	np	xnp	###	
+C 447	447	Aud	"GUATEMALA,18,R.3,N.51"	0	0	np	np	np	np	np	np	xnp	###	
+C 448	448	Aud	"GUATEMALA,18,R.3,N.52"	0	0	np	np	np	np	np	np	xnp	###	
+C 449	449	Aud	"GUATEMALA,18,R.3,N.53"	0	0	np	np	np	np	np	np	xnp	###	
+C 450	450	Aud	"GUATEMALA,18,R.3,N.54"	0	0	np	np	np	np	np	np	xnp	###	
+C 451	451	Aud	"GUATEMALA,18,R.3,N.55"	0	0	np	np	np	np	np	np	xnp	###	
+C 452	452	Aud	"GUATEMALA,18,R.3,N.56"	0	0	np	np	np	np	np	np	xnp	###	
+C 453	453	Aud	"GUATEMALA,18,R.3,N.57"	1	0	16 Mar 1654	np	xxx	xxx	xnp	xnp	xnp	###	
+C 454	454	Aud	"GUATEMALA,18,R.3,N.58"	0	0	np	np	np	np	np	np	xnp	###	
+C 455	455	Aud	"GUATEMALA,19,R.1,N.1"	0	0	np	np	np	np	np	np	xnp	###	
+C 456	456	Aud	"GUATEMALA,19,R.1,N.2"	0	0	np	np	np	np	np	np	xnp	###	
+C 457	457	Aud	"GUATEMALA,19,R.1,N.3"	1	1	2 Mar 1655	8 Jul 1658	xxx	xxx	xnp	xnp	xnp	###	
+C 458	458	Aud	"GUATEMALA,19,R.1,N.4"	0	0	np	np	np	np	np	np	xnp	###	
+C 459	459	Aud	"GUATEMALA,19,R.1,N.5"	1	0	2 Mar 1655	np	xxx	xxx	xnp	xnp	xnp	###	
+C 460	460	Aud	"GUATEMALA,19,R.1,N.6"	1	0	3 Mar 1655	np	xxx	xxx	xnp	xnp	xnp	###	
+C 461	461	Aud	"GUATEMALA,19,R.1,N.7"	1	0	3 Mar 1655	np	xxx	xxx	xnp	xnp	xnp	###	
+C 462	462	Aud	"GUATEMALA,19,R.1,N.8"	1	0	3 Mar 1655	np	xxx	xxx	xnp	xnp	xnp	###	
+C 463	463	Aud	"GUATEMALA,19,R.1,N.9"	0	0	np	np	np	np	np	np	xnp	###	
+C 464	464	Aud	"GUATEMALA,19,R.1,N.10"	1	0	6 Mar 1655	np	xxx	xxx	xnp	xnp	xnp	###	
+C 465	465	Aud	"GUATEMALA,19,R.1,N.11"	1	0	16 Mar 1655	np	xxx	xxx	xnp	xnp	xnp	###	
+C 466	466	Aud	"GUATEMALA,19,R.1,N.12"	1	0	4 May 1655	np	xxx	xxx	xnp	xnp	xnp	###	
+C 467	467	Aud	"GUATEMALA,19,R.1,N.13"	1	0	6 May 1655	np	xxx	xxx	xnp	xnp	xnp	###	
+C 468	468	Aud	"GUATEMALA,19,R.1,N.14"	1	0	7 May 1655	np	xxx	xxx	xnp	xnp	xnp	###	
+C 469	469	Aud	"GUATEMALA,19,R.1,N.15"	1	0	10 May 1655	np	xxx	xxx	xnp	xnp	xnp	###	
+C 470	470	Aud	"GUATEMALA,19,R.1,N.16"	1	0	31 May 1655	np	xxx	xxx	xnp	xnp	xnp	###	
+C 471	471	Aud	"GUATEMALA,19,R.1,N.17"	1	0	31 May 1655	np	xxx	xxx	xnp	xnp	xnp	###	
+C 472	472	Aud	"GUATEMALA,19,R.1,N.18"	1	1	31 May 1655	11 Jan 1656	xxx	xxx	xnp	xnp	xnp	###	
+C 473	473	Aud	"GUATEMALA,19,R.1,N.19"	1	0	1 Jun 1655	np	xxx	xxx	xnp	xnp	xnp	###	
+C 474	474	Aud	"GUATEMALA,19,R.1,N.20"	0	0	np	np	np	np	np	np	xnp	###	
+C 475	475	Aud	"GUATEMALA,19,R.1,N.21"	1	0	2 Jun 1655	np	xxx	xxx	xnp	xnp	xnp	###	
+C 476	476	Aud	"GUATEMALA,19,R.1,N.22"	0	0	np	np	np	np	np	np	xnp	###	
+C 477	477	Aud	"GUATEMALA,19,R.1,N.23"	1	0	2 Jun 1655	np	xxx	xxx	xnp	xnp	xnp	###	
+C 478	478	Aud	"GUATEMALA,19,R.1,N.24"	1	0	2 Jun 1655	np	xxx	xxx	xnp	xnp	xnp	###	
+C 479	479	Aud	"GUATEMALA,19,R.1,N.25"	1	1	2 Jun 1655	2 Jun 1655	xxx	xxx	xnp	xnp	xnp	###	
+C 480	480	Aud	"GUATEMALA,19,R.1,N.26"	1	0	2 Jun 1655	np	xxx	xxx	xnp	xnp	xnp	###	
+C 481	481	Aud	"GUATEMALA,19,R.1,N.27"	1	1	3 Jun 1655	10 Jul 1658	xxx	xxx	xnp	xnp	xnp	###	
+C 482	482	Aud	"GUATEMALA,19,R.1,N.28"	1	0	3 Jun 1655	np	xxx	xxx	xnp	xnp	xnp	###	
+C 483	483	Aud	"GUATEMALA,19,R.1,N.29"	0	0	np	np	np	np	np	np	xnp	###	
+C 484	484	Aud	"GUATEMALA,19,R.1,N.30"	1	1	7 Jun 1655	27 Jan 1656	xxx	xxx	xnp	xnp	xnp	###	
+C 485	485	Aud	"GUATEMALA,19,R.1,N.31"	1	0	7 Jun 1655	np	xxx	xxx	xnp	xnp	xnp	###	
+C 486	486	Aud	"GUATEMALA,19,R.1,N.32"	1	0	8 Jun 1655	np	xxx	xxx	xnp	xnp	xnp	###	
+C 487	487	Aud	"GUATEMALA,19,R.1,N.33"	1	0	8 Jun 1655	np	xxx	xxx	xnp	xnp	xnp	###	
+C 488	488	Aud	"GUATEMALA,19,R.1,N.34"	1	0	8 Jun 1655	np	xxx	xxx	xnp	xnp	xnp	###	
+C 489	489	Aud	"GUATEMALA,19,R.1,N.35"	0	0	np	np	np	np	np	np	xnp	###	
+C 490	490	Aud	"GUATEMALA,19,R.1,N.36"	1	0	9 Jun 1655	np	xxx	xxx	xnp	xnp	xnp	###	
+C 491	491	Aud	"GUATEMALA,19,R.1,N.37"	1	0	9 Jun 1655	np	xxx	xxx	xnp	xnp	xnp	###	
+C 492	492	Aud	"GUATEMALA,19,R.1,N.38"	0	0	np	np	np	np	np	np	xnp	###	
+C 493	493	Aud	"GUATEMALA,19,R.1,N.39"	0	0	np	np	np	np	np	np	xnp	###	
+C 494	494	Aud	"GUATEMALA,19,R.1,N.40"	0	0	np	np	np	np	np	np	xnp	###	
+C 495	495	Aud	"GUATEMALA,19,R.2,N.41"	0	0	np	np	np	np	np	np	xnp	###	
+C 496	496	Aud	"GUATEMALA,19,R.2,N.42"	0	0	np	np	np	np	np	np	xnp	###	
+C 497	497	Aud	"GUATEMALA,19,R.2,N.43"	0	0	np	np	np	np	np	np	xnp	###	
+C 498	498	Aud	"GUATEMALA,19,R.2,N.44"	1	1	16 Jun 1656	4 Apr 1658	xxx	xxx	xnp	xnp	xnp	###	
+C 499	499	Aud	"GUATEMALA,19,R.2,N.45"	1	1	16 Jun 1656	30 Dec 1658	xxx	xxx	xnp	xnp	xnp	###	
+C 500	500	Aud	"GUATEMALA,19,R.2,N.46"	0	0	np	np	np	np	np	np	xnp	###	
+C 501	501	Aud	"GUATEMALA,19,R.2,N.47"	0	0	np	np	np	np	np	np	xnp	###	
+C 502	502	Aud	"GUATEMALA,19,R.2,N.48"	0	0	np	np	np	np	np	np	xnp	###	
+C 503	503	Aud	"GUATEMALA,19,R.2,N.49"	0	0	np	np	np	np	np	np	xnp	###	
+C 504	504	Aud	"GUATEMALA,19,R.2,N.50"	0	0	np	np	np	np	np	np	xnp	###	
+C 505	505	Aud	"GUATEMALA,19,R.2,N.51"	1	0	12 Jul 1656	np	xxx	xxx	xnp	xnp	xnp	###	
+C 506	506	Aud	"GUATEMALA,19,R.2,N.52"	0	0	np	np	np	np	np	np	xnp	###	
+C 507	507	Aud	"GUATEMALA,19,R.2,N.53"	1	0	12 Jul 1656	np	xxx	xxx	xnp	xnp	xnp	###	
+C 508	508	Aud	"GUATEMALA,19,R.2,N.54"	1	0	12 Jul 1656	np	xxx	xxx	xnp	xnp	xnp	###	
+C 509	509	Aud	"GUATEMALA,19,R.2,N.55"	1	0	12 Jul 1656	np	xxx	xxx	xnp	xnp	xnp	###	
+C 510	510	Aud	"GUATEMALA,19,R.2,N.56"	1	0	12 Jul 1656	np	xxx	xxx	xnp	xnp	xnp	###	
+C 511	511	Aud	"GUATEMALA,19,R.2,N.57"	1	0	13 Jul 1656	np	xxx	xxx	xnp	xnp	xnp	###	
+C 512	512	Aud	"GUATEMALA,19,R.2,N.58"	1	0	14 Jul 1656	np	xxx	xxx	xnp	xnp	xnp	###	
+C 513	513	Aud	"GUATEMALA,19,R.2,N.59"	1	0	15 Jul 1656	np	xxx	xxx	xnp	xnp	xnp	###	
+C 514	514	Aud	"GUATEMALA,19,R.2,N.60"	1	0	15 Jul 1656	np	xxx	xxx	xnp	xnp	xnp	###	
+C 515	515	Aud	"GUATEMALA,19,R.2,N.61"	1	0	15 Jul 1656	np	xxx	xxx	xnp	xnp	xnp	###	
+C 516	516	Aud	"GUATEMALA,19,R.2,N.62"	1	0	15 Jul 1656	np	xxx	xxx	xnp	xnp	xnp	###	
+C 517	517	Aud	"GUATEMALA,19,R.2,N.63"	0	0	np	np	np	np	np	np	xnp	###	
+C 518	518	Aud	"GUATEMALA,19,R.2,N.64"	1	0	16 Jul 1656	np	xxx	xxx	xnp	xnp	xnp	###	
+C 519	519	Aud	"GUATEMALA,19,R.2,N.65"	1	0	17 Jul 1656	np	xxx	xxx	xnp	xnp	xnp	###	
+C 520	520	Aud	"GUATEMALA,19,R.2,N.66"	0	0	np	np	np	np	np	np	xnp	###	
+C 521	521	Aud	"GUATEMALA,19,R.3,N.67"	0	0	np	np	np	np	np	np	"Inc re defence, possibly / Damaged"	###	
+C 522	522	Aud	"GUATEMALA,19,R.3,N.68"	0	0	np	np	np	np	np	np	"Inc re defence, possibly / Damaged"	###	
+C 523	523	Aud	"GUATEMALA,19,R.3,N.69"	0	0	np	np	np	np	np	np	"Inc re defence, possibly / Damaged"	###	
+C 524	524	Aud	"GUATEMALA,20,R.1,N.1"	1	0	13 Mar 1657	np	xxx	xxx	xnp	xnp	xnp	###	
+C 525	525	Aud	"GUATEMALA,20,R.1,N.2"	1	1	10 Jun 1657	27 Nov 1659	xxx	xxx	xnp	xnp	xnp	###	
+C 526	526	Aud	"GUATEMALA,20,R.2,N.3"	1	1	22 Mar 1658	8 Apr 1658	xxx	xxx	xnp	xnp	xnp	###	
+C 527	527	Aud	"GUATEMALA,20,R.2,N.4"	1	1	22 Mar 1658	18 Apr 1658	xxx	xxx	xnp	xnp	xnp	###	
+C 528	528	Aud	"GUATEMALA,20,R.2,N.5"	1	0	16 May 1658	np	xxx	xxx	xnp	xnp	xnp	###	
+C 529	529	Aud	"GUATEMALA,20,R.2,N.6"	0	0	np	np	np	np	np	np	xnp	###	
+C 530	530	Aud	"GUATEMALA,20,R.2,N.7"	0	0	np	np	np	np	np	np	xnp	###	
+C 531	531	Aud	"GUATEMALA,20,R.2,N.8"	0	0	np	np	np	np	np	np	xnp	###	
+C 532	532	Aud	"GUATEMALA,20,R.2,N.9"	1	0	27 Oct 1658	np	xxx	xxx	xnp	xnp	xnp	###	
+C 533	533	Aud	"GUATEMALA,20,R.2,N.10"	1	0	27 Oct 1658	np	xxx	xxx	xnp	xnp	xnp	###	
+C 534	534	Aud	"GUATEMALA,20,R.2,N.11"	1	0	3 Nov 1658	np	xxx	xxx	xnp	xnp	xnp	###	
+C 535	535	Aud	"GUATEMALA,20,R.2,N.12"	1	0	3 Nov 1658	np	xxx	xxx	xnp	xnp	xnp	###	
+C 536	536	Aud	"GUATEMALA,20,R.2,N.13"	0	0	np	np	np	np	np	np	xnp	###	
+C 537	537	Aud	"GUATEMALA,20,R.2,N.14"	1	0	3 Nov 1658	np	xxx	xxx	xnp	xnp	xnp	###	
+C 538	538	Aud	"GUATEMALA,20,R.3,N.15"	1	0	27 Jan 1659	np	xxx	xxx	xnp	xnp	xnp	###	
+C 539	539	Aud	"GUATEMALA,20,R.3,N.16"	1	0	28 Jan 1659	np	xxx	xxx	xnp	xnp	xnp	###	
+C 540	540	Aud	"GUATEMALA,20,R.3,N.17"	1	0	19 Aug 1659	np	xxx	xxx	xnp	xnp	xnp	###	
+C 541	541	Aud	"GUATEMALA,20,R.3,N.18"	0	0	np	np	np	np	np	np	xnp	###	
+C 542	542	Aud	"GUATEMALA,20,R.3,N.19"	1	0	2 Sep 1659	np	xxx	xxx	xnp	xnp	xnp	###	
+C 543	543	Aud	"GUATEMALA,20,R.3,N.20"	1	1	15 Sep 1659	6 Nov 1662	xxx	xxx	xnp	xnp	xnp	###	
+C 544	544	Aud	"GUATEMALA,20,R.3,N.21"	1	0	20 Sep 1659	np	xxx	xxx	xnp	xnp	xnp	###	
+C 545	545	Aud	"GUATEMALA,20,R.3,N.22"	0	0	np	np	np	np	np	np	xnp	###	
+C 546	546	Aud	"GUATEMALA,20,R.3,N.23"	0	0	np	np	np	np	np	np	xnp	###	
+C 547	547	Aud	"GUATEMALA,20,R.3,N.24"	1	0	8 Oct 1659	np	xxx	xxx	xnp	xnp	xnp	###	
+C 548	548	Aud	"GUATEMALA,20,R.3,N.25"	1	0	8 Oct 1659	np	xxx	xxx	xnp	xnp	xnp	###	
+C 549	549	Aud	"GUATEMALA,20,R.3,N.26"	1	0	8 Oct 1659	np	xxx	xxx	xnp	xnp	xnp	###	
+C 550	550	Aud	"GUATEMALA,20,R.3,N.27"	1	0	8 Oct 1659	np	xxx	xxx	xnp	xnp	xnp	###	
+C 551	551	Aud	"GUATEMALA,20,R.3,N.28"	1	0	8 Oct 1659	np	xxx	xxx	xnp	xnp	xnp	###	
+C 552	552	Aud	"GUATEMALA,20,R.3,N.29"	1	0	8 Oct 1659	np	xxx	xxx	xnp	xnp	xnp	###	
+C 553	553	Aud	"GUATEMALA,20,R.3,N.30"	1	0	8 Oct 1659	np	xxx	xxx	xnp	xnp	xnp	###	
+C 554	554	Aud	"GUATEMALA,20,R.3,N.31"	1	0	8 Oct 1659	np	xxx	xxx	xnp	xnp	xnp	###	
+C 555	555	Aud	"GUATEMALA,20,R.3,N.32"	1	0	8 Oct 1659	np	xxx	xxx	xnp	xnp	xnp	###	
+C 556	556	Aud	"GUATEMALA,20,R.3,N.33"	1	0	8 Oct 1659	np	xxx	xxx	xnp	xnp	xnp	###	
+C 557	557	Aud	"GUATEMALA,20,R.3,N.34"	1	0	8 Oct 1659	np	xxx	xxx	xnp	xnp	xnp	###	
+C 558	558	Aud	"GUATEMALA,20,R.3,N.35"	1	0	20 Oct 1659	np	xxx	xxx	xnp	xnp	xnp	###	
+C 559	559	Aud	"GUATEMALA,20,R.3,N.36"	1	0	20 Oct 1659	np	xxx	xxx	xnp	xnp	xnp	###	
+C 560	560	Aud	"GUATEMALA,20,R.3,N.37"	1	0	20 Oct 1659	np	xxx	xxx	xnp	xnp	xnp	###	
+C 561	561	Aud	"GUATEMALA,20,R.3,N.38"	1	0	21 Oct 1659	np	xxx	xxx	xnp	xnp	xnp	###	
+C 562	562	Aud	"GUATEMALA,20,R.3,N.39"	1	0	24 Oct 1659	np	xxx	xxx	xnp	xnp	xnp	###	
+C 563	563	Aud	"GUATEMALA,20,R.3,N.40"	1	1	15 Nov 1659	10 Jun 1661	xxx	xxx	xnp	xnp	xnp	###	
+C 564	564	Aud	"GUATEMALA,20,R.4,N.41"	1	1	9 Apr 1660	23 Apr 1660	xxx	xxx	xnp	xnp	xnp	###	
+C 565	565	Aud	"GUATEMALA,20,R.4,N.42"	0	0	np	np	np	np	np	np	xnp	###	
+C 566	566	Aud	"GUATEMALA,20,R.4,N.43"	1	0	4 Jun 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 567	567	Aud	"GUATEMALA,20,R.4,N.44"	1	1	7 Jun 1660	11 Nov 1661	xxx	xxx	xnp	xnp	xnp	###	
+C 568	568	Aud	"GUATEMALA,20,R.4,N.45"	1	0	15 Jun 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 569	569	Aud	"GUATEMALA,20,R.4,N.46"	1	0	23 Jun 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 570	570	Aud	"GUATEMALA,20,R.4,N.47"	1	0	18 Jul 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 571	571	Aud	"GUATEMALA,20,R.4,N.48"	1	0	24 Jul 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 572	572	Aud	"GUATEMALA,20,R.4,N.49"	1	0	24 Jul 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 573	573	Aud	"GUATEMALA,20,R.4,N.50"	1	0	24 Jul 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 574	574	Aud	"GUATEMALA,20,R.4,N.51"	1	0	24 Jul 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 575	575	Aud	"GUATEMALA,20,R.4,N.52"	1	0	25 Jul 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 576	576	Aud	"GUATEMALA,20,R.4,N.53"	0	0	np	np	np	np	np	np	xnp	###	
+C 577	577	Aud	"GUATEMALA,20,R.4,N.54"	1	0	26 Jul 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 578	578	Aud	"GUATEMALA,20,R.4,N.55"	1	0	26 Jul 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 579	579	Aud	"GUATEMALA,20,R.4,N.56"	1	0	26 Jul 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 580	580	Aud	"GUATEMALA,20,R.4,N.57"	1	0	26 Jul 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 581	581	Aud	"GUATEMALA,20,R.4,N.58"	1	0	26 Jul 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 582	582	Aud	"GUATEMALA,20,R.4,N.59"	1	0	28 Jul 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 583	583	Aud	"GUATEMALA,20,R.4,N.60"	1	0	28 Jul 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 584	584	Aud	"GUATEMALA,20,R.4,N.61"	1	0	28 Jul 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 585	585	Aud	"GUATEMALA,20,R.4,N.62"	1	0	28 Jul 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 586	586	Aud	"GUATEMALA,20,R.4,N.63"	1	0	28 Jul 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 587	587	Aud	"GUATEMALA,20,R.4,N.64"	1	0	28 Jul 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 588	588	Aud	"GUATEMALA,20,R.4,N.65"	1	0	28 Jul 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 589	589	Aud	"GUATEMALA,20,R.4,N.66"	1	0	29 Jul 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 590	590	Aud	"GUATEMALA,20,R.4,N.67"	1	0	29 Jul 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 591	591	Aud	"GUATEMALA,20,R.4,N.68"	1	0	30 Jul 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 592	592	Aud	"GUATEMALA,20,R.4,N.69"	1	0	30 Jul 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 593	593	Aud	"GUATEMALA,20,R.4,N.70"	1	1	30 Jul 1660	17 Jul 1662	xxx	xxx	xnp	xnp	xnp	###	
+C 594	594	Aud	"GUATEMALA,20,R.4,N.71"	1	0	2 Aug 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 595	595	Aud	"GUATEMALA,20,R.4,N.72"	1	0	4 Aug 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 596	596	Aud	"GUATEMALA,20,R.4,N.73"	1	0	8 Aug 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 597	597	Aud	"GUATEMALA,20,R.4,N.74"	0	0	np	np	np	np	np	np	xnp	###	
+C 598	598	Aud	"GUATEMALA,20,R.4,N.75"	0	0	np	np	np	np	np	np	xnp	###	
+C 599	599	Aud	"GUATEMALA,20,R.4,N.76"	0	0	np	np	np	np	np	np	xnp	###	
+C 600	600	Aud	"GUATEMALA,20,R.4,N.76BIS"	0	0	np	np	np	np	np	np	xnp	###	
+C 601	601	Aud	"GUATEMALA,20,R.4,N.77"	0	0	np	np	np	np	np	np	xnp	###	
+C 602	602	Aud	"GUATEMALA,20,R.4,N.78"	1	0	9 Aug 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 603	603	Aud	"GUATEMALA,20,R.4,N.79"	0	0	np	np	np	np	np	np	xnp	###	
+C 604	604	Aud	"GUATEMALA,20,R.4,N.80"	0	0	np	np	np	np	np	np	xnp	###	
+C 605	605	Aud	"GUATEMALA,20,R.4,N.81"	0	0	np	np	np	np	np	np	xnp	###	
+C 606	606	Aud	"GUATEMALA,20,R.4,N.82"	1	0	6 Sep 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 607	607	Aud	"GUATEMALA,20,R.4,N.83"	1	0	12 Sep 1660	np	xxx	xxx	xnp	xnp	xnp	###	
+C 608	608	Aud	"GUATEMALA,20,R.5,N.84"	1	0	16 Feb 1661	np	xxx	xxx	xnp	xnp	xnp	###	
+C 609	609	Aud	"GUATEMALA,20,R.5,N.85"	1	0	17 Feb 1661	np	xxx	xxx	xnp	xnp	xnp	###	
+C 610	610	Aud	"GUATEMALA,20,R.5,N.86"	0	0	np	np	np	np	np	np	xnp	###	
+C 611	611	Aud	"GUATEMALA,20,R.5,N.87"	0	0	np	np	np	np	np	np	xnp	###	
+C 612	612	Aud	"GUATEMALA,20,R.5,N.88"	0	0	np	np	np	np	np	np	xnp	###	
+C 613	613	Aud	"GUATEMALA,20,R.5,N.89"	1	1	13 Jun 1661	17 Feb 1663	xxx	xxx	xnp	xnp	xnp	###	
+C 614	614	Aud	"GUATEMALA,20,R.5,N.90"	0	0	np	np	np	np	np	np	xnp	###	
+C 615	615	Aud	"GUATEMALA,20,R.5,N.91"	1	1	12 Oct 1661	31 Jul 1662	xxx	xxx	xnp	xnp	xnp	###	
+C 616	616	Aud	"GUATEMALA,20,R.5,N.92"	1	0	18 Oct 1661	np	xxx	xxx	xnp	xnp	xnp	###	
+C 617	617	Aud	"GUATEMALA,20,R.5,N.93"	1	0	19 Oct 1661	np	xxx	xxx	xnp	xnp	xnp	###	
+C 618	618	Aud	"GUATEMALA,20,R.5,N.94"	0	0	np	np	np	np	np	np	xnp	###	
+C 619	619	Aud	"GUATEMALA,20,R.5,N.95"	0	0	np	np	np	np	np	np	xnp	###	
+C 620	620	Aud	"GUATEMALA,20,R.5,N.96"	0	0	np	np	np	np	np	np	xnp	###	
+C 621	621	Aud	"GUATEMALA,20,R.5,N.97"	1	0	28 Oct 1661	np	xxx	xxx	xnp	xnp	xnp	###	
+C 622	622	Aud	"GUATEMALA,20,R.5,N.98"	1	0	30 Oct 1661	np	xxx	xxx	xnp	xnp	xnp	###	
+C 623	623	Aud	"GUATEMALA,20,R.5,N.99"	1	1	22 Dec 1661	13 Apr 1663	xxx	xxx	xnp	xnp	xnp	###	
+C 624	624	Aud	"GUATEMALA,20,R.5,N.100"	1	0	28 Dec 1661	np	xxx	xxx	xnp	xnp	xnp	###	
+C 625	625	Aud	"GUATEMALA,21,R.1,N.1"	0	0	np	np	np	np	np	np	xnp	###	
+C 626	626	Aud	"GUATEMALA,21,R.1,N.2"	1	1	25 Feb 1662	3 Oct 1667	xxx	xxx	xnp	xnp	xnp	###	
+C 627	627	Aud	"GUATEMALA,21,R.2,N.3"	1	0	22 Jan 1663	np	xxx	xxx	xnp	xnp	xnp	###	
+C 628	628	Aud	"GUATEMALA,21,R.2,N.4"	1	0	30 Jan 1663	np	xxx	xxx	xnp	xnp	xnp	###	
+C 629	629	Aud	"GUATEMALA,21,R.2,N.5"	1	0	17 Feb 1663	np	xxx	xxx	xnp	xnp	xnp	###	
+C 630	630	Aud	"GUATEMALA,21,R.2,N.6"	1	0	18 Feb 1663	np	xxx	xxx	xnp	xnp	xnp	###	
+C 631	631	Aud	"GUATEMALA,21,R.2,N.7"	1	0	20 Feb 1663	np	xxx	xxx	xnp	xnp	xnp	###	
+C 632	632	Aud	"GUATEMALA,21,R.2,N.8"	1	0	20 Feb 1663	np	xxx	xxx	xnp	xnp	xnp	###	
+C 633	633	Aud	"GUATEMALA,21,R.2,N.9"	1	0	21 Feb 1663	np	xxx	xxx	xnp	xnp	xnp	###	
+C 634	634	Aud	"GUATEMALA,21,R.2,N.10"	1	0	22 Feb 1663	np	xxx	xxx	xnp	xnp	xnp	###	
+C 635	635	Aud	"GUATEMALA,21,R.2,N.11"	1	0	22 Feb 1663	np	xxx	xxx	xnp	xnp	xnp	###	
+C 636	636	Aud	"GUATEMALA,21,R.2,N.12"	1	0	23 Feb 1663	np	xxx	xxx	xnp	xnp	xnp	###	
+C 637	637	Aud	"GUATEMALA,21,R.2,N.13"	1	0	23 Feb 1663	np	xxx	xxx	xnp	xnp	xnp	###	
+C 638	638	Aud	"GUATEMALA,21,R.2,N.14"	1	0	23 Feb 1663	np	xxx	xxx	xnp	xnp	xnp	###	
+C 639	639	Aud	"GUATEMALA,21,R.2,N.15"	1	0	24 Feb 1663	np	xxx	xxx	xnp	xnp	xnp	###	
+C 640	640	Aud	"GUATEMALA,21,R.2,N.16"	1	0	24 Feb 1663	np	xxx	xxx	xnp	xnp	xnp	###	
+C 641	641	Aud	"GUATEMALA,21,R.2,N.17"	1	0	24 Feb 1663	np	xxx	xxx	xnp	xnp	xnp	###	
+C 642	642	Aud	"GUATEMALA,21,R.2,N.18"	1	0	24 Feb 1663	np	xxx	xxx	xnp	xnp	xnp	###	
+C 643	643	Aud	"GUATEMALA,21,R.2,N.19"	1	0	24 Feb 1663	np	xxx	xxx	xnp	xnp	xnp	###	
+C 644	644	Aud	"GUATEMALA,21,R.2,N.20"	1	0	26 Feb 1663	np	xxx	xxx	xnp	xnp	xnp	###	
+C 645	645	Aud	"GUATEMALA,21,R.2,N.21"	1	0	27 Feb 1663	np	xxx	xxx	xnp	xnp	xnp	###	
+C 646	646	Aud	"GUATEMALA,21,R.2,N.22"	1	0	27 Feb 1663	np	xxx	xxx	xnp	xnp	xnp	###	
+C 647	647	Aud	"GUATEMALA,21,R.2,N.23"	1	0	28 Feb 1663	np	xxx	xxx	xnp	xnp	xnp	###	
+C 648	648	Aud	"GUATEMALA,21,R.2,N.24"	1	1	8 Mar 1663	4 Jul 1664	xxx	xxx	xnp	xnp	xnp	###	
+C 649	649	Aud	"GUATEMALA,21,R.2,N.25"	1	1	8 Mar 1663	6 Mar 1665	xxx	xxx	xnp	xnp	xnp	###	
+C 650	650	Aud	"GUATEMALA,21,R.2,N.26"	1	0	12 Mar 1663	np	xxx	xxx	xnp	xnp	xnp	###	
+C 651	651	Aud	"GUATEMALA,21,R.2,N.27"	1	1	14 Mar 1663	28 Mar 1670	xxx	xxx	xnp	xnp	xnp	###	
+C 652	652	Aud	"GUATEMALA,21,R.2,N.28"	1	0	14 Mar 1663	np	xxx	xxx	xnp	xnp	xnp	###	
+C 653	653	Aud	"GUATEMALA,21,R.2,N.29"	1	1	15 Mar 1663	22 Sep 1664	xxx	xxx	xnp	xnp	xnp	###	
+C 654	654	Aud	"GUATEMALA,21,R.2,N.30"	1	1	20 Jul 1663	14 Feb 1664	xxx	xxx	xnp	xnp	xnp	###	
+C 655	655	Aud	"GUATEMALA,21,R.2,N.31"	0	0	np	np	np	np	np	np	xnp	###	
+C 656	656	Aud	"GUATEMALA,21,R.2,N.32"	0	0	np	np	np	np	np	np	xnp	###	
+C 657	657	Aud	"GUATEMALA,21,R.2,N.33"	0	0	np	np	np	np	np	np	xnp	###	
+C 658	658	Aud	"GUATEMALA,21,R.2,N.34"	1	1	26 Nov 1663	28 Nov 1664	xxx	xxx	xnp	xnp	xnp	###	
+C 659	659	Aud	"GUATEMALA,21,R.3,N.35"	1	0	11 Aug 1664	np	xxx	xxx	xnp	xnp	xnp	###	
+C 660	660	Aud	"GUATEMALA,21,R.3,N.36"	1	0	19 Aug 1664	np	xxx	xxx	xnp	xnp	xnp	###	
+C 661	661	Aud	"GUATEMALA,21,R.3,N.37"	1	0	20 Aug 1664	np	xxx	xxx	xnp	xnp	xnp	###	
+C 662	662	Aud	"GUATEMALA,21,R.3,N.38"	1	0	20 Aug 1664	np	xxx	xxx	xnp	xnp	xnp	###	
+C 663	663	Aud	"GUATEMALA,21,R.3,N.39"	1	0	21 Aug 1664	np	xxx	xxx	xnp	xnp	xnp	###	
+C 664	664	Aud	"GUATEMALA,21,R.4,N.40"	1	0	16 Jan 1665	np	xxx	xxx	xnp	xnp	xnp	###	
+C 665	665	Aud	"GUATEMALA,21,R.4,N.41"	1	0	5 Jul 1665	np	xxx	xxx	xnp	xnp	xnp	###	
+C 666	666	Aud	"GUATEMALA,21,R.4,N.42"	1	0	5 Jul 1665	np	xxx	xxx	xnp	xnp	xnp	###	
+C 667	667	Aud	"GUATEMALA,21,R.4,N.43"	1	0	5 Jul 1665	np	xxx	xxx	xnp	xnp	xnp	###	
+C 668	668	Aud	"GUATEMALA,21,R.4,N.44"	1	0	5 Jul 1665	np	xxx	xxx	xnp	xnp	xnp	###	
+C 669	669	Aud	"GUATEMALA,21,R.4,N.45"	1	0	8 Jul 1665	np	xxx	xxx	xnp	xnp	xnp	###	
+C 670	670	Aud	"GUATEMALA,21,R.4,N.46"	1	0	8 Jul 1665	np	xxx	xxx	xnp	xnp	xnp	###	
+C 671	671	Aud	"GUATEMALA,21,R.4,N.47"	1	0	8 Jul 1665	np	xxx	xxx	xnp	xnp	xnp	###	
+C 672	672	Aud	"GUATEMALA,21,R.4,N.48"	1	0	8 Jul 1665	np	xxx	xxx	xnp	xnp	xnp	###	
+C 673	673	Aud	"GUATEMALA,21,R.4,N.49"	1	1	8 Jul 1665	3 Nov 1666	xxx	xxx	xnp	xnp	xnp	###	
+C 674	674	Aud	"GUATEMALA,21,R.4,N.50"	1	0	12 Jul 1665	np	xxx	xxx	xnp	xnp	xnp	###	
+C 675	675	Aud	"GUATEMALA,21,R.4,N.51"	1	1	12 Jul 1665	25 Sep 1666	xxx	xxx	xnp	xnp	xnp	###	
+C 676	676	Aud	"GUATEMALA,22,R.1,N.1"	1	1	12 Feb 1666	10 Jun 1667	xxx	xxx	xnp	xnp	xnp	###	
+C 677	677	Aud	"GUATEMALA,22,R.1,N.2"	0	0	np	np	np	np	np	np	xnp	###	
+C 678	678	Aud	"GUATEMALA,22,R.1,N.3"	1	0	20 Feb 1666	np	xxx	xxx	xnp	xnp	xnp	###	
+C 679	679	Aud	"GUATEMALA,22,R.1,N.4"	1	0	27 Feb 1666	np	xxx	xxx	xnp	xnp	xnp	###	
+C 680	680	Aud	"GUATEMALA,22,R.1,N.5"	1	0	12 Mar 1666	np	xxx	xxx	xnp	xnp	xnp	###	
+C 681	681	Aud	"GUATEMALA,22,R.1,N.6"	1	0	15 Mar 1666	np	xxx	xxx	xnp	xnp	xnp	###	
+C 682	682	Aud	"GUATEMALA,22,R.1,N.7"	1	0	15 Mar 1666	np	xxx	xxx	xnp	xnp	xnp	###	
+C 683	683	Aud	"GUATEMALA,22,R.1,N.8"	1	1	15 Mar 1666	21 Apr 1670	xxx	xxx	xnp	xnp	xnp	###	
+C 684	684	Aud	"GUATEMALA,22,R.1,N.9"	1	0	13 May 1666	np	xxx	xxx	xnp	xnp	xnp	###	
+C 685	685	Aud	"GUATEMALA,22,R.1,N.10"	1	0	13 May 1666	np	xxx	xxx	xnp	xnp	xnp	###	
+C 686	686	Aud	"GUATEMALA,22,R.1,N.11"	1	1	30 May 1666	19 Oct 1671	xxx	xxx	xnp	xnp	Inc re defence	###	
+C 687	687	Aud	"GUATEMALA,22,R.1,N.12"	1	0	28 Jul 1666	np	xxx	xxx	xnp	xnp	xnp	###	
+C 688	688	Aud	"GUATEMALA,22,R.1,N.13"	1	1	7 Sep 1666	11 Mar 1667	xxx	xxx	xnp	xnp	xnp	###	
+C 689	689	Aud	"GUATEMALA,22,R.2,N.14"	1	1	3 Feb 1667	12 Dec 1667	xxx	xxx	xnp	xnp	xnp	###	
+C 690	690	Aud	"GUATEMALA,22,R.2,N.15"	0	0	np	np	np	np	np	np	xnp	###	
+C 691	691	Aud	"GUATEMALA,22,R.2,N.16"	1	0	7 Mar 1667	np	xxx	xxx	xnp	xnp	xnp	###	
+C 692	692	Aud	"GUATEMALA,22,R.2,N.17"	0	0	np	np	np	np	np	np	xnp	###	
+C 693	693	Aud	"GUATEMALA,22,R.2,N.18"	1	0	20 Mar 1667	np	xxx	xxx	xnp	xnp	xnp	###	
+C 694	694	Aud	"GUATEMALA,22,R.2,N.19"	0	0	np	np	np	np	np	np	xnp	###	
+C 695	695	Aud	"GUATEMALA,22,R.2,N.20"	0	0	np	np	np	np	np	np	xnp	###	
+C 696	696	Aud	"GUATEMALA,22,R.2,N.21"	1	0	22 Oct 1667	np	xxx	xxx	xnp	xnp	xnp	###	
+C 697	697	Aud	"GUATEMALA,22,R.3,N.22"	1	0	31 Mar 1668	np	xxx	xxx	xnp	xnp	xnp	###	
+C 698	698	Aud	"GUATEMALA,22,R.3,N.23"	1	0	24 May 1668	np	xxx	xxx	xnp	xnp	xnp	###	
+C 699	699	Aud	"GUATEMALA,22,R.3,N.24"	1	0	25 May 1668	np	xxx	xxx	xnp	xnp	xnp	###	
+C 700	700	Aud	"GUATEMALA,22,R.3,N.25"	1	0	25 May 1668	np	xxx	xxx	xnp	xnp	xnp	###	
+C 701	701	Aud	"GUATEMALA,22,R.3,N.26"	1	0	26 May 1668	np	xxx	xxx	xnp	xnp	xnp	###	
+C 702	702	Aud	"GUATEMALA,22,R.3,N.27"	1	0	28 May 1668	np	xxx	xxx	xnp	xnp	xnp	###	
+C 703	703	Aud	"GUATEMALA,22,R.3,N.28"	1	0	28 May 1668	np	xxx	xxx	xnp	xnp	xnp	###	
+C 704	704	Aud	"GUATEMALA,22,R.3,N.29"	1	0	28 May 1668	np	xxx	xxx	xnp	xnp	xnp	###	
+C 705	705	Aud	"GUATEMALA,22,R.3,N.30"	1	0	28 May 1668	np	xxx	xxx	xnp	xnp	xnp	###	
+C 706	706	Aud	"GUATEMALA,22,R.3,N.31"	1	0	28 May 1668	np	xxx	xxx	xnp	xnp	xnp	###	
+C 707	707	Aud	"GUATEMALA,22,R.3,N.32"	1	0	28 May 1668	np	xxx	xxx	xnp	xnp	xnp	###	
+C 708	708	Aud	"GUATEMALA,22,R.3,N.33"	0	0	np	np	np	np	np	np	xnp	###	
+C 709	709	Aud	"GUATEMALA,22,R.3,N.34"	1	0	14 Jun 1668	np	xxx	xxx	xnp	xnp	xnp	###	
+C 710	710	Aud	"GUATEMALA,22,R.4,N.35"	1	0	30 Jan 1669	np	xxx	xxx	xnp	xnp	xnp	###	
+C 711	711	Aud	"GUATEMALA,22,R.4,N.36"	0	0	np	np	np	np	np	np	xnp	###	
+C 712	712	Aud	"GUATEMALA,22,R.4,N.37"	1	1	7 Mar 1669	23 Mar 1669	xxx	xxx	xnp	xnp	xnp	###	
+C 713	713	Aud	"GUATEMALA,22,R.4,N.38"	1	0	5 Apr 1669	np	xxx	xxx	xnp	xnp	xnp	###	
+C 714	714	Aud	"GUATEMALA,22,R.4,N.39"	0	0	np	np	np	np	np	np	xnp	###	
+C 715	715	Aud	"GUATEMALA,22,R.4,N.40"	0	0	np	np	np	np	np	np	xnp	###	
+C 716	716	Aud	"GUATEMALA,22,R.4,N.41"	0	0	np	np	np	np	np	np	xnp	###	
+C 717	717	Aud	"GUATEMALA,22,R.5,N.42"	0	0	np	np	np	np	np	np	xnp	###	
+C 718	718	Aud	"GUATEMALA,22,R.5,N.43"	1	0	25 Jul 1670	np	xxx	xxx	xnp	xnp	xnp	###	
+C 719	719	Aud	"GUATEMALA,22,R.5,N.44"	1	0	25 Jul 1670	np	xxx	xxx	xnp	xnp	xnp	###	
+C 720	720	Aud	"GUATEMALA,22,R.5,N.45"	1	0	15 Aug 1670	np	xxx	xxx	xnp	xnp	xnp	###	
+C 721	721	Aud	"GUATEMALA,22,R.5,N.46"	1	0	15 Aug 1670	np	xxx	xxx	xnp	xnp	xnp	###	
+C 722	722	Aud	"GUATEMALA,22,R.5,N.47"	1	0	18 Aug 1670	np	xxx	xxx	xnp	xnp	xnp	###	
+C 723	723	Aud	"GUATEMALA,22,R.5,N.48"	1	1	19 Aug 1670	7 Apr 1671	xxx	xxx	xnp	xnp	xnp	###	
+C 724	724	Aud	"GUATEMALA,22,R.5,N.49"	1	0	20 Aug 1670	np	xxx	xxx	xnp	xnp	xnp	###	
+C 725	725	Aud	"GUATEMALA,22,R.5,N.50"	1	0	20 Aug 1670	np	xxx	xxx	xnp	xnp	xnp	###	
+C 726	726	Aud	"GUATEMALA,22,R.5,N.51"	1	0	20 Aug 1670	np	xxx	xxx	xnp	xnp	xnp	###	
+C 727	727	Aud	"GUATEMALA,22,R.5,N.52"	0	0	np	np	np	np	np	np	xnp	###	
+C 728	728	Aud	"GUATEMALA,22,R.5,N.53"	0	0	np	np	np	np	np	np	xnp	###	
+C 729	729	Aud	"GUATEMALA,22,R.5,N.54"	0	0	np	np	np	np	np	np	xnp	###	
+C 730	730	Aud	"GUATEMALA,22,R.5,N.55"	1	0	23 Nov 1670	np	xxx	xxx	xnp	xnp	xnp	###	
+C 731	731	Aud	"GUATEMALA,23,R.1,N.1"	1	0	15 Mar 1671	np	xxx	xxx	xnp	xnp	xnp	###	
+C 732	732	Aud	"GUATEMALA,23,R.1,N.2"	1	0	15 Mar 1671	np	xxx	xxx	xnp	xnp	xnp	###	
+C 733	733	Aud	"GUATEMALA,23,R.1,N.3"	1	0	15 Mar 1671	np	xxx	xxx	xnp	xnp	xnp	###	
+C 734	734	Aud	"GUATEMALA,23,R.1,N.4"	1	0	16 Mar 1671	np	xxx	xxx	xnp	xnp	xnp	###	
+C 735	735	Aud	"GUATEMALA,23,R.1,N.5"	1	0	16 Mar 1671	np	xxx	xxx	xnp	xnp	xnp	###	
+C 736	736	Aud	"GUATEMALA,23,R.1,N.6"	0	0	np	np	np	np	np	np	xnp	###	
+C 737	737	Aud	"GUATEMALA,23,R.1,N.7"	1	1	20 Mar 1671	12 Nov 1672	xxx	xxx	xnp	xnp	Inc re defence	###	
+C 738	738	Aud	"GUATEMALA,23,R.1,N.8"	1	1	20 Mar 1671	26 May 1674	xxx	xxx	xnp	xnp	xnp	###	
+C 739	739	Aud	"GUATEMALA,23,R.1,N.9"	0	0	np	np	np	np	np	np	xnp	###	
+C 740	740	Aud	"GUATEMALA,23,R.1,N.10"	0	0	np	np	np	np	np	np	xnp	###	
+C 741	741	Aud	"GUATEMALA,23,R.1,N.11"	1	0	20 Mar 1671	np	xxx	xxx	xnp	xnp	xnp	###	
+C 742	742	Aud	"GUATEMALA,23,R.1,N.12"	1	1	31 Aug 1671	22 Aug 1672	xxx	xxx	xnp	xnp	xnp	###	
+C 743	743	Aud	"GUATEMALA,23,R.1,N.13"	0	0	np	np	np	np	np	np	xnp	###	
+C 744	744	Aud	"GUATEMALA,23,R.1,N.14"	0	0	np	np	np	np	np	np	xnp	###	
+C 745	745	Aud	"GUATEMALA,23,R.2,N.15"	0	0	np	np	np	np	np	np	xnp	###	
+C 746	746	Aud	"GUATEMALA,23,R.2,N.16"	0	0	np	np	np	np	np	np	xnp	###	
+C 747	747	Aud	"GUATEMALA,23,R.2,N.17"	1	0	16 Mar 1672	np	xxx	xxx	xnp	xnp	xnp	###	
+C 748	748	Aud	"GUATEMALA,23,R.2,N.18"	1	1	18 Mar 1672	12 Nov 1672	xxx	xxx	xnp	xnp	xnp	###	
+C 749	749	Aud	"GUATEMALA,23,R.2,N.19"	1	0	19 Mar 1672	np	xxx	xxx	xnp	xnp	xnp	###	
+C 750	750	Aud	"GUATEMALA,23,R.2,N.20"	1	1	19 Mar 1672	15 Aug 1673	xxx	xxx	xnp	xnp	xnp	###	
+C 751	751	Aud	"GUATEMALA,23,R.2,N.21"	0	0	np	np	np	np	np	np	xnp	###	
+C 752	752	Aud	"GUATEMALA,23,R.2,N.22"	0	0	np	np	np	np	np	np	xnp	###	
+C 753	753	Aud	"GUATEMALA,23,R.2,N.23"	1	0	20 Mar 1672	np	xxx	xxx	xnp	xnp	xnp	###	
+C 754	754	Aud	"GUATEMALA,23,R.2,N.24"	0	0	np	np	np	np	np	np	xnp	###	
+C 755	755	Aud	"GUATEMALA,23,R.2,N.25"	0	0	np	np	np	np	np	np	xnp	###	
+C 756	756	Aud	"GUATEMALA,23,R.2,N.26"	0	0	np	np	np	np	np	np	xnp	###	
+C 757	757	Aud	"GUATEMALA,23,R.2,N.27"	0	0	np	np	np	np	np	np	xnp	###	
+C 758	758	Aud	"GUATEMALA,23,R.2,N.28"	0	0	np	np	np	np	np	np	xnp	###	
+C 759	759	Aud	"GUATEMALA,23,R.2,N.29"	1	0	20 Mar 1672	np	xxx	xxx	xnp	xnp	xnp	###	
+C 760	760	Aud	"GUATEMALA,23,R.2,N.30"	0	0	np	np	np	np	np	np	xnp	###	
+C 761	761	Aud	"GUATEMALA,23,R.2,N.31"	0	0	np	np	np	np	np	np	xnp	###	
+C 762	762	Aud	"GUATEMALA,23,R.2,N.32"	0	0	np	np	np	np	np	np	xnp	###	
+C 763	763	Aud	"GUATEMALA,23,R.2,N.33"	1	0	14 Jun 1672	np	xxx	xxx	xnp	xnp	xnp	###	
+C 764	764	Aud	"GUATEMALA,23,R.2,N.34"	1	0	21 Jun 1672	np	xxx	xxx	xnp	xnp	xnp	###	
+C 765	765	Aud	"GUATEMALA,23,R.2,N.35"	0	0	np	np	np	np	np	np	xnp	###	
+C 766	766	Aud	"GUATEMALA,23,R.2,N.36"	1	0	20 Oct 1672	np	xxx	xxx	xnp	xnp	xnp	###	
+C 767	767	Aud	"GUATEMALA,23,R.2,N.37"	1	0	20 Oct 1672	np	xxx	xxx	xnp	xnp	xnp	###	
+C 768	768	Aud	"GUATEMALA,23,R.2,N.38"	1	1	26 Oct 1672	16 Nov 1672	xxx	xxx	xnp	xnp	xnp	###	
+C 769	769	Aud	"GUATEMALA,23,R.2,N.39"	1	0	3 Dec 1672	np	xxx	xxx	xnp	xnp	xnp	###	
+C 770	770	Aud	"GUATEMALA,24,R.1,N.1"	1	1	26 Jan 1673	16 Feb 1673	xxx	xxx	xnp	xnp	xnp	###	
+C 771	771	Aud	"GUATEMALA,24,R.1,N.2"	0	0	np	np	np	np	np	np	xnp	###	
+C 772	772	Aud	"GUATEMALA,24,R.1,N.3"	0	0	np	np	np	np	np	np	Inc re defence	###	
+C 773	773	Aud	"GUATEMALA,24,R.1,N.4"	1	0	10 Jul 1673	np	xxx	xxx	xnp	xnp	xnp	###	
+C 774	774	Aud	"GUATEMALA,24,R.1,N.5"	1	0	14 Jul 1673	np	xxx	xxx	xnp	xnp	xnp	###	
+C 775	775	Aud	"GUATEMALA,24,R.1,N.6"	0	0	np	np	np	np	np	np	xnp	###	
+C 776	776	Aud	"GUATEMALA,24,R.1,N.7"	0	0	np	np	np	np	np	np	xnp	###	
+C 777	777	Aud	"GUATEMALA,24,R.1,N.8"	0	0	np	np	np	np	np	np	xnp	###	
+C 778	778	Aud	"GUATEMALA,24,R.1,N.9"	1	0	18 Jul 1673	np	xxx	xxx	xnp	xnp	xnp	###	
+C 779	779	Aud	"GUATEMALA,24,R.1,N.10"	0	0	np	np	np	np	np	np	xnp	###	
+C 780	780	Aud	"GUATEMALA,24,R.1,N.11"	0	0	np	np	np	np	np	np	xnp	###	
+C 781	781	Aud	"GUATEMALA,24,R.1,N.12"	0	0	np	np	np	np	np	np	xnp	###	
+C 782	782	Aud	"GUATEMALA,24,R.2,N.13"	0	0	np	np	np	np	np	np	xnp	###	
+C 783	783	Aud	"GUATEMALA,24,R.2,N.14"	0	0	np	np	np	np	np	np	xnp	###	
+C 784	784	Aud	"GUATEMALA,24,R.2,N.15"	1	0	9 Mar 1674	np	xxx	xxx	xnp	xnp	xnp	###	
+C 785	785	Aud	"GUATEMALA,24,R.2,N.16"	0	0	np	np	np	np	np	np	xnp	###	
+C 786	786	Aud	"GUATEMALA,24,R.2,N.17"	1	0	10 Mar 1674	np	xxx	xxx	xnp	xnp	xnp	###	
+C 787	787	Aud	"GUATEMALA,24,R.2,N.18"	1	1	4 Apr 1674	30 Jan 1676	xxx	xxx	xnp	xnp	xnp	###	
+C 788	788	Aud	"GUATEMALA,24,R.2,N.19"	1	0	13 Apr 1674	np	xxx	xxx	xnp	xnp	xnp	###	
+C 789	789	Aud	"GUATEMALA,24,R.2,N.20"	0	0	np	np	np	np	np	np	xnp	###	
+C 790	790	Aud	"GUATEMALA,24,R.2,N.21"	1	0	18 Apr 1674	np	xxx	xxx	xnp	xnp	xnp	###	
+C 791	791	Aud	"GUATEMALA,24,R.2,N.22"	1	0	18 Apr 1674	np	xxx	xxx	xnp	xnp	xnp	###	
+C 792	792	Aud	"GUATEMALA,24,R.2,N.23"	1	0	19 Apr 1674	np	xxx	xxx	xnp	xnp	xnp	###	
+C 793	793	Aud	"GUATEMALA,24,R.2,N.24"	0	0	np	np	np	np	np	np	xnp	###	
+C 794	794	Aud	"GUATEMALA,24,R.2,N.25"	0	0	np	np	np	np	np	np	xnp	###	
+C 795	795	Aud	"GUATEMALA,24,R.2,N.25BIS"	0	0	np	np	np	np	np	np	xnp	###	
+C 796	796	Aud	"GUATEMALA,24,R.2,N.26"	1	0	20 Apr 1674	np	xxx	xxx	xnp	xnp	xnp	###	
+C 797	797	Aud	"GUATEMALA,24,R.2,N.27"	1	1	20 Apr 1674	29 Mar 1675	xxx	xxx	xnp	xnp	xnp	###	
+C 798	798	Aud	"GUATEMALA,24,R.3,N.28"	0	0	np	np	np	np	np	np	xnp	###	
+C 799	799	Aud	"GUATEMALA,24,R.3,N.29"	1	0	24 Mar 1675	np	xxx	xxx	xnp	xnp	xnp	###	
+C 800	800	Aud	"GUATEMALA,24,R.3,N.30"	0	0	np	np	np	np	np	np	xnp	###	
+C 801	801	Aud	"GUATEMALA,24,R.3,N.31"	1	0	5 Apr 1675	np	xxx	xxx	xnp	xnp	xnp	###	
+C 802	802	Aud	"GUATEMALA,24,R.3,N.32"	0	0	np	np	np	np	np	np	xnp	###	
+C 803	803	Aud	"GUATEMALA,24,R.3,N.33"	1	0	6 Apr 1675	np	xxx	xxx	xnp	xnp	xnp	###	
+C 804	804	Aud	"GUATEMALA,24,R.3,N.34"	0	0	np	np	np	np	np	np	xnp	###	
+C 805	805	Aud	"GUATEMALA,24,R.3,N.35"	1	0	6 Apr 1675	np	xxx	xxx	xnp	xnp	xnp	###	
+C 806	806	Aud	"GUATEMALA,24,R.3,N.36"	1	0	6 Apr 1675	np	xxx	xxx	xnp	xnp	xnp	###	
+C 807	807	Aud	"GUATEMALA,24,R.3,N.37"	1	0	6 Apr 1675	np	xxx	xxx	xnp	xnp	xnp	###	
+C 808	808	Aud	"GUATEMALA,24,R.3,N.38"	1	0	6 Apr 1675	np	xxx	xxx	xnp	xnp	xnp	###	
+C 809	809	Aud	"GUATEMALA,24,R.3,N.39"	1	1	6 Apr 1675	13 Aug 1676	xxx	xxx	xnp	xnp	xnp	###	
+C 810	810	Aud	"GUATEMALA,24,R.3,N.40"	1	1	7 Apr 1675	17 Mar 1676	xxx	xxx	xnp	xnp	xnp	###	
+C 811	811	Aud	"GUATEMALA,24,R.3,N.41"	0	0	np	np	np	np	np	np	xnp	###	
+C 812	812	Aud	"GUATEMALA,24,R.3,N.42"	1	0	18 Apr 1675	np	xxx	xxx	xnp	xnp	xnp	###	
+C 813	813	Aud	"GUATEMALA,24,R.3,N.43"	0	0	np	np	np	np	np	np	xnp	###	
+C 814	814	Aud	"GUATEMALA,24,R.3,N.44"	0	0	np	np	np	np	np	np	xnp	###	
+C 815	815	Aud	"GUATEMALA,24,R.3,N.45"	0	0	np	np	np	np	np	np	xnp	###	
+C 816	816	Aud	"GUATEMALA,24,R.3,N.46"	1	0	12 Aug 1675	np	xxx	xxx	xnp	xnp	xnp	###	
+C 817	817	Aud	"GUATEMALA,24,R.3,N.47"	0	0	np	np	np	np	np	np	xnp	###	
+C 818	818	Aud	"GUATEMALA,24,R.3,N.48"	1	0	8 Dec 1675	np	xxx	xxx	xnp	xnp	xnp	###	
+C 819	819	Aud	"GUATEMALA,25,R.1,N.1"	1	0	6 Mar 1676	np	xxx	xxx	xnp	xnp	xnp	###	
+C 820	820	Aud	"GUATEMALA,25,R.1,N.2"	1	0	18 Mar 1676	np	xxx	xxx	xnp	xnp	xnp	###	
+C 821	821	Aud	"GUATEMALA,25,R.1,N.3"	1	1	24 Mar 1676	6 Sep 1677	xxx	xxx	xnp	xnp	xnp	###	
+C 822	822	Aud	"GUATEMALA,25,R.1,N.4"	0	0	np	np	np	np	np	np	xnp	###	
+C 823	823	Aud	"GUATEMALA,25,R.1,N.5"	1	0	8 Apr 1676	np	xxx	xxx	xnp	xnp	xnp	###	
+C 824	824	Aud	"GUATEMALA,25,R.1,N.6"	1	0	9 Apr 1676	np	xxx	xxx	xnp	xnp	xnp	###	
+C 825	825	Aud	"GUATEMALA,25,R.1,N.7"	1	0	10 Apr 1676	np	xxx	xxx	xnp	xnp	xnp	###	
+C 826	826	Aud	"GUATEMALA,25,R.1,N.8"	1	1	12 Apr 1676	11 Nov 1677	xxx	xxx	xnp	xnp	xnp	###	
+C 827	827	Aud	"GUATEMALA,25,R.1,N.9"	1	0	14 Apr 1676	np	xxx	xxx	xnp	xnp	xnp	###	
+C 828	828	Aud	"GUATEMALA,25,R.1,N.10"	1	0	14 Apr 1676	np	xxx	xxx	xnp	xnp	xnp	###	
+C 829	829	Aud	"GUATEMALA,25,R.1,N.11"	1	0	17 Apr 1676	np	xxx	xxx	xnp	xnp	xnp	###	
+C 830	830	Aud	"GUATEMALA,25,R.1,N.12"	0	0	np	np	np	np	np	np	xnp	###	
+C 831	831	Aud	"GUATEMALA,25,R.1,N.13"	1	1	29 Sep 1676	4 Sep 1677	xxx	xxx	xnp	xnp	xnp	###	
+C 832	832	Aud	"GUATEMALA,25,R.1,N.14"	0	0	np	np	np	np	np	np	xnp	###	
+C 833	833	Aud	"GUATEMALA,25,R.1,N.15"	1	1	13 Nov 1676	28 Aug 1677	xxx	xxx	xnp	xnp	xnp	###	
+C 834	834	Aud	"GUATEMALA,25,R.1,N.16"	1	0	14 Nov 1676	np	xxx	xxx	xnp	xnp	xnp	###	
+C 835	835	Aud	"GUATEMALA,25,R.1,N.17"	1	0	15 Nov 1676	np	xxx	xxx	xnp	xnp	xnp	###	
+C 836	836	Aud	"GUATEMALA,25,R.1,N.18"	1	0	15 Nov 1676	np	xxx	xxx	xnp	xnp	xnp	###	
+C 837	837	Aud	"GUATEMALA,25,R.1,N.19"	1	0	16 Nov 1676	np	xxx	xxx	xnp	xnp	xnp	###	
+C 838	838	Aud	"GUATEMALA,25,R.1,N.20"	1	1	16 Nov 1676	24 Nov 1677	xxx	xxx	xnp	xnp	xnp	###	
+C 839	839	Aud	"GUATEMALA,25,R.1,N.21"	1	1	17 Nov 1676	24 Sep 1677	xxx	xxx	xnp	xnp	xnp	###	
+C 840	840	Aud	"GUATEMALA,25,R.1,N.22"	1	0	17 Nov 1676	np	xxx	xxx	xnp	xnp	xnp	###	
+C 841	841	Aud	"GUATEMALA,25,R.1,N.23"	1	0	17 Nov 1676	np	xxx	xxx	xnp	xnp	xnp	###	
+C 842	842	Aud	"GUATEMALA,25,R.1,N.24"	1	0	17 Nov 1676	np	xxx	xxx	xnp	xnp	xnp	###	
+C 843	843	Aud	"GUATEMALA,25,R.1,N.25"	1	0	17 Nov 1676	np	xxx	xxx	xnp	xnp	xnp	###	
+C 844	844	Aud	"GUATEMALA,25,R.1,N.26"	1	0	17 Nov 1676	np	xxx	xxx	xnp	xnp	xnp	###	
+C 845	845	Aud	"GUATEMALA,25,R.1,N.27"	0	0	np	np	np	np	np	np	xnp	###	
+C 846	846	Aud	"GUATEMALA,25,R.1,N.28"	1	0	18 Nov 1676	np	xxx	xxx	xnp	xnp	xnp	###	
+C 847	847	Aud	"GUATEMALA,25,R.1,N.29"	1	0	20 Nov 1676	np	xxx	xxx	xnp	xnp	xnp	###	
+C 848	848	Aud	"GUATEMALA,25,R.2,N.30"	0	0	np	np	np	np	np	np	xnp	###	
+C 849	849	Aud	"GUATEMALA,25,R.2,N.31"	0	0	np	np	np	np	np	np	xnp	###	
+C 850	850	Aud	"GUATEMALA,25,R.2,N.32"	1	0	24 Nov 1677	np	xxx	xxx	xnp	xnp	xnp	###	
+C 851	851	Aud	"GUATEMALA,25,R.2,N.33"	1	0	24 Nov 1677	np	xxx	xxx	xnp	xnp	xnp	###	
+C 852	852	Aud	"GUATEMALA,25,R.2,N.34"	1	0	24 Nov 1677	np	xxx	xxx	xnp	xnp	xnp	###	
+C 853	853	Aud	"GUATEMALA,25,R.2,N.35"	1	0	24 Nov 1677	np	xxx	xxx	xnp	xnp	xnp	###	
+C 854	854	Aud	"GUATEMALA,25,R.2,N.36"	1	0	24 Nov 1677	np	xxx	xxx	xnp	xnp	xnp	###	
+C 855	855	Aud	"GUATEMALA,25,R.2,N.37"	1	0	24 Nov 1677	np	xxx	xxx	xnp	xnp	xnp	###	
+C 856	856	Aud	"GUATEMALA,25,R.2,N.38"	0	0	np	np	np	np	np	np	xnp	###	
+C 857	857	Aud	"GUATEMALA,25,R.2,N.39"	1	0	25 Nov 1677	np	xxx	xxx	xnp	xnp	xnp	###	
+C 858	858	Aud	"GUATEMALA,25,R.2,N.40"	1	1	25 Nov 1677	12 Sep 1678	xxx	xxx	xnp	xnp	xnp	###	
+C 859	859	Aud	"GUATEMALA,25,R.2,N.41"	0	0	np	np	np	np	np	np	xnp	###	
+C 860	860	Aud	"GUATEMALA,25,R.2,N.42"	0	0	np	np	np	np	np	np	xnp	###	
+C 861	861	Aud	"GUATEMALA,25,R.2,N.43"	0	0	np	np	np	np	np	np	xnp	###	
+C 862	862	Aud	"GUATEMALA,25,R.2,N.44"	1	0	26 Nov 1677	np	xxx	xxx	xnp	xnp	xnp	###	
+C 863	863	Aud	"GUATEMALA,25,R.2,N.45"	0	0	np	np	np	np	np	np	xnp	###	
+C 864	864	Aud	"GUATEMALA,25,R.2,N.46"	0	0	np	np	np	np	np	np	xnp	###	
+C 865	865	Aud	"GUATEMALA,25,R.2,N.47"	0	0	np	np	np	np	np	np	xnp	###	
+C 866	866	Aud	"GUATEMALA,25,R.2,N.48"	0	0	np	np	np	np	np	np	xnp	###	
+C 867	867	Aud	"GUATEMALA,25,R.2,N.49"	1	1	28 Nov 1677	12 Jul 1678	xxx	xxx	xnp	xnp	xnp	###	
+C 868	868	Aud	"GUATEMALA,25,R.2,N.50"	1	0	sd sd 1677	np	xxx	xxx	xnp	xnp	xnp	###	
+C 869	869	Aud	"GUATEMALA,26,R.1,N.1"	0	0	np	np	np	np	np	np	xnp	###	
+C 870	870	Aud	"GUATEMALA,26,R.1,N.2"	0	0	np	np	np	np	np	np	xnp	###	
+C 871	871	Aud	"GUATEMALA,26,R.1,N.3"	1	0	15 Apr 1678	np	xxx	xxx	xnp	xnp	xnp	###	
+C 872	872	Aud	"GUATEMALA,26,R.1,N.4"	1	0	15 Apr 1678	np	xxx	xxx	xnp	xnp	xnp	###	
+C 873	873	Aud	"GUATEMALA,26,R.1,N.5"	1	0	15 Apr 1678	np	xxx	xxx	xnp	xnp	xnp	###	
+C 874	874	Aud	"GUATEMALA,26,R.1,N.6"	1	0	15 Apr 1678	np	xxx	xxx	xnp	xnp	xnp	###	
+C 875	875	Aud	"GUATEMALA,26,R.1,N.7"	1	0	15 Apr 1678	np	xxx	xxx	xnp	xnp	xnp	###	
+C 876	876	Aud	"GUATEMALA,26,R.1,N.8"	1	0	15 Apr 1678	np	xxx	xxx	xnp	xnp	xnp	###	
+C 877	877	Aud	"GUATEMALA,26,R.1,N.9"	1	0	15 Apr 1678	np	xxx	xxx	xnp	xnp	xnp	###	
+C 878	878	Aud	"GUATEMALA,26,R.1,N.10"	0	0	np	np	np	np	np	np	xnp	###	
+C 879	879	Aud	"GUATEMALA,26,R.1,N.11"	0	0	np	np	np	np	np	np	xnp	###	
+C 880	880	Aud	"GUATEMALA,26,R.1,N.12"	0	0	np	np	np	np	np	np	xnp	###	
+C 881	881	Aud	"GUATEMALA,26,R.1,N.13"	1	0	3 May 1678	np	xxx	xxx	xnp	xnp	xnp	###	
+C 882	882	Aud	"GUATEMALA,26,R.1,N.14"	0	0	np	np	np	np	np	np	xnp	###	
+C 883	883	Aud	"GUATEMALA,26,R.1,N.15"	1	1	8 May 1678	12 Nov 1679	xxx	xxx	xnp	xnp	xnp	###	
+C 884	884	Aud	"GUATEMALA,26,R.1,N.16"	1	0	9 May 1678	np	xxx	xxx	xnp	xnp	xnp	###	
+C 885	885	Aud	"GUATEMALA,26,R.1,N.17"	1	0	9 May 1678	np	xxx	xxx	xnp	xnp	xnp	###	
+C 886	886	Aud	"GUATEMALA,26,R.1,N.18"	1	0	9 May 1678	np	xxx	xxx	xnp	xnp	xnp	###	
+C 887	887	Aud	"GUATEMALA,26,R.1,N.19"	1	0	10 May 1678	np	xxx	xxx	xnp	xnp	xnp	###	
+C 888	888	Aud	"GUATEMALA,26,R.1,N.20"	1	1	19 Jan 1679	11 Mar 1680	xxx	xxx	xnp	xnp	xnp	###	
+C 889	889	Aud	"GUATEMALA,26,R.1,N.21"	0	0	np	np	np	np	np	np	xnp	###	
+C 890	890	Aud	"GUATEMALA,26,R.1,N.22"	1	0	16 May 1678	np	xxx	xxx	xnp	xnp	xnp	###	
+C 891	891	Aud	"GUATEMALA,26,R.1,N.23"	0	0	np	np	np	np	np	np	xnp	###	
+C 892	892	Aud	"GUATEMALA,26,R.1,N.24"	1	0	20 May 1678	np	xxx	xxx	xnp	xnp	xnp	###	
+C 893	893	Aud	"GUATEMALA,26,R.1,N.25"	1	0	23 May 1678	np	xxx	xxx	xnp	xnp	xnp	###	
+C 894	894	Aud	"GUATEMALA,26,R.1,N.26"	1	0	15 Jun 1678	np	xxx	xxx	xnp	xnp	xnp	###	
+C 895	895	Aud	"GUATEMALA,26,R.1,N.27"	0	0	np	np	np	np	np	np	xnp	###	
+C 896	896	Aud	"GUATEMALA,26,R.1,N.28"	0	0	np	np	np	np	np	np	xnp	###	
+C 897	897	Aud	"GUATEMALA,26,R.1,N.29"	0	0	np	np	np	np	np	np	xnp	###	
+C 898	898	Aud	"GUATEMALA,26,R.1,N.30"	0	0	np	np	np	np	np	np	xnp	###	
+C 899	899	Aud	"GUATEMALA,26,R.1,N.31"	1	0	23 Jun 1678	np	xxx	xxx	xnp	xnp	xnp	###	
+C 900	900	Aud	"GUATEMALA,26,R.1,N.32"	1	0	28 Jun 1678	np	xxx	xxx	xnp	xnp	xnp	###	
+C 901	901	Aud	"GUATEMALA,26,R.1,N.33"	0	0	np	np	np	np	np	np	xnp	###	
+C 902	902	Aud	"GUATEMALA,26,R.1,N.34"	0	0	np	np	np	np	np	np	xnp	###	
+C 903	903	Aud	"GUATEMALA,26,R.1,N.35"	0	0	np	np	np	np	np	np	xnp	###	
+C 904	904	Aud	"GUATEMALA,26,R.1,N.36"	0	0	np	np	np	np	np	np	xnp	###	
+C 905	905	Aud	"GUATEMALA,26,R.1,N.37"	0	0	np	np	np	np	np	np	xnp	###	
+C 906	906	Aud	"GUATEMALA,26,R.1,N.38"	0	0	np	np	np	np	np	np	xnp	###	
+C 907	907	Aud	"GUATEMALA,26,R.1,N.39"	0	0	np	np	np	np	np	np	xnp	###	
+C 908	908	Aud	"GUATEMALA,26,R.2,N.40"	1	0	8 Jan 1679	np	xxx	xxx	xnp	xnp	xnp	###	
+C 909	909	Aud	"GUATEMALA,26,R.2,N.41"	0	0	np	np	np	np	np	np	xnp	###	
+C 910	910	Aud	"GUATEMALA,26,R.2,N.42"	1	1	19 Jan 1679	11 Mar 1680	xxx	xxx	xnp	xnp	xnp	###	
+C 911	911	Aud	"GUATEMALA,26,R.2,N.43"	0	0	np	np	np	np	np	np	xnp	###	
+C 912	912	Aud	"GUATEMALA,26,R.2,N.44"	0	0	np	np	np	np	np	np	xnp	###	
+C 913	913	Aud	"GUATEMALA,26,R.2,N.45"	0	0	np	np	np	np	np	np	xnp	###	
+C 914	914	Aud	"GUATEMALA,26,R.2,N.46"	1	1	10 Jan 1679	13 Oct 1679	xxx	xxx	xnp	xnp	xnp	###	
+C 915	915	Aud	"GUATEMALA,26,R.2,N.47"	0	0	np	np	np	np	np	np	xnp	###	
+C 916	916	Aud	"GUATEMALA,26,R.2,N.48"	1	1	14 Jan 1679	23 Sep 1679	xxx	xxx	xnp	xnp	xnp	###	
+C 917	917	Aud	"GUATEMALA,26,R.2,N.49"	0	0	np	np	np	np	np	np	xnp	###	
+C 918	918	Aud	"GUATEMALA,26,R.2,N.50"	0	0	np	np	np	np	np	np	xnp	###	
+C 919	919	Aud	"GUATEMALA,26,R.2,N.51"	1	1	8 May 1679	24 Jan 1680	xxx	xxx	xnp	xnp	xnp	###	
+C 920	920	Aud	"GUATEMALA,26,R.2,N.52"	1	0	8 May 1679	np	xxx	xxx	xnp	xnp	xnp	###	
+C 921	921	Aud	"GUATEMALA,26,R.2,N.53"	1	0	12 May 1679	np	xxx	xxx	xnp	xnp	xnp	###	
+C 922	922	Aud	"GUATEMALA,26,R.2,N.54"	1	0	12 May 1679	np	xxx	xxx	xnp	xnp	xnp	###	
+C 923	923	Aud	"GUATEMALA,26,R.2,N.55"	1	0	12 May 1679	np	xxx	xxx	xnp	xnp	xnp	###	
+C 924	924	Aud	"GUATEMALA,26,R.2,N.56"	1	0	12 May 1679	np	xxx	xxx	xnp	xnp	xnp	###	
+C 925	925	Aud	"GUATEMALA,26,R.2,N.57"	1	0	12 May 1679	np	xxx	xxx	xnp	xnp	xnp	###	
+C 926	926	Aud	"GUATEMALA,26,R.2,N.58"	1	0	12 May 1679	np	xxx	xxx	xnp	xnp	xnp	###	
+C 927	927	Aud	"GUATEMALA,26,R.2,N.59"	1	0	12 May 1679	np	xxx	xxx	xnp	xnp	xnp	###	
+C 928	928	Aud	"GUATEMALA,26,R.2,N.60"	0	0	np	np	np	np	np	np	xnp	###	
+C 929	929	Aud	"GUATEMALA,26,R.2,N.61"	1	0	13 May 1679	np	xxx	xxx	xnp	xnp	xnp	###	
+C 930	930	Aud	"GUATEMALA,26,R.2,N.62"	0	0	np	np	np	np	np	np	xnp	###	
+C 931	931	Aud	"GUATEMALA,26,R.2,N.63"	0	0	np	np	np	np	np	np	xnp	###	
+C 932	932	Aud	"GUATEMALA,26,R.2,N.64"	0	0	np	np	np	np	np	np	xnp	###	
+C 933	933	Aud	"GUATEMALA,26,R.2,N.65"	0	0	np	np	np	np	np	np	xnp	###	
+C 934	934	Aud	"GUATEMALA,26,R.2,N.66"	0	0	np	np	np	np	np	np	xnp	###	
+C 935	935	Aud	"GUATEMALA,26,R.2,N.67"	0	0	np	np	np	np	np	np	xnp	###	
+C 936	936	Aud	"GUATEMALA,26,R.2,N.68"	1	1	25 May 1679	6 Jun 1680	xxx	xxx	xnp	xnp	xnp	###	
+C 937	937	Aud	"GUATEMALA,26,R.2,N.69"	1	1	9 Oct 1679	26 Jun 1680	xxx	xxx	xnp	xnp	xnp	###	
+C 938	938	Aud	"GUATEMALA,26,R.2,N.70"	1	0	27 Nov 1679	np	xxx	xxx	xnp	xnp	xnp	###	
+C 939	939	Aud	"GUATEMALA,26,R.3,N.71"	0	0	np	np	np	np	np	np	xnp	###	
+C 940	940	Aud	"GUATEMALA,26,R.3,N.72"	1	1	25 Mar 1680	5 Dec 1680	xxx	xxx	xnp	xnp	xnp	###	
+C 941	941	Aud	"GUATEMALA,26,R.3,N.73"	1	1	5 Apr 1680	24 Nov 1680	xxx	xxx	xnp	xnp	xnp	###	
+C 942	942	Aud	"GUATEMALA,26,R.3,N.74"	1	0	6 Apr 1680	np	xxx	xxx	xnp	xnp	xnp	###	
+C 943	943	Aud	"GUATEMALA,26,R.3,N.75"	0	0	np	np	np	np	np	np	xnp	###	
+C 944	944	Aud	"GUATEMALA,26,R.3,N.76"	0	0	np	np	np	np	np	np	xnp	###	
+C 945	945	Aud	"GUATEMALA,26,R.3,N.77"	1	0	6 Apr 1680	np	xxx	xxx	xnp	xnp	xnp	###	
+C 946	946	Aud	"GUATEMALA,26,R.3,N.78"	1	0	6 Apr 1680	np	xxx	xxx	xnp	xnp	xnp	###	
+C 947	947	Aud	"GUATEMALA,26,R.3,N.79"	1	0	6 Apr 1680	np	xxx	xxx	xnp	xnp	xnp	###	
+C 948	948	Aud	"GUATEMALA,26,R.3,N.80"	1	0	6 Apr 1680	np	xxx	xxx	xnp	xnp	xnp	###	
+C 949	949	Aud	"GUATEMALA,26,R.3,N.81"	1	1	8 Apr 1680	9 Dec 1680	xxx	xxx	xnp	xnp	xnp	###	
+C 950	950	Aud	"GUATEMALA,26,R.3,N.82"	1	0	8 Apr 1680	np	xxx	xxx	xnp	xnp	xnp	###	
+C 951	951	Aud	"GUATEMALA,26,R.3,N.83"	1	0	8 Apr 1680	np	xxx	xxx	xnp	xnp	xnp	###	
+C 952	952	Aud	"GUATEMALA,26,R.3,N.84"	1	1	8 Apr 1680	15 Mar 1681	xxx	xxx	xnp	xnp	xnp	###	
+C 953	953	Aud	"GUATEMALA,26,R.3,N.85"	1	0	8 Apr 1680	np	xxx	xxx	xnp	xnp	xnp	###	
+C 954	954	Aud	"GUATEMALA,26,R.3,N.86"	0	0	np	np	np	np	np	np	xnp	###	
+C 955	955	Aud	"GUATEMALA,26,R.3,N.87"	0	0	np	np	np	np	np	np	xnp	###	
+C 956	956	Aud	"GUATEMALA,26,R.3,N.88"	0	0	np	np	np	np	np	np	xnp	###	
+C 957	957	Aud	"GUATEMALA,26,R.3,N.89"	1	0	10 Apr 1680	np	xxx	xxx	xnp	xnp	xnp	###	
+C 958	958	Aud	"GUATEMALA,26,R.3,N.90"	0	0	np	np	np	np	np	np	xnp	###	
+C 959	959	Aud	"GUATEMALA,26,R.3,N.91"	1	0	13 Apr 1680	np	xxx	xxx	xnp	xnp	xnp	###	
+C 960	960	Aud	"GUATEMALA,26,R.3,N.92"	0	0	np	np	np	np	np	np	xnp	###	
+C 961	961	Aud	"GUATEMALA,26,R.3,N.93"	0	0	np	np	np	np	np	np	xnp	###	
+C 962	962	Aud	"GUATEMALA,26,R.3,N.94"	1	0	10 Sep 1680	np	xxx	xxx	xnp	xnp	xnp	###	
+C 963	963	Aud	"GUATEMALA,26,R.3,N.95"	1	0	14 Sep 1680	np	xxx	xxx	xnp	xnp	xnp	###	
+C 964	964	Aud	"GUATEMALA,26,R.3,N.96"	0	0	np	np	np	np	np	np	xnp	###	
+C 965	965	Aud	"GUATEMALA,26,R.3,N.97"	1	0	14 Sep 1680	np	xxx	xxx	xnp	xnp	xnp	###	
+C 966	966	Aud	"GUATEMALA,26,R.3,N.98"	0	0	np	np	np	np	np	np	xnp	###	
+C 967	967	Aud	"GUATEMALA,26,R.3,N.99"	1	1	15 Sep 1680	6 Oct 1681	xxx	xxx	xnp	xnp	xnp	###	
+C 968	968	Aud	"GUATEMALA,26,R.3,N.100"	1	0	15 Sep 1680	np	xxx	xxx	xnp	xnp	xnp	###	
+C 969	969	Aud	"GUATEMALA,26,R.3,N.101"	0	0	np	np	np	np	np	np	xnp	###	
+C 970	970	Aud	"GUATEMALA,26,R.3,N.102"	0	0	np	np	np	np	np	np	xnp	###	
+C 971	971	Aud	"GUATEMALA,26,R.3,N.103"	1	0	18 Sep 1680	np	xxx	xxx	xnp	xnp	xnp	###	
+C 972	972	Aud	"GUATEMALA,26,R.3,N.104"	0	0	np	np	np	np	np	np	xnp	###	
+C 973	973	Aud	"GUATEMALA,26,R.3,N.105"	1	0	26 Nov 1680	np	xxx	xxx	xnp	xnp	xnp	###	
+C 974	974	Aud	"GUATEMALA,26,R.3,N.106"	1	0	26 Nov 1680	np	xxx	xxx	xnp	xnp	xnp	###	
+C 975	975	Aud	"GUATEMALA,26,R.3,N.107"	1	0	4 Dec 1680	np	xxx	xxx	xnp	xnp	xnp	###	
+C 976	976	Aud	"GUATEMALA,26,R.3,N.108"	1	0	5 Dec 1680	np	xxx	xxx	xnp	xnp	xnp	###	
+C 977	977	Aud	"GUATEMALA,26,R.3,N.109"	0	0	np	np	np	np	np	np	xnp	###	
+C 978	978	Aud	"GUATEMALA,26,R.3,N.110"	0	0	np	np	np	np	np	np	xnp	###	
+C 979	979	Aud	"GUATEMALA,26,R.3,N.111"	0	0	np	np	np	np	np	np	xnp	###	
+C 980	980	Cab	"GUATEMALA,44A,N.36"	1	0	3 Jul 1619	np	1	1	1	xxx	xnp	###	
+C 981	981	Cab	"GUATEMALA,44A,N.37"	0	0	np	np	np	np	np	np	"Inc re defence, possibly"	###	
+C 982	982	Cab	"GUATEMALA,44A,N.38"	1	1	15 Dec 1630	1 Apr 1632	0	1	1	xxx	Examined to img 40 / PIR = 1 possibly	###	
+C 983	983	Cab	"GUATEMALA,44A,N.39"	1	0	6 Feb 1643	np	1	0	1	xxx	See Cardona 106	###	
+C 984	984	Cab	"GUATEMALA,44A,N.40"	1	0	23 Oct 1644	np	1	0	1	xxx	See Cardona 106	###	
+C 985	985	Cab	"GUATEMALA,44A,N.13"	0	0	np	np	np	np	np	np	xnp	###	
+C 986	986	Cab	"GUATEMALA,44A,N.14"	0	0	np	np	np	np	np	np	xnp	###	
+C 987	987	Cab	"GUATEMALA,43,N.104"	0	0	np	np	np	np	np	np	xnp	###	
+C 988	988	Cab	"GUATEMALA,43,N.105"	0	0	np	np	np	np	np	np	xnp	###	
+C 989	989	Cab	"GUATEMALA,43,N.106"	0	0	np	np	np	np	np	np	See Cardona 106	###	
+C 990	990	Cab	"GUATEMALA,43,N.107"	0	0	np	np	np	np	np	np	xnp	###	
+C 991	991	Cab	"GUATEMALA,43,N.108"	0	0	np	np	np	np	np	np	xnp	###	
+C 992	992	Cab	"GUATEMALA,43,N.109"	0	0	np	np	np	np	np	np	xnp	###	
