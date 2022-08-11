@@ -1,0 +1,316 @@
+Database: WorldCat
+
+
+Availability:        Check the catalogs in your library. Libraries worldwide that own item: 6 Search the HOLLIS Catalog
+External Resources:  Cite This Item
+Title:
+The depth of our belonging :
+mysticism, physics and healing /
+Author(s):           Coelho, Mary Conrow.
+Publication:         Belize : Producciones de la Hamaca,
+Year:                2021
+Description:         xii, 79 pages ; 23 cm
+Language:            English
+Standard No:         ISBN:                9768273178; 9789768273178
+SUBJECT(S)
+Descriptor:          Mysticism -- Society of Friends.
+Mysticisme -- Société des Amis.
+Note(s):             Includes bibliographical references (pages 77-79).
+Class Descriptors:    LC: BX7748.M92
+Responsibility:      by Mary Conrow Coelho.
+Vendor Info:         YBP Library Services (YANK)
+Document Type:       Book
+Entry:               20210331
+Update:              20220322
+Accession No:        OCLC:                1243968084
+Provider:        OCLC
+Database:            WorldCat
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Access:              http://catalogue.bnf.fr/ark:/12148/cb46972220z
+Availability:        Check the catalogs in your library. Libraries worldwide that own item: 2 Search the HOLLIS Catalog
+External Resources:  Cite This Item
+Title:
+Property and territory :
+origins of a colonial order in Belize in the 19th and 20th centuries /
+Author(s):           Hoffmann, Odile, 1957-....  (Author)
+Publication:         Belize : Cubola publishers : [Marseille] : IRD, Institut de recherche pour le développement, France,
+Year:                2021
+Description:         1 vol. (214 p.) : ill. ; 23 cm.
+Language:            English
+Standard No:         ISBN:                9789768161666 ((Cubola publishers)); 9768161663; 9782709928069 ((IRD, br)); 270992806X Other:               9789768161666; 9782709928069
+Access:              Materials specified: Bibliothèque Nationale de France catalog record and holdingshttp://catalogue.bnf.fr/ark:/12148/cb46972220z
+SUBJECT(S)
+Descriptor:          Propriété foncière -- Politique publique -- Belize -- 1800-....
+Note(s):             En appendice, choix de documents./ Bibliogr. p. 192-204.
+Class Descriptors:    Dewey: 333.309 72
+Responsibility:      Odile Hoffmann.
+Document Type:       Book
+Entry:               20220221
+Update:              20220613
+Accession No:        OCLC:                1310231472
+Provider:        OCLC
+Database:            WorldCat
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Availability:        Check the catalogs in your library. Libraries worldwide that own item: 1 Search the HOLLIS Catalog
+External Resources:  Cite This Item
+Title:
+Property and territory
+origins of a colonial order in Belize in the 19th and 20th centuries
+Author(s):           Hoffmann, Odile  autor.
+Publication:         Benque Viejo del Carmen, Belize, C.A. Cubola publishers IRD, Institut de recherche pour le développement, France
+Edition:             First edition.
+Year:                2021, (c)2021
+Description:         214 páginas diagramas, tablas, mapas 23 cm
+Language:            English
+Series:              The Belize collection. History;
+Standard No:         ISBN:                9789768161666 (Cubola publishers); 9768161663; 9782709928069 (IRD); 270992806X
+SUBJECT(S)
+Descriptor:          Tenencia de la tierra -- Belice -- Historia.
+Geographic:          Belice -- Colonización -- Historia.
+Belice -- Historia.
+Note(s):             Incluye bibliografía: páginas 192-204.
+Class Descriptors:    Dewey: 333.3097282
+Responsibility:      Odile Hoffmann.
+Document Type:       Book
+Entry:               20220526
+Update:              20220607
+Accession No:        OCLC:                1326281660
+Provider:        OCLC
+Database:            WorldCat
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Availability:        Check the catalogs in your library. Libraries worldwide that own item: 2 Search the HOLLIS Catalog
+External Resources:  Cite This Item
+Title:
+Poetic narcotics :
+SPOKENWORD 501 compilation : series 2.
+Corp Author(s):      SPOKENWORD 501,  compiler.
+Publication:         [Belize] : Reynolds Desktop Publishing,
+Year:                2019
+Description:         93 pages ; 23 cm
+Language:            English
+Standard No:         ISBN:                9789769556393; 9769556394
+SUBJECT(S)
+Descriptor:          Belizean poetry (English)
+Poésie bélizienne (anglaise)
+Belizean poetry (English)
+Genre/Form:          poetry.
+Poetry.
+Poetry.
+Poésie.
+Class Descriptors:    LC: PR9280.6
+Document Type:       Book
+Entry:               20200924
+Update:              20220525
+Accession No:        OCLC:                1197662799
+Provider:        OCLC
+Database:            WorldCat
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Availability:        Check the catalogs in your library. Libraries worldwide that own item: 1 Search the HOLLIS Catalog
+External Resources:  Cite This Item
+Find Items About:    Gingerich, Amos S.,max: 1
+Title:
+Forty years of joys and sorrows in Paraguay /
+Author(s):           Gingerich, Amos S., 1940-  author.
+Publication:         Belmopan, Belize : Amos S. Gingerich,
+Year:                2019
+Description:         64 pages ; 21 cm
+Language:            English
+SUBJECT(S)
+Descriptor:          Amish -- Paraguay -- Biography.
+Amish -- Paraguay -- Biographies.
+Amish.
+Named Person:        Gingerich, Amos S., 1940-
+Genre/Form:          Poetry
+poetry.
+Biographies.
+Poetry.
+Poetry.
+Poésie.
+Geographic:          Paraguay.
+Note(s):             Publication date from library's acquisition records./ Pages 42-61 contain poems, all of one of which are by the author.
+Responsibility:      by Amos S. Gingerich.
+Material Type:       Biography (bio)
+Document Type:       Book
+Entry:               20220419
+Update:              20220520
+Accession No:        OCLC:                1311435742
+Provider:        OCLC
+Database:            WorldCat
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Availability:        FirstSearch indicates your institution owns the item. Libraries worldwide that own item: 1    Harvard University   Search the HOLLIS Catalog
+External Resources:  Cite This Item
+Title:
+Poetic narcotics :
+SPOKENWORD 501 compilation : series 2.
+Publication:         [Belize] : Reynolds Desktop Publishing,
+Year:                2019
+Description:         93 pages ; 23 cm
+Language:            Spanish
+Standard No:         ISBN:                9789769556393; 9769556394
+Document Type:       Book
+Entry:               20191127
+Update:              20210322
+Accession No:        OCLC:                1129014304
+Provider:        OCLC
+Database:            WorldCat
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Availability:        Check the catalogs in your library. Libraries worldwide that own item: 1 Search the HOLLIS Catalog
+External Resources:  Cite This Item
+Title:
+Fifty big experiences on Ambergris Caye, Belize :
+a small things guide /
+Author(s):           Coutant, Rebecca,  author.
+Publication:         [San Pedro, Belize?] : [Rebecca Coutant],
+Year:                2019
+Description:         145 pages : illustrations, maps ; 23 cm
+Language:            English
+Series:              Variation:           Small things guide.
+Standard No:         ISBN:                9781698021126 ((paperback)); 1698021127 ((paperback))
+SUBJECT(S)
+Descriptor:          Travel.
+Genre/Form:          travel guidebooks.
+Guidebooks.
+Guidebooks.
+Guides touristiques.
+Geographic:          Ambergris Cay (Belize) -- Description and travel.
+Ambergris Cay (Belize) -- Guidebooks.
+Belize -- Ambergris Cay.
+Class Descriptors:    Dewey: 917.282/2045
+Responsibility:      Rebecca Coutant.
+Document Type:       Book
+Entry:               20200626
+Update:              20220624
+Accession No:        OCLC:                1159989001
+Provider:        OCLC
+Database:            WorldCat
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Availability:        FirstSearch indicates your institution owns the item. Libraries worldwide that own item: 12 (1 Committed to Retain)    Harvard University   Search the HOLLIS Catalog
+External Resources:  Cite This Item
+Title:
+Belize literary prize :
+flash fiction & poetry winners 2016-2017.
+Author(s):           Gutierrez, Dino, ; author.
+Grant, Tisa, ; author.
+Kelly, Ivory, ; author.
+Gomez Parham, Mary, ; author.
+Burns, Jacklyn Jay, ; author.
+Corp Author(s):      Cubola (Firm), ; issuing body.; Belize Book Industry Association, ; sponsoring body.
+Publication:         Benque Viejo del Carmen, Belize, C.A. : Cubola Productions,
+Edition:             First edition.
+Year:                2018, (c)2018
+Description:         63 pages ; 22 cm
+Language:            English
+Contents:            Flash fiction: We da Belizean / Dino Gutierrez. The wait / Tisa Grant. Escape / Ivory Kelly -- Poetry: Being dead in San Pedro ; The emigrant's lament ; Inside her head ; Sonnet
+for an aging husband / Mary Gomez Parham. Of music and moms ; A Belize poem ; Write me a letter, won't you ; A poem for Ivory Joseph / Ivory Kelly. Wells ; Time ; Unlabelled ; Sirens / Jacklyn Jay
+Burns -- Study guides.
+Standard No:         ISBN:                9789768161550; 9768161558 LCCN:                2019-387146
+SUBJECT(S)
+Descriptor:          Short stories, Belizean (English)
+Belizean drama (English)
+Literary prizes -- Belize -- 21st century.
+Prix littéraires -- Belize -- 21e siècle.
+Belizean drama (English)
+Literary prizes.
+Short stories, Belizean (English)
+Genre/Form:          Flash fiction.
+Flash fiction.
+Micronouvelles.
+Time:                2000-2099
+Geographic:          Belize.
+Identifier:          Short stories, Belizean.
+Class Descriptors:    LC: PR9280.8
+Document Type:       Book
+Entry:               20180724
+Update:              20220406
+Accession No:        OCLC:                1045631700
+Provider:        OCLC
+Database:            WorldCat
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Availability:        FirstSearch indicates your institution owns the item. Libraries worldwide that own item: 11    Harvard University   Search the HOLLIS Catalog
+External Resources:  Cite This Item
+Title:
+Guatemala's claim to Belize :
+the definitive history /
+Author(s):           Shoman, Assad,  author.
+Publication:         Belize, City : Image Factory Art Foundation,
+Year:                2018
+Description:         xxxiv, 461 pages : color maps ; 22 cm
+Language:            English
+Standard No:         ISBN:                9789769527560; 9769527564
+SUBJECT(S)
+Descriptor:          Belize question -- History.
+Decolonization -- Belize -- History.
+Question de Belize -- Histoire.
+Décolonisation -- Belize -- Histoire.
+Belize question.
+Autonomy and independence movements.
+Decolonization.
+Diplomatic relations.
+Genre/Form:          History.
+Time:                1600-2018
+Geographic:          Belize -- History -- Autonomy and independence movements.
+Belize -- Foreign relations -- Guatemala.
+Guatemala -- Foreign relations -- Belize.
+Guatemala -- Relations extérieures -- Belize.
+Belize.
+Guatemala.
+Note(s):             Includes bibliographical references and index (pages 439-447) and index.
+Class Descriptors:    LC: F1449.B7; F1449.B4
+Responsibility:      Assad Shoman.
+Document Type:       Book
+Entry:               20200312
+Update:              20220624
+Accession No:        OCLC:                1144178115
+Provider:        OCLC
+Database:            WorldCat
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Availability:        FirstSearch indicates your institution owns the item. Libraries worldwide that own item: 6    Harvard University   Search the HOLLIS Catalog
+External Resources:  Cite This Item
+Find Items About:    Morris, John Michael,max: 2Thompson, George,735National Institute of Culture and History (Belize).2
+Title:
+Archaeological investigations in the eastern Maya lowlands :
+papers of the 2017 Belize Archaeology Symposium /
+Author(s):           Morris, John Michael,; 1962- ; editor.
+Badillo, Melissa, ; editor.
+Thompson, George, ; editor.
+Corp Author(s):      National Institute of Culture and History (Belize).; Institute of Archaeology.
+Conf Author(s):      Belize Archaeology and Anthropology Symposium  (2017 : San Ignacio, Belize)
+Publication:         Belmopan, Belize : Institute of Archaeology, National Institute of Culture and History,
+Year:                2018, (c)2017
+Description:         v, 345 pages : illustrations (chiefly color), maps, plans ; 28 cm
+Language:            English
+Series:              Research reports in Belizean archaeology ;; volume 15; Variation:           Research reports in Belizean archaeology ;; v. 15.
+Standard No:         ISBN:                9789768264152; 9768264152
+SUBJECT(S)
+Descriptor:          Mayas -- Belize -- Antiquities -- Congresses.
+Excavations (Archaeology) -- Belize -- Congresses.
+Mayas -- Belize -- Antiquités -- Congrès.
+Mayas -- Antiquities.
+Excavations (Archaeology)
+Antiquities.
+Genre/Form:          Conference papers and proceedings.
+Geographic:          Belize -- Antiquities -- Congresses.
+Belize -- Antiquités -- Congrès.
+Belize.
+Note(s):             Papers from the 15th Annual Belize Archaeology and Anthropology Symposium (BAAS) held June 28-30, 2017 at the San Ignacio Resort Hotel, Bedran Hall, San Ignacio, Cayo District,
+Belize./ Includes bibliographical references.
+Class Descriptors:    LC: F1445
+Other Titles:        Papers of the 2017 Belize Archaeology Symposium; 2017 Belize Archaeology Symposium; Origin of ancient Maya lifeways & society :; preclassic and early classic developments
+Responsibility:      edited by John Morris, Melissa Badillo, and George Thompson.
+Material Type:       Conference publication (cnp)
+Document Type:       Book
+Entry:               20190916
+Update:              20220426
+Accession No:        OCLC:                1119665411
+Provider:        OCLC
+Database:            WorldCat
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -1,0 +1,567 @@
+Errors: A1—14 / False positives or false negatives in archival material.
+ID	NO	START	END	SOURCE	TYPE	DESCRIPTION	NOTE	
+A1		1638	1663	Buccaneers	F neg	"Haphazard loss of records, or non-creation of records, by buccaneers or assignees."		
+A2		1638	1707	Maya	F neg	"Non-creation of records on Settlement activities by lack of contact or state of revolt following 1638—95 Tipu-led revolt, or haphazard destruction or loss of these during Spanish reductions of Maya towns, hamlets or groups from our present-day territory, or haphazard loss of these during desertions of Maya towns or hamlets during 1638—95 Tipu-led revolt. /7"	"1707 = Spanish reduction of Maya towns or hamlets from our present-day territory to territory in present-day Guatemala and Mexico, and previous desertion of all other Maya towns or hamlets within our present-day territory during 1638—95 Tipu-led revolt. Via Alb 1989."	
+A3		1638	1729	Spanish	F neg	Non-creation of records on Settlement activities by barriers to Spanish intelligence gathering following 1638—95 Tipu-led revolt and desertion of Bacalar in 1648—1729. /5	"Via Alb 1989. End of Tipu-led revolt set to 1695, on 7 July 1695 = Spanish embassy to Tipu under Captain Francisco de Hariza y Arruyo, and August—September 1695 = Tipu embassy to Merida. End date may alternatively be —
+in 1678 = Spanish entrada or reduction expedition by Sergeant Major Antonio de Ayora Porras towards Chaclol (between present-day Campeche City in western coast of Yucatan and Negroman, Cayo), and possibly towards Tipu (near present-day Negroman, Cayo).
+shortly after 17 August 1686—28 April 1687 = entrada by Captain Juan del Castillo y Toledo towards Paliac (on Rio Grande)."	
+A4		1638	1786	Crown	F neg	Non-creation of records from absence of Crown from Settlement. /6	1 December 1784 = Col. E. M. Despard appointed Superintendent. 20 December 1786 = Col. Despard arrives. /CO 123/5 /via M. C. Campbell 2003.	
+A5		1638	1849	Crown	F neg	"Haphazard loss of records during transit, destructive disasters, or gross negligence, and possible non-creation of records by some parts of Crown. /12 /13 /14"	"Following 14 August 1838 = passage of Act of British Parliament to consolidate scattered public records /Cmd. 367.
+For gross negligence, etttspecially regarding handwritten or otherwise fragile records.
+Following inferences by Cmd. 367."	
+A6		1663	1729	Loggers	F neg	"Haphazard loss of records, or non-creation of records, by loggers, their government, or their assignees. /2 /3"	"We assume Public Meeting and Magistracy were not established as government immediately on the setting up of logging works in February 1663.
+1 April 1729 = First evidence of Chief Magistrate xxx /xxx via Sev 1944."	
+A7		1696	1799	"Loggers, Government"	F neg	"Haphazard destruction of records by circa 22 successful Spanish expeditions against Settlement, and haphazard loss of records by at least 8 Settlement-wide evacuations."		
+A8		1720	1870	Government	F neg	"Haphazard loss of records during transit or from gross negligence, possible selective destruction or loss of records by custodians, and possible non-creation of records by some parts of Government. /9 /15"	"Assumed.
+End date assumed 13 December 1870 = Parliament vests government solely in Crown /via Burdon III 1935."	
+A9		1724	1838	Government	F neg	"Selective non-creation of records on groups lacking suffrage or otherwise marginalised, including women, slaves, Maya, native refugees, etc. /8 /9"	"Start date set at 1724, xxx /xxx. End date set at 1838, on emancipation of slaves.
+Assumed."	
+A10		1780	1789	Government	F neg	Haphazard loss of records during transfer of seat of government from St. George’s Caye to Belize City. /4	Via xxx.	
+A11		1780	1970	Government	F neg	Haphazard loss of records during xxx fires and destructive disasters in Belize City. /9 /10 /11	"Assumed.
+End date assumed 1 August 1970 = foundation of Belmopan.
+Especially regarding records not forwarded to or copied for Great Britain."	
+A12		1787	1859	Government	F neg	Non-creation or loss of records from outlying towns or hamlets by barriers to overland communication with Belize City. /9 /16		
+A13		1638	1826	"Spanish, Government"	F pos	Distortion of sensitive details of campaigns by or against Settlement. /2 /3	"We assume Public Meeting and Magistracy were not established as government immediately on the setting up of logging works in February 1663.
+1 April 1729 = First evidence of Chief Magistrate xxx /xxx via Sev 1944."	
+A14		1720	1826	Government	F pos	"Distortion of sensitive details regarding marginalised groups, including slaves, etc. /2 /3"	"We assume Public Meeting and Magistracy were not established as government immediately on the setting up of logging works in February 1663.
+1 April 1729 = First evidence of Chief Magistrate xxx /xxx via Sev 1944."	
+
+
+Hidden: B1—25 / Catalogues and repositories of archival material.
+ID		REPOSITORY	LOCATION	CATALOGUE	CATALOGUER	COUNT	CATALOGUED	DIGITISED	UNIT	NOTE	
+B4		Archives and Records Service	Belize	xxx	xxx	1	xxx	0	i		
+B5		Library Service	Belize	xxx	xxx	1	xxx	0	i		
+B6		Biblioteca Nacional José Martí	Cuba	xxx	xxx	1	"148,812"	"19,168"	i		
+B7		Archivo Nacional de Cuba	Cuba	xxx	xxx	1	xxx	xxx			
+B8		Instituto de Historia de Cuba	Cuba	xxx	xxx	1	xxx	xxx			
+B9		Universidad de La Habana	Cuba	xxx	xxx	1	"519,500"	xxx			
+B10		Archivo General de Centroamérica	Guatemala	xxx	xxx	1	"63,000"	1	v		
+B11		Centro de Investigaciones Regionales de Guatemala	Guatemala	xxx	xxx	1	"10,000,000"	0	i		
+B12		Universidad de San Carlos de Guatemala	Guatemala	xxx	xxx	1	"139,100"	0	i		
+B13		Universidad Rafael Landívar	Guatemala	xxx	xxx	1	"550,000"	"38,380"	i		
+B14		Biblioteca Nacional de Guatemala	Guatemala	xxx	xxx	1	xxx	xxx			
+B15		Hemeroteca Nacional de Guatemala	Guatemala	xxx	xxx	1	xxx	xxx			
+B16		Archivo General de la Nación	Mexico	xxx	xxx	1	"375,000,000"	xxx	p		
+B17		Biblioteca Central UNAM	Mexico	xxx	xxx	1	"1,445,109"	"6,085"	i		
+B18		Biblioteca Palafoxiana	Mexico	xxx	xxx	1	"52,422"	xxx	i		
+B19		Biblioteca Vasconcelos	Mexico	xxx	xxx	1	"575,000"	xxx	i		
+B20		Biblioteca Cervantina	Mexico	xxx	xxx	1	"130,000"	xxx	i		
+B21		Bilbioteca Nacional de México	Mexico	xxx	xxx	1	"1,560,000"	xxx	i		
+B22		Hemeroteca Nacional de México	Mexico	xxx	xxx	1	xxx	xxx			
+B23		Archivo Histórico de Mérida	Mexico	xxx	xxx	1	xxx	xxx			
+B24		Archivo General del Estado de Yucatán	Mexico	xxx	xxx	1	xxx	xxx			
+B25		Biblioteca Yucatanense	Mexico	xxx	xxx	1	xxx	xxx			
+
+
+Availble: B1—25 / Catalogues and repositories of archival material.
+ID		REPOSITORY	LOCATION	CATALOGUE	CATALOGUER	COUNT	CATALOGUED	DIGITISED	UNIT	NOTE	
+B1		VARS	VARS	Discovery	TNA	"2,500"	"32,000,000"	"550,000"	r		
+B2		VARS	VARS	PARES	MCD	12	"5,373,151"	"1,921,904"	r		
+B3		VARS	VARS	WorldCat	OCLC	"16,857"	"507,187,386"	xxx	i		
+B4		Archives and Records Service	Belize	xxx	xxx	1	xxx	0	i		
+B5		Library Service	Belize	xxx	xxx	1	xxx	0	i		
+B6		Biblioteca Nacional José Martí	Cuba	xxx	xxx	1	"148,812"	"19,168"	i		
+B7		Archivo Nacional de Cuba	Cuba	xxx	xxx	1	xxx	xxx			
+B8		Instituto de Historia de Cuba	Cuba	xxx	xxx	1	xxx	xxx			
+B9		Universidad de La Habana	Cuba	xxx	xxx	1	"519,500"	xxx			
+B10		Archivo General de Centroamérica	Guatemala	xxx	xxx	1	"63,000"	1	v		
+B11		Centro de Investigaciones Regionales de Guatemala	Guatemala	xxx	xxx	1	"10,000,000"	0	i		
+B12		Universidad de San Carlos de Guatemala	Guatemala	xxx	xxx	1	"139,100"	0	i		
+B13		Universidad Rafael Landívar	Guatemala	xxx	xxx	1	"550,000"	"38,380"	i		
+B14		Biblioteca Nacional de Guatemala	Guatemala	xxx	xxx	1	xxx	xxx			
+B15		Hemeroteca Nacional de Guatemala	Guatemala	xxx	xxx	1	xxx	xxx			
+B16		Archivo General de la Nación	Mexico	xxx	xxx	1	"375,000,000"	xxx	p		
+B17		Biblioteca Central UNAM	Mexico	xxx	xxx	1	"1,445,109"	"6,085"	i		
+B18		Biblioteca Palafoxiana	Mexico	xxx	xxx	1	"52,422"	xxx	i		
+B19		Biblioteca Vasconcelos	Mexico	xxx	xxx	1	"575,000"	xxx	i		
+B20		Biblioteca Cervantina	Mexico	xxx	xxx	1	"130,000"	xxx	i		
+B21		Bilbioteca Nacional de México	Mexico	xxx	xxx	1	"1,560,000"	xxx	i		
+B22		Hemeroteca Nacional de México	Mexico	xxx	xxx	1	xxx	xxx			
+B23		Archivo Histórico de Mérida	Mexico	xxx	xxx	1	xxx	xxx			
+B24		Archivo General del Estado de Yucatán	Mexico	xxx	xxx	1	xxx	xxx			
+B25		Biblioteca Yucatanense	Mexico	xxx	xxx	1	xxx	xxx			
+
+
+Collections: C1—30 / Online collections of archival material.
+ID		COLLECTION	BEG	END	REPOSITORY	PUBLISHER	REC	DIGITISED	TYPE	NOTE	
+C9		American Historical Periodicals	1607	1940	AAS	Gale	R	"7,000,000"	p		
+C16		Archives Unbound	1500	2000	VAR	Gale	R	361	v		
+C10		Associated Press Collections Online	1915	2009	AP	Gale	R	"1,910,000"	p		
+C18		"British History Online, Version 5"	1000	1832	VAR	IHR	K	"1,300"	v		
+C12		British Library Newspapers	1732	1950	BL	Gale	R	"6,350,000"	p		
+C22		British Periodicals	1681	2007	xxx	ProQuest	R	490	t		
+C11		Burney Collection	1604	1804	BL	Gale	R	"1,000,000"	p		
+C6		Caribbean Blue Books	1824	1950	TNA	BOA	S	21	v		
+C26		"Caribbean Newspapers, Series 1"	1718	1876	AAS	Readex	R	140	t		
+C1		Colonial America	1606	1822	TNA	Adam Matthew	R	"1,450"	i		
+C2		Confidential Print	1824	1961	TNA	Adam Matthew	R	371	i		
+C14		Declassified Documents Online	1905	2002	TNA	Gale	R	"500,000"	p		
+C29		Digital Library of the Caribbean	xxx	xxx	VAR	Smathers	R	"4,099,896"	p		
+C25		"Early American Newspapers, Series 1"	1690	1876	AAS	Readex	R	"340,000"	i		
+C28		"Early American Newspapers, Series 2—14"	1820	1922	VAR	Readex	R	xxx	xxx		
+C21		Early English Books Online	1475	1700	VAR	ProQuest	R	"146,000"	i		
+C20		Early European Books	1450	1700	VAR	ProQuest	R	"20,576,000"	p		
+C19		Economist Intelligence Unit Country Reports Archive	1952	1995	EIU	ProQuest	R	662	i		
+C3		Empire Online	1492	2007	VAR	Adam Matthew	R	970	i		
+C4		Empire Studies	1734	1968	VAR	Adam Matthew	R	"1,132"	i		
+C7		Factiva	1978	2021	VAR	Dow Jones	R	"33,000"	t		
+C23		House of Commons Parliamentary Papers	1688	2021	xxx	ProQuest	R	"11,000,000"	p		
+C24		House of Lords Parliamentary Papers	1800	1910	xxx	ProQuest	R	"2,100,000"	p		
+C27		"Latin American Newspapers, Series 1—2"	1805	1922	CRL	Readex	R	300	t		
+C5		Naval Office Shipping Lists	1678	1825	TNA	BOA	S	5	v		
+C15		Sabin Americana	1500	1926	VAR	Gale	R	"13,000,000"	p		
+C8		The British Newspaper Archive	1708	2009	BL	Findmypast	R	"41,900,432"	p		
+C30		The London Gazette	1665	2021	TSO	TSO	R	"63,201"	i		
+C13		The Times Digital Archive	1785	2014	News UK	Gale	R	"1,800,000"	p		
+C17		"World Scholar, Latin America and the Caribbean"	xxx	xxx	VAR	Gale	R	"1,400,000"	p		
+
+
+Local: C1—30 / Online collections of archival material.
+ID	NO	ALT ID	VIA	ITEM	NOTE	
+		FSP	Burdon 1	British and Foreign State Papers 1812–1814	Used for treaties	
+		APC Col	Burdon 1	Act of the Privy Council (Colonial).		
+		Hon Alm	Burdon 1	Honduras Almanacks		
+		Annual Register	Burdon 1	"Annual Register, from 1765, compiled by McLeish"		
+		Laws 1765–1810	Burdon 1	"Laws of Honduras, 1806–1810, compiled by Sir J. Burdon"		
+		Laws 1857	Burdon 1	"Consolidated Digest of the Laws of British Honduras, 1765–1853, and Collection of the Laws passed in the First Legislative Assembly, 1854–1857. Sir John Alder Burdon, Lt. Monrad Sigfrid Metzgen. [Printed Belize 1857]"		
+		MSR	Burdon 1	"Mosquito Shore Records, compiled by Herbert Thomson Grant"		
+		PR 1	Burdon 1	Copies of eight Record Books 1774–1818 (bulk 1784–1796). Compiled by Hon. Charles Murray Murray-Aynesley and Sir J. Burdon		
+		PCR	Burdon 1	"Police Court Records and Magistrates' Meetings, 1789–1793, compiled by Capt. Stanley Eric Woods, numbered 13 on fly leaf"		
+		PRE	Burdon 1	"Private records, 1790–1792, compiled or held by Albert Barrow Dillon"		
+		GCF	Burdon 1	"Grand Courts and Summary Courts F, 1790–1793, compiled by H. E. C. Cain"		
+		MLA	Burdon 1	"Magistrates' Letters A, 1791–1800, compiled or held by Frederick Charles Peoley Bowen"		
+		MMA 1	Burdon 1	"Magistrates' Meetings A1, 1793–1796, compiled by Sir J. Burdon"		
+		MMA 2	Burdon 1	"Magistrates' Meetings A2, 1796–1805, compiled by Sir J. Burdon"		
+		PRXY	Burdon 1	"Private Records XY, 1798–1815, compiled or held by M. S. Metzgen"		
+
+
+Primary: C1—30 / Online collections of archival material.
+ID	NO	TYPE	ALT ID	PERIOD	PERIOD	VOLS	ITEM	CITY	COUNTRY	FIRST PUB	LAST PUB	REPOSITORY	CITY	COUNTRY	VIA	NOTE	LINK	
+		G	xxx	1794	2021		Gazette	Kingston	Jamaica							Gazettes 1794–1968 in CO 141		
+		G	xxx	1861	2021		Gazette	Belmopan	Belize							"Gazettes 1861–1975 in CO 127
+Gazettes 1976–Present in Archives and Records Service, or in Library Service
+Published in Belize City 1861–xxx"		
+		G	Lon G	1665	2021		London Gazette	London	UK							"Titles = The Oxford Gazette / The London Gazette
+Published in Oxford 1665–xxx"		
+		MS	Add MS	1	2019	157097	Additional Manuscripts					British Library	London	UK	BL Catalogue	"PERIOD = 1 set arbitrarily / couple Add MS dated BCE /BL Catalogue, Link: http://searcharchives.bl.uk/primo_library/libweb/action/search.do?vid=IAMS_VU2"		
+		MS	Ann Reg	1765	1800	1	"Annual register, from 1765, compiled by [James] McLeish"					xxx			Burdon 1 p291	"McLeish = Author of “British activities in Yucatan and on the Moskito Shore in the eighteenth century,” 1926 MA thesis for University of London, catalogue Link: https://catalogue.libraries.london.ac.uk/record=b2980637~S1, summary Link: https://doi.org/10.1111/j.1468-2281.1927.tb00433.x  "		
+		MS	"GUATEMALA,a"	1525	1837	15	Audiencia de Guatemala					Archivo General de Indias	Seville	Spain	PARES	PARES Link: http://pares.mcu.es/ParesBusquedas20/catalogo/search 		
+		MS	"MEXICO,a"	1519	1856	3218	Audiencia de México					Archivo General de Indias	Seville	Spain	PARES			
+		MS	"SANTA_FE,a"	1527	1831	24	Audiencia de Santa Fe					Archivo General de Indias	Seville	Spain	PARES			
+		MS	"U Tex Lib, G19-d"	1500	1920	xxx	Benson Latin American Collection					University of Texas	Austin	USA	"C. E. Castañeda, J. A. Dabbs, Guide, Cambridge 1939, Link: https://hdl.handle.net/2027/mdp.39015034712904 "			
+		MS	"CONTRATACION,a"	1492	1795	51	Casa de la Contratación					Archivo General de Indias	Seville	Spain	PARES			
+		MS	"Mus Nav, Col Nav, d"	1492	1773	32	Colección Navarrete					Museo Naval	Madrid	Spain	D. Higueras Rodriguez Link: https://armada.defensa.gob.es/archivo/mardigitalrevistas/cuadernosihcn/24cuaderno/04cap.pdf 	"Some volumes or items possibly deposited in Archivo General de la Marina ""Álvaro de Bazán,” Ciudad Real, Spain /Higueras Rodriguez p35"		
+		MS	Egerton MS	701	1999	3942	Egerton Manuscripts					British Library	London	UK	BL Catalogue			
+		MS	"ESCRIBANIA,a"	1525	1778	91	Escribanía de Cámara de Justicia					Archivo General de Indias	Seville	Spain	PARES			
+		MS	GCF	1790	1793	1	Grand Courts and Summary Courts F					Archives and Records Service	Belmopan	Belize	Burdon 1			
+		MS	GCT	1796	1805	1	Grand Courts and Summary Courts T					Archives and Records Service	Belmopan	Belize	Burdon 1			
+		MS	Somerset DD/WHh/d	1201	2000	59	HELYAR DOCUMENTS AND MUNIMENTS FROM COKER COURT. 13th century - 20th century					Somerset Heritage Centre	Taunton	UK	Somerset Archive Catalogue	Link: https://somerset-cat.swheritage.org.uk/records/DD/WHh 		
+		MS	"AGN Mex, Historia, d"	1616	1880	597	Historia					Archivo General de la Nación	Mexico	Mexico	AGN Mexico Guía	AGN Mexico Guía Link: https://archivos.gob.mx/GuiaGeneral/GuiaGeneral.html 		
+		MS	"INDIFERENTE,a"	1492	1870	3302	Indiferente General					Archivo General de Indias	Seville	Spain	PARES			
+		MS	"Old WIC, 1.05.01.01, d"	1621	1711	99	"Inventaris van het archief van de Oude West-Indische Compagnie (Oude WIC), 1621-1674 (1711)"					Nationaal Archief	Hague	Netherlands	NA Hague Inventories	NA Hague Inventories Link: https://www.nationaalarchief.nl/onderzoeken/zoeken?activeTab=archives 		
+		MS	"States-General, 1.01.02, d"	1431	1796	17734	"Inventaris van het archief van de Staten-Generaal, (1431) 1576-1796"					Nationaal Archief	Hague	Netherlands	NA Hague Inventories			
+		MS	Laws 1765–1810	1765	1810	1	"Laws of Honduras, 1806–1810"					Archives and Records Service	Belmopan	Belize	Burdon 1			
+		MS	MLA	1791	1800	1	Magistrates' Letters A					Archives and Records Service	Belmopan	Belize	Burdon 1			
+		MS	MMA 2	1796	1805	1	Magistrates' Meetings A.2					Archives and Records Service	Belmopan	Belize	Burdon 1			
+		MS	Lib Jam MS d	1655	2017	2521	Manuscript and Archive Collection					National Library of Jamaica	Kingston	Jamaica	Lib Jam Catalogue	Lib Jam Catalogue Link: https://nlj.gov.jm/manuscripts-2/ 		
+		MS	MMA 1	1793	1796	1	Meetings of Magistrates Meetings A.1					Archives and Records Service	Belmopan	Belize	Burdon 1			
+		MS	"Bib Real, Mis Ayala, a"	xxx		xxx	Miscelánea de Manuel José de Ayala					Real Biblioteca del Palacio Real de Madrid	Madrid	Spain				
+		MS	MSR	1771	1787	xxx	Mosquito Shore Records					Archives and Records Service	Belmopan	Belize	Burdon 1			
+		MS	"PATRONATO,a"	1480	1801	8	Patronato Real					Archivo General de Indias	Seville	Spain	PARES			
+		MS	PCR	1789	1798	1	Police Court Records and Magistrates' Meetings					Archives and Records Service	Belmopan	Belize	Burdon 1	"Numbered 13 on fly leaf / includes Police Court Records 1789, Magistrates' Meetings 1793, Bonds 1797–1798 /Burdon 1 p292"		
+		MS	PR 1	1774	1818	8	Private Records 1					Archives and Records Service	Belmopan	Belize	Burdon 1	"Typed copies of eight Record Books 1774–1818, bulk 1784–1793 /Burdon 1 p291"		
+		MS	PR 2	1806	1831	1	Private Records 2					Archives and Records Service	Belmopan	Belize	Burdon 1			
+		MS	PRE	1790	1792	1	Private Records E					Archives and Records Service	Belmopan	Belize	Burdon 1 p292			
+		MS	PRH	1792	1793	1	Private Records H					Archives and Records Service	Belmopan	Belize	Burdon 1			
+		MS	PRM	1793	1795	1	Private Records M					Archives and Records Service	Belmopan	Belize	Burdon 1			
+		MS	PRN	1795	1796	1	Private Records N					Archives and Records Service	Belmopan	Belize	Burdon 1			
+		MS	PRO	1796	1800	1	Private Records O					Archives and Records Service	Belmopan	Belize	Burdon 1			
+		MS	PRXY	1813	1815	1	Private Records X.Y					Archives and Records Service	Belmopan	Belize	Burdon 1			
+		MS	Rawl MSS A. d	1101	1800	xxx	"Rawlinson Manuscripts, Series A: English History, 12th-18th century"					Bodleian Library	Oxford	UK	Bod Lib Catalogue	Bod Lib Catalogue Link: https://archives.bodleian.ox.ac.uk/repositories/2/archival_objects/90884 		
+		MS	"AGN Mex, Reales Cédulas, d"	1520	1820	447	Reales Cédulas					Archivo General de la Nación	Mexico	Mexico	AGN Mexico Guía			
+		MS	SP d/d	1231	1888	127	"Records assembled by the State Paper Office, including papers of the Secretaries of State up to 1782"					National Archives	Kew	UK	TNA Kew Catalogue	Cited as SPF Archives / SPF Spain in Burdon 1–3		
+		MS	FO d/d	1567	2004	1113	Records created or inherited by the Foreign Office					National Archives	Kew	UK	TNA Kew Catalogue			
+		MS	ADM d/d	1205	1998	363	"Records of the Admiralty, Naval Forces, Royal Marines, Coastguard, and related bodies"					National Archives	Kew	UK	TNA Kew Catalogue			
+		MS	CUST d/d	1554	2019	208	"Records of the Boards of Customs, Excise, and Customs and Excise, and HM Revenue and Customs"					National Archives	Kew	UK	TNA Kew Catalogue			
+		MS	CO d/d	1570	1990	1073	"Records of the Colonial Office, Commonwealth and Foreign and Commonwealth Offices, Empire Marketing Board, and related bodies"					National Archives	Kew	UK	TNA Kew Catalogue	"TNA Kew Catalogue, Link: https://discovery.nationalarchives.gov.uk/ "		
+		MS	FCO d/d	1878	2019	188	Records of the Foreign and Commonwealth Office and predecessors					National Archives	Kew	UK	TNA Kew Catalogue			
+		MS	Sloane MS	1	1964	3885	Sloane Manuscripts					British Library	London	UK	BL Catalogue			
+		MS	BL Thomason Tracts E. d	1640	1661	2000	Thomason Tracts					British Library	London	UK	BL Catalogue			
+		MS	Westminster d	1066	1900	xxx	Muniments of Westminster Abbey					Westminster Abbey	London	UK	Westminster Abbey Muniment Catalogue	"Some volumes or items possibly deposited in TNA, Kew, UK /Westminster Abbey Muniment Catalogue Link: https://www.westminster-abbey.org/about-the-abbey/library-research/muniment-collection "		
+		MS	"AGCA, a"	1544	1821	xxx						Archivo General de Centro América	Guatemala	Guatemala		"Likely using catalogue by Ross Publishing LLC, New York, NY, USA Link: https://www.rosspub.com/guatemalaenglishbrochure.htm "		
+		MS	C 110/152	1681	1812	1	Commercial correspondence and accounts					National Archives	Kew	UK		Particularly Brailsford v Peers records [1681–94]		
+		MS	Bib N Esp MSS/d	xxx		xxx						Biblioteca Nacional de España	Madrid	Spain				
+		MS	"Real Acad Hist, Col Muñoz, a"	xxx		76	Colección de Juan Bautista Muñoz					Real Academia de la Historia	Madrid	Spain	RAH Catalogue	RAH Catalogue Link: https://www.rah.es/colecciones-de-manuscritos/ 		
+		MS	Bib N France MS a	xxx		429	Département des Manuscrits Mexicain					Bibliothèque nationale de France	Paris	France	BnF Catalogue général	BnF Catalogue général Link: https://archivesetmanuscrits.bnf.fr 		
+		MS	Bib N France MS a	xxx		77	Département des Manuscrits Amérique					Bibliothèque nationale de France	Paris	France	BnF Catalogue général			
+		MS		xxx		xxx						Archives nationales d'outre-mer	Aix-en-Provence	France				
+		MS		xxx		xxx						Library of Congress	Washington	USA				
+		MS		xxx		xxx						Newberry Library	Chicago	USA				
+		MS		xxx		xxx						New York Public Library	New York	USA				
+		MS		xxx		xxx						Bancroft Library	Berkeley	USA				
+		MS	AGS Estado	1404	1700	5157	Consejo de Estado					Archivo General de Simancas	Valladolid	Spain	PARES			
+		MS	AGS Estado	1547	1843	7990	Secretaría de Estado y del Despacho de Guerra					Archivo General de Simancas	Valladolid	Spain	PARES			
+		MS	AGS Estado	1265	1833	3149	Secretaría del Despacho de Estado					Archivo General de Simancas	Valladolid	Spain	PARES			
+		MS	AGS Mapas y Planos	1503	1959	1355	"Mapas, planos y dibujos"					Archivo General de Simancas	Valladolid	Spain	PARES			
+		N		1800	1810		American Citizen	New York	USA						Readex / America’s Historical Newspapers			
+		N		1784	1784		American Herald	Boston	USA						Readex / America’s Historical Newspapers			
+		N		1719	1746		American Weekly Mercury	Philadelphia	USA						Readex / America’s Historical Newspapers			
+		N		1755	1815		Antigua Gazette	St. John’s	Antigua and Barbuda						Readex / America’s Historical Newspapers			
+		N		1838	1841		Belize Advertiser	Belize	Belize						Cave 34	Published weekly by Henry Whitney /via Cave 34		
+		N		1881	1887		Belize Advertiser	Belize	Belize						Cave 35	Published weekly from the Pinting Office of C. T. Hunter /via Cave 35		
+		N		1888	1889		Belize Advertiser	Belize	Belize						Cave 35	Published weekly by George Mitchell /via Cave 35		
+		N		1887	1888		Belize Advertiser and British Honduras Gazette	Belize	Belize						Cave 35			
+		N		1840	1845		Belize Gazette	Belize	Belize						Cave 34			
+		N		1888	1945		Belize Independent	Belize	Belize						Cave 36			
+		N		1796	1801		Bell’s Weekly Messenger	London	UK						Gale / Burney Newspapers Collection			
+		N		1800	1840		Boston Commercial Gazette	Boston	USA						Readex / America’s Historical Newspapers			
+		N		1735	1775		Boston Evening-Post	Boston	USA						Readex / America’s Historical Newspapers			
+		N		1719	1798		Boston Gazette	Boston	USA						Readex / America’s Historical Newspapers			
+		N		1704	1776		Boston News-Letter	Boston	USA						Readex / America’s Historical Newspapers			
+		N		1735	1775		Boston Post-Boy	Boston	USA						Readex / America’s Historical Newspapers			
+		N		1867	1868		British Honduras Colonist and Belize Advertiser	Belize	Belize						Cave 34			
+		N		1722	1731		British Journal	London	UK						Gale / Burney Newspapers Collection			
+		N		1873	1873		Central American Telegraph	Belize	Belize						Cave 35			
+		N		1897	1961		Clarion	Belize	Belize						Cave 36			
+		N		1882	1913		Colonial Guardian	Belize	Belize						Cave 35			
+		N		1864	1866		Colonist	Belize	Belize						Cave 34			
+		N		1809	1821		Columbian	New York	USA						Readex / America’s Historical Newspapers			
+		N		1790	1840		Columbian Centinel	Boston	USA						Readex / America’s Historical Newspapers			
+		N		1867	1867		Commercial Advertiser	Belize	Belize						Cave 35	Possibly printed later than 1867 /Cave 35		
+		N		1797	1876		Commercial Advertiser	New York	USA						Readex / America’s Historical Newspapers			
+		N		1722	1723		Compleat Set of St. James’s Journals	London	UK						Gale / Burney Newspapers Collection			
+		N		1727	1750		Country Journal or the Craftsman	London	UK						Gale / Burney Newspapers Collection			
+		N		1792	1800		Courier	London	UK						Gale / Burney Newspapers Collection			
+		N		1752	1752		Covent-Garden Journal	London	UK						Gale / Burney Newspapers Collection			
+		N		1726	1727		Craftsman [1726]	London	UK						Gale / Burney Newspapers Collection			
+		N		1778	1778		Craftsman or London Intelligencer	London	UK						Gale / Burney Newspapers Collection			
+		N		1730	1798		Daily Advertiser	London	UK						Gale / Burney Newspapers Collection			
+		N		1785	1809		Daily Advertiser	New York	USA						Readex / America’s Historical Newspapers			
+		N		1702	1735		Daily Courant	London	UK						Gale / Burney Newspapers Collection			
+		N		1735	1748		Daily Gazetteer	London	UK						Gale / Burney Newspapers Collection			
+		N		1721	1737		Daily Journal	London	UK						Gale / Burney Newspapers Collection			
+		N		1719	1746		Daily Post	London	UK						Gale / Burney Newspapers Collection			
+		N		1867	1867		Daly’s Advertising Sheet	Belize	Belize						Cave 34	Possibly printed earlier or later than 1867		
+		N		1792	1797		Diary	New York	USA						Readex / America’s Historical Newspapers			
+		N		1789	1793		Diary or Woodfall’s Register	London	UK						Gale / Burney Newspapers Collection			
+		N		1780	1800		English Chronicle	London	UK						Gale / Burney Newspapers Collection			
+		N		1789	1800		Evening Mail	London	UK						Gale / Burney Newspapers Collection			
+		N		1801	1876		Evening Post	New York	USA						Readex / America’s Historical Newspapers			
+		N		1709	1732		Evening Post [1709]	London	UK						Gale / Burney Newspapers Collection			
+		N		1695	1731		Flying Post	London	UK						Gale / Burney Newspapers Collection			
+		N		1728	1737		Fog’s Weekly Journal	London	UK						Gale / Burney Newspapers Collection			
+		N		1781	1783		Gazette of St. Jago de la Vega	Spanish Town	Jamaica						Readex / Caribbean Newspapers			
+		N		1754	1764		Gazetteer and London Daily Advertiser	London	UK						Gale / Burney Newspapers Collection			
+		N		1764	1796		Gazetteer and New Daily Advertiser	London	UK						Gale / Burney Newspapers Collection			
+		N		1744	1752		General Advertiser [1744]	London	UK						Gale / Burney Newspapers Collection			
+		N		1784	1789		General Advertiser [1784]	London	UK						Gale / Burney Newspapers Collection			
+		N		1777	1782		General Advertiser and Morning Intelligencer	London	UK						Gale / Burney Newspapers Collection			
+		N		1733	1822		General Evening Post	London	UK						Gale / Burney Newspapers Collection			
+		N		1743	1746		General London Evening Mercury	London	UK						Gale / Burney Newspapers Collection			
+		N		1794	1800		Greenleaf's New York Journal	New York	USA						Readex / America’s Historical Newspapers			
+		N		1826	1829		Honduras Gazette and Commercial Advertiser	Belize	Belize						Cave 34			
+		N		1840	1848		Honduras Observer	Belize	Belize						Cave 34	Possibly printed later than 1848 /Cave 34		
+		N		1769	1770		Independent Chronicle	London	UK						Gale / Burney Newspapers Collection			
+		N		1776	1817		Independent Chronicle	Boston	USA						Readex / America’s Historical Newspapers			
+		N		1783	1788		Independent Journal	New York	USA						Readex / America’s Historical Newspapers			
+		N		1760	1776		Kingston Journal	Kingston	Jamaica						Readex / Caribbean Newspapers			
+		N		1757	1805		Lloyd’s Evening Post	London	UK						Gale / Burney Newspapers Collection			
+		N		1739	1741		London and Country Journal [1739 Tuesday Edition]	London	UK						Gale / Burney Newspapers Collection			
+		N		1757	1823		London Chronicle	London	UK						Gale / Burney Newspapers Collection			
+		N		1751	1753		London Daily Advertiser	London	UK						Gale / Burney Newspapers Collection			
+		N		1734	1744		London Daily Post and General Advertiser	London	UK						Gale / Burney Newspapers Collection			
+		N		1727	1806		London Evening Post	London	UK						Gale / Burney Newspapers Collection			
+		N		1748	1752		London Gazetteer	London	UK						Gale / Burney Newspapers Collection			
+		N		1720	1744		London Journal [1720]	London	UK						Gale / Burney Newspapers Collection			
+		N		1751	1751		London Morning Penny Post	London	UK						Gale / Burney Newspapers Collection			
+		N		1769	1836		London Packet or New Evening Post	London	UK						Gale / Burney Newspapers Collection			
+		N		1782	1788		Massachusetts Gazette	Boston	USA						Readex / America’s Historical Newspapers	"Published in Springfield, MA, xxx"		
+		N		1793	1803		Massachusetts Mercury	Boston	USA						Readex / America’s Historical Newspapers			
+		N		1770	1876		Massachusetts Spy	Boston	USA						Readex / America’s Historical Newspapers	"Published in Worcester, MA, xxx"		
+		N		1798	1820		Mercantile Advertiser	New York	USA						Readex / America’s Historical Newspapers			
+		N		1769	1784		Middlesex Journal	London	UK						Gale / Burney Newspapers Collection			
+		N		1796	1797		Minerva	New York	USA						Readex / America’s Historical Newspapers			
+		N		1725	1728		Mist’s Weekly Journal	London	UK						Gale / Burney Newspapers Collection			
+		N		1802	1807		Morning Chronicle	New York	USA						Readex / America’s Historical Newspapers			
+		N		1769	1865		Morning Chronicle [1770]	London	UK						Gale / Burney Newspapers Collection			
+		N		1780	1869		Morning Herald	London	UK						Gale / Burney Newspapers Collection			
+		N		1772	1937		Morning Post	London	UK						Gale / Burney Newspapers Collection			
+		N		1789	1789		Morning Star	London	UK						Gale / Burney Newspapers Collection			
+		N		1871	1872		New Era and British Honduras Chronicler	Belize	Belize						Cave 35	Possibly printed later than 1872 /Cave 35		
+		N		1727	1741		New-England Weekly Journal	Boston	USA						Readex / America’s Historical Newspapers			
+		N		1788	1795		New-York Daily Gazette	New York	USA						Readex / America’s Historical Newspapers			
+		N		1759	1767		New-York Gazette	New York	USA						Readex / America’s Historical Newspapers			
+		N		1795	1821		New-York Gazette	New York	USA						Readex / America’s Historical Newspapers			
+		N		1768	1783		New-York Gazette and Weekly Mercury	New York	USA						Readex / America’s Historical Newspapers			
+		N		1743	1770		New-York Gazette or Weekly Post-Boy	New York	USA						Readex / America’s Historical Newspapers			
+		N		1782	1784		New-York Gazetteer or Northern Intelligencer	Albany	USA						Readex / America’s Historical Newspapers			
+		N		1766	1776		New-York Journal	New York	USA						Readex / America’s Historical Newspapers			
+		N		1778	1781		New-York Journal	Poughkeepsie	USA						Readex / America’s Historical Newspapers			
+		N		1784	1793		New-York Journal	New York	USA						Readex / America’s Historical Newspapers			
+		N		1802	1802		New-York Journal	New York	USA						Readex / America’s Historical Newspapers			
+		N		1809	1811		New-York Journal	New York	USA						Readex / America’s Historical Newspapers			
+		N		1752	1768		New-York Mercury	New York	USA						Readex / America’s Historical Newspapers			
+		N		1783	1792		New-York Morning Post	New York	USA						Readex / America’s Historical Newspapers			
+		N		1783	1792		New-York Packet	New York	USA						Readex / America’s Historical Newspapers			
+		N		1733	1750		New-York Weekly Journal	New York	USA						Readex / America’s Historical Newspapers			
+		N		1885	1886		Observer	Belize	Belize						Cave 35			
+		N		1751	1753		Old England or the National Gazette	London	UK						Gale / Burney Newspapers Collection			
+		N		1789	1802		Oracle	London	UK						Gale / Burney Newspapers Collection			
+		N		1845	1845		Packet Intelligencer	Belize	Belize						Cave 34			
+		N		1719	1725		Parker’s London News or the Impartial Intelligencer	London	UK						Gale / Burney Newspapers Collection			
+		N		1736	1793		Pennsylvania Gazette	Philadelphia	USA						Readex / America’s Historical Newspapers			
+		N		1752	1794		Public Advertiser	London	UK						Gale / Burney Newspapers Collection			
+		N		1760	1798		Public Ledger	London	UK						Gale / Burney Newspapers Collection			
+		N		1730	1761		Read’s Weekly Journal or British Gazetteer	London	UK						Gale / Burney Newspapers Collection			
+		N		1773	1775		Rivington's New-York Gazetteer	New York	USA						Readex / America’s Historical Newspapers			
+		N		1777	1777		Rivington's New-York Loyal Gazette	New York	USA						Readex / America’s Historical Newspapers			
+		N		1779	1840		Royal Gazette	Kingston	Jamaica							Titles = Jamaica Mercury and Kingston Weekly Advertiser / Royal Gazette / Royal Gazette and Jamaica Times		
+		N		1788	1788		Savanna-la-Mar Gazette	Savanna-la-Mar	Jamaica						Readex / Caribbean Newspapers			
+		N		1797	1851		Spectator	New York	USA						Readex / America’s Historical Newspapers			
+		N		1761	1822		St. James's Chronicle or the British Evening Post	London	UK						Gale / Burney Newspapers Collection			
+		N		1715	1751		St. James’s Evening Post	London	UK						Gale / Burney Newspapers Collection			
+		N		1788	1831		Star and Evening Advertiser [1788]	London	UK						Gale / Burney Newspapers Collection			
+		N		1785	2021		Times	London	UK						Gale / Burney Newspapers Collection			
+		N		1894	1896		Times of Central America	Belize	Belize						Cave 36			
+		N		1793	1804		True Briton [1793]	London	UK						Gale / Burney Newspapers Collection			
+		N		1728	1746		Universal Spectator and Weekly Journal	London	UK						Gale / Burney Newspapers Collection			
+		N		1715	1730		Weekly Journal or British Gazetteer	London	UK						Gale / Burney Newspapers Collection			
+		N		1716	1725		Weekly Journal or Saturday’s Post	London	UK						Gale / Burney Newspapers Collection			
+		N		1764	1794		Westminster Journal and London Political Miscellany	London	UK						Gale / Burney Newspapers Collection			
+		N		1746	1802		Whitehall Evening post [1770]	London	UK						Gale / Burney Newspapers Collection			
+		P		xxx		3	Documentos para la historia de Yucatán	Merida	Mexico	1936	1938				Gerhard xi	Recopilados por France V. Scholes y publicados por Carlos R. Menéndez		
+		P		1520	1844	1	Relación documental para la historia de la provincia de Yucatán	Merida	Mexico	1992	1992					By Sergio Quezada		
+		P		xxx		1	Documentos sobre Belice o Balice	Mexico	Mexico	1958	1958					Edited by Gustavo A. Pérez Trejo		
+		P		xxx		1	"Boletín Bibliográfico de la Secretaría de Hacienda y Crédito Público, nos. 394—5, Una página histórica sobre Belice "	Mexico	Mexico	1968	1968				Gerhard 75	By Gustavo A. Pérez Trejo		
+		P	Lon 79	1763	1779	1	"A Full answer to the King of Spain's last manifesto, respecting the bay of Honduras, and the Mosquito shore : in which all the accusations brought against the subjects of Great Britain settled in the bay of Honduras : and against the ancient British settlement in the free and independent dominions of the Mosquito shore : are candidly stated and refuted : and the importance of the Mosquito shore to Great Britain, delineated and ascertained ..."	London	UK	1779	1779				Gale / Sabin Americana	Printed for T. Cadell		
+		P	Lon 90 Narrative	1790	1790	1	"A narrative of the negotiations occasioned by the dispute between England and Spain, in the year 1790"	London	UK	1790	1790				Gale / Sabin Americana			
+		P	APC Col	1613	1783	6	Act of the Privy Council of England : colonial series	London	UK	1908	1912				Burdon 1			
+		P	Burdon d	1587	xxx	3	Archives of British Honduras	London	UK	1931	1935							
+		P	BTPJ	1704	1782	14	"Board of Trade and Plantations, Journal"	London	UK	1920	1938							
+		P	FSP	1373	1974	170	British and Foreign State Papers	London	UK	1841	1977				Burdon 1			
+		P	CSPC	1574	1739	41	"Calendar of State Papers, Colonial, America and West Indies"	London	UK	1860	1994							
+		P	Cogolludo	1506	1656	1	Historia de Yucathan	Madrid	Spain	1688	1688							
+		P	Harlow	1642	1645	1	"Camden Miscellany, volume XIII, The voyages of Captain William Jackson, 1642-5  
+"	London	UK	1924	1924				RHS Catalogue	"= Camden Third Series, volume XXXIV /RHS Catalogue Link: https://royalhistsoc.org/publications/camden-series/ "		
+		P	Lon 43	xxx		1	"Certaine inducements to well minded people, who are heere straitned in their estates or otherwise or such as are willing out of noble and pub[l]ique principles, to tran[s]port themselves, or servants, or agents for them into the West-Indies, for the propagating the Gospell, and increase of trade."	London	UK	1643	1643				ProQuest / Early English Books Online			
+		P	CDIE	xxx		113	Colección de documentos inéditos para la historia de España	Madrid	Spain	1842	1895					112 vols [1842–95] mentioned in some literature /eg Díaz-Trechuelo Spínola 1970 Link: http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/america-en-la-coleccion-de-documentos-ineditos/docview/1300364864/se-2?accountid=11311 		
+		P	CDI	xxx		42	"Colección de documentos inéditos, relativos al descubrimiento, conquista y organización de las antiguas posesiones españolas de América y Oceanía, sacados de los archivos del reino, y muy especial del de las Indias"	Madrid	Spain	1864	1884							
+		P	Charlevoix	xxx		3	Histoire de l'Isle espagnole ou de S. Domingue	Paris	France	1730	1733							
+		P	Terte	xxx		4	Histoire generale des Antilles habitées par les François	Paris	France	1667	1671							
+		P	Winthrop d	1630	1649	2	History of New England from 1630 to 1649	Boston	USA	1825	1826							
+		P	Hon Alm	1638	1830	5	Honduras Almanack	Belize	Belize	1826	1830				Burdon 1			
+		P	Labat	xxx		6	Nouveau voyage aux isles de l'Amérique	Paris	France	1722	1722				Bibliothèque nationale de France Catalogue	Bibliothèque nationale de France Catalogue = Gallica Link: https://gallica.bnf.fr/accueil/en/content/accueil-en?mode=desktop 		
+		P	Lon 29	1725	1729	1	Observations on the conduct of Great-Britain : with regard to the negociations and other transactions abroad	London	UK	1729	1729				Gale / Sabin Americana	Printed and sold by J. Roberts		
+		P	Jameson	1638	1772	1	Privateering and Piracy in the Colonial Period	New York	USA	1923	1923					Edited by J. F. Jameson		
+		P	"Sanchez, Rel"	1641	1642	1	"Relacion del suceso que tuvo Francisco Diaz Pimienta, general de la real armada de las Indias, en la isla de Santa Catalina"	Madrid	Spain	1642	1642							
+		P		1101	1714	11	Statutes of the Realm			1810	1828				Gale / Making of the Modern World	No place of publication given / edited by John Raithby		
+		P	Lon 62	xxx		3	"The American gazetteer : containing a distinct account of all the parts of the New world : their situation, climate, soil, produce, former and present condition : commodities, manufactures, and commerce : together with an accurate account of the cities, towns, ports, bays, rivers, lakes, mountains, passes, and fortifications ..."	London	UK	1762	1762				Gale / Sabin Americana	Printed for A. Millar [etc.]		
+		P	Lon 24	1814	1824	1	"The defence, &c. &c."	London	UK	1824	1824				Gale / Slavery and Anti-Slavery	"= Defence of the settlers of Honduras, Printed by A. J. Valpy"		
+		P	Lon 32	xxx		1	"The history and lives of all the most notorious pirates, and their crews : from Capt. Avery, who first settled at Madagascar, to Capt. John Gow, and James Williams, his lieutenant, &c. who were hanged at Execution Dock, June 11, 1725, for piracy and murther ... to which is prefixed, An abstract of the laws against piracy"	London	UK	1725	1725				Gale / Sabin Americana	"Printed for Edward Midwinter, at the Looking-Glass on London-Bridge"		
+		P	Laws 1857	1765	1857	1	The laws of the settlement of British Honduras in force in the twentieth year of the reign of Her Majesty Queen Victoria	Belize	Belize	1857	1857				Burdon 1			
+		P	Laet a	xxx		1	"Nieuwe Wereldt ofte Beschrijvinghe van West-Indien, uit veelerhande Schriften ende Aen-teekeningen van verscheyden Natien"	Leiden	Netherlands	1625	1625							
+		P	Laet a	1624	1636	1	"Historie ofte iaerlijck verhael van de verrichtinghen der geoctroyeerde West-Indische Compagnie, zedert haer begin, tot het eynde van 't jaer sesthien-hondert ses-en-dertich; begrepen in derthien boecken, ende met verscheyden koperen platen verciert"	Leiden	Netherlands	1644	1644				Goslinga	"Laet/Naber = version edited by S. P. l'Honoré Naber = Iaerlyck verhael van de verrichtinghen der Geoctroyeerde West-Indische compagnie [Hague, Mart. Nijhoff, 1931–37], 4 vols
+
+Laet port = Portuguese translation by Drs. Jose Hygino Duarte Pereira and Pedro Souto Maior = Historia ou annaes dos feitos da Companhia privilegiada das Indias occidentaes desde o seu começo até ao fim do anno de 1636 [Rio de Janeiro, Officinas graphicas da Bibliotheca nacional, 1916-1925], 2 vols"		
+		P	Dampier	1669	1691	2	Voyages			1697	1699				Oxford DNB	"= A new voyage around the world [London : Printed for James Knapton ..., 1697], Voyages and Discoveries [1699]
+First edition of Voyages and Discoveries 1699 not located"		
+		P	Exquemeling	1666	1674	1	De Americaensche zee-roovers	Amsterdam	Netherlands	1678	1678							
+		P	CP d	1833	2004	54452	Command Papers	London	UK	1833	2021				ProQuest / UK Parliamentary Papers	"Also cited C. / Cd. / Cmd. / Cmnd. / Cm.
+Command papers 2005—Present, and unnumbered papers, excluded
+Place of publication assumed"		
+		P	HC d	1715	2004	98871	House of Commons Papers	London	UK	1715	2021				ProQuest / UK Parliamentary Papers	"Papers 2005—Present excluded
+Place of publication assumed"		
+		P	Kemble	1775	1781	2	The Kemble papers	New York	USA	1884	1885							
+		P	Herrera	1492	xxx	4	Historia general de los hechos de los castellanos en las islas i tierra firme del mar oceano 	Madrid	Spain	1601	1615							
+		P	Castell	xxx		1	"A short discoverie of the coasts and continent of America, from the equinoctiall northward, and the adjacent isles"	London	UK	1644	1644				Oxford DNB			
+		P	Gage	1625	1637	1	"The English-American, his travail by sea and land"	London	UK	1648	1648				Oxford DNB			
+		P	Blaeu	xxx		11	Atlas Maior	Amsterdam	Netherlands	1662	1672							
+		P	Ogilby	xxx		1	"America, being the latest and most accurate description of the Nevv VVorld"	London	UK	1671	1671							
+		P	Roteta	1655	1694	1	Forma de asegurar los puertos y poblaciones de todas las costas de las Indias	Madrid	Spain	1694	1694							
+		P	Johnson	1629	1724	2	A General History of the Robberies and Murders of the most notorious Pyrates	London	UK	1724	1724							
+		P	Knight	xxx		1	"The state of the island of Jamaica. Chiefly in relation to its commerce, and the conduct of the Spaniards in the West-Indies. Address'd to a member of Parliament. By a person who resided several years at Jamaica"	London	UK	1726	1726					Printed for H. Whitridge		
+		P	Uring	xxx		1	"A history of the voyages and travels of Capt. Nathaniel Uring. With new draughts of the Bay of Honduras and the Caribbee Islands; and particularly of St. Lucia, and the harbour of Petite Carenage; into which ships may run in bad weather, and be safe from all winds and storms. Very useful for masters of ships that use the Leeward Island trade, or Jamaica."	London	UK	1726	1726							
+		P	Atkins	xxx		1	"Voyage to Guinea, Brazil and the West Indies in HMS Swallow and Weymouth"	London	UK	1735	1735							
+		P	Cockburn	xxx		1	"The unfortunate Englishmen, or, A faithful narrative of the distresses and adventures of John Cockburn, and five other English mariners ... who were taken by a Spanish guarda costa in the John and Ann, Edward Burt, master, and set on shore at a place call'd Porto-Cavallo ... "	London	UK	1740	1740							
+		P	Honestus	1739	1741	1	"The profit and loss of Great Britain in the present war with Spain : from July 1739, to July 1741 : in a letter to a friend"	London	UK	1741	1741					"Printed for J. Roberts, ..."		
+		P	Philalethes	xxx		1	"The profit and loss of Great-Britain and Spain : from the commencement of the present war, to this time, impartially stated : by laying before the publick, as perfect and regular a list, as can be hand, of all the ships taken from either nation, since the beginning of the war, to this time : with proper remarks upon the list of British ships, in a pamphlet, intitled, Hireling artifice detected : in a letter to the author"	London	UK	1742	1742					"Printed for T. Cooper, ..."		
+		P	MacSparran	xxx		1	"America dissected : being a full and true account of all the American colonies : shewing, the intemperance of the climates : excessive heat and cold ... badness of money : danger from enemies : but, above all, the danger to the souls of the poor people that remove thither, from the multifarious wicked and pestilent heresies that prevail in those parts : in several letters, from a rev. divine of the Church of England, missionary to America ..."	Dublin	Ireland	1753	1753					Printed and sold by S. Powell		
+		P	Burke	xxx		2	An Account of the European Settlements in America	London	UK	1757	1757					Printed for R. and J. Dodsley ...		
+		P	Jefferys	xxx		1	"The West-India atlas, or, A compendious description of the West-Indies : illustrated with forty correct charts and maps, taken from actual surveys : together with an historical account of the several countries and islands which compose that part of the world, their discovery, situation, extent, boundaries, product, trade, inhabitants, strength, government, religion, &c."	London	UK	1775	1775							
+		P	White 1 Hon	xxx		1	"The case of His Majesty's subjects settled on the coast of Yucatan in the bay of Honduras under the special and sole protection of the crown of Spain : who were, in the month of September 1779, robbed and despoiled of their property, and captivated in their persons by the King of Spain's forces and subjects, in violation of the seventeenth article of the treaty of Paris, concluded in February 1763, and in breach of other prior articles and treaties, then in force between His Majesty and the said King of Spain"	London	UK	1789	1789							
+		P	White 1 Mos	xxx		1	"The case of His Majesty's subjects having property in and lately established upon the Mosquito Shore in America : most humbly submitted to the King's Most Excellent Majesty in Council, the Lords and Commons in Parliament, and the nation of Great-Britain at large, 1789"	London	UK	1789	1789							
+		P	Verus	xxx		1	Letters lately published in The diary on the subject of the present dispute with Spain	London	UK	1790	1790					Printed for G. Kearsley ...		
+		P	White 2	xxx		1	"The case of the agents to the settlers on the coast of Yucatan, and the late settlers on the Mosquito-Shore : stating the whole of his conduct, in soliciting compensation for the losses, sustained by each of those classes of His Majesty's injured and distressed subjects"	London	UK	1793	1793							
+		P	Henderson	xxx		1	"An account of the British settlement of Honduras : being a view of its commercial and agricultural resources, soil, climate, natural history, &c. : to which are added, sketches of the manners and customs of the Mosquito Indians, preceded by the journal of a voyage to the Mosquito shore ..."	London	UK	1809	1809							
+		P	Edwards	xxx		2	"The History, Civil and Commercial, of the British Colonies in the West Indies"	London	UK	1793	1793					Printed for John Stockdale		
+		P	Armstrong	xxx		1	"A candid examination of ""The defense of the settlers of Honduras"" : or, A fair inquiry into the truth and justice of their accusations against Colonel George Arthur, late Superintendent of that settlement"	London	UK	1824	1824					Printed for J. Butterworth and son		
+		P	Cardenas	1526	1639	1	"Relación historial eclesiástica de la provincia de Yucatán de la Nueva España, escrita el año de 1639"	Mexico	Mexico	1937	1937				Jones 1	= BL Egerton MS 1791		
+		P	Maya R	1621	1624	1	"Maya Research, vol 3, Documents relating to the Mirones Expedition to the interior of Yucatan, 1621-1624"	New York	USA	1936	1937				Jones 1	"Also available as Documents relating to the Mirones Expedition to the interior of Yucatan, 1621-1624 [Culver City, Calif. : Labyrinthos, 1991]"		
+		P	Wassenaer	xxx		21	"Historisch verhael alder ghedenck-weerdichste geschiedenisse, die hier en daer in Europa, als in Duijtsch-lant, Vranckrijck, Enghelant, Spaengien, Hungarijen, Polen, Sevenberghen, Wallachien, Moldavien, Turckijen en Neder-lant, van den beginne des jaers 1621 ..."	Amsterdam	Netherlands	1622	1635				Goslinga			
+		P	Wright/van Dam	1621	1649	2	Nederlandsche zeevaarders op de eilanden in de Caraïbische zee en aan de kust van Columbia en Venezuela gedurende de jaren 1621-1648(9) Documenten hoofdzakelijk uit het Archivo general de Indias te Sevilla	Utrecht	Netherlands	1934	1935				Goslinga	Edited by Irene A. Wright / Translations by Cornelis F. A. van Dam		
+		P	Duro	xxx		9	Armada española desde la unión de los reinos de Castilla y de León	Madrid	Spain	1895	1903					Attributed to Cesáreo Fernández Duro		
+		P	Jones 3	1654	1656	1	"Anthropology and History in Yucatán, cap 2, The Francisco Pérez Probanza and the Matrícula of Tipu"	Austin	USA	1977	1977				Jones 1	Edited by Grant D. Jones	https://hdl-handle-net.ezp-prod1.hul.harvard.edu/2027/heb.03643	
+		P	Veitia Linage	xxx		2	Norte de la contratacion de las Indias Occidentales	Seville	Spain	1672	1672				Lang	By Joseph de Veitia Linage	https://link.gale.com/apps/doc/U0100219950/MOME?u=camb55135&sid=MOME&xid=40f105e8	
+		P	"Thompson, Maya"	xxx		1	The Maya of Belize	Belize	Belize	1972	1972				Jones 1	By John Eric Sydney Thompson / 1972 edition printed by Benex Press / later editions available	file:///Users/angelnavidad/Library/Mobile%20Documents/com~apple~Preview/Documents/the_maya_of_belize_hq.pdf	
+		P	Villagutierre Sotomayor	xxx		1	"Historia de la conquista de la provincia de El Itza, reduccion, y progressos de la de El Lacandon, y otras naciones de indios Barbaros, de la mediacion de el reyno de Guatimala, a las provincias de Yucatan, en la America septentrional"	Madrid	Spain	1701	1701							
+
+
+Print: C1—30 / Online collections of archival material.
+ID	NO	ALT ID	AUTHORS	EDITORS	TRANSLATORS	V	CURRENT	FIRST	CITY	COUNTRY	TITLE	NOTE	LINK	
+		Herrera	A. de Herrera y Tordesillas				1601	1601	Madrid	Spain	"Historia general de los hechos de los castellanos en las islas i tierra firme del mar oceano, vol 1:  Descripcion de Las Indias ocidentales"		http://bdh.bne.es/bnesearch/detalle/bdh0000192568	
+		Laet lat	J. de Laet				1633	1625	Antwerp	Netherlands	Nous orbis seu descriptionis indiae occidentalis	Translated from 1625 Dutch edition	"file:///Users/angelnavidad/Downloads/Novus_orbis,_seu_descriptio_In.pdf"	
+		Laet spa	J. de Laet		M. Vannini de Gerulewicz	1	1988	1625	Antwerp	Netherlands	"Mundo Nuevo, o, Descripción de las Indias Occidentales"	Translated from 1640 French edition	https://hdl.handle.net/2027/txu.059173017954270	
+		Harlow	W. Jackson	V. T. Harlow			1923	1642	London	UK	Voyages of Capt. William Jackson	Transcribes BL Sloane MS 793 or 894	file:///Users/angelnavidad/Downloads/harlow1924.pdf	
+		Lon 43	sn				1643	1643	London	UK	CERTAINE INDUCEMENTS To well minded PEOPLE		http://search.proquest.com.ezp-prod1.hul.harvard.edu/books/certaine-inducements-well-minded-people-who-are/docview/2248561152/se-2?accountid=11311	
+		Castell	"W. Castell, B. Rudyerd"				1644	1644	London	UK	A short discoverie of the coasts and continent of America		"Castell, William, et al. A short discoverie of the coasts and continent of America  from the equinoctiall northward and the adjacent isles. [s.n.], 1644. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0102903240/SABN?u=camb55135&sid=SABN&xid=6db34e3d&pg=91. Accessed 19 Feb. 2021."	
+		Laet por	J. de Laet		"J. H. Duarte Pereira, P. Souto Maior"	1-2	1916	1644	Leiden	Netherlands	Historia ou annaes dos feitos da Companhia privilegiada das Indias Occidentaes desde o seu começo até ao fim do anno de 1636		https://hdl.handle.net/2027/mdp.39015077856105	
+		Gage	T. Gage				1648	1648	London	UK	"The English-American, his travail by sea and land"		"Gage, T., 1603?-1656. (1648). The english-american, his travail by sea and land, or, A new survey of the west-india's containing a journall of three thousand and three hundred miles within the main land of america ... : Also, a new and exact discovery of the spanish navigation to those parts ... : With a grammar, or some few rediments of the indian tongue called poconchi, or pocoman / by the true and painfull endeavours of thomas gage ... 1648 London, Printed by R. Cotes and are to be sold by Humphrey Blanden ... and Thomas Williams .. Retrieved from http://search.proquest.com.ezp-prod1.hul.harvard.edu/books/english-american-his-travail-sea-land-new-survey/docview/2248525331/se-2?accountid=11311"	
+		Blaeu	J. Blaeu			1-11	1662	1662	Amsterdam	Netherlands	Atlas Maior		https://www.erfgoedleiden.nl/schatkamer/bladeren-door-blaeu	
+		Ogilby	J. Ogilby				1671	1671	London	UK	"America, being the latest and most accurate description of the Nevv VVorld"		"Ogilby, John. America, being the latest and most accurate description of the Nevv VVorld : containing the original of the inhabitants and the remarkable voyages thither, the conquest of the vast empires of Mexico and Peru and other large provinces and territories, with the several European plantations in those parts : also their cities, fortresses, towns, temples, mountains and rivers, their habits, customs, manners and religions, their plants, beasts, birds and serpents : with an appendix, containing, besides several other considerable additions, a brief survey of what hath been discover'd of the unknown south-land and the Arctick region. Printed by the author and are to be had at his house in White Fryers, 1671. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0110106505/SABN?u=camb55135&sid=SABN&xid=af6e3093&pg=1. Accessed 19 Feb. 2021."	
+		Exquemeling	A. O. Exquemeling	G. A. Williams	sn		1914	1678	Amsterdam	Netherlands	The Pirates of Panama	Translated from or on 1684 Spanish or French edition	https://www.gutenberg.org/dirs/2/6/6/9/26690/26690-h/26690-h.htm	
+		Cogolludo	"D. L. de Cogolludo, F. de Ayeta"				1688	1688	Madrid	Spain	Historia de Yucathan		"López de Cogolludo, Diego, and Francisco de Ayeta. Historia de Yucathan. Jvan Garcia Infanzen, 1688. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0102936949/SABN?u=camb55135&sid=SABN&xid=fbdf1b13&pg=444. Accessed 18 Feb. 2021."	
+		Roteta	S. de Roteta				1694	1694	Madrid	Spain	Method of Securing the Ports and Populations of All the Coasts of the Indies		https://www.wdl.org/en/item/4393/	
+		Dampier 2	W. Dampier			2	1700	1699	London	UK	Voyages and descriptions vol 2		http://search.proquest.com.ezp-prod1.hul.harvard.edu/books/voyages-descriptions-three-parts-which-is-added/docview/2264207852/se-2?accountid=11311	
+		Johnson	C. Johnson				1724	1724	London	UK	General History of the Pyrates	“The second Edition” = 1724	https://www.gutenberg.org/files/40580/40580-h/40580-h.htm	
+		Knight	"A. B., J. Knight"				1726	1726	London	UK	The state of the island of Jamaica.		https://link.gale.com/apps/doc/U0100618230/MOME?u=camb55135&sid=MOME&xid=62daebbf&pg=15	
+		Uring	N. Uring				1726	1726	London	UK	A history of the voyages and travels of Capt. Nathaniel Uring		https://link.gale.com/apps/doc/CW0100827679/ECCO?u=camb55135&sid=ECCO&xid=93c13f09	
+		Lon 29	sn				1729	1729	London	UK	Observations on the conduct of Great-Britain		"Observations on the conduct of Great-Britain : with regard to the negociations and other transactions abroad. Printed and sold by J. Roberts, 1729. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0101707279/SABN?u=camb55135&sid=SABN&xid=19effaa4&pg=24. Accessed 17 Feb. 2021."	
+		Lon 32	sn				1732	1732	London	UK	"The history and lives of all the most notorious pirates, and their crews"	4th ed = 1734	"The history and lives of all the most notorious pirates, and their crews : from Capt. Avery, who first settled at Madagascar, to Capt. John Gow, and James Williams, his lieutenant, &c. who were hanged at Execution Dock, June 11, 1725, for piracy and murther ... to which is prefixed, An abstract of the laws against piracy. 4th ed., Printed for Edw. Midwinter ..., 1732. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0105489709/SABN?u=camb55135&sid=SABN&xid=93626f95&pg=131. Accessed 18 Feb. 2021."	
+		Atkins	J. Atkins				1735	1735	London	UK	"Voyage to Guinea, Brasil, and the West-Indies"		https://archive.org/details/voyagetoguineabr00atki	
+		Cockburn	J. Cockburn				1740	1740	London	UK	"The unfortunate Englishmen, or, A faithful narrative of the distresses and adventures of John Cockburn, and five other English mariners"		"Cockburn, John. The unfortunate Englishmen, or, A faithful narrative of the distresses and adventures of John Cockburn, and five other English mariners ... who were taken by a Spanish guarda costa in the John and Ann, Edward Burt, master, and set on shore at a place call'd Porto-Cavallo ... : containing a journey over land from the Gulph of Honduras to the great South Sea ... as also an account of the manners, customs, and behaviour of the several Indians inhabiting a tract of land of 2400 miles ... Printed and sold by the booksellers of London and Westminster, 1740. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0101299426/SABN?u=camb55135&sid=SABN&xid=cb833230&pg=1. Accessed 17 Feb. 2021."	
+		Honestus	Honestus				1741	1741	London	UK	The profit and loss of Great Britain in the present war with Spain		"Honestus. The profit and loss of Great Britain in the present war with Spain : from July 1739, to July 1741 : in a letter to a friend. Printed for J. Roberts, ..., 1741. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0102392227/SABN?u=camb55135&sid=SABN&xid=5588032e&pg=1. Accessed 17 Feb. 2021."	
+		Philalethes	Philalethes				1742	1742	London	UK	The profit and loss of Great-Britain and Spain		"Philalethes. The profit and loss of Great-Britain and Spain : from the commencement of the present war, to this time, impartially stated : by laying before the publick, as perfect and regular a list, as can be hand, of all the ships taken from either nation, since the beginning of the war, to this time : with proper remarks upon the list of British ships, in a pamphlet, intitled, Hireling artifice detected : in a letter to the author. Printed for T. Cooper, ..., 1742. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0102392266/SABN?u=camb55135&sid=SABN&xid=1cb00ab5&pg=1. Accessed 17 Feb. 2021."	
+		MacSparran	J. MacSparran				1753	1753	Dublin	Ireland	America dissected		"MacSparran, James. America dissected : being a full and true account of all the American colonies : shewing, the intemperance of the climates : excessive heat and cold ... badness of money : danger from enemies : but, above all, the danger to the souls of the poor people that remove thither, from the multifarious wicked and pestilent heresies that prevail in those parts : in several letters, from a rev. divine of the Church of England, missionary to America ... Printed and sold by S. Powell, 1753. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0100561686/SABN?u=camb55135&sid=SABN&xid=3bc0a340&pg=1. Accessed 19 Feb. 2021."	
+		Burke	"E. Burke, W. Burke"			2	1808	1757	London	UK	An Account of the European Settlements in America		https://www.google.com/books/edition/An_Account_of_the_European_Settlements_i/G_sMAAAAYAAJ?hl=en&gbpv=0	
+		Lon 62	sn			2	1762	1762	London	UK	The American gazetteer		"The American gazetteer : containing a distinct account of all the parts of the New world : their situation, climate, soil, produce, former and present condition : commodities, manufactures, and commerce : together with an accurate account of the cities, towns, ports, bays, rivers, lakes, mountains, passes, and fortifications ... Vol. 2, Printed for A. Millar [etc.], 1762. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0103933762/SABN?u=camb55135&sid=SABN&xid=919c328b&pg=109. Accessed 17 Feb. 2021."	
+		Jefferys	T. Jefferys				1775	1775	London	UK	"The West-India atlas, or, A compendious description of the West-Indies"		"Jefferys, Thomas. The West-India atlas, or, A compendious description of the West-Indies : illustrated with forty correct charts and maps, taken from actual surveys : together with an historical account of the several countries and islands which compose that part of the world, their discovery, situation, extent, boundaries, product, trade, inhabitants, strength, government, religion, &c. Printed for Robert Sayer and John Bennett, 1775. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0110763069/SABN?u=camb55135&sid=SABN&xid=f28b570d&pg=16. Accessed 17 Feb. 2021."	
+		Lon 79	sn				1779	1779	London	UK	"A Full answer to the King of Spain's last manifesto, respecting the bay of Honduras, and the Mosquito shore"		"A Full answer to the King of Spain's last manifesto, respecting the bay of Honduras, and the Mosquito shore : in which all the accusations brought against the subjects of Great Britain settled in the bay of Honduras : and against the ancient British settlement in the free and independent dominions of the Mosquito shore : are candidly stated and refuted : and the importance of the Mosquito shore to Great Britain, delineated and ascertained ... Printed for T. Cadell, 1779. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0100038323/SABN?u=camb55135&sid=SABN&xid=46610deb&pg=1. Accessed 17 Feb. 2021."	
+		White 1 Hon	R. White				1789	1789	London	UK	The case of His Majesty's subjects settled on the coast of Yucatan in the bay of Honduras under the special and sole protection of the crown of Spain 		"White, Robert, et al. The case of His Majesty's subjects settled on the coast of Yucatan in the bay of Honduras under the special and sole protection of the crown of Spain : who were, in the month of September 1779, robbed and despoiled of their property, and captivated in their persons by the King of Spain's forces and subjects, in violation of the seventeenth article of the treaty of Paris, concluded in February 1763, and in breach of other prior articles and treaties, then in force between His Majesty and the said King of Spain. Printed for T. Cadell, 1789. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0102760133/SABN?u=camb55135&sid=SABN&xid=50d0d710&pg=1. Accessed 17 Feb. 2021."	
+		White 1 Mos	R. White				1789	1789	London	UK	The case of His Majesty's subjects having property in and lately established upon the Mosquito Shore in America 		"White, Robert. The case of His Majesty's subjects having property in and lately established upon the Mosquito Shore in America : most humbly submitted to the King's Most Excellent Majesty in Council, the Lords and Commons in Parliament, and the nation of Great-Britain at large, 1789. Printed for T. Cadell in the Strand, 1789. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0102270362/SABN?u=camb55135&sid=SABN&xid=b8095f09&pg=1. Accessed 17 Feb. 2021."	
+		Lon 90 Narrative	sn				1790	1790	London	UK	A narrative of the negotiations occasioned by the dispute between England and Spain		"A narrative of the negotiations occasioned by the dispute between England and Spain, in the year 1790. [s.n.], [1791?]. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0102254917/SABN?u=camb55135&sid=SABN&xid=5592a75c&pg=1. Accessed 17 Feb. 2021."	
+		Verus	"Verus, J. B. Burges"				1790	1790	London	UK	Letters lately published in The diary on the subject of the present dispute with Spain		"Verus., and James Bland Burges. Letters lately published in The diary on the subject of the present dispute with Spain. Printed for G. Kearsley ..., 1790. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0102153815/SABN?u=camb55135&sid=SABN&xid=252b8bd7&pg=69. Accessed 17 Feb. 2021."	
+		White 2 Hon	R. White				1793	1793	London	UK	"The case of the agents to the settlers on the coast of Yucatan, and the late settlers on the Mosquito-Shore "		"White, Robert. The case of the agents to the settlers on the coast of Yucatan, and the late settlers on the Mosquito-Shore : stating the whole of his conduct, in soliciting compensation for the losses, sustained by each of those classes of His Majesty's injured and distressed subjects. Printed for T. Cadell, 1793. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0101574822/SABN?u=camb55135&sid=SABN&xid=a6dcd8a3&pg=1. Accessed 17 Feb. 2021."	
+		White 2 Mos	R. White				1793	1793	London	UK	The case of the agent to the settlers on the coast of Yucatan and the late settlers on the Mosquito-Shore 		"White, Robert. The case of the agent to the settlers on the coast of Yucatan and the late settlers on the Mosquito-Shore : stating the whole of his conduct in soliciting compensation for the losses sustained by each of those classes of His Majesty's injured and distressed subjects. Printed for T. Cadell, 1793. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0105619504/SABN?u=camb55135&sid=SABN&xid=8970463d&pg=1. Accessed 17 Feb. 2021."	
+		Henderson	G. Henderson				1809	1809	London	UK	An account of the British settlement of Honduras 		"Henderson, George. An account of the British settlement of Honduras : being a view of its commercial and agricultural resources, soil, climate, natural history, &c. : to which are added, sketches of the manners and customs of the Mosquito Indians, preceded by the journal of a voyage to the Mosquito shore ... C. and R. Baldwin, 1809. World Scholar: Latin America & the Caribbean, tinyurl.gale.com/tinyurl/DPB2a9. Accessed 17 Feb. 2021."	
+		Edwards 4	B. Edwards			4	1818	1818	London	UK	"The history, civil and commercial, of the British West Indies"	5th ed = ?	"Edwards, Bryan. The history, civil and commercial, of the British West Indies. 5th ed., vol. 4, G. and W.B. Whittaker; [etc., etc.], 1818-19. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0103354739/SABN?u=camb55135&sid=SABN&xid=f999489c&pg=261. Accessed 17 Feb. 2021."	
+		Edwards 5	B. Edwards			5	1818	1818	London	UK	"The history, civil and commercial, of the British West Indies"	5th ed = ?	"Edwards, Bryan. The history, civil and commercial, of the British West Indies. 5th ed., vol. 5, G. and W.B. Whittaker; [etc., etc.], 1818-19. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0106428381/SABN?u=camb55135&sid=SABN&xid=e80cf12a&pg=1. Accessed 17 Feb. 2021."	
+		Armstrong	"J. Armstrong, G. Arthur"				1824	1824	London	UK	"A candid examination of ""The defense of the settlers of Honduras"" "		https://link.gale.com/apps/doc/U0107412823/MOME?u=camb55135&sid=MOME&xid=ace432cc&pg=1	
+		Lon 24	sn				1824	1824	London	UK	"The defence, &c. &c."		https://link.gale.com/apps/doc/DS0103730001/SAS?u=camb55135&sid=SAS&xid=1ede003f&pg=40	
+		Winthrop 1	J. Winthrop	J. K. Hosmer		1	1908	1825	New York	USA	"Winthrop's Journal ""History of New England"" 1630-1649"	Transcribes part of Winthrop Papers of Massachusetts Historical Society	https://www.google.com/books/edition/Winthrop_s_Journal_History_of_New_Englan/Y9PIGzZI66oC?hl=en&gbpv=0	
+		Winthrop 2	J. Winthrop	J. K. Hosmer		2	1908	1825	New York	USA	"Winthrop's Journal ""History of New England"" 1630-1649"		https://www.google.com/books/edition/Winthrop_s_Journal_History_of_New_Englan/0D2lSuKkDmYC?hl=en&gbpv=1&printsec=frontcover	
+		Southey	T. Southey			2	1827	1827	London	UK	Chronological history of the West Indies		"Southey, Thomas. Chronological history of the West Indies. Vol. 2, Longman, Rees, Orme, Brown, and Green, 1827. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0104192403/SABN?u=camb55135&sid=SABN&xid=9a3daa27&pg=257. Accessed 17 Feb. 2021."	
+		Martin 1	R. M. Martin			1	1836	1836	London	UK	History of the West Indies		"Martin, Robert Montgomery. History of the West Indies: Comprising Jamaica, Honduras, Trinidad, Tobago, Grenada, The Bahamas, and The Virgin Isles. Vol. 1, Whittaker & Co., 1836. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0112507654/SABN?u=camb55135&sid=SABN&xid=06da52f8&pg=72. Accessed 17 Feb. 2021."	
+		Martin 2	R. M. Martin				1837	1837	London	UK	Colonial policy of the British Empire		"Martin, Robert Montgomery. Colonial policy of the British Empire. Pt. 1, Government. W.H. Allen & Co., 1837. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0106089023/SABN?u=camb55135&sid=SABN&xid=1305c6c0&pg=90. Accessed 17 Feb. 2021."	
+		Eastern	Eastern Coast of Central America Commercial and Agricultural Company				1839	1839	London	UK	"Brief statement, supported by original documents, of the important grants conceded to the Eastern Coast of Central America Commercial and Agricultural Company by the state of Guatemala"		"Eastern Coast of Central America Commercial and Agricultural Company. Board of Directors. Brief statement, supported by original documents, of the important grants conceded to the Eastern Coast of Central America Commercial and Agricultural Company by the state of Guatemala. Whittaker & Co., 1839. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0106797626/SABN?u=camb55135&sid=SABN&xid=fc50e901&pg=7. Accessed 17 Feb. 2021."	
+		Clayton	J. M. Clayton				1853	1853	Washington	USA	"Speech of John M. Clayton, of Delaware, delivered in the Senate of the United States on the 8th of March, 1853"		"Clayton, John Middleton. Speech of John M. Clayton, of Delaware, delivered in the Senate of the United States on the 8th of March, 1853 : in vindication of the Central American treaty concluded with Great Britain on the 19th of April, 1850. Printed by Kirkwood & McGill, 1853. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0104293458/SABN?u=camb55135&sid=SABN&xid=1d289d88&pg=14. Accessed 17 Feb. 2021."	
+		Fancourt	C. S. J. Fancourt				1854	1854	London	UK	"The history of Yucatan, from its discovery to the close of the seventeenth century"		"Fancourt, Charles Saint John. The history of Yucatan, from its discovery to the close of the seventeenth century. J. Murray, 1854. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0100004060/SABN?u=camb55135&sid=SABN&xid=783b6f0e&pg=1. Accessed 20 Feb. 2021."	
+		Squier 1	"E. G. Squier, S. A. Bard"				1855	1855	London	UK	"Waikna, or, Adventures on the Mosquito shore"		"Squier, Ephraim George, and Samuel A. Bard. Waikna, or, Adventures on the Mosquito shore. Sampson Low, son, & co., 1855. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0103178029/SABN?u=camb55135&sid=SABN&xid=f8bae517&pg=93. Accessed 17 Feb. 2021."	
+		US State	sn				1856	1856	Washington	USA	Documents relative to Central American affairs and the enlistment question		"United States. Dept. of State., et al. Documents relative to Central American affairs and the enlistment question. C. Wendell, Printer, 1856. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0102905680/SABN?u=camb55135&sid=SABN&xid=e04c57fa&pg=1. Accessed 17 Feb. 2021."	
+		Squier 2	E. G. Squier				1858	1858	New York	USA	The states of Central America 		"Squier, Ephraim George. The states of Central America : their geography, topography, climate, population, resources, productions, commerce, political organization, aborigines, etc. etc. : comprising chapters on Honduras, San Salvador, Nicaragua, Costa Rica, Guatemala, Belize, the Bay Islands, the Mosquito Shore, and the Honduras Inter-oceanic Railway. Harper & Bros, 1858. World Scholar: Latin America & the Caribbean, tinyurl.gale.com/tinyurl/DPB2g3. Accessed 17 Feb. 2021."	
+		Harris	J. D. Harris				1860	1860	New York	USA	A summer on the borders of the Caribbean Sea		"Harris, J. Dennis. A summer on the borders of the Caribbean Sea. A.B. Burdick, 1860. Sabin Americana: History of the Americas, 1500-1926, link.gale.com/apps/doc/CY0100216178/SABN?u=camb55135&sid=SABN&xid=de785820&pg=137. Accessed 17 Feb. 2021."	
+		Fernandez	C. Fernández Duro			2	1877	1877	Madrid	Spain	"La mar descrita por los mareados, Más disquisiciones, vol 2"		https://www.google.com/books/edition/La_mar_descrita_por_los_mareados/4iv4_CqVEM8C?hl=en&gbpv=1&pg=PA301&printsec=frontcover	
+		Alsedo	D. de Alsedo y Herrera				1883	1883	Madrid	Spain	Piraterías y agresiones de los ingleses y de otros pueblos de Europa en la América española desde el siglo XVI al XVIII		http://www.cervantesvirtual.com/obra/piraterias-y-agresiones-de-los-ingleses--y-de-otros-pueblos-de-europa-en-la-america-espanola-desde-el-siglo-xvi-al-xviii--deducidas-de-las-obras-de-dionisio-de-alsedo-y-herrera--publicalas-justo-zaragoza/	
+		Kemble 2	S. Kemble	New York Historical Society		2	1884	1884	New York	USA	Kemble Papers	Transcribes part of Kemble Papers of New York Historical Society	file:///Users/angelnavidad/Downloads/Journals_of_Kemble_brigadier_general_in.pdf	
+		Chalmers	R. Chalmers				1893	1893	London	UK	A History of Currency in the British Colonies		https://link.gale.com/apps/doc/U0112205310/MOME?u=camb55135&sid=MOME&xid=212bf46b&pg=1	
+		Strong		American Historical Association			1899	1899	Washington	USA	Annual Report of the American Historical Association for the year 1898	H.Doc.295	https://docs-newsbank-com.ezp-prod1.hul.harvard.edu/openurl?ctx_ver=z39.88-2004&rft_id=info:sid/iw.newsbank.com:SERIAL&rft_val_format=info:ofi/fmt:kev:mtx:ctx&rft_dat=113940A2F120EB68&svc_dat=Digital:ssetdoc&req_dat=B425E5B32E784515BC5AAA87BC16A340	
+		Molina 1	J. F. Molina Solís			1	1904	1904	Merida	Mexico	Historia de Yucatán durante la dominación española vol 1		http://simurg.bibliotecas.csic.es/viewer/image/990002353440204201_V01/1/	
+		Molina 2	J. F. Molina Solís			2	1904	1904	Merida	Mexico	Historia de Yucatán durante la dominación española vol 2		http://simurg.bibliotecas.csic.es/viewer/image/990002353440204201_V02/1/	
+		Molina 3	J. F. Molina Solís			3	1904	1904	Merida	Mexico	Historia de Yucatán durante la dominación española vol 3		http://simurg.bibliotecas.csic.es/viewer/image/990002353440204201_V03/1/	
+		Bristow	J. L. Bristow				1905	1905	Washington	USA	Report Of Joseph L. Bristow Special Panama Railroad Commissioner To The Secretary Of War. 1905		"Report Of Joseph L. Bristow Special Panama Railroad Commissioner To The Secretary Of War. 1905. World Scholar: Latin America & the Caribbean, worldscholar.gale.com/region/latin-america/MonographsDetailsPage/MonographsDetailsWindow?disableHighlighting=false&displayGroupName=DVI-Monographs&docIndex=1&prodId=LAC&mode=view&limiter=&display-query=TX+Report+Of+Joseph+L.+Bristow+Special+Panama+Railroad+Commissioner+To+The+Secretary+Of+War.+1905&contentModules=&action=e&sortBy=&windowstate=normal&currPage=1&dviSelectedPage=&scanId=&query=TX+Report+Joseph+L.+Bristow+Special+Panama+Railroad+Commissioner+Secretary+War.+1905&search_within_results=&p=LACD&catId=&displayGroups=&documentId=GALE%7CSA5299194852&activityType=BasicSearch&failOverType=&commentary=&source=Bookmark&u=camb55135&jsid=ae0cdd8d308047d5a8955c6b8b44f227. Accessed 17 Feb. 2021."	
+		Haring	C. H. Haring				1910	1910	London	UK	Buccaneers in the West Indies in the Seventeenth Century		http://www.gutenberg.org/ebooks/19139	
+		Newton	A. P. Newton			1	1914	1914	London	UK	The Colonising Activities of the English Puritans		http://www.llmcdigital.org.ezp-prod1.hul.harvard.edu/default.aspx?redir=31970	
+		Forbes	S. Forbes	E. W. Williams			1920	1915	London	UK	The Baymen of Belize and how they wrested British Honduras from the Spaniards		https://ufdc.ufl.edu/UF00095345/00001	
+		Jameson	xxx	J. F. James			1923	1923	New York	USA	Privateering and Piracy in the Colonial Period: Illustrative Documents		http://www.gutenberg.org/files/24882/24882-h/24882-h.htm	
+		Roberts	W. A. Roberts				1933	1933	New York	USA	"Sir Henry Morgan, buccaneer and governor"		https://hdl.handle.net/2027/mdp.39015021845162	
+		Burdon 1	J. A. Burdon			1	1935	1935	London	UK	Archives of British Honduras		"file:///Users/angelnavidad/Downloads/Archives%20of%20British%20Honduras%20Vol.%201,%20From%20the%20earliest%20date%20to%20A.%20D1800.pdf"	
+		Burdon 2	J. A. Burdon			2	1935	1935	London	UK	Archives of British Honduras		"file:///Users/angelnavidad/Downloads/Archives%20of%20British%20Honduras%20Vol.%202,%201801-1840.pdf"	
+		Burdon 3	J. A. Burdon			3	1935	1935	London	UK	Archives of British Honduras		file:///Users/angelnavidad/Downloads/Archives_of_British_Honduras_From_1841_1.pdf	
+		Roys 1	R. L. Roys				1939	1939	Washington	USA	The Titles of Ebtun		https://hdl.handle.net/2027/txu.059173022901217	
+		Calderon	J. A. Calderón Quijano				1944	1944	Seville	Spain	Belice 1663 (?)-1821 	img 1202 = contents	http://simurg.bibliotecas.csic.es/viewer/image/CSIC000048031/1/	
+		Winzerling	E. O. Winzerling				1946	1946	New York	USA	"The Beginning of British Honduras, 1506-1765"		https://ufdc.ufl.edu/UF00099216/00001	
+		US BC	xxx	xxx			1975	1949	Washington	USA	"Bicentennial Edition: Historical Statistics of the United States, Colonial Times to 1970"		https://www.census.gov/library/publications/1975/compendia/hist_stats_colonial-1970.html	
+		Roys 2	R. L. Roys				1957	1957	Washington	USA	The Political Geography of the Yucatan Maya		https://hdl.handle.net/2027/uva.x000422247	
+		Crawford	M. J. Crawford			10	1964	1964	Washington	USA	Naval Documents of the American Revolution 10		https://wayback.archive-it.org/org-593/20200907065528/https://www.history.navy.mil/research/publications/publications-by-subject/naval-documents-of-the-american-revolution.html	
+		Goslinga	C. C. Goslinga				1971	1971	Assen	Netherlands	The Dutch in the Caribbean		file:///Users/angelnavidad/Downloads/Cornelius%20Ch.%20Goslinga%20-%20The%20Dutch%20in%20the%20Caribbean%20and%20on%20the%20Wild%20Coast%201580-1680-Koninklijke%20Van%20Gorcum%20&%20Comp.%20N.V.%20(1971).pdf	
+		MacLeod	M. J. MacLeod				2008	1973	Berkeley	USA	"Spanish Central America: A Socioeconomic History, 1520–1720"		https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/book/45035	
+		McCusker	J. J. McCusker				1978	1978	London	UK	"Money and exchange in Europe and America, 1600-1775: a handbook"		"file:///Users/angelnavidad/Downloads/John%20J.%20McCusker%20(auth.)%20-%20Money%20and%20Exchange%20in%20Europe%20and%20America,%201600–1775_%20A%20Handbook-Palgrave%20Macmillan%20UK%20(1978).pdf"	
+		Gerhard	P. Gerhard				1993	1979	London	UK	The Southeast Frontier of New Spain		file:///Users/angelnavidad/Downloads/Peter%20Gerhard%20-%20The%20Southeast%20Frontier%20of%20New%20Spain-University%20of%20Oklahoma%20Press%20(1993).pdf	
+		Craton	M. Craton				2009	1982	Ithaca	USA	Testing the chains: resistance to slavery in the British West Indies		https://hdl-handle-net.ezp-prod1.hul.harvard.edu/2027/heb.04568	
+		Morgan	W. J. Morgan			7	1986	1986	Washington	USA	Naval Documents of the American Revolution 7		https://wayback.archive-it.org/org-593/20200907065528/https://www.history.navy.mil/research/publications/publications-by-subject/naval-documents-of-the-american-revolution.html	
+		Jones 1	G. D. Jones				1989	1989	Albuquerque	USA	Maya Resistance to Spanish Rule		file:///Users/angelnavidad/Downloads/Grant%20D.%20Jones%20-%20Maya%20resistance%20to%20Spanish%20rule_%20Time%20and%20history%20on%20a%20colonial%20frontier-University%20of%20New%20Mexico%20Press%20(1989).pdf	
+		Kupperman	K. O. Kupperman				1993	1993	Cambridge	UK	"Providence Island, 1630-1641: the other Puritan colony"		https://hdl-handle-net.ezp-prod1.hul.harvard.edu/2027/heb.00270	
+		Ribot	M. T. Ribot				1996	1993	Mexico City	Mexico	Belice: una historia olvidada		https://books.openedition.org/cemca/319	
+		Jones 2	G. D. Jones				1998	1998	Stanford	USA	Conquest of the Last Maya Kingdom		https://hdl-handle-net.ezp-prod1.hul.harvard.edu/2027/heb.03515	
+		Lane	K. E. Lane				2016	1998	New York	USA	Pillaging the Empire		file:///Users/angelnavidad/Downloads/9781315722269.pdf	
+		Marley	D. F. Marley				2008	1998	Santa Barbara	USA	Wars of the Americas		"file:///Users/angelnavidad/Downloads/Wars%20of%20the%20Americas%20A%20Chronology%20of%20Armed%20Conflict%20in%20the%20Western%20Hemisphere,%201492%20to%20the%20Present%20by%20David%20Marley%20(z-lib.org).pdf"	
+		Adams		"R. E. W. Adams, M. J. MacLeod"		2	2008	2000	Cambridge	UK	The Cambridge History of the Native Peoples of the Americas		https://doi-org.ezp-prod1.hul.harvard.edu/10.1017/CHOL9780521652049	
+		Diaz	B. Díaz del Castillo	D. Carrasco			2008	2008	Albuquerque	USA	The History of the Conquest of New Spain		file:///Users/angelnavidad/Downloads/David%20Carrasco%20-%20The%20History%20of%20the%20Conquest%20of%20New%20Spain%20by%20Bernal%20Diaz%20del%20Castillo-University%20of%20New%20Mexico%20Press%20(2009).pdf	
+		Bechtold		"T. Bechtold, R. Mussak"			2009	2009	Chippenham	UK	Handbook of Natural Colorants		"file:///Users/angelnavidad/Downloads/(Wiley%20series%20in%20renewable%20resources)%20Thomas%20Bechtold,%20Rita%20Mussak%20-%20Handbook%20of%20natural%20colorants-Wiley%20(2009).pdf"	
+		Latimer	J. Latimer				2009	2009	Cambridge	USA	Buccaneers of the Caribbean		https://doi-org.ezp-prod1.hul.harvard.edu/10.4159/9780674054172	
+		Jarvis	M. J. Jarvis				2012	2010	Williamsburg	USA	"In the Eye of All Trade Bermuda, Bermudians, and the Maritime Atlantic World, 1680-1783"		https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/book/41104	
+		Wombwell	J. A. Wombwell				2010	2010	Fort Leavenworth	USA	Long War Against Piracy		https://www.hsdl.org/?view&did=23760	
+		Graham	E. Graham				2011	2011	Gainesville	USA	Maya Christians and Their Churches in Sixteenth-Century Belize		https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/book/17957	
+		Alves		"A. Alves Carrara, E. Sánchez Santiró"			2012	2012	Mexico City	Mexico	Guerra y fiscalidad en la Iberoamérica colonial		file:///Users/angelnavidad/Downloads/Entre_la_paz_y_la_guerra_el_gasto_milita.pdf	
+		Hanna	M. G. Hanna				2015	2015	Chapel Hill	USA	"Pirate Nests and the Rise of the British Empire, 1570-1740"		https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/book/44065/	
+		UK BE	xxx	"R. Thomas, N. Dimsdale"			2020	2016	London	UK	A millennium of UK data		https://www.bankofengland.co.uk/statistics/research-datasets	
+		Cardona	J. M. Cardona Amaya				2020	2020	Tegucigalpa	Honduras	Invasiones de corsarios a la Honduras de Felipe IV (1633-1643) 		https://halshs.archives-ouvertes.fr/halshs-02540842/document	
+
+Peer: C1—30 / Online collections of archival material.
+ID	NO	TYPE	ALT ID	YR	AUTHORS	JOURNAL	V	I	TITLE	LINK	
+		M	Antochiw	2004	M. Antochiw	Anuario de Estudios Centroamericanos	46		ALEJANDRO JOSEPH DE GUELLE	http://observatoriogeograficoamericalatina.org.mx/egal9/Geografiasocioeconomica/Geografiacultural/10.pdf	
+			Barbour	1911	V. Barbour	American Historical Review	16	3	Privateers and Pirates of the West Indies	http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/1834836	
+		T	Barke 12	2012	G. Vasquez Barke				BACALAR EN EL SIGLO XVII	http://ciesas.repositorioinstitucional.mx/jspui/handle/1015/761	
+		T	Barke 16	2016	G. Vasquez Barke				Los poderes y los hombres	http://ciesas.repositorioinstitucional.mx/jspui/handle/1015/336	
+			Baudot	1986	G. Baudot	Cahiers du monde hispanique et luso-brésilien	46		Dissidences indiennes et complicités flibustières dans le Yucatán du XVII e siècle	http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/40852876	
+			Bialuschewski	2017	A. Bialuschewski	Ethnohistory	64	1	Slaves of the Buccaneers: Mayas in Captivity in the Second Half of the Seventeenth Century	https://doi-org.ezp-prod1.hul.harvard.edu/10.1215/00141801-3688359	
+		T	Bowett	1996	A. Bowett				The english mahogany trade 1700-1793 	"Bowett, A. (1996). The english mahogany trade 1700-1793 (Order No. CA47977). Available from ProQuest Dissertations & Theses Global. (304303774). Retrieved from http://search.proquest.com.ezp-prod1.hul.harvard.edu/dissertations-theses/english-mahogany-trade-1700-1793/docview/304303774/se-2?accountid=11311"	
+		T	Breuer	1993	K. H. Breuer				"Colonies of happenstance: The english settlements in central america, 1525-1787 "	"Breuer, K. H. (1993). Colonies of happenstance: The english settlements in central america, 1525-1787 (Order No. 1352917). Available from ProQuest Dissertations & Theses Global. (230667983). Retrieved from http://search.proquest.com.ezp-prod1.hul.harvard.edu/dissertations-theses/colonies-happenstance-english-settlements-central/docview/230667983/se-2?accountid=11311"	
+			Bulmer	2016	"B. Bulmer-Thomas, V. Bulmer-Thomas"	Tempus	4		The Origins of the Belize Settlement	file:///Users/angelnavidad/Downloads/326161-Texto%20del%20art%3Fculo-119179-1-10-20161119.pdf	
+			Camille	1996	M. A. Camille & R. Espejo-Saavedra	Yearbook (Conference of Latin Americanist Geographers)	22		Historical Geography of the Belizean Logwood Trade	http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/25765830	
+			Cave	1976	R. Cave	Library Quarterly	46	1	Printing in Nineteenth-Century Belize	http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/4306599	
+			Cervera 19	2019	A. E. Cervera Molina	Península	14	2	BELIZE AND YUCATAN THROUGH TRAVEL STORIES	http://www.revistas.unam.mx/index.php/peninsula/article/view/70001	
+			Cervera 20	2020	A. E. Cervera Molina	Anuario de Estudios Centroamericanos	46		A BACK AND FORTH JOURNEY. DIALOGUES BETWEEN ALEJANDRO JOSEPH DE GUELLE AND JAMES COOK	https://doi.org/10.15517/aeca.v46i0.45040	
+			Contreras	1987	A. C. Contreras Sanchez	Historia Mexicana	37	1	"El palo de tinte, motivo de un conflicto entre dos naciones"	https://historiamexicana.colmex.mx/index.php/RHM/article/view/2034	
+			Correa	2020	"C. Correa Angulo, A. Ramírez Romero"	Anuario de Estudios Centroamericanos	46		Central American membership: Belize among neighbouring countries	https://doi.org/10.15517/aeca.v46i0.45027	
+			Dapson	2015	"R. Dapson, C. Bain"	Biotechnic and histochemistry	90	6	"Brazilwood, sappanwood, brazilin and the red dye brazilein"	http://ezp-prod1.hul.harvard.edu/login?url=http://search.ebscohost.com/login.aspx?direct=true&db=aph&AN=108394375&site=ehost-live&scope=site	
+			Davis	1954	R. Davis	Economic History Review	7	2	"English Foreign Trade, 1660-1700"	http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/2591619	
+		T	Elliott	1997	P. Elliott-Wright				"The officers of the irish brigade and the british army, 1789-98 "	"Elliott-Wright, P. (1997). The officers of the irish brigade and the british army, 1789-98 (Order No. U093336). Available from ProQuest Dissertations & Theses Global. (301519802). Retrieved from http://search.proquest.com.ezp-prod1.hul.harvard.edu/dissertations-theses/officers-irish-brigade-british-army-1789-98/docview/301519802/se-2?accountid=11311"	
+		M	Evans	1999	D. K. Evans				A Brief History of the Bay Islands	http://aboututila.com/UtilaInfo/Historical/David-Evans-Brief-History.htm	
+		M	Ferguson	2019	"M. Ferguson, P. Pelayo, N. Encalada"				A History of Slavery & Emancipation in Belize	https://ambergriscaye.com/photogallery/art/Slavery-and-Emancipation-in-Bz-by-ISCR-NICH.pdf	
+			Ferreira	2004	"E. S. B. Ferreira, A. N. Hulme, H. McNab, A. Quye"	Chemical Society Reviews	33	6	The natural constituents of historical textile dyes	https://doi-org.ezp-prod1.hul.harvard.edu/10.1039/B305697J	
+		M	Fischbeck	2020	S. L. Fischbeck				Agricultural Terrace Productivity in the Maya Lowlands of Belize	http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.580.5403&rep=rep1&type=pdf	
+		T	Genkins	2018	D. Genkins				Entangled Empires: Anglo-Spanish Competition in the Seventeenth-Century Caribbean	https://ir.vanderbilt.edu/bitstream/handle/1803/13282/Genkins_dissertation_final.pdf?sequence=1	
+			Gonzalez	1983	N. L. Gonzalez	Nieuwe West-Indische Gids / New West Indian Guide	5	3/4	NEW EVIDENCE ON THE ORIGIN OF THE BLACK CARIB: WITH THOUGHTS ON THE MEANING OF TRADITION	http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/41849126	
+			Graham	1989	"E. Graham, D. M. Pendergast, G. D. Jones"	Science	246	4935	On the Fringes of Conquest: Maya-Spanish Contact in Colonial Belize	"Graham, E., Pendergast, D. M., & Jones, G. D. (1989). On the fringe of conquest: Maya-spanish contact in colonial belize. Science, 246(4935), 1254. Retrieved from http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/on-fringe-conquest-maya-spanish-contact-colonial/docview/213534015/se-2?accountid=11311"	
+			Grunewald	1965	D. Grunewald	Caribbean Studies	5	2	The Anglo-Guatemalan Dispute over British Honduras	http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/25611880	
+			Hoggarth	2017	"J. A. Hoggarth, M. Restall, J. W. Wood, D. J. Kennett"	Current Anthropology	58	1	Drought and Its Demographic Effects in the Maya Lowlands	https://doi.org/10.1086/690046	
+			Hussey	1929	R. D. Hussey	Hispanic American Historical Review	9	3	Spanish Reaction to Foreign Aggression in the Caribbean to about 1680	http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/2506623	
+			Joseph	1980	G. M. Joseph	Terrae Incognitae	12	1	John Coxon and the Role of Buccaneering in the Settlement of the Yucatán Colonial Frontier	file:///Users/angelnavidad/Library/Mobile%20Documents/com~apple~Preview/Documents/joseph1980%20copy.pdf	
+			Kupperman 11	2011	K. O. Kupperman	Early American Studies	9	2	The Love-Hate Relationship with Experts in the Early Modern Atlantic	http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/23547648	
+			Lang	1994	M. F. Lang	Revista de Indias	54	202	"The Armada de Barlovento, fleet despatch and transport of Mercury to Mexico, 1637-1738"	http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/armada-de-barlovento-fleet-despatch-transport/docview/1300744584/se-2?accountid=11311	
+		T	Marcus	1990	L. C. Marcus				"English influence on Belize and the Petén region of northern Guatemala, 1630 to 1763"	file:///Users/angelnavidad/Downloads/English_influence_on_Belize_an.pdf	
+			Marsden	1902	R. G. Marsden	Transactions of the Royal Historical Society	16		"The High Court of Admiralty in Relation to National History, Commerce and the Colonisation of America. A.D. 1550-1650"	http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/3678118	
+		T	McJunkin	1991	D. M. McJunkin				Logwood	"McJunkin, D. M. (1991). Logwood: An inquiry into the historical biogeography of haematoxylum campechianum L. and related dyewoods of the neotropics (Order No. 9113559). Available from ProQuest Dissertations & Theses Global. (303932948). Retrieved from http://search.proquest.com.ezp-prod1.hul.harvard.edu/dissertations-theses/logwood-inquiry-into-historical-biogeography/docview/303932948/se-2?accountid=11311"	
+		M	Meide	2002	C. Meide				A Plague of Ships	https://www.ltrr.arizona.edu/webhome/cbaisan/Florida/A_Plague_of_Ships_Spanish_Ships_and_Ship.pdf	
+			Nettels	1931	C. Nettels	Journal of Modern History	3	1	"England and the Spanish-American Trade, 1680-1715"	http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/1872139	
+			Offen 00	2000	K. H. Offen	Hispanic American Historical Review	80	1	British Logwood Extraction from the Mosquitia: the Origin of a Myth	https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/article/12337	
+			Offen 11	2011	K. H. Offen	Itinerario	35	1	Puritan Bioprospecting in Central America and the West Indies	https://doi.org/10.1017/S0165115311000040	
+			Offen 15	2015	K. H. Offen	Journal of Latin American Geography	14	3	Mapping Amerindian Captivity in Colonial Mosquitia	https://muse-jhu-edu.ezp-prod1.hul.harvard.edu/article/595150#info_wrap	
+			Ogelsby	1963	J. C. M. Ogelsby	Caribbean Studies	3	2	The British and Panama — 1742	http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/25611756	
+			Pargellis	1944	"S. Pargellis, R. L. Butler"	The William and Mary Quarterly	1	3	"Daniell Ellffryth's Guide to the Caribbean, 1631"	http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/1923731	
+			Reichert	2016	R. Reichert	Tzintzun	65		"El golfo de Honduras: estrategias geopolíticas y militares de una frontera imperial, siglos XVI-XVIII"	http://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1870-719X2017000100009&lang=es	
+			Restall	2014	M. Restall	Hispanic American Historical Review	94	3	Crossing to Safety? Frontier Flight in Eighteenth-Century Belize and Yucatan	https://doi-org.ezp-prod1.hul.harvard.edu/10.1215/00182168-2694300	
+			Rossano	1989	G. L. Rossano	New York History	70	3	Down to the Bay	http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/43460260	
+		T	Rushton	2014	E. A. C. Rushton				Under the Shade I Flourish	http://eprints.nottingham.ac.uk/27615/1/Hardbound%20Thesis_October2014_Rushton.pdf	
+			Scammell	2000	G. V. Scammell	Itinerario	24	3	"""A Very Profitable and Advantageous Trade"": British Smuggling in the Iberian Americas circa 1500-1750"	xxx	
+		T	Sorsby	1969	W. S. Sorsby				"The British superintendency of the Mosquito Shore, 1749-1787"	file:///Users/angelnavidad/Downloads/1882969.pdf	
+			Stoddart	1962	D. R. Stoddart	Atoll Research Bulletin	87		"Three Caribbean Atolls: Turneffe Islands, Lighthouse Reef, and Glover's Reef, British Honduras"	file:///Users/angelnavidad/Downloads/00087x.pdf	
+			Thompson	1938	J. E. Thompson	American Anthropologist	40	4	Sixteenth and seventeenth century reports on the Chol Mayas	http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/661615	
+			Thornton	2017	J. K. Thornton	Hispanic American Historical Review	97	1	"The Zambos and the Transformation of the Miskitu Kingdom, 1636–1740"	https://doi-org.ezp-prod1.hul.harvard.edu/10.1215/00182168-3727364	
+			Victoria 03	2003	J. Victoria Ojeda	Millars: espai i història	26		Piratas en tierra adentro. Estrategia defensiva de una ciudad novohispana. Siglos XVI al XVIII	https://www.raco.cat/index.php/Millars/article/view/130852	
+			Victoria 93	1993	J. Victoria Ojeda	Mesoamérica	26		La piratería y su relación con los indígenas de la península de Yucatán	https://dialnet.unirioja.es/descarga/articulo/3726690.pdf	
+			Victoria 94	1994	J. Victoria Ojeda	Revista Complutense de Historia de América	20		Piratería y estrategia defensiva en Yucatán durante el siglo XVIII	https://revistas.ucm.es/index.php/RCHA/article/view/RCHA9494110129A/29211	
+		T	Wu	1996	Y. Wu				"Jamaican trade, 1688-1769"	"Wu, Y. (1996). Jamaican trade, 1688-1769: A quantitative study (Order No. 9617624). Available from ProQuest Dissertations & Theses Global. (304300587). Retrieved from http://search.proquest.com.ezp-prod1.hul.harvard.edu/dissertations-theses/jamaican-trade-1688-1769-quantitative-study/docview/304300587/se-2?accountid=11311"	
+			Zahedieh 86a	1986	N. Zahedieh	Economic History Review	89	2	"Trade, Plunder, and Economic Development in Early English Jamaica, 1655-89"	http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/2596150	
+			Zahedieh 86b	1986	N. Zahedieh	William and Mary Quarterly	43	4	"The Merchants of Port Royal, Jamaica, and the Spanish Contraband Trade, 1655-1692"	http://ezp-prod1.hul.harvard.edu/login?url=https://www.jstor.org/stable/1923683	
+			Zahedieh 90	1990	N. Zahedieh	Journal of Imperial and Commonwealth History	18	2	"A Frugal, Prudential and Hopeful Trade’. Privateering in Jamaica, 1655–89"	file:///Users/angelnavidad/Downloads/zahedieh1990.pdf	

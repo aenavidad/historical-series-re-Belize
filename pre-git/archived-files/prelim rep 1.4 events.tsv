@@ -1,0 +1,596 @@
+Not disastrous: Table 1
+ID	No	Lower Start	Upper End	Name	Description	Cf	Via
+E 1	1	1 January 1638	31 December 1638	Settlement	Buccaneers start Settlement		
+E 3	3	1 February 1663	28 February 1663	Logging	Buccaneers and Jamaicans start logging logwood		
+E 5	5		1 April 1729	Magistracy	Magistracy established		Seville 1944
+E 7	7	7 July 1695	7 July 1695	Spanish embassy to Tipu	Captain Francisco de Hariza y Arruyo parlays with Tipu		Albuquerque 1989
+E 9	9	1 August 1695	30 September 1695	Tipu embassy to Spanish	Tipu reciprocates Spanish embassy		Albuquerque 1989
+E 11	11	1 January 1678	31 December 1678	Porras entrada	"Sergeant Major Antonio de Ayora Porras towards Chaclol, possibly towards Tipu"		
+E 13	13	17 August 1686	28 April 1687	Toledo entrada	Captain Juan del Castillo y Toledo towards Paliac		
+E 15	15	1 December 1784	1 December 1784	Superintendency	Col. E. M. Despard appointed Superintendent	CO 123/5	Campbell 2003
+E 17	17	20 December 1786	20 December 1786	Col. Despard arrives		CO 123/5	Campbell 2003
+E 19	19	1 January 1707	31 December 1707	Last reduction	Tipu reduced		Albuquerque 1989
+E 21	21	1 August 1970	1 August 1970	Belmopan	Foundation of		
+E 23	23	13 December 1870	13 December 1870	Crowning	Parliament vests government solely in Crown		Burdon III 1935
+E 25	25	6 December 1825	6 December 1825	Printing	Magistrates resolve to purchase printing press		"Burdon III p288
+Cave 1976"
+E 27	27		19 September 1715		Exodus of English loggers from W Yucatan on account of famine	Boston News-Letter 596	
+E 29	29	10 December 1716	10 December 1716	Routing from Terminos	Spanish rout English loggers in W Yucatan	484 X CSPC 29	
+E 31	31		22 October 1790	First Census		CO 123/9	
+E 33	33	19 May 1655	27 May 1655	Invasion of Jamaica			
+E 35	35	22 January 1636	22 January 1636	Armada de Barlovento established	"By Diego de Sandi, relator in Sala del Crimen de la Real Audiencia"	"DIVERSOS-COLECCIONES,32,N.5
+MEXICO,35,N.2
+MEXICO,360,R.5,N.31"	
+E 37	37	1 January 1638	8 July 1638		Buccaneers plan expeditions towards Yucatan	"MEXICO,360,R.5,N.21"	
+E 39	39	1 January 1638	10 July 1638		Buccaneers camp in and raid Maya towns from Cozumel 2—6 April and early June	"MEXICO,360,R.5,N.22"	
+E 41	41	1 January 1637	31 December 1637	Tipu embassy to Spanish	Tipu petitions Sp Gov Marqués de Santo Floro against their resident beneficiado and vicario and Bacalar vecinos	"MEXICO,360,R.5,N.24"	
+E 43	43	1 January 1638	10 July 1638	Tipu revolt	"Tipu refuses Sp, other Maya hamlets follow suit"	"MEXICO,360,R.5,N.24
+MEXICO,360,R.5,N.29"	
+E 45	45						
+E 47	47						
+E 49	49						
+E 51	51						
+E 53	53						
+E 55	55						
+E 57	57						
+E 59	59						
+E 61	61						
+E 63	63						
+E 65	65						
+E 67	67						
+E 69	69						
+E 71	71						
+E 73	73						
+E 75	75						
+E 77	77						
+E 79	79						
+E 81	81						
+E 83	83						
+E 85	85						
+E 87	87						
+E 89	89						
+E 91	91						
+E 93	93						
+E 95	95						
+E 97	97						
+E 99	99						
+E 101	101						
+E 103	103						
+E 105	105						
+E 107	107						
+E 109	109						
+E 111	111						
+E 113	113						
+E 115	115						
+E 117	117						
+E 119	119						
+E 121	121						
+E 123	123						
+E 125	125						
+E 127	127						
+E 129	129						
+E 131	131						
+E 133	133						
+E 135	135						
+E 137	137						
+E 139	139						
+E 141	141						
+E 143	143						
+E 145	145						
+E 147	147						
+E 149	149						
+E 151	151						
+E 153	153						
+E 155	155						
+E 157	157						
+E 159	159						
+E 161	161						
+E 163	163						
+E 165	165						
+E 167	167						
+E 169	169						
+E 171	171						
+E 173	173						
+E 175	175						
+E 177	177						
+E 179	179						
+E 181	181						
+E 183	183						
+E 185	185						
+E 187	187						
+E 189	189						
+E 191	191						
+E 193	193						
+E 195	195						
+E 197	197						
+E 199	199						
+E 201	201						
+E 203	203						
+E 205	205						
+E 207	207						
+E 209	209						
+E 211	211						
+E 213	213						
+E 215	215						
+E 217	217						
+E 219	219						
+E 221	221						
+E 223	223						
+E 225	225						
+E 227	227						
+E 229	229						
+E 231	231						
+E 233	233						
+E 235	235						
+E 237	237						
+E 239	239						
+E 241	241						
+E 243	243						
+E 245	245						
+E 247	247						
+E 249	249						
+E 251	251						
+E 253	253						
+E 255	255						
+E 257	257						
+E 259	259						
+E 261	261						
+E 263	263						
+E 265	265						
+E 267	267						
+E 269	269						
+E 271	271						
+E 273	273						
+E 275	275						
+E 277	277						
+E 279	279						
+E 281	281						
+E 283	283						
+E 285	285						
+E 287	287						
+E 289	289						
+E 291	291						
+E 293	293						
+E 295	295						
+E 297	297						
+E 299	299						
+E 301	301						
+E 303	303						
+E 305	305						
+E 307	307						
+E 309	309						
+E 311	311						
+E 313	313						
+E 315	315						
+E 317	317						
+E 319	319						
+E 321	321						
+E 323	323						
+E 325	325						
+E 327	327						
+E 329	329						
+E 331	331						
+E 333	333						
+E 335	335						
+E 337	337						
+E 339	339						
+E 341	341						
+E 343	343						
+E 345	345						
+E 347	347						
+E 349	349						
+E 351	351						
+E 353	353						
+E 355	355						
+E 357	357						
+E 359	359						
+E 361	361						
+E 363	363						
+E 365	365						
+E 367	367						
+E 369	369						
+E 371	371						
+E 373	373						
+E 375	375						
+E 377	377						
+E 379	379						
+E 381	381						
+E 383	383						
+E 385	385						
+E 387	387						
+E 389	389						
+E 391	391						
+E 393	393						
+E 395	395						
+E 397	397						
+E 399	399						
+E 401	401						
+E 403	403						
+E 405	405						
+E 407	407						
+E 409	409						
+E 411	411						
+E 413	413						
+E 415	415						
+E 417	417						
+E 419	419						
+E 421	421						
+E 423	423						
+E 425	425						
+E 427	427						
+E 429	429						
+E 431	431						
+E 433	433						
+E 435	435						
+E 437	437						
+E 439	439						
+E 441	441						
+E 443	443						
+E 445	445						
+E 447	447						
+E 449	449						
+E 451	451						
+E 453	453						
+E 455	455						
+E 457	457						
+E 459	459						
+E 461	461						
+E 463	463						
+E 465	465						
+E 467	467						
+E 469	469						
+E 471	471						
+E 473	473						
+E 475	475						
+E 477	477						
+E 479	479						
+E 481	481						
+E 483	483						
+E 485	485						
+E 487	487						
+E 489	489						
+E 491	491						
+E 493	493						
+E 495	495						
+E 497	497						
+E 499	499						
+E 501	501						
+E 503	503						
+E 505	505						
+E 507	507						
+E 509	509						
+E 511	511						
+E 513	513						
+E 515	515						
+E 517	517						
+E 519	519						
+E 521	521						
+E 523	523						
+E 525	525						
+E 527	527						
+E 529	529						
+E 531	531						
+E 533	533						
+E 535	535						
+E 537	537						
+E 539	539						
+E 541	541						
+E 543	543						
+E 545	545						
+E 547	547						
+E 549	549						
+E 551	551						
+E 553	553						
+E 555	555						
+E 557	557						
+E 559	559						
+E 561	561						
+E 563	563						
+E 565	565						
+E 567	567						
+E 569	569						
+E 571	571						
+E 573	573						
+E 575	575						
+E 577	577						
+
+Disastrous: Table 1
+ID	No	PART OF	DATE	NAME	NEAR	SP	ALLY	ALLY	LIVES	HELD	MOVED	CRAFT	PROPERTY	OTHER	CF	Via
+E 2	2	Hos 13	1 January 1639	Capture of Zacatan	Zacatan											
+E 4	4	Hos 13	1 July 1641		"Old, Sittee"					2 Sp held for some time			"Soite, Cehake towns [hamlets?] raided"			
+E 6	6	Hos 13	1 November 1642	Diego Raids	Sittee		Diego Lucifer de los Reyes el Mulato 70 Pir			kidnapped numb of [Maya] women / impressed men						
+E 8	8	Hos 13	1 November 1642	Diego Raids	Old		Diego Lucifer de los Reyes el Mulato 70 Pir					Pir took 3 or 4 Sp boats				
+E 10	10	Hos 13	22 November 1642	Sacking of Bacalar	Bacalar		Diego Lucifer de los Reyes el Mulato 70 Pir			kidnapped 3 Sp 2 Maya / Maya later released / Sp possibly died	Sp Maya residents forced into hiding by Lake Bacalar min. to early 1643		"stole all gold and silver fm Sp church = sum 12,000 to 16,000 pesos"		"MEXICO,360,R.5,N.33"	
+E 12	12	Hos 13	1 June 1648	Sacking of Bacalar	Bacalar	Capt. Bartolomé Palomino 27 men	Eng Pir or Bucc Abraham and co.		1 Sp killed	women carried off to Islote de los Cayos / liberated after 2 months	Bacalar residents move further inland to Pacha near Villadolid					
+E 14	14	Hos 13	1 November 1652		New					some Maya fm Uatibal and Chanlacan kidnapped [likely sold as slaves]	Ma moved inland w Sp help		"Uatibal, Chanlacan sacked [likely, esp food]"			
+E 16	16	Hos 13	23 October 1654	Pirates Cruising	Old	Capt. Francisco Perez of Bacalar-Pacha 6 Sp 15 Ma										
+E 18	18	Hos 1	1 January 1696		St. George’s	men fm Milicias Provinciales de Yucatan					Eng loggers completely dislodged					
+E 20	20	Hos 1	1 October 1699			Gov. Don Martín de Ursúa y Arizmendi			bloody battle		dislodged Eng fm Zacatan					
+E 22	22	Hos 1	1 March 1701			"Gov. Don Martín de Ursúa y Arizmendi, Capt. Joseph de Aguilar w men fm Tipu"			bloody battle [likely]		drove away the People		houses or huts burnt			
+E 24	24	War 1														
+E 26	26	Hos 2	10 January 1718				Lowther			Greyhound men barbarously used / 5 mates tradesmen impressed		"burnt 8 w cargo in Greyhound, 1 sloop burnt, 1 taken, 1 plundered, 1 of 80 to 100 t taken, 2 brigs taken"				
+E 28	28	Hos 2	2 April 1718				Blackbeard			impressed Harriot and his men		took sloop Adventure				
+E 30	30	Hos 2	9 April 1718				Blackbeard					"took Caesar 400 t ship, 4 sloops, plundered all, returned 2 sloops"				
+E 32	32	Hos 2	1 August 1722				Anstis			1 sloop co of Dursey / Dursey and 5 or 6 escaped		1 sloop taken / 2 or 3 other vessel destroyed				
+E 34	34	Hos 2	15 March 1723	Low’s Massacre			Low Lowther		"45 to 53 or 58 Sp, 1 mate killed / 1 Sp killed later"	6 sailors imprisoned / released later by Pir		"3 to 5 sloops w cargo taken [1 pink too, possibly] / retaken by Lowe Lowther"				
+E 36	36	Hos 2	1 May 1724									7 or 8 sloops seized				
+E 38	38	Hos 2	1 September 1724				Spriggs					14 ships seized				
+E 40	40	Hos 2	1 September 1724				Shipton Spriggs	HMS Diamond	"6 Pir killed, 5 or 6 more mortally wounded"	min 1 sloop co impressed		10 or 12 vessels taken / then liberated by Eng				
+E 42	42	Hos 2	23 December 1724				Shipton Spriggs		"1 Pir killed, 1 [likely] mortally wounded"	some Bay prisoners at Carthagena < 3 Jun 20		1 ship John and Mary taken / retaken by impressed mates / 5 had been prev taken				
+E 44	44	Hos 2	1 February 1725				Spriggs			1 captain impressed		"taken 16 sail, burnt 1 [rest returned?]"				
+E 46	46	War 2														
+E 48	48	Hos 14	1 September 1722	Barca Expedition	Old	Capt. Esteban de la Barca 2 PA				co of frigate imprisoned = 36 Eng 8 Neg		1 frigate of 24 cannons w Log cargo seized				
+E 50	50	Hos 14	1 February 1724	Barca Expedition	Old	Capt. Esteban de la Barca 1 Gal 1 PA 40 Sp soldiers sum 300 men 2 Paquebotes 1 Sloop						2 brig 1 sloop ea w wood taken	"all Log works or huts burnt, esp in El Carnero [Barcaderos?]"			
+E 52	52	Hos 14	11 April 1724	Rodriguez Expedition	"Cayo de Cocos, Old"	Commander Nicolás Rodriguez Capt. José Marqués w > 40 men [Guardacostas likely] inc. impressed Pir	Capt. Peyton or Payton			6 imprisoned at Old	Baymen and Neg fled to woods	some avg sized crafts / 1 brig w Prov	all Log works or huts burnt for 14 [Sp] leguas			
+E 54	54	Hos 14	5 April 1725	Diamond Affair	Old	Sp Priv Frig under Juan Antonio Díaz de la Rabia	HMS Diamond					Sp privateering frigate seized				
+E 56	56	War 3	22 March 1726	Failed Torres Expedition	Cozumel	"Don Rogrigo de Torres 300 men fm Campeche, Armada de Barlovento [fm Veracruz?]"	Capt. George Randel Boston					1 schooner w Prov seized				
+E 58	58	War 3	1 January 1727	Raid of Ascensión	"Chunhuhub, Telá"	Don Antonio de Figueroa y Silva	"many sm craft fm Old R, Mos allies"						"Baymen Ma sacked towns or villages Chunhuhu, Tela fm coast up to Tihosuco"			
+E 60	60	Hos 3	1 November 1728			[possibly] Capt. Don Alonso de Figueroa y Silva						"taken 6 ships, sloops"				
+E 62	62	Hos 3	1 February 1729			[possibly] Capt. Don Alonso de Figueroa y Silva						"6 ships taken inc William and Elizabeth, Kidder"				
+E 64	64	Hos 3	10 April 1729	Figueroa y Silva Expedition	"Hondo, New, Old"	Capt. Don Alonso de Figueroa y Silva						45 Craft burnt / 17 seized for Bacalar	"32 Ranchos burnt, 171 Pilas Log burnt, 74 Pilas thrown to sea "			
+E 66	66	Hos 3	1 June 1729			2 Sloops Havannah 2 Sloops Campeachy 16 PA					by 31 Jan 31 / evac fm < Jun 29 to 20 Oct 35					
+E 68	68	Hos 3	1 July 1729	Summer Routing						c 30 white = great many whites and Neg		taken all flats New Hondo Old = c 140 / taken all vessels too	"burnt 12 to 16,000 t at New, Hondo = c 300,000 quintals at New Hondo Old / seized all tools / burnt all houses"			
+E 70	70	Hos 3	1 February 1730				Capt. Burrows					taken sev vessels / 1 brig afterwards taken				
+E 72	72	Hos 3	1 January 1731			GC 80 men	Capt. John Young NY					"Frances, and sev other ships and sloops taken = min 5"				
+E 74	74	Hos 3	24 March 1731			GC Pedro Polis 60 men	Capt. Ed. Burt 30 men		2 killed	9 men imprisoned		John and Jane taken				
+E 76	76	Hos 3	28 June 1731			Sloop 25 men	Roger Groves NY 30 to 40 men					1 fine ship taken / great many vessels taken since Jan 31 … but two ships of force have escaped				
+E 78	78	Hos 3	1 August 1731			PA [Petty Augers]						4 vessels taken				
+E 80	80	Hos 3	1 May 1732				Capt. Wickham etc.					8 taken				
+E 82	82	Hos 3	1 August 1732				Capt. Knox					min 1 brig David taken				
+E 84	84	Hos 3	21 February 1733	Figueroa y Silva Campaign	Old	Capt. Don Alonso de Figueroa y Silva	Baymen Neg Mos allies		many Baymen [piratas] died	others sent prisoners to San Juan de Ulúa and Havannah		all remaining craft burnt	numerosas Ranchos burnt			
+E 86	86	Hos 4	1 September 1734									1 sloop taken min				
+E 88	88	Hos 4	28 September 1734			3 PA / Priv 120 men 2 PA 2 Sloops	Capt. Dursey RI					"1 taken, then liberated / 1 prev taken, then liberated / 1 Flat prey taken, then liberated"				
+E 90	90	Hos 4	1 November 1734									1 lg loaded fly boat burnt				
+E 92	92	Hos 4	1 October 1735			2 PA	Col. Cranston RI					4 taken / 3 then liberated				
+E 94	94	Hos 4	1 March 1736						1 pilot beheaded	all crew imprisoned		1 sm sloop of Jam taken				
+E 96	96	Hos 4	26 April 1737			[possibly] Gov. Don Manuel Salcedo						"taken a sloop or two [min] = 6 or 7 smaller vessels taken / 1 sloop deserted in fight, taken"	burnt abundance of wood landed at cayes			
+E 98	98	Hos 4	18 January 1738			2 or 3 PA	Capt. Watlins					1 sloop taken / then released				
+E 100	100	Hos 4	1 April 1738			3 lg PA	1 Sloop									
+E 102	102	Hos 4	1 July 1738		bw New & Old		Capt. Ed. Buckley Boston			25 imprisoned / later liberated		"all flats, 2 sloops loading a ship taken / later liberated"				
+E 104	104	Hos 4	12 August 1738			Sloop 18 men	Capt. Stephen Bastwick etc.		3 killed [source?]	Reeves and two of his Neg imprisoned		"2 sloops, 2 craft w 26 wood [ea or together?] taken"				
+E 106	106	Hos 4	1 February 1739				Capt. Gwynn Boston					1 vessel taken				
+E 108	108	Hos 4	1 March 1739		Turneffe		Capt. Collis RI etc.		"Captain Collis, 2 mates killed"	companies of 2 sloops carried away / captain used in barbarous manner		"1 vessel, 2 sloop taken [min]"				
+E 110	110	Hos 4	1 April 1739			Sloop 10 guns	Capt. Mark Anderson									
+E 112	112	Hos 4	1 September 1739				Mr. White etc.			1 owner used barbarously [so taken?]		3 vessels taken				
+E 114	114	Hos 4	1 October 1739			2 Priv / Vessel 20 men	Capt. Pustle Capt. Gowan									
+E 116	116	Ill 1	15 June 1737						"abundance of Baymen have died, as well as those of Fleet"							
+E 118	118	War 4	1 February 1740	Holiday Cruising Hon for Sp since Oct 39			Capt. Holiday Jamaica 75 men	Capt. Woodbury Boston								
+E 120	120	War 4	1 April 1740			2 Craft	Capt. Vincent Boston & Capt. Thatcher / sm Sloop of Baymen					2 sloops taken / later liberated				
+E 122	122	War 4	24 August 1740	Mos Sack Shasoon (near Bacalar)			100 Mos									
+E 124	124	War 4	1 February 1741			2 PA 110 men	Capt. Burchell									
+E 126	126	War 4	1 June 1741				Capt. Wise		2 Sp killed [mistakenly or not in defence]			1 vessel taken / later liberated				
+E 128	128	War 4	1 March 1744			Priv	Capt. Fiske		"1 captain killed, 1 pass dangerously wounded"	some of Captain Fiske co.		Fiske’s craft taken				
+E 130	130	War 4	1 January 1746		Turneffe				"captain, owners of sloop killed"			1 sloop Kouli Can taken				
+E 132	132	War 4	1 January 1748	Complete Routing	Old	"Don Alonso Fernández de Heredia [Gov. Sp Honduras], Capt. Don Felipe López de la Flor"				prisoners taken / punishments were very severe						
+E 134	134	War 4	1 July 1748		Old	Capt. Don Felipe López de la Flor	Baymen					"some craft taken, some destroyed"				
+E 136	136	War 4					Capt. Collis		"Captain Collis, 2 mates killed"	companies of 2 sloops carried away / captain used in barbarous manner		"1 vessel, 2 sloop taken [min]"				
+E 138	138	War 4							loss of sev men in ship after chase							
+E 140	140	War 4										5 vessels taken				
+E 142	142	War 4										1 vessel taken				
+E 144	144	War 4							"1 vessel crew drowned [accidental, on being taken by Sp]"			3 vessels taken				
+E 146	146	War 4										taken sev ships / taken sev sm trading vessels [Flats]				
+E 148	148	War 4										1 brig taken				
+E 150	150	War 4		Charge of Panama			Gov. Hudson									
+E 152	152	Ill 2	7 March 1750											makes it impossible to cut Logwood / 30 to 40 vessels waiting		
+E 154	154	Hos 5	6 May 1750		New	Galley 123 men Havannah	Capt. Heysham / Capt. Kattur / Priv of Baymen		1 killed	"1 captain, 8 men, 3 women passenger / lib later"		"1 tender taken / 1 ship taken later, then lib"				
+E 156	156	Hos 5	17 September 1750			2 Half Gallies	Capt. Riven									
+E 158	158	Hos 5	1 January 1751	Palma Expedition	"Hondo, Old"	Don José Antonio de Palma				"numerous Eng men seized, inc. Comandante de Valis [Chief Magistrate?] / later liberated"		43 Craft seized / 57 vessels [not Bay Flats] seized [possibly ?]				
+E 160	160	Hos 5	30 June 1751	Palma Expedition [?]	New	15 Craft 180 to 200 men Campeachy Guatemala				129 Eng [Bay inc?] imprisoned / min 19 released later / release or ransom of all previously agreed to		7 sloops taken / 18 to near 30 flats taken				
+E 162	162	Hos 5	1 November 1751	Bacalar Assault	Bacalar		Baymen Mos Shoremen?									
+E 164	164	Hos 5	25 December 1751	Christmas Routing	Old / Water Caye	2 Gallies 1 Brig	Henry Stevenson / Capt. Troup etc.			1 brig co imprisoned / later released	evac on 9 Jan 52	1 brig taken				
+E 166	166	Hos 5	1 May 1752							19 Neg carried off						
+E 168	168	Hos 5	1 June 1752							carried off all Neg						
+E 170	170	Hos 5	1 June 1752			1 MW 1 Chebeque 1 Sloop 2 PA	Capt. Mosely etc.					6 or 7 vessels taken [previously]				
+E 172	172	Hos 5	1 June 1752		Rat / Bay	Galley or 2 GC	Capt. McNamara 50 Baymen 70 Shoremen / Capt. Mosely Gov. Pitt					2 craft taken w sum 230 t wood taken	forced to have boat manned and continually under arms = great expense			
+E 174	174	Hos 5	1 August 1752			sev Craft	Capt. Man			1 vessel co imprisoned / later escaped except McDonald		1 vessel taken				
+E 176	176	Hos 5	1 August 1752		Haulover / New	5 sm Barks 70 men / 10 PA 170 men	John Lance etc.					"1 snow w Prov taken / 1 vessel taken, then lib"				
+E 178	178	Hos 5	2 August 1752						1 mate killed	"2 captains, 1 mate imprisoned"		1 sloop plundered / 5 craft w wood taken				
+E 180	180	Hos 5	2 August 1752			6 PA 1 Flat of 14 swivel guns	Capt. Crowel Capt. Hall			min 1 impressed for 6 months		"3 vessels taken, then liberated"				
+E 182	182	Hos 5	4 December 1752									2 craft taken / 1 plundered of Prov				
+E 184	184	Hos 5	24 February 1753			GC	Capt. Clark									
+E 186	186	Hos 5	28 February 1753		Caye Bokell	Brig of 30 swivel guns	Capt. Ed. Menzies			many Eng imprisoned for 6 months at Mahoo [previously taken] / Capt. imprisoned for 		1 brig taken				
+E 188	188	Hos 5	1 May 1753		New						evac on 9 Jun 53 fm New	not one craft [flat] escaped destruction in New	entirely routed fm New [so houses burnt?]			
+E 190	190	Hos 5	1 June 1753	Capture of Sp Brig	Old		Capt. Sergeant RI / Baymen									
+E 192	192	Hos 5	12 April 1754	Sp Expedition to Bay	Key Mager	"Don Juan Nanos w 24 gun Ship 1 lg Xebek Gov. of Campeche Don Noverette w 20 Sail = sum 2,000 men"					some Neg evac or sent to Mos					
+E 194	194	Hos 5	24 May 1754	May Battle		[possibly] José Vásquez de Prego [Pres Guat] w near 300 men	100 Baymen						sacked Wells house to considerable value			
+E 196	196	Hos 5	18 June 1754	June Battle		[possibly] José Vásquez de Prego [Pres Guat]					evac on 18 Jun 54 to 12 Apr 55	number of vessels taken	carried off Prov			
+E 198	198	Hos 5	8 September 1754	Joint September Assault	Old	"Don Melchor de Navarrete of Yuc, Joseph de Palma de Mar of Guat, Juan de las Llanas of Havannah c 18 Craft"				"93 Baymen, 23 Neg captured"		"1 Frig, 9 craft taken"	huts or works and Log burnt			
+E 200	200	Hos 5	1 February 1755	Sp Concession												
+E 202	202	Ill 3	1 November 1751						left sev Vessels without Hands … two [women] left in the whole Bay							
+E 204	204	Hos 6	24 May 1756	Gov. Knowles Demolishes Bay Fort								min 2 vessels taken min	"fort demolished, 18 cannon sunk [Knowles ordered?]"			
+E 206	206	Hos 6	1 July 1757	Siege of New R						sev Baymen in New imprisoned		min 1 craft forced to unload half cargo to escape				
+E 208	208	Hos 6	1 September 1757	September Destruction						carried off about 60 Neg and some whites		destroyed everything they came across [so flats too?]	"destroyed the wood, houses and everything they came across"			
+E 210	210	Hos 6	10 November 1758			30 PA at Bacalar fm Campeachy Port Maho					evac c 10 Nov 58 to < 20 Jul 1759					
+E 212	212	Hos 6	1 September 1759	Barbarities at Carpenter’s	Carpenter’s R					carried away many settlers ?						
+E 214	214	Hos 6	21 October 1759	Capt. Owens’s Feat		near 200 men	Capt. Owens w 50 Britons			"31 Brit subjects, 30 Neg imprisoned / later lib by Owens"		3 loaded flats seized / later liberated by Owens				
+E 216	216	Hos 6	26 December 1759	Christmas Assault	Haulover	4 Capt. sent by Gov. of Merida w great numb PA w over 150 men	few Baymen left behind						"pillage, plunder, destroy houses of few settlers left [on Old R]"			
+E 218	218	Hos 6	1 January 1760	Capt. Coppinger’s Intel						a number of white and Neg imprisoned		sev loaded flats taken				
+E 220	220	Hos 6	6 April 1761	Flota Sails for Bay	Cadiz	"8 Ships 2 Frigates 8 Chebecs = 4,000 men"										
+E 222	222	War 5														
+E 224	224	Crs 5	23 December 1763				Adm. Burnaby				evac Hondo on 4 Feb 64 / evac all except Old on 13 Feb 64 / restored 5 Mar 65					
+E 226	226	Fin 1	22 June 1765								sev settlers returning w slaves to Mos / to Pensacola			Log so scarce that vessels lie frequently 9 or 10 months for loading		
+E 228	228	Fin 1	22 June 1765											Freshes have been so great / Hondo runs c 5 knots p hr / no business done 25 Oct to 29 Nov 65 / expect little Wood Dec 65 to Jan 66		
+E 230	230	Fin 1	16 April 1766											wood scarce / c 70 vessels waiting		
+E 232	232	Fin 1	21 June 1766											Prov esp bread so very scarce / many vessels ready to sail could not for want thereof		
+E 234	234	Fin 1	21 June 1766											Prov scarce [likely] to min 1 Nov 66		
+E 236	236	Rev 1	1 August 1765		New		sev Neg	sev Crafs w armed men	"Cook, 3 seamen killed"				min 1 fam robbed [likely]	held New R		
+E 238	238	Rev 1	22 August 1765	Siege of New R	New		c 70 revolters		killed sev seamen [New]		many bay men deserted works [in New?]					
+E 240	240	Rev 1	1 September 1765	Jamaica Reinforcements Sail for Bay				3 Sloops of War								
+E 242	242	Rev 1	1 September 1765						1 Sp killed							
+E 244	244	Rev 1	1 September 1765	Falling Out Breaks Revolt					sev slaves hanged [of 70?] / the ringleaders hanged	some Neg taken prisoners						
+E 246	246	Crs 2	12 June 1771								"near 10,000L sterling loss fm deserting slaves fm start [1768?] to 12 Jun 71 / 47 Neg delivered by Gov Yucatan to Capt. Lockyer c Dec 66"					
+E 248	248	Crs 1	1 February 1767								Fr Dutch Log cutters extremely numerous in bay					
+E 250	250	Crs 1	15 June 1768											Eng wool has hardly any sale in Bay / Fr bring manufactures 30 pc cheaper		
+E 252	252	Crs 1	15 December 1770										very dangerous dispute broke out w Fr Log cutters			
+E 254	254	Hos 8	1 March 1767	Hondo R Disturbances	Hondo					Neg of oldest settlers carried off fm Hondo			"houses, cattle burnt at Hondo"			
+E 256	256	Hos 8	1 April 1767						murdered some Bay Men	seized sev Neg			seized Properties of inhabitants			
+E 258	258	Hos 12	25 July 1767				party of Indians	Capt. Naismith	1 Neg killed				house sacked [likely?]			
+E 260	260	Hos 9	1 July 1770	Sharp Dispute					sev bay men killed in dispute							
+E 262	262	Hos 9	1 July 1770									min 2 ships driven off wo loading	destroyed all mahogany lying in some bays			
+E 264	264	Hos 9	1 November 1770	Sacking of Ambergris Caye	Ambergris	PA 4 swivel guns c 18 men				carried of a Neg fm Ambergris			burnt sev houses at Ambergris			
+E 266	266	Hos 9	1 December 1770									min 2 ships driven off wo loading				
+E 268	268	Hos 9	1 January 1771	Gov. of Jam Reassures Baymen of Safety on Mainland							for some time past baymen had moved their families to St. George’s Caye … apprehensive of rupture bw GB and Sp to [likely] Jun 1771		"productive of great loss to baymen, little or no Log having been cut"			
+E 270	270	Hos 9	6 March 1772		Glover’s		Capt. [or master] Theremin			Jacob’s Well crew taken		Jacob’s Well craft taken				
+E 272	272	Nat 1	1 June 1771	Maya Refugees							Maya … continue daily to desert from Yucatan to the Eng settlers / receive hospitality					
+E 274	274	Nat 1	1 October 1771						"17,000 have died in Ambergris, upwards of 80,000 total [Yuc, or Hon only?] / or c 40,000 total [Yuc, or Hon?]"							
+E 276	276	Nat 1	1 November 1771											Prov so scarce / the like not remembered by oldest settlers		
+E 278	278	Hos 10	1 September 1773						massacred numbers of Eng				always taken what iron [arms] they could find / set fire to some houses			
+E 280	280	Rev 2	28 May 1773		Old				2 white men killed / Hill killed later / one family feared shot dead later / 1 steersman killed later				min 4 families robbed	will be very little wood of any kind shipped in 1773		
+E 282	282	Rev 2	4 June 1773	Escape Killings	Hondo	Guards	"3 Neg of John Fullon, Hugh Wilson / [prev] other slaves"	"Capt. McDugall / [prev] Capt. Wooldrige, Capt. McCarthy"	min 3 Captains killed by slaves < Jun 73		min 3 slaves escape to Yuc with help of Guards < Jun 73		min 1 craft ransacked by Guards			
+E 284	284	Rev 2	7 June 1773	Marshmen’s Engagement			"c 50 slaves w 16 muskets, cutlasses etc."	"Capt. Thomas Davey, Baymen / 3 parties of 30 or 40 men ea. [later]"	6 white men prev killed / lead revolter likely fatally wounded	14 slaves had [possibly] been impressed prev / returned 8 Jun 73	revolters retire to woods		taken five settlements [houses likely] prev			
+E 286	286	Rev 2	1 August 1773				c 70 revolters ?	parties led by Magistrates	taken or destroyed about 40 revolters	taken or destroyed about 40 revolters						
+E 288	288	Rev 2	29 August 1773								c 70 revolters in woods / w Sp					
+E 290	290	War 6	12 September 1777	Washington Affair		Commander Hezekiah Anthony				1 pilot fm St. George’s to Sherboon		"2 ships, 1 brig taken"	"supply of rum, sugar demanded for"			
+E 292	292	War 6	2 June 1779	Capture of St. George’s Caye	"Hondo, New, St. George’s"	Gov. D. Roberto Rivas Betancourt	2 Frigates 1 Brig fm Jam [after capture of St. George’s]		2 killed [13 Sep 79]	F George garrison imprisoned	entirely driven fm all Hon [later or same time?]	craft seized / later liberated	Fort George taken [so houses destroyed?] / deprived Eng of wood [so laid wood destroyed?]			
+E 294	294	War 6	16 October 1779	Siege of Omoa		365 men	"150 Eng soldiers, Baymen"		"6 killed, ? died of disease"							
+E 296	296	War 6		Siege of San Pedro Sula					"1 scout killed, loss of 2 men in sacking / burning St. Pedro"							
+E 298	298	Nat 2	1 December 1784						epidemic distemper at New proved fatal to many					severest weather ever remember fm Dec 84 to Nov 85 … esp New		
+E 300	300	Crs 3	1 February 1785								"settlers in New, Hondo lost part of their Neg / evac to St. George’s, Belize"		left their stock in jeopardy / their habitations = inexpressible losses	were in want of bread Prov		
+E 302	302	Rev 3	1 June 1786						killed a number of people		slaves mustered = 70 or 80 by Nov 86					
+E 304	304	Crs 4	1 June 1787											"riots very frequent c Jun 87 / jealousy bw old, new settlers wrt lands"		
+E 306	306	Crs 4	1 August 1787											Flour and some Prof very scarce and dear		
+E 308	308	Crs 4	1 August 1787											settler much in want of shipping for their products		
+E 310	310	Crs 4	1 April 1789											annulled and extinguished Magistracy so courts are shut up = anarchy and confusion		
+E 312	312	Crs 4	1 April 1789											"such great quant of timber [Log, Mah likely] cut down fm Apr 87 to 89 / scarcely know what to do w it"		
+E 314	314	Crs 4	1 April 1789										Sp commissary destroyed all cultivated spots [plantain walks]			
+E 316	316	Crs 4	2 June 1789											8 ships arrived at Eng [Lon and Out ports?] all w Mah by 2 Jun 89 / there seldom was known to be > 3 or 4 ships in one yr		
+E 318	318	Crs 4	1 August 1789											compromise reached		
+E 320	320	Crs 4	1 August 1790											"Hunter orders Prov for c 2,000 inhabitants for 6 weeks"		
+E 322	322	Crs 4	1 April 1791		Old	D. Rafael Llobet [Sp Commissioner]							Sp commissary destroyed all cultivated spots [plantain walks] / arrested all turtle fishers / [likely seized all turtles]			
+E 324	324	Ill 4	1 February 1788						"upwards of 50 white, much greater numb of Neg fm Sep 87 to Jan or Feb 88"							
+E 326	326	Nat 3	1 November 1792						many Neg perished				nearly all stock destroyed / Mah loss = c 2 million ft	river [Old likely] rising > 70 ft / inhabitants quit houses / reside on flats sev days		
+E 328	328	Hos 11	1 November 1793						1 inhabitant shot / later 3 Maya killed							
+E 330	330	War 7	10 September 1798	Battle of St. George’s Caye	St. George’s	O’Neill							houses burnt by Baymen to preclude attack [source?]			
+E 332	332	Ill 5	29 September 1797						23 men die within weeks of arrival							
+E 334	334	War 8														
+E 336	336	War 9														
+E 338	338	Rev 5	24 April 1820		Old		considerable numb slaves well armed	Lt. McPherson 2nd WIR Mjr. Noel					[revolters] committed various depredations			
+E 340	340	Rev 5	26 April 1820	Parlay	Old		c 20 [remaining 16 May 20]	Lt. Col. Arthur						numb of revolters induced to peaceably return		
+E 342	342															
+E 344	344															
+E 346	346															
+E 348	348															
+E 350	350															
+E 352	352															
+E 354	354															
+E 356	356															
+E 358	358															
+E 360	360															
+E 362	362															
+E 364	364															
+E 366	366															
+E 368	368															
+E 370	370															
+E 372	372															
+E 374	374															
+E 376	376															
+E 378	378															
+E 380	380															
+E 382	382															
+E 384	384															
+E 386	386															
+E 388	388															
+E 390	390															
+E 392	392															
+E 394	394															
+E 396	396															
+E 398	398															
+E 400	400															
+E 402	402															
+E 404	404															
+E 406	406															
+E 408	408															
+E 410	410															
+E 412	412															
+E 414	414															
+E 416	416															
+E 418	418															
+E 420	420															
+E 422	422															
+E 424	424															
+E 426	426															
+E 428	428															
+E 430	430															
+E 432	432															
+E 434	434															
+E 436	436															
+E 438	438															
+E 440	440															
+E 442	442															
+E 444	444															
+E 446	446															
+E 448	448															
+E 450	450															
+E 452	452															
+E 454	454															
+E 456	456															
+E 458	458															
+E 460	460															
+E 462	462															
+E 464	464															
+E 466	466															
+E 468	468															
+E 470	470															
+E 472	472															
+E 474	474															
+E 476	476															
+E 478	478															
+E 480	480															
+E 482	482															
+E 484	484															
+E 486	486															
+E 488	488															
+E 490	490															
+E 492	492															
+E 494	494															
+E 496	496															
+E 498	498															
+E 500	500															
+E 502	502															
+E 504	504															
+E 506	506															
+E 508	508															
+E 510	510															
+E 512	512															
+E 514	514															
+E 516	516															
+E 518	518															
+E 520	520															
+E 522	522															
+E 524	524															
+E 526	526															
+E 528	528															
+E 530	530															
+E 532	532															
+E 534	534															
+E 536	536															
+E 538	538															
+E 540	540															
+E 542	542															
+E 544	544															
+E 546	546															
+E 548	548															
+E 550	550															
+E 552	552															
+E 554	554															
+E 556	556															
+E 558	558															
+E 560	560															
+E 562	562															
+E 564	564															
+E 566	566															
+E 568	568															
+E 570	570															
+E 572	572															
+E 574	574															
+E 576	576															
+E 578	578															
+
+Sheet 1-1: Table 1
+						
+						
+
+
+Sheet 1-1-1: Table 1
+						
+						

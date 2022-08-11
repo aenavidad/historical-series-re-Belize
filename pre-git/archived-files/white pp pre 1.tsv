@@ -1,0 +1,77 @@
+Sheet 1: Table 1
+INSTITUTION	EST	PLACE	DATE	CF	NOTE		
+Parliament	Public Meeting	Barcadares	1630 t 1663				
+Crown	English Crown	London	927				
+Cabinet	Magistracy	Barcadares	1720 t 1724				
+Courts	Public Meeting	Barcadares	1630 t 1663				
+Armed Forces	Buccaneer Crews	-	1630 t 1642		"Possibly Place = Tortuga
+Alt = Royal Navy Jamaica Station, Port Royal, 27 May 1655
+Alt = Baymen’s Militia, Barcadares, 1694 t 1703"		
+Civil Service	Superintendency	London	1 Dec 1784		"Alt = Superintendency, Belize, Jun 1786"		
+Schools	-	Belize	30 Jun 1807				
+Hospitals	Medical Department	Belize	7 Apr 1817				
+Libraries							
+Press	-	Belize	6 Dec 1825		"Alt = James Cruickshank Press, Belize, 1 Jul 1826"		
+Foreign Service	London Agent	London	1779 t 1789				
+Privy Council	Privy Council of England	London	927				
+Church	See of Rome	Rome	29 t 100				
+
+
+History: Table 1
+	TYPE	INSTITUTION	QUALITY	START	END	DESCRIPTION	PLACE	NAMES	CF	NOTES		
+	0	Crown		1 Jan 0001	1 Jan 0001	Emergence of Authority	-	-				
+	0	Force		1 Jan 0001	1 Jan 0001	Emergence of Authority	-	-				
+	0	Civil Ser		1 Jan 0001	1 Jan 0001	Emergence of Authority	-	-		0 = earliest likely ie documented		
+	0	Church		1 Jan 0001	1 Jan 0001	Emergence of Druids	-	-				
+	0	Medical		1 Jan 0043	31 Dec 0410	Emergence of Valetudinaria	-	-				
+	0	Welfare		1 Jan 0043	31 Dec 0200	Emergence of Almsgiving	-	-				
+	0	School		1 Jan 0043	31 Dec 0410	Emergence of Paedeia	-	-				
+	0	Treasury		1 Jan 0043	31 Dec 0410	Emergence of Aerarium	-	"William I, William II, Henry I"				
+	0	Parliament		1 Jan 0401	31 Dec 0500	Emergence of Moots	-	-				
+	0	Privy		1 Jan 0601	31 Dec 0700	Emergence of Witans						
+	0	Police		25 Dec 1066	1 Dec 1135	Emergence of Frankpledge	-	"William I, William II, Henry I"				
+	0	Court		1 Jan 1166	31 Dec 1166	Promulgation of Assize of Clarendon	Clarendon Palace	Henry II				
+	0	For Ser		1 Jan 1505	31 Dec 1505	Appointment of Ambassadors to Courts of Aragon and France	Richmond Palace	"Henry VII, John Stile, Charles Somerset"				
+	0	Post		1 Feb 1512	1 Feb 1512	Appointment of a Master of the Posts	Richmond Palace	"Henry VII, Thomas Wolsey, Brian Tuke"				
+	0	Cabinet		22 Aug 1642	3 Sep 1651	English Civil War	Westminster	"Robert Devereux, Thomas Fairfax, Oliver Cromwell"				
+	0	Press		7 Nov 1665	7 Nov 1665	Printing of The Oxford Gazette	Oxford	"Charles II, Henry Muddiman"				
+	0	Oppos		1 Jan 1678	31 Dec 1678	Emergence of Whigs and Tories in English Parliament	Westminster	"James, Robert Walpole"				
+	1	Cabinet		1 Jan 1720	31 Dec 1724	Founding of Magistracy	Barcadares	-				
+	1	Church		1 Jan 1776	31 Dec 1776	Founding of Chaplaincy	St. George’s Caye	Robert Shaw				
+	1	Civ Ser		1 Dec 1784	1 Dec 1784	Founding of Superintendency	Whitehall	-				
+	1	Court		1 Jan 1630	31 Dec 1663	Emergence of Public Meeting	Barcadares	-				
+	1	Crown		18 Jul 1670	18 Jul 1670	Signing of Treaty of Madrid	Madrid	"Gaspar de Bracamonte y Guzmán, William Godolphin"				
+	1	For Ser		1 Jan 1779	31 Dec 1789	Appointment of an Agent in London	-	-				
+	1	Force		1 Jan 1630	31 Dec 1642	Retreat to Belizean waters of buccaneering crews	-	-				
+	1	Oppos		1 Mar 1920	31 Mar 1920	Founding of a Belize branch of the Kingston-based Universal Negro Improvement Association	Belize	"William Campbell, Samuel Haynes"				
+	1	Parl		1 Jan 1630	31 Dec 1663	Emergence of Public Meeting	Barcadares	-				
+	1	Post										
+	1	Press		6 Dec 1825	1 Jul 1826	Establishment of a printing press in Belize	Belize	James Cruickshank				
+	1	Privy		18 Jul 1670	18 Jul 1670	Signing of Treaty of Madrid	Madrid	"Gaspar de Bracamonte y Guzmán, William Godolphin"				
+
+
+Government: Table 1
+		DEPARTMENT	LEVEL	TYPE	STYLE			
+		Prime Minister	2					
+		Attorney General	2					
+		Auditor General	2					
+		Cabinet	2					
+		Crown	0					
+		Governor General	0					
+		Privy Council	0					
+		Parliament	1					
+		Public Prosecutor	2					
+		Trade		Min				
+		Defence		Min				
+		Works		Min				
+		Health		Min				
+		Education		Min				
+		Foreign		Min				
+		Treasury		Min				
+		Justice		Min				
+		Archives						
+
+
+Sheet 1-1-1-1: Table 1
+						
+						

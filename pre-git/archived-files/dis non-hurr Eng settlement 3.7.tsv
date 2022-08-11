@@ -1,0 +1,573 @@
+Clustering: Table 1
+	From	To	Ft	Ft	Name			
+Hos 13	Jan 1639	Oct 1654	 	Bu Ma	Tortuga Raids			
+Nat 4	Jan 1647	Dec 1653	 	 	Famine			
+War 10	Jan 1654	Dec 1660	Sp	Bu Fr	Cromwell’s			
+Hos 18	Jan 1661	Jul 1670	Sp	Bu	Modyford Offensives			
+Hos 1	Jan 1696	Mar 1701	Sp	 	First Offensives			
+War 1	Jul 1701	Sep 1714	Sp	Fr	Sp Succession			
+Hos 2	Jan 1718	Feb 1725	Sp	Pir	Golden Age			
+War 2	Aug 1718	Feb 1720	Sp	 	Quadruple Alliance			
+Hos 14	Sep 1722	Apr 1725	Sp	 	Second Offensives			
+Hos 16	Jan 1724	Jul 1838	 	Af Du Fr Po	Af Slavery			
+Nat 5	Jan 1725	Dec 1727	 	 	Famine			
+War 3	Mar 1726	Feb 1728	Sp	 	 			
+Hos 3	Nov 1728	Feb 1733	Sp	 	Bacalar Offensives			
+Hos 4	Sep 1734	Oct 1739	Sp	 	Jenkins’ Offensives			
+Ill 1	Jun 1737		 	 	Diphtheria ?			
+War 4	Oct 1739	Oct 1748	Sp	 	Jenkins’ Ear			
+Ill 2	Mar 1750		 	 	Malaria ?			
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege			
+Ill 3	Nov 1751		 	 	Measles ?			
+Hos 6	May 1756	Apr 1761	Sp	Fr	Seven Years’ Offensives			
+War 5	Jan 1762	Feb 1763	Sp	Fr	Seven Years’			
+Crs 5	Dec 1763	Mar 1765	Sp	 	Hondo R Prohibition			
+Nat 1	Jan 1765	Nov 1773	 	 	Great Famine			
+Fin 1	Jun 1765		 	 	Logwood Exhaustion			
+Rev 1	Aug 1765	Sep 1765	 	 	Cook’s			
+Crs 2	Jan 1766		Sp	 	Sp Asylum			
+Crs 1	Feb 1767	Dec 1770	 	Fr Du	Alien Logging			
+Hos 8	Mar 1767	Apr 1767	Sp	 	 			
+Hos 12	Jul 1767	Jul 1767	 	Ma	Naismith Raid			
+Hos 9	Jul 1770	Mar 1772	Sp	 	 			
+Hos 10	Jan 1773	Sep 1773	 	Ma	Arms Raids			
+Rev 2	May 1773	Aug 1773	 	 	Davidson’s			
+War 6	Apr 1775	Sep 1783	Sp	Am Fr	Am Revolution			
+Nat 2	Dec 1784	Nov 1785	 	 	 			
+Crs 3	Feb 1785		Sp	 	Sp Panic			
+Rev 3	Jun 1786	Jun 1786	 	 	Old R			
+Crs 4	Jun 1787	Apr 1791	 	 	Despard Affair			
+Hos 17	Jun 1787			Mos	Mos Slavery			
+Ill 4	Feb 1788		 	 	Measles ?			
+Nat 3	Nov 1792	Oct 1792	 	 	 			
+Hos 11	Nov 1793	Nov 1793	 	Ma	 			
+War 7	Aug 1796	Mar 1802	Sp	Fr	Fr Revolution			
+Ill 5	Sep 1797		 	 	Yellow Fever			
+War 8	May 1804	Jul 1808	Sp	Fr	Napoleonic			
+War 11	Sep 1808	Sep 1833	Sp	 	Sp Am Revolution			
+War 9	Jun 1812	Feb 1815	 	Am	 			
+Rev 4	Jan 1813		 	 	New R			
+Rev 5	Apr 1820		 	 	Will & Sharper			
+
+
+Loss Text: Table 1
+	From	To	Ft	Ft	Name	Lives	Held	Moved	Craft / Cargo	Property	Trade	Prov	Cost
+Crs 1	Feb 1767	Dec 1770	 	Fr Du	Alien Logging					? logged by Fr Du loggers			
+Crs 2	Jan 1766	0	Sp	 	Sp Asylum	min 1		"c 53 + £ 10,000 Neg refugees exit / Sp return 47"		min 1 house robbed			
+Crs 3	Feb 1785	0	Sp	 	Sp Panic			"New, Hondo for 1 t 4 m / ? Neg refugees exit"		"New, Hondo houses, stock lost"		Prov scarce for > 5 m	
+Crs 4	Jun 1787	Apr 1791	 	 	Despard Affair		sev turtlers for ? m			all plantain walks destroyed twice / all fished turtles seized once / much unrest for ? m twice	shipping v scarce for min 24 m / [price crash likely]	Prov v scarce for ? m twice	
+Crs 5	Dec 1763	Mar 1765	Sp	 	Hondo R Prohibition			"New, Hondo for 12 m = part of £ 26,794.5"		"part of £ 26,794.5"			£ 303
+Fin 1	Jun 1765	0	 	 	Logwood Exhaustion						Log v scarce for min 15 m	Prov v scarce for min 6 m	
+Hos 1	Jan 1696	Mar 1701	Sp	 	First Offensives	sev		Hon for < 12 m thrice		c ? huts			
+Hos 10	Jan 1773	Sep 1773	 	Ma	Arms Raids	sev				some houses burnt / some to sev houses robbed			
+Hos 11	Nov 1793	Nov 1793	 	Ma	 	4							
+Hos 12	Jul 1767	Jul 1767	 	Ma	Naismith Raid	1				1 house robbed			
+Hos 13	Jan 1639	Oct 1654	 	Bu Ma	Tortuga Raids	1 t 4	300 t 500 Ma fm Yuc [st Sp found 70 t 80 on 9 Feb 1654] for c ? m / c ? fm Bac for c 2 m	Bac for c 2 m	3 t 4 Sp / ? Ma	"12 t 16,000 pesos fm Bac / ? fm 4 Ma hamlets"			
+Hos 14	Sep 1722	Apr 1725	Sp	 	Second Offensives		50 for ? m	Hon for ? m	5 + some	all ranchos burnt twice			
+Hos 16	Jan 1724	Jul 1838	 	Af Du Fr Po	Af Slavery		? for c ? m / [st ? died]						
+Hos 17	Jun 1787	0	0	Mos	Mos Slavery		? for c ? m						
+Hos 18	Jan 1661	Jul 1670	Sp	Bu	Modyford Offensives	?					?		
+Hos 2	Jan 1718	Feb 1725	Sp	Pir	Golden Age	60 t 72	m 6 men + 2 crews impressed for ? m		53 t 73				
+Hos 3	Nov 1728	Feb 1733	Sp	 	Bacalar Offensives	2 + sev	39 + >> sev for ? m	Hon for 76.5 m	c 95 + sev twice / c 140 flats + all once	"32 + sev twice ranchos / 12 t 16,000 ton = 300,000 quintals + 245 Pilas Log"			
+Hos 4	Sep 1734	Oct 1739	Sp	 	Jenkins’ Offensives	7	3 t 4 + 3 crews imprisoned for ? m		23 t 24	sev t >> sev Log burnt	Log scarce for min 2 m		
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege	2	140 + sev + 1 crew + all Neg for ? m	Hon for < 15 m / Hon for < 11 m / Hon for 10 m	94 t 95 + sev / 18 t 30 + all flats in New	sev Log works + all Log works in New + sev houses sacked			
+Hos 6	May 1756	Apr 1761	Sp	Fr	Seven Years’ Offensives		60 + sev fm New + sev once + some twice for ? m	Hon for c 8 m	2.5 / sev t >> sev flats	sev t >> sev Log works / houses / Log	panic for min 1 m [halt logging likely]		
+Hos 8	Mar 1767	Apr 1767	Sp	 	 	some	some Neg fm Hondo + sev Neg for ? m			? Log works at Hondo / ? cattle at Hondo / ? property			
+Hos 9	Jul 1770	Mar 1772	Sp	 	 	sev	1 + 1 crew for ? m	mainland for min 5 m	1	sev houses in Ambergris burnt / all Mah burnt	halt logging for min 5 m		
+Ill 1	Jun 1737	0	 	 	Diphtheria ?	sev t >> sev							
+Ill 2	Mar 1750	0	 	 	Malaria ?						halt logging for ? m		
+Ill 3	Nov 1751	0	 	 	Measles ?	sev t >> sev							
+Ill 4	Feb 1788	0	 	 	Measles ?	50 + >> 50							
+Ill 5	Sep 1797	0	 	 	Yellow Fever	23							
+Nat 1	Jan 1765	Nov 1773	 	 	Great Famine	"c 40,000 Ma fm Yuc"		? Ma refugees enter				Prov v scarce for ? m	
+Nat 2	Dec 1784	Nov 1785	 	 	 	sev at New				? houses / works flooded esp in New	halt logging for min 11 m		 
+Nat 3	Nov 1792	Oct 1792	 	 	 	sev		Old for c 0.25 m		"c 2,000,000 ft Mah loss / ? tons Log loss / all houses at Old flooded"			
+Nat 4	Jan 1647	Dec 1653	 	 	Famine	?							
+Nat 5	Jan 1725	Dec 1727	 	 	Famine								
+Rev 1	Aug 1765	Sep 1765	 	 	Cook’s	5 + sev twice		New for ? m		min 1 house robbed	New sieged for ? m		
+Rev 2	May 1773	Aug 1773	 	 	Davidson’s	13 t 14 + 1 family + ? of 40	min 14 impressed for 0.25 m / ? of 40 taken	c 70 Neg refugees exit	min 1	min 9 houses robbed	halt logging for ? m		
+Rev 3	Jun 1786	Jun 1786	 	 	Old R	sev							
+Rev 4	Jan 1813	0	 	 	New R								
+Rev 5	Apr 1820	0	 	 	Will & Sharper					sev houses robbed			
+War 1	Jul 1701	Sep 1714	Sp	Fr	Sp Succession								
+War 10	Jan 1654	Dec 1660	Sp	Bu Fr	Cromwell’s	?							
+War 11	Sep 1808	Sep 1833	Sp	 	Sp Am Revolution						silver scarcity for ? m		
+War 2	Aug 1718	Feb 1720	Sp	 	Quadruple Alliance								
+War 3	Mar 1726	Feb 1728	Sp	 	 				1	? fm 2 Ma hamlets			
+War 4	Oct 1739	Oct 1748	Sp	 	Jenkins’ Ear	9 t 10 + sev + 1 crew	2 crews + some men twice for ? m		15 + some + sev / sev flats				
+War 5	Jan 1762	Feb 1763	Sp	Fr	Seven Years’								
+War 6	Apr 1775	Sep 1783	Sp	Am Fr	Am Revolution	11 + sev	1 for 0.25 m / ? fm St. George’s for 35 m	Hon for ? m / sev families Am refugees enter thrice or 4 times	"3 / ? flats = part of £ 78,457.20"	"Prov demanded / ? houses St. George’s + ? wood destroyed = part of £ 78,457.20"		Prov v scarce for ? m	£ 300 for 9.5 years for Agent / ? for London printing thrice
+War 7	Aug 1796	Mar 1802	Sp	Fr	Fr Revolution	?		mainland for 12 m		?	halt logging for 8 m		HMS Merlin for c 8 m / redoubts or barriers raised at Old / 300 troops fm Jam for c 8 m / 2 defence craft for c 8 m / 900 civilian men for min 1.5 m
+War 8	May 1804	Jul 1808	Sp	Fr	Napoleonic							Prov v scarce for ? m	
+War 9	Jun 1812	Feb 1815	 	Am	 								
+
+
+Loss £: Table 1
+	From	To	Ft	Ft	Name	Lives	Held	Assume	Cf	Moved	Craft / Cargo	Assume	Cf	Property	Trade	Prov	Cost
+Hos 13	Jan 1639	Oct 1654	 	Bu Ma	Tortuga Raids	1 t 4	300 t 500 Ma fm Yuc [st Sp found 70 t 80 on 9 Feb 1654] for c ? m / c ? fm Bac for c 2 m	"2.6 t maize per yr
+family size = 5
+2 reales per carga maize"	"UW 2020
+WGF 2017"	Bac for c 2 m	3 t 4 Sp / ? Ma	"50 t per craft
+30 ducados per ton"	CWM 2002	"12 t 16,000 pesos fm Bac / ? fm 4 Ma hamlets"			
+Nat 4	Jan 1647	Dec 1653	 	 	Famine	?											
+War 10	Jan 1654	Dec 1660	Sp	Bu Fr	Cromwell’s	?											
+Hos 18	Jan 1661	Jul 1670	Sp	Bu	Modyford Offensives	?									?		
+Hos 1	Jan 1696	Mar 1701	Sp	 	First Offensives	sev				Hon for < 12 m thrice				c ? huts			
+War 1	Jul 1701	Sep 1714	Sp	Fr	Sp Succession												
+Hos 2	Jan 1718	Feb 1725	Sp	Pir	Golden Age	60 t 72	m 6 men + 2 crews impressed for ? m	14.548 p per day	BOE		53 t 73	"100 t per craft
+£ 30 per ton"	Lon 1742				
+War 2	Aug 1718	Feb 1720	Sp	 	Quadruple Alliance												
+Hos 14	Sep 1722	Apr 1725	Sp	 	Second Offensives		50 for ? m	"14.814 p per day [crew]
+J£ 5 per ton
+3.75 ton per m per man"	"BOE
+Lon 1700
+CO 5/119 I
+Lon 1809"	Hon for ? m	5 + some			all ranchos burnt twice			
+Hos 16	Jan 1724	Jul 1838	 	Af Du Fr Po	Af Slavery		? for c ? m / [st ? died]	"1 ton Log per m per man c 1770s / J£ 40 p Saturday labour < 1800s
+J£ 5 per ton < 1780s / J£ 3 per ton > 1780s ?
+J£ 15 per 1,000 ft c 1780s / J£ 16 to 30 [per 1,000 ft, likely] c 1800s"	"Lon 1700
+Lon 1893
+Lon 1809"								
+Nat 5	Jan 1725	Dec 1727	 	 	Famine												
+War 3	Mar 1726	Feb 1728	Sp	 	 						1			? fm 2 Ma hamlets			
+Hos 3	Nov 1728	Feb 1733	Sp	 	Bacalar Offensives	2 + sev	39 + >> sev for ? m	15.086 p per day	BOE	Hon for 76.5 m	c 95 + sev twice / c 140 flats + all once			"32 + sev twice ranchos / 12 t 16,000 ton = 300,000 quintals + 245 Pilas Log"			
+Hos 4	Sep 1734	Oct 1739	Sp	 	Jenkins’ Offensives	7	3 t 4 + 3 crews imprisoned for ? m	15.211 p per day	BOE		23 t 24			sev t >> sev Log burnt	Log scarce for min 2 m		
+Ill 1	Jun 1737	0	 	 	Diphtheria ?	sev t >> sev											
+War 4	Oct 1739	Oct 1748	Sp	 	Jenkins’ Ear	9 t 10 + sev + 1 crew	2 crews + some men twice for ? m	15.233 p per day	BOE		15 + some + sev / sev flats						
+Ill 2	Mar 1750	0	 	 	Malaria ?										halt logging for ? m		
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege	2	140 + sev + 1 crew + all Neg for ? m	15.373 p per day	BOE	Hon for < 15 m / Hon for < 11 m / Hon for 10 m	94 t 95 + sev / 18 t 30 + all flats in New			sev Log works + all Log works in New + sev houses sacked			
+Ill 3	Nov 1751	0	 	 	Measles ?	sev t >> sev											
+Hos 6	May 1756	Apr 1761	Sp	Fr	Seven Years’ Offensives		60 + sev fm New + sev once + some twice for ? m	15.639 p per day	BOE	Hon for c 8 m	2.5 / sev t >> sev flats			sev t >> sev Log works / houses / Log	panic for min 1 m [halt logging likely]		
+War 5	Jan 1762	Feb 1763	Sp	Fr	Seven Years’												
+Crs 5	Dec 1763	Mar 1765	Sp	 	Hondo R Prohibition					"New, Hondo for 12 m = part of £ 26,794.5"				"part of £ 26,794.5"			£ 303
+Nat 1	Jan 1765	Nov 1773	 	 	Great Famine	"c 40,000 Ma fm Yuc"				? Ma refugees enter						Prov v scarce for ? m	
+Fin 1	Jun 1765	0	 	 	Logwood Exhaustion										Log v scarce for min 15 m	Prov v scarce for min 6 m	
+Rev 1	Aug 1765	Sep 1765	 	 	Cook’s	5 + sev twice				New for ? m				min 1 house robbed	New sieged for ? m		
+Crs 2	Jan 1766	0	Sp	 	Sp Asylum	min 1				"c 53 + £ 10,000 Neg refugees exit / Sp return 47"				min 1 house robbed			
+Crs 1	Feb 1767	Dec 1770	 	Fr Du	Alien Logging									? logged by Fr Du loggers			
+Hos 8	Mar 1767	Apr 1767	Sp	 	 	some	some Neg fm Hondo + sev Neg for ? m							? Log works at Hondo / ? cattle at Hondo / ? property			
+Hos 12	Jul 1767	Jul 1767	 	Ma	Naismith Raid	1								1 house robbed			
+Hos 9	Jul 1770	Mar 1772	Sp	 	 	sev	1 + 1 crew for ? m	17.279 p per day	BOE	mainland for min 5 m	1			sev houses in Ambergris burnt / all Mah burnt	halt logging for min 5 m		
+Hos 10	Jan 1773	Sep 1773	 	Ma	Arms Raids	sev								some houses burnt / some to sev houses robbed			
+Rev 2	May 1773	Aug 1773	 	 	Davidson’s	13 t 14 + 1 family + ? of 40	min 14 impressed for 0.25 m / ? of 40 taken	17.146 p per day	BOE	c 70 Neg refugees exit	min 1			min 9 houses robbed	halt logging for ? m		
+War 6	Apr 1775	Sep 1783	Sp	Am Fr	Am Revolution	11 + sev	1 for 0.25 m / ? fm St. George’s for 35 m	c 175 ft Mah per man per m ? / 3.75 t Log per man per m	"Sev 1944
+CO 5/119 I"	Hon for ? m / sev families Am refugees enter thrice or 4 times	"3 / ? flats = part of £ 78,457.20"			"Prov demanded / ? houses St. George’s + ? wood destroyed = part of £ 78,457.20"		Prov v scarce for ? m	£ 300 for 9.5 years for Agent / ? for London printing thrice
+Nat 2	Dec 1784	Nov 1785	 	 	 	sev at New								? houses / works flooded esp in New	halt logging for min 11 m		 
+Crs 3	Feb 1785	0	Sp	 	Sp Panic					"New, Hondo for 1 t 4 m / ? Neg refugees exit"				"New, Hondo houses, stock lost"		Prov scarce for > 5 m	
+Rev 3	Jun 1786	Jun 1786	 	 	Old R	sev											
+Crs 4	Jun 1787	Apr 1791	 	 	Despard Affair		sev turtlers for ? m							all plantain walks destroyed twice / all fished turtles seized once / much unrest for ? m twice	shipping v scarce for min 24 m / [price crash likely]	Prov v scarce for ? m twice	
+Hos 17	Jun 1787	0	0	Mos	Mos Slavery		? for c ? m										
+Ill 4	Feb 1788	0	 	 	Measles ?	50 + >> 50											
+Nat 3	Nov 1792	Oct 1792	 	 	 	sev				Old for c 0.25 m				"c 2,000,000 ft Mah loss / ? tons Log loss / all houses at Old flooded"			
+Hos 11	Nov 1793	Nov 1793	 	Ma	 	4											
+War 7	Aug 1796	Mar 1802	Sp	Fr	Fr Revolution	?				mainland for 12 m				?	halt logging for 8 m		HMS Merlin for c 8 m / redoubts or barriers raised at Old / 300 troops fm Jam for c 8 m / 2 defence craft for c 8 m / 900 civilian men for min 1.5 m
+Ill 5	Sep 1797	0	 	 	Yellow Fever	23											
+War 8	May 1804	Jul 1808	Sp	Fr	Napoleonic											Prov v scarce for ? m	
+War 9	Jun 1812	Feb 1815	 	Am	 												
+Rev 4	Jan 1813	0	 	 	New R												
+Rev 5	Apr 1820	0	 	 	Will & Sharper									sev houses robbed			
+War 11	Sep 1808	Sep 1833	Sp	 	Sp Am Revolution										silver scarcity for ? m		
+
+
+Loss £ Est: Table 1
+	From	To	Ft	Ft	Name	Lives	Lives +	Assume	£ List	£	Assume	Held	Assume	Cf	Moved	Craft / Cargo	Assume	Cf	Property	Trade	Prov	Cost
+Crs 1	Feb 1767	Dec 1770	 	Fr Du	Alien Logging				"8,100 Log"	"J£ 40,500"	"36 m foreign logging
+5 gangs of 15"								? logged by Fr Du loggers			
+Crs 2	Jan 1766	0	Sp	 	Sp Asylum	min 1			270 Log	"J£ 1,350"					"c 53 + £ 10,000 Neg refugees exit / Sp return 47"				min 1 house robbed			
+Crs 3	Feb 1785	0	Sp	 	Sp Panic										"New, Hondo for 1 t 4 m / ? Neg refugees exit"				"New, Hondo houses, stock lost"		Prov scarce for > 5 m	
+Crs 4	Jun 1787	Apr 1791	 	 	Despard Affair							sev turtlers for ? m							all plantain walks destroyed twice / all fished turtles seized once / much unrest for ? m twice	shipping v scarce for min 24 m / [price crash likely]	Prov v scarce for ? m twice	
+Crs 5	Dec 1763	Mar 1765	Sp	 	Hondo R Prohibition					"£ 27,097.5"					"New, Hondo for 12 m = part of £ 26,794.5"				"part of £ 26,794.5"			£ 303
+Fin 1	Jun 1765	0	 	 	Logwood Exhaustion				"6,750 Log
+225 Log"	"J£ 34,875"										Log v scarce for min 15 m	Prov v scarce for min 6 m	
+Hos 1	Jan 1696	Mar 1701	Sp	 	First Offensives	sev	3 t 5	"sev = .01 t .02 of population
+250 population"	"13.125 Log
+6,750 Log"	"J£ 33,815.625"	"0.25 m wage = 1 hut
+1 hut per 10 population
+0.75 destruction rate
+9 m total expulsion
+250 pop
+3.75 ton per m per man
+0.2 loss Log per m
+J£ 5 per ton Log"				Hon for < 12 m thrice				c ? huts			
+Hos 10	Jan 1773	Sep 1773	 	Ma	Arms Raids	sev			"2,025 t 2,700 Log"	"J£ 10,125 t 13,500"	"sev = 10
+some = 5
+rob = 0.5 house worth"								some houses burnt / some to sev houses robbed			
+Hos 11	Nov 1793	Nov 1793	 	Ma	 	4																
+Hos 12	Jul 1767	Jul 1767	 	Ma	Naismith Raid	1			270 Log	"J£ 1,350"									1 house robbed			
+Hos 13	Jan 1639	Oct 1654	 	Bu Ma	Tortuga Raids	1 t 4	77 t 140	"1 in 3 Ma fm Yuc taken fm Hon
+All Ma not found died"	"1,733.33 t 2,888.89 reales
+17,333.33 t 28,888.89 reales
+34,666.67 t 57,777.78 reales
+4,500 t 6,000 ducados
+12,000 t 16,000 pesos
+1,386.67 reales"	"Sp $ 25,093.70 t 35,639.38"	"6 m for 1/3 Ma / 5 yr for 1/3 Ma / 10 for 1/3 Ma
+Ea Ma is head of fam
+0 Ma craft taken
+26 t maize per Ma hamlet
+1 carga = 300 lbs / 1 t = 2000 lbs
+1 real = 1/8 Sp dollar
+1 peso = 1 Sp dollar
+1 ducado = 1.3786 Sp dollar"	300 t 500 Ma fm Yuc [st Sp found 70 t 80 on 9 Feb 1654] for c ? m / c ? fm Bac for c 2 m	"2.6 t maize per yr
+family size = 5
+2 reales per carga maize"	"UW 2020
+WGF 2017"	Bac for c 2 m	3 t 4 Sp / ? Ma	"50 t per craft
+30 ducados per ton"	CWM 2002	"12 t 16,000 pesos fm Bac / ? fm 4 Ma hamlets"			
+Hos 14	Sep 1722	Apr 1725	Sp	 	Second Offensives				"£ 444.42
+4,500 Log
+£ 2,100 t 3,000
+37.5 Log"	"£ 2,544.42 t 3,444.42
+J£ 22,687.5"	"3 m impression per man
+20 working days per m
+only sailors impressed
+3 m total expulsion
+some = 2 t 5 craft
+0.5 m wage = 1 rancho
+1 rancho per 10 population
+500 population
+"	50 for ? m	"14.814 p per day [crew]
+J£ 5 per ton
+3.75 ton per m per man"	"BOE
+Lon 1700
+CO 5/119 I
+Lon 1809"	Hon for ? m	5 + some			all ranchos burnt twice			
+Hos 16	Jan 1724	Jul 1838	 	Af Du Fr Po	Af Slavery			"No deaths on journey fm Jam
+No direct importation"	"138,600 Log
+223,300 Log
+250,800 Log
+475,200 Log"	"J£ 3,987,500"	"11 working m per year
+0.7 of pop = slave to 1790
+0.5 women slaves fm 1790 at 1/3 male wage
+0.6 of pop = slave to 1838
+500 pop to 1760
+1,000 pop to 1790
+3,000 pop to 1810
+4,000 pop to 1838
+J£ 5 per t to 1790 / J£ 3 after"	? for c ? m / [st ? died]	"1 ton Log per m per man c 1770s / J£ 40 d Saturday labour < 1800s
+J£ 5 per ton < 1780s / J£ 3 per ton > 1780s ?
+J£ 15 per 1,000 ft c 1780s / J£ 16 to 30 [per 1,000 ft, likely] c 1800s"	"Lon 1700
+Lon 1893
+Lon 1809"								
+Hos 17	Jun 1787	0	0	Mos	Mos Slavery							? for c ? m										
+Hos 18	Jan 1661	Jul 1670	Sp	Bu	Modyford Offensives	?														?		
+Hos 2	Jan 1718	Feb 1725	Sp	Pir	Golden Age	60 t 72			"£ 314.24
+£ 15,900 t 21,900"	"£ 16,214.24 t 22,214.24"	"3 m impression per man
+20 working days per m
+15 men per crew"	m 6 men + 2 crews impressed for ? m	14.548 p per day	BOE		53 t 73	"100 t per craft
+£ 30 per ton"	Lon 1742				
+Hos 3	Nov 1728	Feb 1733	Sp	 	Bacalar Offensives	2 + sev	5 t 15	"sev = .01 t .03 of population
+500 population"	"576 Log
+114,750 Log
+£ 294,000 t 300,000
+J£ 28,000
+32 Log
+12,122.5 t 16,122.5 Log"	"J£ 665,402.50 t 685,402.50
+£ 294,000 t 300,000"	"only loggers held
+3 m imprisonment per man
+>> sev = .05 pop
+500 pop
+sev = 3 t 5 craft
+all = 1/3 of 140 flats
+1 Pila = 0.5 t Log
+sev = 0.5 of 32 ranchos"	39 + >> sev for ? m	15.086 p per day	BOE	Hon for 76.5 m	c 95 + sev twice / c 140 flats + all once	"5 t per flat
+J£ 30 per ton"		"32 + sev twice ranchos / 12 t 16,000 ton = 300,000 quintals + 245 Pilas Log"			
+Hos 4	Sep 1734	Oct 1739	Sp	 	Jenkins’ Offensives	7			"£ 438.08
+£ 69,000 t 72,000
+1,050 t 2,100 Log
+1,500 Log"	"£ 69,438.08 t 72,438.08
+J£ 12,750 t 15,750"	"only crew held for 3 m
+scarce = 0.5 logging cap
+500 pop
+sev = 1 m Log of 0.7 Hon
+>> sev = 2 m Log output of 0.7 Hon"	3 t 4 + 3 crews imprisoned for ? m	15.211 p per day	BOE		23 t 24			sev t >> sev Log burnt	Log scarce for min 2 m		
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege	2			"£ 138.36
+1,845 Log
+J£ 100
+46,500 Log
+£ 303,000 t 306,000
+J£ 2,970 t 4,050
+1,890 Log
+1,035 Log"	"£ 303,138.36 t 306,138.36
+J£ 259,420 t 260,500"	"only 1 crew held
+3 month detention
+all = 50 Neg
+sev = 15 men
+inc Sat labour for Neg
+31 m expulsion
+500 pop
+sev = 7 craft
+all = 15 flats
+house = 6 m Log earnings
+work = 1 m Log earning
+sev = 7
+all = 15 works
+gang of 15 for earnings"	140 + sev + 1 crew + all Neg for ? m	15.373 p per day	BOE	Hon for < 15 m / Hon for < 11 m / Hon for 10 m	94 t 95 + sev / 18 t 30 + all flats in New			sev Log works + all Log works in New + sev houses sacked			
+Hos 6	May 1756	Apr 1761	Sp	Fr	Seven Years’ Offensives				"810 Log
+12,000 Log
+£ 750
+J£ 1,500 t 3,000
+450 t 900 Log
+2,700 t 5,400 Log
+1,500 Log"	"£ 750
+J£ 88,800 + 106,050"	"3 m detention
+sev = 10 men
+some = 5 men
+pop 500
+sev = 10 works / houses / flats
+>> sev = 20 flats / works / houses"	60 + sev fm New + sev once + some twice for ? m	15.639 p per day	BOE	Hon for c 8 m	2.5 / sev t >> sev flats			sev t >> sev Log works / houses / Log	panic for min 1 m [halt logging likely]		
+Hos 8	Mar 1767	Apr 1767	Sp	 	 	some	3 t 5	some = 3 t 5	"270 Log
+J£ 60
+315 Log
+7.5 Log"	"J£ 3,022.50"	"3 m detention
+some = 10 Neg
+sev = 20 Neg
+? = 7 works
+? = 15 cattle
+0.5 Log per cattle"	some Neg fm Hondo + sev Neg for ? m							? Log works at Hondo / ? cattle at Hondo / ? property			
+Hos 9	Jul 1770	Mar 1772	Sp	 	 	sev			"£ 165.88
+9,000 Log
+1.2 million Mah
+£ 300
+60,000 Mah
+225 Log"	"£ 465.88
+J£ 235,125"	"2/3 Log / 1/3 Mah
+900 pop
+only crew impressed
+sev = 5 gangs of 15
+all = 1 m Mah
+1,000 ft Mah per man per m"	1 + 1 crew for ? m	17.279 p per day	BOE	mainland for min 5 m	1			sev houses in Ambergris burnt / all Mah burnt	halt logging for min 5 m		
+Ill 1	Jun 1737	0	 	 	Diphtheria ?	sev t >> sev	5 t 15	"sev = .01 t .03 of population
+500 population"														
+Ill 2	Mar 1750	0	 	 	Malaria ?				"1,350 Log"	"J£ 6,750"	"? = 3 m Log of 0.7 Hon
+pop 500"									halt logging for ? m		
+Ill 3	Nov 1751	0	 	 	Measles ?	sev t >> sev	5 t 15	"sev = .01 t .03 of population
+500 population"														
+Ill 4	Feb 1788	0	 	 	Measles ?	50 + >> 50																
+Ill 5	Sep 1797	0	 	 	Yellow Fever	23																
+Nat 1	Jan 1765	Nov 1773	 	 	Great Famine	"c 40,000 Ma fm Yuc"	"8,000 in Hon"	2/10 deaths in Hon	"25 Log
+187.5 Log"	"J£ 1,062.5"	"15 percent inflation
+3 m rise
+.5 Log on Prov per m normally
+.25 ton Log per refugee
+100 refugees
+500 pop"				? Ma refugees enter						Prov v scarce for ? m	
+Nat 2	Dec 1784	Nov 1785	 	 	 	sev at New					"2/3 Log / 1/3 Mah
+900 pop"								? houses / works flooded esp in New	halt logging for min 11 m		 
+Nat 3	Nov 1792	Oct 1792	 	 	 	sev									Old for c 0.25 m				"c 2,000,000 ft Mah loss / ? tons Log loss / all houses at Old flooded"			
+Nat 4	Jan 1647	Dec 1653	 	 	Famine	?																
+Nat 5	Jan 1725	Dec 1727	 	 	Famine																	
+Rev 1	Aug 1765	Sep 1765	 	 	Cook’s	5 + sev twice	6 t 10	sev = 3 t 5 persons	"1,350 Log
+270 Log"	"J£ 8,100"	"2 m expulsion
+15 gangs of 15 moved
+2 m siege"				New for ? m				min 1 house robbed	New sieged for ? m		
+Rev 2	May 1773	Aug 1773	 	 	Davidson’s	13 t 14 + 1 family + ? of 40			"42 Log
+J£ 2.15
+£ 300
+1,215 Log
+5,400 Log
+720,000 ft Mah"	"£ 300
+J£ 44,087.15"	"only Neg impressed
+3 m logging halt
+900 pop"	min 14 impressed for 0.25 m / ? of 40 taken	17.146 p per day	BOE	c 70 Neg refugees exit	min 1			min 9 houses robbed	halt logging for ? m		
+Rev 3	Jun 1786	Jun 1786	 	 	Old R	sev																
+Rev 4	Jan 1813	0	 	 	New R																	
+Rev 5	Apr 1820	0	 	 	Will & Sharper														sev houses robbed			
+War 1	Jul 1701	Sep 1714	Sp	Fr	Sp Succession																	
+War 10	Jan 1654	Dec 1660	Sp	Bu Fr	Cromwell’s	?																
+War 11	Sep 1808	Sep 1833	Sp	 	Sp Am Revolution															silver scarcity for ? m		
+War 2	Aug 1718	Feb 1720	Sp	 	Quadruple Alliance																	
+War 3	Mar 1726	Feb 1728	Sp	 	 				"£ 300
+693.33 reales"	"£ 300
+Sp $ 86.67"						1			? fm 2 Ma hamlets			
+War 4	Oct 1739	Oct 1748	Sp	 	Jenkins’ Ear	9 t 10 + sev + 1 crew	20 t 30	"sev = .01 t .03 of population
+500 population
+crew = 15 men"	"£ 365.59
+£ 69,000
+J£ 750"	"£ 69,365.59
+J£ 750"	"only crews held
+some = 5 men
+some = 3 craft
+sev = 5 craft or flats"	2 crews + some men twice for ? m	15.233 p per day	BOE		15 + some + sev / sev flats						
+War 5	Jan 1762	Feb 1763	Sp	Fr	Seven Years’																	
+War 6	Apr 1775	Sep 1783	Sp	Am Fr	Am Revolution	11 + sev					lost earnings not inc by Baymen	1 for 0.25 m / ? fm St. George’s for 35 m	c 175 ft Mah per man per m ? / 3.75 t Log per man per m	"Sev 1944
+CO 5/119 I"	Hon for ? m / sev families Am refugees enter thrice or 4 times	"3 / ? flats = part of £ 78,457.20"			"Prov demanded / ? houses St. George’s + ? wood destroyed = part of £ 78,457.20"		Prov v scarce for ? m	£ 300 for 9.5 years for Agent / ? for London printing thrice
+War 7	Aug 1796	Mar 1802	Sp	Fr	Fr Revolution	?									mainland for 12 m				?	halt logging for 8 m		HMS Merlin for c 8 m / redoubts or barriers raised at Old / 300 troops fm Jam for c 8 m / 2 defence craft for c 8 m / 900 civilian men for min 1.5 m
+War 8	May 1804	Jul 1808	Sp	Fr	Napoleonic																Prov v scarce for ? m	
+War 9	Jun 1812	Feb 1815	 	Am	 																	
+
+
+< 1820: Table 1
+						Event	Event	Near	Sp	Ally	Ally	Lives	Held	Moved	Craft	Property	Other
+Hos 13	Jan 1639	Oct 1654	 	Bu Ma	Tortuga Raids	1 Jan 1639	Capture of Zacatan	Zacatan									
+Hos 13	Jan 1639	Oct 1654	 	Bu Ma	Tortuga Raids	1 Jul 1641		"Old, Sittee"					2 Sp held for some time			"Soite, Cehake towns [hamlets?] raided"	
+Hos 13	Jan 1639	Oct 1654	 	Bu Ma	Tortuga Raids	1 Nov 1642	Diego Raids	Sittee		Diego Lucifer de los Reyes el Mulato 70 Pir			kidnapped numb of [Maya] women / impressed men				
+Hos 13	Jan 1639	Oct 1654	 	Bu Ma	Tortuga Raids	1 Nov 1642	Diego Raids	Old		Diego Lucifer de los Reyes el Mulato 70 Pir					Pir took 3 or 4 Sp boats		
+Hos 13	Jan 1639	Oct 1654	 	Bu Ma	Tortuga Raids	22 Nov 1642	Sacking of Bacalar	Bacalar		Diego Lucifer de los Reyes el Mulato 70 Pir			kidnapped 3 Sp 2 Maya / Maya later released / Sp possibly died	Sp Maya residents forced into hiding by Lake Bacalar min. to early 1643		"stole all gold and silver fm Sp church = sum 12,000 to 16,000 pesos"	
+Hos 13	Jan 1639	Oct 1654	 	Bu Ma	Tortuga Raids	1 Jun 1648	Sacking of Bacalar	Bacalar	Capt. Bartolomé Palomino 27 men	Eng Pir or Bucc Abraham and co.		1 Sp killed	women carried off to Islote de los Cayos / liberated after 2 months	Bacalar residents move further inland to Pacha near Villadolid			
+Hos 13	Jan 1639	Oct 1654	 	Bu Ma	Tortuga Raids	1 Nov 1652		New					some Maya fm Uatibal and Chanlacan kidnapped [likely sold as slaves]	Ma moved inland w Sp help		"Uatibal, Chanlacan sacked [likely, esp food]"	
+Hos 13	Jan 1639	Oct 1654	 	Bu Ma	Tortuga Raids	23 Oct 1654	Pirates Cruising	Old	Capt. Francisco Perez of Bacalar-Pacha 6 Sp 15 Ma								
+Hos 1	Jan 1696	Mar 1701	Sp	 	First Offensives	1 Jan 1696		St. George’s	men fm Milicias Provinciales de Yucatan					Eng loggers completely dislodged			
+Hos 1	Jan 1696	Mar 1701	Sp	 	First Offensives	1 Oct 1699			Gov. Don Martín de Ursúa y Arizmendi			bloody battle		dislodged Eng fm Zacatan			
+Hos 1	Jan 1696	Mar 1701	Sp	 	First Offensives	1 Mar 1701			"Gov. Don Martín de Ursúa y Arizmendi, Capt. Joseph de Aguilar w men fm Tipu"			bloody battle [likely]		drove away the People		houses or huts burnt	
+War 1	Jul 1701	Sep 1714	Sp	Fr	Sp Succession												
+Hos 2	Jan 1718	Feb 1725	Sp	Pir	Golden Age	10 Jan 1718				Lowther			Greyhound men barbarously used / 5 mates tradesmen impressed		"burnt 8 w cargo in Greyhound, 1 sloop burnt, 1 taken, 1 plundered, 1 of 80 to 100 t taken, 2 brigs taken"		
+Hos 2	Jan 1718	Feb 1725	Sp	Pir	Golden Age	2 Apr 1718				Blackbeard			impressed Harriot and his men		took sloop Adventure		
+Hos 2	Jan 1718	Feb 1725	Sp	Pir	Golden Age	9 Apr 1718				Blackbeard					"took Caesar 400 t ship, 4 sloops, plundered all, returned 2 sloops"		
+Hos 2	Jan 1718	Feb 1725	Sp	Pir	Golden Age	1 Aug 1722				Anstis			1 sloop co of Dursey / Dursey and 5 or 6 escaped		1 sloop taken / 2 or 3 other vessel destroyed		
+Hos 2	Jan 1718	Feb 1725	Sp	Pir	Golden Age	15 Mar 1723	Low’s Massacre			Low Lowther		"45 to 53 or 58 Sp, 1 mate killed / 1 Sp killed later"	6 sailors imprisoned / released later by Pir		"3 to 5 sloops w cargo taken [1 pink too, possibly] / retaken by Lowe Lowther"		
+Hos 2	Jan 1718	Feb 1725	Sp	Pir	Golden Age	1 May 1724									7 or 8 sloops seized		
+Hos 2	Jan 1718	Feb 1725	Sp	Pir	Golden Age	1 Sep 1724				Spriggs					14 ships seized		
+Hos 2	Jan 1718	Feb 1725	Sp	Pir	Golden Age	1 Sep 1724				Shipton Spriggs	HMS Diamond	"6 Pir killed, 5 or 6 more mortally wounded"	min 1 sloop co impressed		10 or 12 vessels taken / then liberated by Eng		
+Hos 2	Jan 1718	Feb 1725	Sp	Pir	Golden Age	23 Dec 1724				Shipton Spriggs		"1 Pir killed, 1 [likely] mortally wounded"	some Bay prisoners at Carthagena < 3 Jun 20		1 ship John and Mary taken / retaken by impressed mates / 5 had been prev taken		
+Hos 2	Jan 1718	Feb 1725	Sp	Pir	Golden Age	1 Feb 1725				Spriggs			1 captain impressed		"taken 16 sail, burnt 1 [rest returned?]"		
+War 2	Aug 1718	Feb 1720	Sp	 	Quadruple Alliance												
+Hos 14	Sep 1722	Apr 1725	Sp	 	Second Offensives	1 Sep 1722	Barca Expedition	Old	Capt. Esteban de la Barca 2 PA				co of frigate imprisoned = 36 Eng 8 Neg		1 frigate of 24 cannons w Log cargo seized		
+Hos 14	Sep 1722	Apr 1725	Sp	 	Second Offensives	1 Feb 1724	Barca Expedition	Old	Capt. Esteban de la Barca 1 Gal 1 PA 40 Sp soldiers sum 300 men 2 Paquebotes 1 Sloop						2 brig 1 sloop ea w wood taken	"all Log works or huts burnt, esp in El Carnero [Barcaderos?]"	
+Hos 14	Sep 1722	Apr 1725	Sp	 	Second Offensives	11 Apr 1724	Rodriguez Expedition	"Cayo de Cocos, Old"	Commander Nicolás Rodriguez Capt. José Marqués w > 40 men [Guardacostas likely] inc. impressed Pir	Capt. Peyton or Payton			6 imprisoned at Old	Baymen and Neg fled to woods	some avg sized crafts / 1 brig w Prov	all Log works or huts burnt for 14 [Sp] leguas	
+Hos 14	Sep 1722	Apr 1725	Sp	 	Second Offensives	5 Apr 1725	Diamond Affair	Old	Sp Priv Frig under Juan Antonio Díaz de la Rabia	HMS Diamond					Sp privateering frigate seized		
+War 3	Mar 1726	Feb 1728	Sp	 	 	22 Mar 1726	Failed Torres Expedition	Cozumel	"Don Rogrigo de Torres 300 men fm Campeche, Armada de Barlovento [fm Veracruz?]"	Capt. George Randel Boston					1 schooner w Prov seized		
+War 3	Mar 1726	Feb 1728	Sp	 	 	1 Jan 1727	Raid of Ascensión	"Chunhuhub, Telá"	Don Antonio de Figueroa y Silva	"many sm craft fm Old R, Mos allies"						"Baymen Ma sacked towns or villages Chunhuhu, Tela fm coast up to Tihosuco"	
+Hos 3	Nov 1728	Feb 1733	Sp	 	Bacalar Offensives	1 Nov 1728			[possibly] Capt. Don Alonso de Figueroa y Silva						"taken 6 ships, sloops"		
+Hos 3	Nov 1728	Feb 1733	Sp	 	Bacalar Offensives	1 Feb 1729			[possibly] Capt. Don Alonso de Figueroa y Silva						"6 ships taken inc William and Elizabeth, Kidder"		
+Hos 3	Nov 1728	Feb 1733	Sp	 	Bacalar Offensives	10 Apr 1729	Figueroa y Silva Expedition	"Hondo, New, Old"	Capt. Don Alonso de Figueroa y Silva						45 Craft burnt / 17 seized for Bacalar	"32 Ranchos burnt, 171 Pilas Log burnt, 74 Pilas thrown to sea "	
+Hos 3	Nov 1728	Feb 1733	Sp	 	Bacalar Offensives	1 Jun 1729			2 Sloops Havannah 2 Sloops Campeachy 16 PA					by 31 Jan 31 / evac fm < Jun 29 to 20 Oct 35			
+Hos 3	Nov 1728	Feb 1733	Sp	 	Bacalar Offensives	1 Jul 1729	Summer Routing						c 30 white = great many whites and Neg		taken all flats New Hondo Old = c 140 / taken all vessels too	"burnt 12 to 16,000 t at New, Hondo = c 300,000 quintals at New Hondo Old / seized all tools / burnt all houses"	
+Hos 3	Nov 1728	Feb 1733	Sp	 	Bacalar Offensives	1 Feb 1730				Capt. Burrows					taken sev vessels / 1 brig afterwards taken		
+Hos 3	Nov 1728	Feb 1733	Sp	 	Bacalar Offensives	1 Jan 1731			GC 80 men	Capt. John Young NY					"Frances, and sev other ships and sloops taken = min 5"		
+Hos 3	Nov 1728	Feb 1733	Sp	 	Bacalar Offensives	24 Mar 1731			GC Pedro Polis 60 men	Capt. Ed. Burt 30 men		2 killed	9 men imprisoned		John and Jane taken		
+Hos 3	Nov 1728	Feb 1733	Sp	 	Bacalar Offensives	28 Jun 1731			Sloop 25 men	Roger Groves NY 30 to 40 men					1 fine ship taken / great many vessels taken since Jan 31 … but two ships of force have escaped		
+Hos 3	Nov 1728	Feb 1733	Sp	 	Bacalar Offensives	1 Aug 1731			PA [Petty Augers]						4 vessels taken		
+Hos 3	Nov 1728	Feb 1733	Sp	 	Bacalar Offensives	1 May 1732				Capt. Wickham etc.					8 taken		
+Hos 3	Nov 1728	Feb 1733	Sp	 	Bacalar Offensives	1 Aug 1732				Capt. Knox					min 1 brig David taken		
+Hos 3	Nov 1728	Feb 1733	Sp	 	Bacalar Offensives	21 Feb 1733	Figueroa y Silva Campaign	Old	Capt. Don Alonso de Figueroa y Silva	Baymen Neg Mos allies		many Baymen [piratas] died	others sent prisoners to San Juan de Ulúa and Havannah		all remaining craft burnt	numerosas Ranchos burnt	
+Hos 4	Sep 1734	Oct 1739	Sp	 	Jenkins’ Offensives	1 Sep 1734									1 sloop taken min		
+Hos 4	Sep 1734	Oct 1739	Sp	 	Jenkins’ Offensives	28 Sep 1734			3 PA / Priv 120 men 2 PA 2 Sloops	Capt. Dursey RI					"1 taken, then liberated / 1 prev taken, then liberated / 1 Flat prey taken, then liberated"		
+Hos 4	Sep 1734	Oct 1739	Sp	 	Jenkins’ Offensives	1 Nov 1734									1 lg loaded fly boat burnt		
+Hos 4	Sep 1734	Oct 1739	Sp	 	Jenkins’ Offensives	1 Oct 1735			2 PA	Col. Cranston RI					4 taken / 3 then liberated		
+Hos 4	Sep 1734	Oct 1739	Sp	 	Jenkins’ Offensives	1 Mar 1736						1 pilot beheaded	all crew imprisoned		1 sm sloop of Jam taken		
+Hos 4	Sep 1734	Oct 1739	Sp	 	Jenkins’ Offensives	26 Apr 1737			[possibly] Gov. Don Manuel Salcedo						"taken a sloop or two [min] = 6 or 7 smaller vessels taken / 1 sloop deserted in fight, taken"	burnt abundance of wood landed at cayes	
+Hos 4	Sep 1734	Oct 1739	Sp	 	Jenkins’ Offensives	18 Jan 1738			2 or 3 PA	Capt. Watlins					1 sloop taken / then released		
+Hos 4	Sep 1734	Oct 1739	Sp	 	Jenkins’ Offensives	1 Apr 1738			3 lg PA	1 Sloop							
+Hos 4	Sep 1734	Oct 1739	Sp	 	Jenkins’ Offensives	1 Jul 1738		bw New & Old		Capt. Ed. Buckley Boston			25 imprisoned / later liberated		"all flats, 2 sloops loading a ship taken / later liberated"		
+Hos 4	Sep 1734	Oct 1739	Sp	 	Jenkins’ Offensives	12 Aug 1738			Sloop 18 men	Capt. Stephen Bastwick etc.		3 killed [source?]	Reeves and two of his Neg imprisoned		"2 sloops, 2 craft w 26 wood [ea or together?] taken"		
+Hos 4	Sep 1734	Oct 1739	Sp	 	Jenkins’ Offensives	1 Feb 1739				Capt. Gwynn Boston					1 vessel taken		
+Hos 4	Sep 1734	Oct 1739	Sp	 	Jenkins’ Offensives	1 Mar 1739		Turneffe		Capt. Collis RI etc.		"Captain Collis, 2 mates killed"	companies of 2 sloops carried away / captain used in barbarous manner		"1 vessel, 2 sloop taken [min]"		
+Hos 4	Sep 1734	Oct 1739	Sp	 	Jenkins’ Offensives	1 Apr 1739			Sloop 10 guns	Capt. Mark Anderson							
+Hos 4	Sep 1734	Oct 1739	Sp	 	Jenkins’ Offensives	1 Sep 1739				Mr. White etc.			1 owner used barbarously [so taken?]		3 vessels taken		
+Hos 4	Sep 1734	Oct 1739	Sp	 	Jenkins’ Offensives	1 Oct 1739			2 Priv / Vessel 20 men	Capt. Pustle Capt. Gowan							
+Ill 1	Jun 1737	0	 	 	Diphtheria ?	15 Jun 1737						"abundance of Baymen have died, as well as those of Fleet"					
+War 4	Oct 1739	Oct 1748	Sp	 	Jenkins’ Ear	1 Feb 1740	Holiday Cruising Hon for Sp since Oct 39			Capt. Holiday Jamaica 75 men	Capt. Woodbury Boston						
+War 4	Oct 1739	Oct 1748	Sp	 	Jenkins’ Ear	1 Apr 1740			2 Craft	Capt. Vincent Boston & Capt. Thatcher / sm Sloop of Baymen					2 sloops taken / later liberated		
+War 4	Oct 1739	Oct 1748	Sp	 	Jenkins’ Ear	24 Aug 1740	Mos Sack Shasoon (near Bacalar)			100 Mos							
+War 4	Oct 1739	Oct 1748	Sp	 	Jenkins’ Ear	1 Feb 1741			2 PA 110 men	Capt. Burchell							
+War 4	Oct 1739	Oct 1748	Sp	 	Jenkins’ Ear	1 Jun 1741				Capt. Wise		2 Sp killed [mistakenly or not in defence]			1 vessel taken / later liberated		
+War 4	Oct 1739	Oct 1748	Sp	 	Jenkins’ Ear	1 Mar 1744			Priv	Capt. Fiske		"1 captain killed, 1 pass dangerously wounded"	some of Captain Fiske co.		Fiske’s craft taken		
+War 4	Oct 1739	Oct 1748	Sp	 	Jenkins’ Ear	1 Jan 1746		Turneffe				"captain, owners of sloop killed"			1 sloop Kouli Can taken		
+War 4	Oct 1739	Oct 1748	Sp	 	Jenkins’ Ear	1 Jan 1748	Complete Routing	Old	"Don Alonso Fernández de Heredia [Gov. Sp Honduras], Capt. Don Felipe López de la Flor"				prisoners taken / punishments were very severe				
+War 4	Oct 1739	Oct 1748	Sp	 	Jenkins’ Ear	1 Jul 1748		Old	Capt. Don Felipe López de la Flor	Baymen					"some craft taken, some destroyed"		
+War 4	Oct 1739	Oct 1748	Sp	 	Jenkins’ Ear					Capt. Collis		"Captain Collis, 2 mates killed"	companies of 2 sloops carried away / captain used in barbarous manner		"1 vessel, 2 sloop taken [min]"		
+War 4	Oct 1739	Oct 1748	Sp	 	Jenkins’ Ear							loss of sev men in ship after chase					
+War 4	Oct 1739	Oct 1748	Sp	 	Jenkins’ Ear										5 vessels taken		
+War 4	Oct 1739	Oct 1748	Sp	 	Jenkins’ Ear										1 vessel taken		
+War 4	Oct 1739	Oct 1748	Sp	 	Jenkins’ Ear							"1 vessel crew drowned [accidental, on being taken by Sp]"			3 vessels taken		
+War 4	Oct 1739	Oct 1748	Sp	 	Jenkins’ Ear										taken sev ships / taken sev sm trading vessels [Flats]		
+War 4	Oct 1739	Oct 1748	Sp	 	Jenkins’ Ear										1 brig taken		
+War 4	Oct 1739	Oct 1748	Sp	 	Jenkins’ Ear		Charge of Panama			Gov. Hudson							
+Ill 2	Mar 1750	0	 	 	Malaria ?	7 Mar 1750											makes it impossible to cut Logwood / 30 to 40 vessels waiting
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege	6 May 1750		New	Galley 123 men Havannah	Capt. Heysham / Capt. Kattur / Priv of Baymen		1 killed	"1 captain, 8 men, 3 women passenger / lib later"		"1 tender taken / 1 ship taken later, then lib"		
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege	17 Sep 1750			2 Half Gallies	Capt. Riven							
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege	1 Jan 1751	Palma Expedition	"Hondo, Old"	Don José Antonio de Palma				"numerous Eng men seized, inc. Comandante de Valis [Chief Magistrate?] / later liberated"		43 Craft seized / 57 vessels [not Bay Flats] seized [possibly ?]		
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege	30 Jun 1751	Palma Expedition [?]	New	15 Craft 180 to 200 men Campeachy Guatemala				129 Eng [Bay inc?] imprisoned / min 19 released later / release or ransom of all previously agreed to		7 sloops taken / 18 to near 30 flats taken		
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege	1 Nov 1751	Bacalar Assault	Bacalar		Baymen Mos Shoremen?							
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege	25 Dec 1751	Christmas Routing	Old / Water Caye	2 Gallies 1 Brig	Henry Stevenson / Capt. Troup etc.			1 brig co imprisoned / later released	evac on 9 Jan 52	1 brig taken		
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege	1 May 1752							19 Neg carried off				
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege	1 Jun 1752							carried off all Neg				
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege	1 Jun 1752			1 MW 1 Chebeque 1 Sloop 2 PA	Capt. Mosely etc.					6 or 7 vessels taken [previously]		
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege	1 Jun 1752		Rat / Bay	Galley or 2 GC	Capt. McNamara 50 Baymen 70 Shoremen / Capt. Mosely Gov. Pitt					2 craft taken w sum 230 t wood taken	forced to have boat manned and continually under arms = great expense	
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege	1 Aug 1752			sev Craft	Capt. Man			1 vessel co imprisoned / later escaped except McDonald		1 vessel taken		
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege	1 Aug 1752		Haulover / New	5 sm Barks 70 men / 10 PA 170 men	John Lance etc.					"1 snow w Prov taken / 1 vessel taken, then lib"		
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege	2 Aug 1752						1 mate killed	"2 captains, 1 mate imprisoned"		1 sloop plundered / 5 craft w wood taken		
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege	2 Aug 1752			6 PA 1 Flat of 14 swivel guns	Capt. Crowel Capt. Hall			min 1 impressed for 6 months		"3 vessels taken, then liberated"		
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege	4 Dec 1752									2 craft taken / 1 plundered of Prov		
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege	24 Feb 1753			GC	Capt. Clark							
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege	28 Feb 1753		Caye Bokell	Brig of 30 swivel guns	Capt. Ed. Menzies			many Eng imprisoned for 6 months at Mahoo [previously taken] / Capt. imprisoned for 		1 brig taken		
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege	1 May 1753		New						evac on 9 Jun 53 fm New	not one craft [flat] escaped destruction in New	entirely routed fm New [so houses burnt?]	
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege	1 Jun 1753	Capture of Sp Brig	Old		Capt. Sergeant RI / Baymen							
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege	12 Apr 1754	Sp Expedition to Bay	Key Mager	"Don Juan Nanos w 24 gun Ship 1 lg Xebek Gov. of Campeche Don Noverette w 20 Sail = sum 2,000 men"					some Neg evac or sent to Mos			
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege	24 May 1754	May Battle		[possibly] José Vásquez de Prego [Pres Guat] w near 300 men	100 Baymen						sacked Wells house to considerable value	
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege	18 Jun 1754	June Battle		[possibly] José Vásquez de Prego [Pres Guat]					evac on 18 Jun 54 to 12 Apr 55	number of vessels taken	carried off Prov	
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege	8 Sep 1754	Joint September Assault	Old	"Don Melchor de Navarrete of Yuc, Joseph de Palma de Mar of Guat, Juan de las Llanas of Havannah c 18 Craft"				"93 Baymen, 23 Neg captured"		"1 Frig, 9 craft taken"	huts or works and Log burnt	
+Hos 5	May 1750	Sep 1754	Sp	 	Amphibious Siege	1 Feb 1755	Sp Concession										
+Ill 3	Nov 1751	0	 	 	Measles ?	1 Nov 1751						left sev Vessels without Hands … two [women] left in the whole Bay					
+Hos 6	May 1756	Apr 1761	Sp	Fr	Seven Years’ Offensives	24 May 1756	Gov. Knowles Demolishes Bay Fort								min 2 vessels taken min	"fort demolished, 18 cannon sunk [Knowles ordered?]"	
+Hos 6	May 1756	Apr 1761	Sp	Fr	Seven Years’ Offensives	1 Jul 1757	Siege of New R						sev Baymen in New imprisoned		min 1 craft forced to unload half cargo to escape		
+Hos 6	May 1756	Apr 1761	Sp	Fr	Seven Years’ Offensives	1 Sep 1757	September Destruction						carried off about 60 Neg and some whites		destroyed everything they came across [so flats too?]	"destroyed the wood, houses and everything they came across"	
+Hos 6	May 1756	Apr 1761	Sp	Fr	Seven Years’ Offensives	10 Nov 1758			30 PA at Bacalar fm Campeachy Port Maho					evac c 10 Nov 58 to < 20 Jul 1759			
+Hos 6	May 1756	Apr 1761	Sp	Fr	Seven Years’ Offensives	1 Sep 1759	Barbarities at Carpenter’s	Carpenter’s R					carried away many settlers ?				
+Hos 6	May 1756	Apr 1761	Sp	Fr	Seven Years’ Offensives	21 Oct 1759	Capt. Owens’s Feat		near 200 men	Capt. Owens w 50 Britons			"31 Brit subjects, 30 Neg imprisoned / later lib by Owens"		3 loaded flats seized / later liberated by Owens		
+Hos 6	May 1756	Apr 1761	Sp	Fr	Seven Years’ Offensives	26 Dec 1759	Christmas Assault	Haulover	4 Capt. sent by Gov. of Merida w great numb PA w over 150 men	few Baymen left behind						"pillage, plunder, destroy houses of few settlers left [on Old R]"	
+Hos 6	May 1756	Apr 1761	Sp	Fr	Seven Years’ Offensives	1 Jan 1760	Capt. Coppinger’s Intel						a number of white and Neg imprisoned		sev loaded flats taken		
+Hos 6	May 1756	Apr 1761	Sp	Fr	Seven Years’ Offensives	6 Apr 1761	Flota Sails for Bay	Cadiz	"8 Ships 2 Frigates 8 Chebecs = 4,000 men"								
+War 5	Jan 1762	Feb 1763	Sp	Fr	Seven Years’												
+Crs 5	Dec 1763	Mar 1765	Sp	 	Hondo R Prohibition	23 Dec 1763				Adm. Burnaby				evac Hondo on 4 Feb 64 / evac all except Old on 13 Feb 64 / restored 5 Mar 65			
+Fin 1	Jun 1765	0	 	 	Logwood Exhaustion	22 Jun 1765								sev settlers returning w slaves to Mos / to Pensacola			Log so scarce that vessels lie frequently 9 or 10 months for loading
+Fin 1	Jun 1765	0	 	 	Logwood Exhaustion	22 Jun 1765											Freshes have been so great / Hondo runs c 5 knots p hr / no business done 25 Oct to 29 Nov 65 / expect little Wood Dec 65 to Jan 66
+Fin 1	Jun 1765	0	 	 	Logwood Exhaustion	16 Apr 1766											wood scarce / c 70 vessels waiting
+Fin 1	Jun 1765	0	 	 	Logwood Exhaustion	21 Jun 1766											Prov esp bread so very scarce / many vessels ready to sail could not for want thereof
+Fin 1	Jun 1765	0	 	 	Logwood Exhaustion	21 Jun 1766											Prov scarce [likely] to min 1 Nov 66
+Rev 1	Aug 1765	Sep 1765	 	 	Cook’s	1 Aug 1765		New		sev Neg	sev Crafs w armed men	"Cook, 3 seamen killed"				min 1 fam robbed [likely]	held New R
+Rev 1	Aug 1765	Sep 1765	 	 	Cook’s	22 Aug 1765	Siege of New R	New		c 70 revolters		killed sev seamen [New]		many bay men deserted works [in New?]			
+Rev 1	Aug 1765	Sep 1765	 	 	Cook’s	1 Sep 1765	Jamaica Reinforcements Sail for Bay				3 Sloops of War						
+Rev 1	Aug 1765	Sep 1765	 	 	Cook’s	1 Sep 1765						1 Sp killed					
+Rev 1	Aug 1765	Sep 1765	 	 	Cook’s	1 Sep 1765	Falling Out Breaks Revolt					sev slaves hanged [of 70?] / the ringleaders hanged	some Neg taken prisoners				
+Crs 2	Jan 1766	0	Sp	 	Sp Asylum	12 Jun 1771								"near 10,000L sterling loss fm deserting slaves fm start [1768?] to 12 Jun 71 / 47 Neg delivered by Gov Yucatan to Capt. Lockyer c Dec 66"			
+Crs 1	Feb 1767	Dec 1770	 	Fr Du	Alien Logging	1 Feb 1767								Fr Dutch Log cutters extremely numerous in bay			
+Crs 1	Feb 1767	Dec 1770	 	Fr Du	Alien Logging	15 Jun 1768											Eng wool has hardly any sale in Bay / Fr bring manufactures 30 pc cheaper
+Crs 1	Feb 1767	Dec 1770	 	Fr Du	Alien Logging	15 Dec 1770										very dangerous dispute broke out w Fr Log cutters	
+Hos 8	Mar 1767	Apr 1767	Sp	 	 	1 Mar 1767	Hondo R Disturbances	Hondo					Neg of oldest settlers carried off fm Hondo			"houses, cattle burnt at Hondo"	
+Hos 8	Mar 1767	Apr 1767	Sp	 	 	1 Apr 1767						murdered some Bay Men	seized sev Neg			seized Properties of inhabitants	
+Hos 12	Jul 1767	Jul 1767	 	Ma	Naismith Raid	25 Jul 1767				party of Indians	Capt. Naismith	1 Neg killed				house sacked [likely?]	
+Hos 9	Jul 1770	Mar 1772	Sp	 	 	1 Jul 1770	Sharp Dispute					sev bay men killed in dispute					
+Hos 9	Jul 1770	Mar 1772	Sp	 	 	1 Jul 1770									min 2 ships driven off wo loading	destroyed all mahogany lying in some bays	
+Hos 9	Jul 1770	Mar 1772	Sp	 	 	1 Nov 1770	Sacking of Ambergris Caye	Ambergris	PA 4 swivel guns c 18 men				carried of a Neg fm Ambergris			burnt sev houses at Ambergris	
+Hos 9	Jul 1770	Mar 1772	Sp	 	 	1 Dec 1770									min 2 ships driven off wo loading		
+Hos 9	Jul 1770	Mar 1772	Sp	 	 	1 Jan 1771	Gov. of Jam Reassures Baymen of Safety on Mainland							for some time past baymen had moved their families to St. George’s Caye … apprehensive of rupture bw GB and Sp to [likely] Jun 1771		"productive of great loss to baymen, little or no Log having been cut"	
+Hos 9	Jul 1770	Mar 1772	Sp	 	 	6 Mar 1772		Glover’s		Capt. [or master] Theremin			Jacob’s Well crew taken		Jacob’s Well craft taken		
+Nat 1	Jan 1765	Nov 1773	 	 	Great Famine	1 Jun 1771	Maya Refugees							Maya … continue daily to desert from Yucatan to the Eng settlers / receive hospitality			
+Nat 1	Jan 1765	Nov 1773	 	 	Great Famine	1 Oct 1771						"17,000 have died in Ambergris, upwards of 80,000 total [Yuc, or Hon only?] / or c 40,000 total [Yuc, or Hon?]"					
+Nat 1	Jan 1765	Nov 1773	 	 	Great Famine	1 Nov 1771											Prov so scarce / the like not remembered by oldest settlers
+Hos 10	Jan 1773	Sep 1773	 	Ma	Arms Raids	1 Sep 1773						massacred numbers of Eng				always taken what iron [arms] they could find / set fire to some houses	
+Rev 2	May 1773	Aug 1773	 	 	Davidson’s	28 May 1773		Old				2 white men killed / Hill killed later / one family feared shot dead later / 1 steersman killed later				min 4 families robbed	will be very little wood of any kind shipped in 1773
+Rev 2	May 1773	Aug 1773	 	 	Davidson’s	4 Jun 1773	Escape Killings	Hondo	Guards	"3 Neg of John Fullon, Hugh Wilson / [prev] other slaves"	"Capt. McDugall / [prev] Capt. Wooldrige, Capt. McCarthy"	min 3 Captains killed by slaves < Jun 73		min 3 slaves escape to Yuc with help of Guards < Jun 73		min 1 craft ransacked by Guards	
+Rev 2	May 1773	Aug 1773	 	 	Davidson’s	7 Jun 1773	Marshmen’s Engagement			"c 50 slaves w 16 muskets, cutlasses etc."	"Capt. Thomas Davey, Baymen / 3 parties of 30 or 40 men ea. [later]"	6 white men prev killed / lead revolter likely fatally wounded	14 slaves had [possibly] been impressed prev / returned 8 Jun 73	revolters retire to woods		taken five settlements [houses likely] prev	
+Rev 2	May 1773	Aug 1773	 	 	Davidson’s	1 Aug 1773				c 70 revolters ?	parties led by Magistrates	taken or destroyed about 40 revolters	taken or destroyed about 40 revolters				
+Rev 2	May 1773	Aug 1773	 	 	Davidson’s	29 Aug 1773								c 70 revolters in woods / w Sp			
+War 6	Apr 1775	Sep 1783	Sp	Am Fr	Am Revolution	12 Sep 1777	Washington Affair		Commander Hezekiah Anthony				1 pilot fm St. George’s to Sherboon		"2 ships, 1 brig taken"	"supply of rum, sugar demanded for"	
+War 6	Apr 1775	Sep 1783	Sp	Am Fr	Am Revolution	2 Jun 1779	Capture of St. George’s Caye	"Hondo, New, St. George’s"	Gov. D. Roberto Rivas Betancourt	2 Frigates 1 Brig fm Jam [after capture of St. George’s]		2 killed [13 Sep 79]	F George garrison imprisoned	entirely driven fm all Hon [later or same time?]	craft seized / later liberated	Fort George taken [so houses destroyed?] / deprived Eng of wood [so laid wood destroyed?]	
+War 6	Apr 1775	Sep 1783	Sp	Am Fr	Am Revolution	16 Oct 1779	Siege of Omoa		365 men	"150 Eng soldiers, Baymen"		"6 killed, ? died of disease"					
+War 6	Apr 1775	Sep 1783	Sp	Am Fr	Am Revolution		Siege of San Pedro Sula					"1 scout killed, loss of 2 men in sacking / burning St. Pedro"					
+Nat 2	Dec 1784	Nov 1785	 	 	 	1 Dec 1784						epidemic distemper at New proved fatal to many					severest weather ever remember fm Dec 84 to Nov 85 … esp New
+Crs 3	Feb 1785	0	Sp	 	Sp Panic	1 Feb 1785								"settlers in New, Hondo lost part of their Neg / evac to St. George’s, Belize"		left their stock in jeopardy / their habitations = inexpressible losses	were in want of bread Prov
+Rev 3	Jun 1786	Jun 1786	 	 	Old R	1 Jun 1786						killed a number of people		slaves mustered = 70 or 80 by Nov 86			
+Crs 4	Jun 1787	Apr 1791	 	 	Despard Affair	1 Jun 1787											"riots very frequent c Jun 87 / jealousy bw old, new settlers wrt lands"
+Crs 4	Jun 1787	Apr 1791	 	 	Despard Affair	1 Aug 1787											Flour and some Prof very scarce and dear
+Crs 4	Jun 1787	Apr 1791	 	 	Despard Affair	1 Aug 1787											settler much in want of shipping for their products
+Crs 4	Jun 1787	Apr 1791	 	 	Despard Affair	1 Apr 1789											annulled and extinguished Magistracy so courts are shut up = anarchy and confusion
+Crs 4	Jun 1787	Apr 1791	 	 	Despard Affair	1 Apr 1789											"such great quant of timber [Log, Mah likely] cut down fm Apr 87 to 89 / scarcely know what to do w it"
+Crs 4	Jun 1787	Apr 1791	 	 	Despard Affair	1 Apr 1789										Sp commissary destroyed all cultivated spots [plantain walks]	
+Crs 4	Jun 1787	Apr 1791	 	 	Despard Affair	2 Jun 1789											8 ships arrived at Eng [Lon and Out ports?] all w Mah by 2 Jun 89 / there seldom was known to be > 3 or 4 ships in one yr
+Crs 4	Jun 1787	Apr 1791	 	 	Despard Affair	1 Aug 1789											compromise reached
+Crs 4	Jun 1787	Apr 1791	 	 	Despard Affair	1 Aug 1790											"Hunter orders Prov for c 2,000 inhabitants for 6 weeks"
+Crs 4	Jun 1787	Apr 1791	 	 	Despard Affair	1 Apr 1791		Old	D. Rafael Llobet [Sp Commissioner]							Sp commissary destroyed all cultivated spots [plantain walks] / arrested all turtle fishers / [likely seized all turtles]	
+Ill 4	Feb 1788	0	 	 	Measles ?	1 Feb 1788						"upwards of 50 white, much greater numb of Neg fm Sep 87 to Jan or Feb 88"					
+Nat 3	Nov 1792	Oct 1792	 	 	 	1 Nov 1792						many Neg perished				nearly all stock destroyed / Mah loss = c 2 million ft	river [Old likely] rising > 70 ft / inhabitants quit houses / reside on flats sev days
+Hos 11	Nov 1793	Nov 1793	 	Ma	 	1 Nov 1793						1 inhabitant shot / later 3 Maya killed					
+War 7	Aug 1796	Mar 1802	Sp	Fr	Fr Revolution	10 Sep 1798	Battle of St. George’s Caye	St. George’s	O’Neill							houses burnt by Baymen to preclude attack [source?]	
+Ill 5	Sep 1797	0	 	 	Yellow Fever	29 Sep 1797						23 men die within weeks of arrival					
+War 8	May 1804	Jul 1808	Sp	Fr	Napoleonic												
+War 9	Jun 1812	Feb 1815	 	Am	 												
+Rev 5	Apr 1820	0	 	 	Will & Sharper	24 Apr 1820		Old		considerable numb slaves well armed	Lt. McPherson 2nd WIR Mjr. Noel					[revolters] committed various depredations	
+Rev 5	Apr 1820	0	 	 	Will & Sharper	26 Apr 1820	Parlay	Old		c 20 [remaining 16 May 20]	Lt. Col. Arthur						numb of revolters induced to peaceably return
+
+< Pres: Table 1
+						
+						

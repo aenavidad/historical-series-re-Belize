@@ -1,0 +1,1686 @@
+Metadata: Table 1
+Sheet	Column	Source	Notes
+Storms	Name	US NOAA National Hurricane Centre. US NOAA National Centres for Environmental Information.	U = “unnamed” or “not named”
+	Start		
+	150 mi		
+	50 mi		
+	0 mi		
+	Max wind		
+	Min press		-1 = missing data
+	Max cat w/in		
+Storms	Parliament	GB / UK War & Colonial Office / Colonial Office / Commonwealth Office / Foreign & Commonwealth Office. GB / UK House of Commons. GB / UK Board of Trade & Plantations / Board of Trade.	Public Meeting counted as first Parliament. Legislative Council counted as one Parliament.
+Storms	EM-DAT	Belgium Université catholique de Louvain Centre for Research on the Epidemiology of Disasters 	1 = yes
+	EM-DAT Loss		Figures in current currency
+	EM-DAT Deaths		
+Storms	Loss	Belgium Université catholique de Louvain Centre for Research on the Epidemiology of Disasters. Belize NEMO. World Bank “Advancing Disaster Risk Finance in Belize” 2018 by Ishizawa & Gunasekera et al. US NOAA National Hurricane Centre.	Figures in current currency
+	Deaths		
+Trade + GDP	Imports	GB / UK War & Colonial Office / Colonial Office / Commonwealth Office / Foreign & Commonwealth Office. GB / UK House of Commons. GB / UK Board of Trade & Plantations / Board of Trade. British Honduras / Belize Government Gazette.	Figures in current currency
+	Import units		
+	Exports		Figures in current currency
+	Export units		
+	GDP	World Bank.	Figures in current currency
+CPI	US	US Bureau of Labour Statistics.	1967 = 100
+	UK	UK Office for National Statistics.	1974 = 100. CPI for 2020 excludes December.
+	Belize	Belize Statistical Institute of Belize.	2011 = 100. CPI for 2020 excludes November and December.
+FX	S$ to Lsd	GB / UK War & Colonial Office / Colonial Office / Commonwealth Office / Foreign & Commonwealth Office. GB / UK House of Commons. GB / UK Board of Trade & Plantations / Board of Trade.	S$ = Spanish dollar
+	G$ to Lsd		G$ = US gold dollar
+	USD to GBP	"EU European Central Bank. US Federal Reserve. UK Bank of England. via FXTOP sarl, France."	
+	Lsd to BHD	GB / UK War & Colonial Office / Colonial Office / Commonwealth Office / Foreign & Commonwealth Office. GB / UK House of Commons. GB / UK Board of Trade & Plantations / Board of Trade. 	BHD = British Honduras dollar
+	USD to BHD		BHD = British Honduras dollar
+Population	Censuses	GB / UK War & Colonial Office / Colonial Office / Commonwealth Office / Foreign & Commonwealth Office. GB / UK House of Commons. GB / UK Board of Trade & Plantations / Board of Trade. 	
+	Estimates	Author’s estimates from census data prior to 1960. World Bank beginning in 1960.	
+
+Formulas: Table 1
+Sheet	Column	Source	Notes
+Trade + GDP 2020	Trade	((Imports Lsd + Exports Lsd) * UK CPI) ÷ USD to GBP * USD to BZD or (((Imports BHD + Exports BHD) / Lsd to BHD) * UK CPI) ÷ USD to GBP * USD to BZD	Figures in 2020 currency
+	GDP	GDP USD * US CPI * USD to BZD	Figures in 2020 currency
+Population	Estimates	(Nearest future census – Nearest past census) ÷ (Year of nearest future census – Year of nearest past census) + Census or estimate of past year	
+Storm Deaths	S S 1 to 7	0 for storms of distance > 0 miles. 0.00001 * Population Estimates for all other storms	
+	R S 1 to 7	(S S Deaths ÷ Population Estimates) * 1000	Ratio denominator = 1000
+Storm Damages	A S 1 to 7	Damage USD * US CPI * USD to BZD for storms with damage data in USD. Damage BZD * Belize CPI for storms with damage data in BZD. (Damage BHD ÷ Lsd to BHD * UK CPI) ÷ USD to GBP * USD to BZD for storms with damage data in BHD.	Figures in 2020 BZD
+	S S 1 to 7	0 for storms of distance > 0 miles. 0.001 * Trade 2020 for storms of distance = 0 miles and prior to 1960. 0.001 * GDP 2020 for storms of distance = 0 miles and on or after 1960.	Figures in 2020 BZD
+	R S 1 to 7	(S S Damage ÷ Trade 2020) * 100 for storms prior to 1960. (S S Damage ÷ GDP 2020) * 100 for storms on or after 1960.	Ratio denominator = 100
+
+Disasters: Table 1
+Start	Type	Deaths	Description	Source for non-storm disasters
+1798	Hostile	0	Battle of St. George’s Caye	London Gazette No. 15100. p. 69
+1830	Biological	4	Outbreak of yellow fever	"Memorial Inscriptions and Epitaphs : Belize, British Honduras by Usher, J.P."
+1854	Biological		Outbreak of cholera (possible)	"Sir J.A. Burdon, Archives v 3, p. 174"
+1863	Technological	2	Fire	"The Growth and Development of Belize City by Everitt, J.C."
+1866	Hostile	5	Raid on San Pedro by Mr. Marcus Canul or Mr. Ascension Ek	"Sir J.A. Burdon, Archives v 3, p. 30"
+1866	Hostile	2	Raid on Qualm Hill by Mr. Marcus Canul or Mr. Ascension Ek	"Sir J.A. Burdon, Archives v 3, p. 29"
+1867	Biological	266	Outbreak of cholera	Report by Staff Asst.-Surgeon Kearney in Appendix No. XIV in Army Medical Dept. Report No. X for 1868
+1867	Biological	580	Outbreak of cholera	"Sir J.A. Burdon, Archives v 3, p. 299"
+1867	Hostile	3	Raid on San Jose by Mr. Marcus Canul or Mr. Ascension Ek	"Sir J.A. Burdon, Archives v 3, p. 29"
+1872	Hostile	1	Raid on Water Bank by Mr. Marcus Canul or Mr. Ascension Ek	"Sir J.A. Burdon, Archives v 3, p. 328"
+1872	Hostile	2	Raid on Orange Walk by Mr. Marcus Canul or Mr. Ascension Ek	"Sir J.A. Burdon, Archives v 3, p. 41"
+1886	Biological	68	Outbreak of yellow fever	"Sir J.A. Burdon, Archives v 3, p. 313"
+1886	Biological	3	Outbreak of yellow fever	Report to the Government of British Honduras … by Sir R.W. Boyce p. 2
+1905	Biological	8	Outbreak of yellow fever	Report to the Government of British Honduras … by Sir R.W. Boyce p. 5
+1914	Hostile	53	WWI	Commonwealth War Graves Commission for 39 from BHTF and 12 from BWIR (whose biographies mentioned provenance); The Lusitania Resource for 2 perished in RMS Lusitania
+1918	Biological	1014	Outbreak of Spanish flu	Report on recent epidemic of influenza in the town of Belize by Sgd. Thomas Gann 1919; Report on the influenza epidemic in the Districts by Thomas Gann 1919
+1918	Technological	1	Fire	"Honduras Governor Killed, article in The Washington Post, 13 Sep 1918"
+1921	Biological	4	Outbreak of yellow fever	"Public Health Reports, 26 Aug 1921, p 2084"
+1931	Natural	2500	Landfall of unnamed 1931 hurricane	
+1939	Hostile	10	WWII	"Commonwealth War Graves Commission for 4 from RAF, 6 from NCF, whose biographies mentioned provenance"
+1955	Natural	16	Close passage of Hurricane Janet	
+1961	Natural	307	Landfall of Hurricane Hattie	
+1974	Natural	1	Close passage of Hurricane Carmen	
+1978	Natural	4	Landfall of Hurricane Greta	
+1986	Biological	1753	Outbreak of HIV / AIDS	Belize Ministry of Health; Belize National AIDS Commission
+1997	Technological	22	Shipwreck	EM-DAT
+1998	Natural	9	Close passage of Hurricane Mitch	
+2000	Natural	19	Landfall of Hurricane Keith	
+2001	Natural	24	Landfall of Hurricane Iris	
+2005	Natural	3	Close passage of Hurricane Gamma	
+2008	Natural	5	Landfall of Hurricane Arthur	
+2009	Biological	1	Outbreak of swine flu	"Shahera Bodden, 29, is Belize’s 1st confirmed death from swine flu, article in Amandala, 17 Jan 2014, online"
+2010	Natural	1	Landfall of Hurricane Richard	
+2019	Biological	277	Outbreak of COVID-19	Belize Ministry of Health
+
+Storms: Table 1
+Name	Start	Parliament	150 mi	50 mi	0 mi	EM-DAT	EM-DAT Loss	EM-DAT Loss unit	EM-DAT Deaths	Max wind	Min press	Max cat w/in	Data	Loss	Loss unit	Deaths
+U	29 Jun 1851	1	1							80	-1					
+U	21 Sep 1852	1	1	1	1					55	-1					
+U	16 Aug 1857	3	1							65	-1					
+U	7 Sep 1857	3	1	1	1					55	-1					
+U	10 Jun 1858	3	1							55	-1					
+U	20 Jun 1859	3	1	1						80	990					
+U	25 Jul 1860	3	1							75	-1					
+U	28 Jul 1861	4	1	1	1					45	-1					
+U	26 Aug 1864	4	1	1	1					70	-1	1				
+U	13 Aug 1866	5	1	1						90	-1	1				
+U	17 Aug 1866	5	1							65	-1					
+U	30 Oct 1870	Council	1	1						70	-1	1				
+U	16 Sep 1871	Council	1	1	1					45	-1					
+U	25 Sep 1874	Council	1	1						80	980					
+U	17 Jul 1876	Council	1	1	1					75	-1	1				
+U	19 Aug 1879	Council	1							90	964	1				
+U	10 Sep 1879	Council	1	1	1					80	-1					
+U	9 Jun 1880	Council	1	1	1					45	-1					
+U	4 Aug 1880	Council	1							95	-1	1				
+U	5 Oct 1880	Council	1							70	-1					
+U	16 Aug 1881	Council	1							70	-1					
+U	16 Sep 1883	Council	1							50	-1					
+U	20 Jul 1887	Council	1							85	-1	2				
+U	2 Aug 1887	Council	1	1	1					55	-1					
+U	6 Oct 1887	Council	1	1						65	-1	2				
+U	6 Oct 1887	Council	1							50	-1					
+U	9 Oct 1887	Council	1							100	-1	3				
+U	19 Aug 1888	Council	1							45	-1					
+U	8 Oct 1888	Council	1	1						60	-1					
+U	12 Sep 1889	Council	1							95	-1	2				
+U	14 Sep 1889	Council	1							100	-1	3				
+U	15 Oct 1889	Council	1	1	1					50	-1					
+U	5 Oct 1891	Council	1							120	951	2				
+U	14 Oct 1891	Council	1	1	1					55	-1					
+U	23 Oct 1891	Council	1	1						55	-1					
+U	23 Sep 1892	Council	1							55	-1					
+U	5 Oct 1892	Council	1	1	1					85	-1	2				
+U	4 Jul 1893	Council	1	1	1					85	-1	1				
+U	4 Sep 1893	Council	1							85	-1					
+U	9 Sep 1894	Council	1	1	1					55	-1					
+U	25 Sep 1895	Council	1	1	1					55	982					
+U	28 Sep 1895	Council	1							50	-1					
+U	2 Oct 1895	Council	1							35	-1					
+U	2 Sep 1898	Council	1	1	1					75	-1	1				
+U	12 Sep 1898	Council	1	1	1					50	-1					
+U	20 Sep 1898	Council	1							50	-1					
+U	21 Oct 1898	Council	1							40	-1					
+U	27 Oct 1898	Council	1							85	-1	2				
+U	27 Oct 1898	Council	1	1	1					50	-1					
+U	28 Sep 1904	Council	1	1	1					70	-1	1				
+U	24 Sep 1905	Council	1							45	-1					
+U	8 Oct 1906	Council	1	1	1					105	953	1				
+U	6 Aug 1909	Council	1							40	1004					
+U	21 Jun 1913	Council	1							65	-1					
+U	28 Oct 1913	Council	1							65	1003					
+U	27 Aug 1916	Council	1	1	1					70	986					
+U	9 Oct 1916	Council	1	1						95	970	2				
+U	11 Nov 1916	Council	1							60	1002					
+U	6 Jul 1917	Council	1	1	1					45	-1					
+U	22 Aug 1918	Council	1	1	1					90	968	1				
+U	16 Sep 1920	Council	1	1						85	975					
+U	16 Jun 1921	Council	1	1	1					80	980					
+U	12 Jun 1922	Council	1	1						45	1006					
+U	11 Oct 1922	Council	1							95	-1	2				
+U	18 Jun 1924	Council	1	1	1					40	-1					
+U	27 Sep 1924	Council	1							55	999					
+U	14 Oct 1924	Council	1							145	910	3				
+U	3 Oct 1926	Council	1	1	1					35	-1					
+U	12 Nov 1926	Council	1							35	-1					
+U	16 Oct 1927	Council	1	1						40	-1					
+U	1 Sep 1928	Council	1							50	-1					
+U	24 Jun 1931	Council	1	1						45	-1					
+U	11 Jul 1931	Council	1	1						60	1000					
+U	10 Aug 1931	Council	1	1	1					50	-1					
+U	6 Sep 1931	Council	1	1	1	1	"7,500,000"	USD	1500	115	-1	4	1	"7,500,000"	USD	2500
+U	8 Sep 1931	Council	1	1						85	987					
+U	18 Oct 1931	Council	1							40	-1					
+U	11 Nov 1931	Council	1	1	1					45	-1					
+U	25 Sep 1932	Council	1	1	1					125	943					
+U	7 Oct 1932	Council	1	1	1					60	-1					
+U	14 Jul 1933	Council	1	1	1					45	-1					
+U	10 Sep 1933	Council	1	1						95	960	1				
+U	16 Sep 1933	Council	1							140	929	4				
+U	4 Jun 1934	Council	1	1	1					85	966	1				
+U	30 Aug 1935	Council	1							50	-1					
+U	18 Oct 1935	Council	1							75	988					
+U	12 Jun 1936	8	1	1						40	996					
+U	28 Aug 1936	8	1	1						70	-1					
+U	23 Aug 1938	8	1							105	979	3				
+U	10 Oct 1938	8	1	1	1					50	996					
+U	12 Jun 1939	9	1	1	1					55	-1					
+U	18 Sep 1940	9	1	1						45	1004					
+U	23 Sep 1941	9	1	1	1					115	-1	1				
+U	3 Aug 1942	10	1	1	1					50	-1					
+U	15 Sep 1942	10	1	1	1					45	-1					
+U	5 Nov 1942	10	1	1	1					95	-1	2				
+U	20 Oct 1943	10	1	1	1					40	-1					
+U	16 Aug 1944	10	1							105	973	1				
+U	20 Jun 1945	11	1							85	-1					
+U	29 Aug 1945	11	1	1	1					60	990					
+U	2 Oct 1945	11	1	1	1					80	982	1				
+U	5 Oct 1946	11	1	1						85	977					
+U	9 Aug 1947	11	1							95	977					
+U	27 Sep 1949	12	1							95	965					
+CHARLIE	12 Aug 1951	12	1							115	68	4				
+U	2 Feb 1952	12	1	1						60	-1					
+GILDA	24 Sep 1954	13	1	1	1					60	998					
+HILDA	12 Sep 1955	13	1							105	952	3				
+JANET	21 Sep 1955	13	1	1		1	"5,000,000"	USD	16	150	914	5	1	"5,000,000"	USD	16
+FLOSSY	20 Sep 1956	13	1	1	1					80	974					
+GERDA	14 Sep 1958	14	1	1	1					50	1001					
+ABBY	9 Jul 1960	14	1	1	1					70	995	1	1	"81,000"	BHD	0
+ANNA	17 Jul 1961	15	1	1	1					90	976	1				
+HATTIE	26 Oct 1961	15	1	1	1	1	"60,000,000"	USD	275	145	914	5	1	"60,000,000"	USD	307
+U	3 Jun 1964	15	1							60	992					
+U	5 Nov 1964	15	1	1	1					60	997					
+DEBBIE	24 Sep 1965	16	1							50	1000					
+ABBY	1 Jun 1968	16	1							65	965					
+FRANCELIA	29 Aug 1969	17	1	1	1					100	973	3				
+LAURIE	17 Oct 1969	17	1							90	973					
+ELLA	8 Sep 1970	17	1							110	967					
+CHLOE	18 Aug 1971	17	1	1	1					55	1004					
+EDITH	5 Sep 1971	17	1	1	1					140	943	1				
+U	6 Oct 1971	17	1							25	-1					
+LAURA	12 Nov 1971	17	1	1	1					60	994					
+AGNES	14 Jun 1972	17	1							75	977					
+U	6 Sep 1973	17	1							30	-1					
+CARMEN	29 Aug 1974	18	1	1						130	928	4	1			1
+FIFI	14 Sep 1974	18	1	1	1	1	"4,000,000"	USD		95	971	2	1	"4,000,000"	USD	0
+ORLENE	21 Sep 1974	18	1	1	1					90	-1	2				
+U	25 Sep 1975	18	1	1	1					25	-1					
+U	27 Oct 1975	18	1	1						25	-1					
+U	8 Nov 1975	18	1							30	-1					
+FRIEDA	16 Oct 1977	18	1	1	1					50	1005					
+GRETA	13 Sep 1978	18	1	1	1	1	"6,000,000"	USD	5	115	947	4	1	"25,000,000"	USD	4
+U	12 Oct 1979	19	1	1						30	-1					
+HERMINE	20 Sep 1980	19	1	1	1					60	993					
+U	16 Oct 1980	19	1	1						25	-1					
+PAUL	18 Sep 1982	19	1							95	-1					
+U	1 Sep 1986	20	1	1	1					30	-1					
+KAREN	28 Nov 1989	21	1							50	1000					
+DIANA	4 Aug 1990	21	1	1						85	980					
+FABIAN	15 Oct 1991	21	1							40	1002					
+GERT	14 Sep 1993	22	1	1	1					85	970					
+U	21 Sep 1993	22	1	1	1					30	-1					
+U	24 Sep 1994	22	1	1	1					30	1004					
+OPAL	27 Sep 1995	22	1							130	916					
+ROXANNE	7 Oct 1995	22	1							100	956	3				
+DOLLY	19 Aug 1996	22	1	1						70	989	1				
+KYLE	11 Oct 1996	22	1	1						45	1001					
+MITCH	22 Oct 1998	23	1			1	"50,000"	USD	9	155	905	5	1	"50,000"	USD	9
+KATRINA	28 Oct 1999	23	1	1	1					35	999					
+GORDON	14 Sep 2000	23	1							70	981					
+KEITH	28 Sep 2000	23	1	1	1	1	"277,460,000"	USD	14	120	939	4	1	"280,046,900"	USD	19
+CHANTAL	14 Aug 2001	23	1	1	1	1				60	997		1	"10,180,000"	USD	
+IRIS	4 Oct 2001	23	1	1	1	1	"250,000,000"	USD	30	125	948	4	1	"480,000,000"	BZD	24
+ISIDORE	14 Sep 2002	23	1							110	934	1				
+BILL	28 Jun 2003	24	1							50	997					
+LARRY	27 Sep 2003	24	1							55	993					
+CINDY	3 Jul 2005	24	1	1						65	991					
+EMILY	11 Jul 2005	24	1							140	929	4				
+STAN	1 Oct 2005	24	1							70	977					
+WILMA	15 Oct 2005	24	1			1				160	882	4				
+GAMMA	14 Nov 2005	24	1			1			3	45	1002		1			3
+BARRY	31 May 2007	24	1	1						50	990					
+DEAN	13 Aug 2007	24	1	1		1	"14,847,000"	USD		150	905	5	1	"96,680,000"	USD	0
+FELIX	31 Aug 2007	24	1	1	1					150	929					
+ALMA	29 May 2008	24	1							55	994					
+ARTHUR	31 May 2008	24	1	1	1	1			7	40	1004		1	"78,000,000"	USD	5
+AGATHA	28 May 2010	25	1							40	1001					
+ALEX	24 Jun 2010	25	1	1	1					95	946		1	"1,250,000"	USD	
+KARL	13 Sep 2010	25	1	1						110	956					
+MATTHEW	23 Sep 2010	25	1	1	1	1				50	998					
+PAULA	11 Oct 2010	25	1							90	981	2				
+RICHARD	19 Oct 2010	25	1	1	1					85	977	2	1	"70,476,982"	BZD	1
+HARVEY	19 Aug 2011	25	1	1	1					55	994					
+RINA	22 Oct 2011	25	1							100	966	3				
+ERNESTO	1 Aug 2012	26	1	1						85	973	2	1	"762,800"	BZD	0
+HELENE	9 Aug 2012	26	1	1	1					40	1004					
+BARRY	16 Jun 2013	26	1	1	1					40	1003					
+HANNA	21 Oct 2014	26	1	1	1					35	1000					
+EARL	2 Aug 2016	27	1	1	1	1				75	979	1	1	"188,678,394"	BZD	0
+FRANKLIN	6 Aug 2017	27	1							75	981					
+HARVEY	16 Aug 2017	27	1	1						115	937					
+ALBERTO	25 May 2018	27	1							55	990					
+MICHAEL	6 Oct 2018	27	1	1						140	919					
+note	1 BHD = 0.70 USD rate used; 1 BZD = 0.50 USD rate used. CPI for BZD  from SIB/ via Central Bank. CPI for USD from BLS/ via Alioth LLC															
+note	"Centroid coordinates for Belize from Prof. Kelly O’Neill at Harvard, 2018 file."															
+note	NMS has conflicting data. ORLENE expunged (record contained under FIFI).															
+cf	NOAA data at NOAA Hurricane Tracks															
+note	U = unnamed / S = tropical storm / D = tropical depression. Wind speeds in kt / Pressure in mb															
+
+
+Storm History: Table 1
+	S	D	C	S	D	C	S	D	C	S	D	C	S	D	C	S	D	C	S	D	C
+1850																					
+1851	U	150	0																		
+1852	U	0	0																		
+1853																					
+1854																					
+1855																					
+1856																					
+1857	U	150	0	U	0	0															
+1858	U	150	0																		
+1859	U	50	0																		
+1860	U	150	0																		
+1861	U	0	0																		
+1862																					
+1863																					
+1864	U	0	1																		
+1865																					
+1866	U	50	1	U	150	0															
+1867																					
+1868																					
+1869																					
+1870	U	50	1																		
+1871	U	0	0																		
+1872																					
+1873																					
+1874	U	50	0																		
+1875																					
+1876	U	0	1																		
+1877																					
+1878																					
+1879	U	150	1	U	0	0															
+1880	U	0	0	U	150	1	U	150	0												
+1881	U	150	0																		
+1882																					
+1883	U	150	0																		
+1884																					
+1885																					
+1886																					
+1887	U	150	2	U	0	0	U	50	2	U	150	0	U	150	3						
+1888	U	150	0	U	50	0															
+1889	U	150	2	U	150	3	U	0	0												
+1890																					
+1891	U	150	2	U	0	0	U	50	0												
+1892	U	150	0	U	0	2															
+1893	U	0	1	U	150	0															
+1894	U	0	0																		
+1895	U	0	0	U	150	0	U	150	0												
+1896																					
+1897																					
+1898	U	0	1	U	0	0	U	150	0	U	150	0	U	150	2	U	0	0			
+1899																					
+1900																					
+1901																					
+1902																					
+1903																					
+1904	U	0	1																		
+1905	U	150	0																		
+1906	U	0	1																		
+1907																					
+1908																					
+1909	U	150	0																		
+1910																					
+1911																					
+1912																					
+1913	U	150	0	U	150	0															
+1914																					
+1915																					
+1916	U	0	0	U	50	2	U	150	0												
+1917	U	0	0																		
+1918	U	0	1																		
+1919																					
+1920	U	50	0																		
+1921	U	0	0																		
+1922	U	50	0	U	150	2															
+1923																					
+1924	U	0	0	U	150	0	U	150	3												
+1925																					
+1926	U	0	0	U	150	0															
+1927	U	50	0																		
+1928	U	150	0																		
+1929																					
+1930																					
+1931	U	50	0	U	50	0	U	0	0	U	0	4	U	50	0	U	150	0	U	0	0
+1932	U	0	0	U	0	0															
+1933	U	0	0	U	50	1	U	150	4												
+1934	U	0	1																		
+1935	U	150	0	U	150	0															
+1936	U	50	0	U	50	0															
+1937																					
+1938	U	150	3	U	0	0															
+1939	U	0	0																		
+1940	U	50	0																		
+1941	U	0	1																		
+1942	U	0	0	U	0	0	U	0	2												
+1943	U	0	0																		
+1944	U	150	1																		
+1945	U	150	0	U	0	0	U	0	1												
+1946	U	50	0																		
+1947	U	150	0																		
+1948																					
+1949	U	150	0																		
+1950																					
+1951	CHARLIE	150	4																		
+1952	U	50	0																		
+1953																					
+1954	GILDA	0	0																		
+1955	HILDA	150	3	JANET	50	5															
+1956	FLOSSY	0	0																		
+1957																					
+1958	GERDA	0	0																		
+1959																					
+1960	ABBY	0	1																		
+1961	ANNA	0	1	HATTIE	0	5															
+1962																					
+1963																					
+1964	U	150	0	U	0	0															
+1965	DEBBIE	150	0																		
+1966																					
+1967																					
+1968	ABBY	150	0																		
+1969	FRANCELIA	0	3	LAURIE	150	0															
+1970	ELLA	150	0																		
+1971	CHLOE	0	0	EDITH	0	1	U	150	0	LAURA	0	0									
+1972	AGNES	150	0																		
+1973	U	150	0																		
+1974	CARMEN	50	4	FIFI	0	2	ORLENE	0	2												
+1975	U	0	0	U	50	0	U	150	0												
+1976																					
+1977	FRIEDA	0	0																		
+1978	GRETA	0	4																		
+1979	U	50	0																		
+1980	HERMINE	0	0	U	50	0															
+1981																					
+1982	PAUL	150	0																		
+1983																					
+1984																					
+1985																					
+1986	U	0	0																		
+1987																					
+1988																					
+1989	KAREN	150	0																		
+1990	DIANA	50	0																		
+1991	FABIAN	150	0																		
+1992																					
+1993	GERT	0	0	U	0	0															
+1994	U	0	0																		
+1995	OPAL	150	0	ROXANNE	150	3															
+1996	DOLLY	50	1	KYLE	50	0															
+1997																					
+1998	MITCH	150	5																		
+1999	KATRINA	0	0																		
+2000	GORDON	150	0	KEITH	0	4															
+2001	CHANTAL	0	0	IRIS	0	4															
+2002	ISIDORE	150	1																		
+2003	BILL	150	0	LARRY	150	0															
+2004																					
+2005	CINDY	50	0	EMILY	150	4	STAN	150	0	WILMA	150	4	GAMMA	150	0						
+2006																					
+2007	BARRY	50	0	DEAN	50	5	FELIX	0	0												
+2008	ALMA	150	0	ARTHUR	0	0															
+2009																					
+2010	AGATHA	150	0	ALEX	0	0	KARL	50	0	MATTHEW	0	0	PAULA	150	2	RICHARD	0	2			
+2011	HARVEY	0	0	RINA	150	3															
+2012	ERNESTO	50	2	HELENE	0	0															
+2013	BARRY	0	0																		
+2014	HANNA	0	0																		
+2015																					
+2016	EARL	0	1																		
+2017	FRANKLIN	150	0	HARVEY	50	0															
+2018	ALBERTO	150	0	MICHAEL	50	0															
+2019																					
+2020																					
+
+
+Storm Deaths: Table 1
+	S 1	D	C	S 2	D	C	S 3	D	C	S 4	D	C	S 5	D	C	S 6	D	C	S 7	D	C	A S 1	A S 2	A S 3	A S 4	A S 5	A S 6	A S 7	S S 1	S S 2	S S 3	S S 4	S S 5	S S 6	S S 7	R S 1	R S 2	R S 3	R S 4	R S 5	R S 6	R S 7
+1850																																										
+1851	U	150	0																										0							0.0						
+1852	U	0	0																										0.2							0.0						
+1853																																										
+1854																																										
+1855																																										
+1856																																										
+1857	U	150	0	U	0	0																							0	0.2						0.0	0.0					
+1858	U	150	0																										0							0.0						
+1859	U	50	0																										0							0.0						
+1860	U	150	0																										0							0.0						
+1861	U	0	0																										0.3							0.0						
+1862																																										
+1863																																										
+1864	U	0	1																										0.3							0.0						
+1865																																										
+1866	U	50	1	U	150	0																							0	0						0.0	0.0					
+1867																																										
+1868																																										
+1869																																										
+1870	U	50	1																										0							0.0						
+1871	U	0	0																										0.2							0.0						
+1872																																										
+1873																																										
+1874	U	50	0																										0							0.0						
+1875																																										
+1876	U	0	1																										0.3							0.0						
+1877																																										
+1878																																										
+1879	U	150	1	U	0	0																							0	0.3						0.0	0.0					
+1880	U	0	0	U	150	1	U	150	0																				0.3	0	0					0.0	0.0	0.0				
+1881	U	150	0																										0							0.0						
+1882																																										
+1883	U	150	0																										0							0.0						
+1884																																										
+1885																																										
+1886																																										
+1887	U	150	2	U	0	0	U	50	2	U	150	0	U	150	3														0	0.3	0	0	0			0.0	0.0	0.0	0.0	0.0		
+1888	U	150	0	U	50	0																							0	0						0.0	0.0					
+1889	U	150	2	U	150	3	U	0	0																				0	0	0.3					0.0	0.0	0.0				
+1890																																										
+1891	U	150	2	U	0	0	U	50	0																				0	0.3	0					0.0	0.0	0.0				
+1892	U	150	0	U	0	2																							0	0.3						0.0	0.0					
+1893	U	0	1	U	150	0																							0.3	0						0.0	0.0					
+1894	U	0	0																										0.3							0.0						
+1895	U	0	0	U	150	0	U	150	0																				0.3	0	0					0.0	0.0	0.0				
+1896																																										
+1897																																										
+1898	U	0	1	U	0	0	U	150	0	U	150	0	U	150	2	U	0	0											0.4	0.4	0	0	0	0.4		0.0	0.0	0.0	0.0	0.0	0.0	
+1899																																										
+1900																																										
+1901																																										
+1902																																										
+1903																																										
+1904	U	0	1																										0.383727							0.01						
+1905	U	150	0																										0							0						
+1906	U	0	1																										0.389685							0.01						
+1907																																										
+1908																																										
+1909	U	150	0																										0							0						
+1910																																										
+1911																																										
+1912																																										
+1913	U	150	0	U	150	0																							0	0						0	0					
+1914																																										
+1915																																										
+1916	U	0	0	U	50	2	U	150	0																				0.428875	0	0					0.01	0	0				
+1917	U	0	0																										0.433734							0.01						
+1918	U	0	1																										0.438593							0.01						
+1919																																										
+1920	U	50	0																										0							0						
+1921	U	0	0																										0.45317							0.01						
+1922	U	50	0	U	150	2																							0	0						0	0					
+1923																																										
+1924	U	0	0	U	150	0	U	150	3																				0.47126	0	0					0.01	0	0				
+1925																																										
+1926	U	0	0	U	150	0																							0.48332	0						0.01	0					
+1927	U	50	0																										0							0						
+1928	U	150	0																										0							0						
+1929																																										
+1930																																										
+1931	U	50	0	U	50	0	U	0	0	U	0	4	U	50	0	U	150	0	U	0	0				2500				0	0	0.51347	2500	0	0	0.51347	0	0	0.01	48.6883362221746	0	0	0.01
+1932	U	0	0	U	0	0																							0.5	0.5						0.0	0.0					
+1933	U	0	0	U	50	1	U	150	4																				0.5	0	0					0.0	0.0	0.0				
+1934	U	0	1																										0.5							0.0						
+1935	U	150	0	U	150	0																							0	0						0.0	0.0					
+1936	U	50	0	U	50	0																							0	0						0.0	0.0					
+1937																																										
+1938	U	150	3	U	0	0																							0	0.6						0.0	0.0					
+1939	U	0	0																										0.6							0.0						
+1940	U	50	0																										0							0.0						
+1941	U	0	1																										0.6							0.0						
+1942	U	0	0	U	0	0	U	0	2																				0.6	0.6	0.6					0.0	0.0	0.0				
+1943	U	0	0																										0.6							0.0						
+1944	U	150	1																										0							0.0						
+1945	U	150	0	U	0	0	U	0	1																				0	0.6	0.6					0.0	0.0	0.0				
+1946	U	50	0																										0							0.0						
+1947	U	150	0																										0							0						
+1948																																										
+1949	U	150	0																										0							0.0						
+1950																																										
+1951	CHARLIE	150	4																										0							0.0						
+1952	U	50	0																										0							0.0						
+1953																																										
+1954	GILDA	0	0																										0.8							0.0						
+1955	HILDA	150	3	JANET	50	5																	16						0	16						0.0	0.2					
+1956	FLOSSY	0	0																										0.8							0.0						
+1957																																										
+1958	GERDA	0	0																										0.9							0.0						
+1959																																										
+1960	ABBY	0	1																			0							0							0.0						
+1961	ANNA	0	1	HATTIE	0	5																	307						0.9	307						0.0	3.3					
+1962																																										
+1963																																										
+1964	U	150	0	U	0	0																							0	1.0						0.0	0.0					
+1965	DEBBIE	150	0																										0							0.0						
+1966																																										
+1967																																										
+1968	ABBY	150	0																										0							0.0						
+1969	FRANCELIA	0	3	LAURIE	150	0																							1.2	0						0.0	0.0					
+1970	ELLA	150	0																										0							0.0						
+1971	CHLOE	0	0	EDITH	0	1	U	150	0	LAURA	0	0																	1.2	1.2	0	1.2				0.0	0.0	0.0	0.0			
+1972	AGNES	150	0																										0							0.0						
+1973	U	150	0																										0							0.0						
+1974	CARMEN	50	4	FIFI	0	2	ORLENE	0	2													0	0						0	0	1.3					0.0	0.0	0.0				
+1975	U	0	0	U	50	0	U	150	0																				1.3	0	0					0.0	0.0	0.0				
+1976																																										
+1977	FRIEDA	0	0																										1.4							0.0						
+1978	GRETA	0	4																			4							4							0.0						
+1979	U	50	0																										0							0.0						
+1980	HERMINE	0	0	U	50	0																							1.4	0						0.0	0.0					
+1981																																										
+1982	PAUL	150	0																										0							0.0						
+1983																																										
+1984																																										
+1985																																										
+1986	U	0	0																										1.7							0.0						
+1987																																										
+1988																																										
+1989	KAREN	150	0																										0							0.0						
+1990	DIANA	50	0																										0							0.0						
+1991	FABIAN	150	0																										0							0.0						
+1992																																										
+1993	GERT	0	0	U	0	0																							2.0	2.0						0.0	0.0					
+1994	U	0	0																										2.0							0.0						
+1995	OPAL	150	0	ROXANNE	150	3																							0	0						0.0	0.0					
+1996	DOLLY	50	1	KYLE	50	0																							0	0						0.0	0.0					
+1997																																										
+1998	MITCH	150	5																			9							9							0.0						
+1999	KATRINA	0	0																										2.4							0.0						
+2000	GORDON	150	0	KEITH	0	4																	19						0	19						0.0	0.1					
+2001	CHANTAL	0	0	IRIS	0	4																	24						2.6	24						0.0	0.1					
+2002	ISIDORE	150	1																										0							0.0						
+2003	BILL	150	0	LARRY	150	0																							0	0						0.0	0.0					
+2004																																										
+2005	CINDY	50	0	EMILY	150	4	STAN	150	0	WILMA	150	4	GAMMA	150	0											3			0	0	0	0	3			0.0	0.0	0.0	0.0	0.0		
+2006																																										
+2007	BARRY	50	0	DEAN	50	5	FELIX	0	0														0						0	0	3.0					0.0	0.0	0.0				
+2008	ALMA	150	0	ARTHUR	0	0																	5						0	5						0.0	0.0					
+2009																																										
+2010	AGATHA	150	0	ALEX	0	0	KARL	50	0	MATTHEW	0	0	PAULA	150	2	RICHARD	0	2									1		0	3.2	0	3.2	0	1		0.0	0.0	0.0	0.0	0.0	0.0	
+2011	HARVEY	0	0	RINA	150	3																							3.3	0						0.0	0.0					
+2012	ERNESTO	50	2	HELENE	0	0																0							0	3.4						0.0	0.0					
+2013	BARRY	0	0																										3.5							0.0						
+2014	HANNA	0	0																										3.5							0.0						
+2015																																										
+2016	EARL	0	1																			0							0							0						
+2017	FRANKLIN	150	0	HARVEY	50	0																							0	0						0	0					
+2018	ALBERTO	150	0	MICHAEL	50	0																							0	0						0	0					
+2019																																										
+2020																																										
+																						2888							2955.567097													
+																													67.567097													
+
+
+Storm Damages: Table 1
+	S 1	D	C	S 2	D	C	S 3	D	C	S 4	D	C	S 5	D	C	S 6	D	C	S 7	D	C	A S 1	A S 2	A S 3	A S 4	A S 5	A S 6	A S 7	S S 1	S S 2	S S 3	S S 4	S S 5	S S 6	S S 7	R S 1	R S 2	R S 3	R S 4	R S 5	R S 6	R S 7
+1850																																										
+1851	U	150	0																										0							0						
+1852	U	0	0																										208343.783835654							0.1						
+1853																																										
+1854																																										
+1855																																										
+1856																																										
+1857	U	150	0	U	0	0																							0	201645.51020471						0	0.1					
+1858	U	150	0																										0							0						
+1859	U	50	0																										0							0						
+1860	U	150	0																										0							0						
+1861	U	0	0																										156976.966583767							0.1						
+1862																																										
+1863																																										
+1864	U	0	1																										212308.141164548							0.1						
+1865																																										
+1866	U	50	1	U	150	0																							0	0						0	0					
+1867																																										
+1868																																										
+1869																																										
+1870	U	50	1																										0							0						
+1871	U	0	0																										115053.485999949							0.1						
+1872																																										
+1873																																										
+1874	U	50	0																										0							0						
+1875																																										
+1876	U	0	1																										107333.042518839							0.1						
+1877																																										
+1878																																										
+1879	U	150	1	U	0	0																							0	108629.804186886						0	0.1					
+1880	U	0	0	U	150	1	U	150	0																				148280.299974784	0	0					0.1	0	0				
+1881	U	150	0																										0							0						
+1882																																										
+1883	U	150	0																										0							0						
+1884																																										
+1885																																										
+1886																																										
+1887	U	150	2	U	0	0	U	50	2	U	150	0	U	150	3														0	118041.408073852	0	0	0			0	0.1	0	0	0		
+1888	U	150	0	U	50	0																							0	0						0	0					
+1889	U	150	2	U	150	3	U	0	0																				0	0	181309.68964697					0	0	0.1				
+1890																																										
+1891	U	150	2	U	0	0	U	50	0																				0	176641.424218265	0					0	0.1	0				
+1892	U	150	0	U	0	2																							0	146732.527095479						0	0.1					
+1893	U	0	1	U	150	0																							134630.608812459	0						0.1	0					
+1894	U	0	0																										129331.324961653							0.1						
+1895	U	0	0	U	150	0	U	150	0																				186297.444974604	0	0					0.1	0	0				
+1896																																										
+1897																																										
+1898	U	0	1	U	0	0	U	150	0	U	150	0	U	150	2	U	0	0											170289.628192676	170289.628192676	0	0	0	170289.628192676		0.1	0.1	0	0	0	0.1	
+1899																																										
+1900																																										
+1901																																										
+1902																																										
+1903																																										
+1904	U	0	1																										227644.987728							0.1						
+1905	U	150	0																										0							0						
+1906	U	0	1																										265263.523263839							0.1						
+1907																																										
+1908																																										
+1909	U	150	0																										0							0						
+1910																																										
+1911																																										
+1912																																										
+1913	U	150	0	U	150	0																							0	0						0	0					
+1914																																										
+1915																																										
+1916	U	0	0	U	50	2	U	150	0																				231577.241353998	0	0					0.1	0	0				
+1917	U	0	0																										200743.894435469							0.1						
+1918	U	0	1																										212532.16146919							0.1						
+1919																																										
+1920	U	50	0																										0							0						
+1921	U	0	0																										161691.727117477							0.1						
+1922	U	50	0	U	150	2																							0	0						0	0					
+1923																																										
+1924	U	0	0	U	150	0	U	150	3																				227322.182256161	0	0					0.1	0	0				
+1925																																										
+1926	U	0	0	U	150	0																							284248.467434034	0						0.1	0					
+1927	U	50	0																										0							0						
+1928	U	150	0																										0							0						
+1929																																										
+1930																																										
+1931	U	50	0	U	50	0	U	0	0	U	0	4	U	50	0	U	150	0	U	0	0				255256578.947368				0	0	273629.191230058	255256578.947368	0	0	273629.191230058	0	0	0.1	93.2855803139648	0	0	0.1
+1932	U	0	0	U	0	0																							184524.186851671	184524.186851671						0.1	0.1					
+1933	U	0	0	U	50	1	U	150	4																				114489.49174205	0	0					0.1	0	0				
+1934	U	0	1																										121150.043934591							0.1						
+1935	U	150	0	U	150	0																							0	0						0	0					
+1936	U	50	0	U	50	0																							0	0						0	0					
+1937																																										
+1938	U	150	3	U	0	0																							0	252087.32785095						0	0.1					
+1939	U	0	0																										223921.916829555							0.1						
+1940	U	50	0																										0							0						
+1941	U	0	1																										223983.569339695							0.1						
+1942	U	0	0	U	0	0	U	0	2																				191630.387101739	191630.387101739	191630.387101739					0.1	0.1	0.1				
+1943	U	0	0																										268252.723341294							0.1						
+1944	U	150	1																										0							0						
+1945	U	150	0	U	0	0	U	0	1																				0	343588.027122324	343588.027122324					0	0.1	0.1				
+1946	U	50	0																										0							0						
+1947	U	150	0																										0							0						
+1948																																										
+1949	U	150	0																										0							0						
+1950																																										
+1951	CHARLIE	150	4																										0							0						
+1952	U	50	0																										0							0						
+1953																																										
+1954	GILDA	0	0																										321911.606554487							0.1						
+1955	HILDA	150	3	JANET	50	5																	96514925.3731343						0	96514925.3731343						0	25.969827678461					
+1956	FLOSSY	0	0																										405345.511759375							0.1						
+1957																																										
+1958	GERDA	0	0																										405540.36666319							0.1						
+1959																																										
+1960	ABBY	0	1																			1173030.04018461							1173030.04018461							0.238892759634679						
+1961	ANNA	0	1	HATTIE	0	5																	1038389741						518578	1038389741						0	200					
+1962																																										
+1963																																										
+1964	U	150	0	U	0	0																							0	603669						0	0					
+1965	DEBBIE	150	0																										0							0						
+1966																																										
+1967																																										
+1968	ABBY	150	0																										0							0						
+1969	FRANCELIA	0	3	LAURIE	150	0																							667116	0						0	0					
+1970	ELLA	150	0																										0							0						
+1971	CHLOE	0	0	EDITH	0	1	U	150	0	LAURA	0	0																	756430	756430	0	756430				0	0	0	0			
+1972	AGNES	150	0																										0							0						
+1973	U	150	0																										0							0						
+1974	CARMEN	50	4	FIFI	0	2	ORLENE	0	2														41966131						0	41966131	1082898					0	4	0				
+1975	U	0	0	U	50	0	U	150	0																				1134928	0	0					0	0	0				
+1976																																										
+1977	FRIEDA	0	0																										1004197							0						
+1978	GRETA	0	4																			198257537							198257537							18						
+1979	U	50	0																										0							0						
+1980	HERMINE	0	0	U	50	0																							1242561	0						0	0					
+1981																																										
+1982	PAUL	150	0																										0							0						
+1983																																										
+1984																																										
+1985																																										
+1986	U	0	0																										1093267							0						
+1987																																										
+1988																																										
+1989	KAREN	150	0																										0							0						
+1990	DIANA	50	0																										0							0						
+1991	FABIAN	150	0																										0							0						
+1992																																										
+1993	GERT	0	0	U	0	0																							2004909	2004909						0	0					
+1994	U	0	0																										2027272							0						
+1995	OPAL	150	0	ROXANNE	150	3																							0	0						0	0					
+1996	DOLLY	50	1	KYLE	50	0																							0	0						0	0					
+1997																																										
+1998	MITCH	150	5																			158679							158679							0						
+1999	KATRINA	0	0																										2275649							0						
+2000	GORDON	150	0	KEITH	0	4																	841311628						0	841311628						0	34					
+2001	CHANTAL	0	0	IRIS	0	4																29742005	644295433.698425						29742005	644295433.698425						1	25.3961443849096					
+2002	ISIDORE	150	1																										0							0						
+2003	BILL	150	0	LARRY	150	0																							0	0						0	0					
+2004																																										
+2005	CINDY	50	0	EMILY	150	4	STAN	150	0	WILMA	150	4	GAMMA	150	0														0	0	0	0	0			0	0	0	0	0		
+2006																																										
+2007	BARRY	50	0	DEAN	50	5	FELIX	0	0														241216913						0	241216913	3172646					0	8	0				
+2008	ALMA	150	0	ARTHUR	0	0																	187415195						0	187415195						0	6					
+2009																																										
+2010	AGATHA	150	0	ALEX	0	0	KARL	50	0	MATTHEW	0	0	PAULA	150	2	RICHARD	0	2					2965529				74554351.4460466		0	2965529	0	3267302	0	74554351.4460466		0	0	0	0	0	2.28183248700443	
+2011	HARVEY	0	0	RINA	150	3																							3359580	0						0	0					
+2012	ERNESTO	50	2	HELENE	0	0																784010.427943809							784010.427943809	3431392						0.0228481773097835	0					
+2013	BARRY	0	0																										3507321							0						
+2014	HANNA	0	0																										3633580							0						
+2015																																										
+2016	EARL	0	1																			191040276							191040276							5						
+2017	FRANKLIN	150	0	HARVEY	50	0																							0	0						0	0					
+2018	ALBERTO	150	0	MICHAEL	50	0																							0	0						0	0					
+2019																																										
+2020																																										
+																													3892511532.18375													
+																						"3,845,041,962.99692"							"47,469,569.18683"													
+
+
+Trade + GDP: Table 1
+	Imports	Exports	Import unit	Export units	GDP	GDP units
+1850	197555	261015	Lsd	Lsd		
+1851	289819	153777	Lsd	Lsd		
+1852	202112	391223	Lsd	Lsd		
+1853	198180	345377	Lsd	Lsd		
+1854	241764	452313	Lsd	Lsd		
+1855	245486	462591	Lsd	Lsd		
+1856	251991	446649	Lsd	Lsd		
+1857	268691	440271	Lsd	Lsd		
+1858	207905	380377	Lsd	Lsd		
+1859	173293	288161	Lsd	Lsd		
+1860	200800	315918	Lsd	Lsd		
+1861	231741	292576	Lsd	Lsd		
+1862	211335	336390	Lsd	Lsd		
+1863	265752	390644	Lsd	Lsd		
+1864	291144	373197	Lsd	Lsd		
+1865	210675	323170	Lsd	Lsd		
+1866	169033	277156	Lsd	Lsd		
+1867	190495	186169	Lsd	Lsd		
+1868	177684	203659	Lsd	Lsd		
+1869	151189	175033	Lsd	Lsd		
+1870	184333	171988	Lsd	Lsd		
+1871	180662	207672	Lsd	Lsd		
+1872	167809	203560	Lsd	Lsd		
+1873	236615	216993	Lsd	Lsd		
+1874	178398	240628	Lsd	Lsd		
+1875	175321	202512	Lsd	Lsd		
+1876	163403	206420	Lsd	Lsd		
+1877	165756	124503	Lsd	Lsd		
+1878	191491	131007	Lsd	Lsd		
+1879	159883	187673	Lsd	Lsd		
+1880	237201	252855	Lsd	Lsd		
+1881	201811	247403	Lsd	Lsd		
+1882	232882	250633	Lsd	Lsd		
+1883	268973	302870	Lsd	Lsd		
+1884	237538	317449	Lsd	Lsd		
+1885	254856	244280	Lsd	Lsd		
+1886	172054	204201	Lsd	Lsd		
+1887	160084	196833	Lsd	Lsd		
+1888	200450	213020	Lsd	Lsd		
+1889	260089	300879	Lsd	Lsd		
+1890	282945	287690	Lsd	Lsd		
+1891	272214	280521	Lsd	Lsd		
+1892	230610	228536	Lsd	Lsd		
+1893	169226	247318	Lsd	Lsd		
+1894	151266	244335	Lsd	Lsd		
+1895	299103	264197	Lsd	Lsd		
+1896	300954	283663	Lsd	Lsd		
+1897	292613	288969	Lsd	Lsd		
+1898	256977	263908	Lsd	Lsd		
+1899	212237	263090	Lsd	Lsd		
+1900						
+1901	B1387598	B1227202	BHD	BHD		
+1902	B1362210	B1227803	BHD	BHD		
+1903	364445	380931	Lsd	Lsd		
+1904	361227	383120	Lsd	Lsd		
+1905	385737	377246	Lsd	Lsd		
+1906	452333	415018	Lsd	Lsd		
+1907	496565	454491	Lsd	Lsd		
+1908	550215	452592	Lsd	Lsd		
+1909	555873	454077	Lsd	Lsd		
+1910	579506	481900	Lsd	Lsd		
+1911	593372	552091	Lsd	Lsd		
+1912	718809	587096	Lsd	Lsd		
+1913	654770	642613	Lsd	Lsd		
+1914	612639	599970	Lsd	Lsd		
+1915	441730	459601	Lsd	Lsd		
+1916	531074	527384	Lsd	Lsd		
+1917	574276	576165	Lsd	Lsd		
+1918	732891	754113	Lsd	Lsd		
+1919	965128	914477	Lsd	Lsd		
+1920	1207991	1037166	Lsd	Lsd		
+1921	687199	626011	Lsd	Lsd		
+1922	676360	581229	Lsd	Lsd		
+1923	829764	658454	Lsd	Lsd		
+1924	800491	686092	Lsd	Lsd		
+1925	928108	735070	Lsd	Lsd		
+1926	1041275	807586	Lsd	Lsd		
+1927	924446	934770	Lsd	Lsd		
+1928	916109	830753	Lsd	Lsd		
+1929	1039427	998540	Lsd	Lsd		
+1930	1012000	932000	Lsd	Lsd		
+1931	964000	633000	Lsd	Lsd		
+1932	647000	404000	Lsd	Lsd		
+1933	393000	243000	Lsd	Lsd		
+1934	375000	298000	Lsd	Lsd		
+1935	547000	348000	Lsd	Lsd		
+1936	658000	485000	Lsd	Lsd		
+1937	801000	524000	Lsd	Lsd		
+1938	821000	668000	Lsd	Lsd		
+1939	795000	567000	Lsd	Lsd		
+1940	823000	754000	Lsd	Lsd		
+1941	931000	833000	Lsd	Lsd		
+1942	983000	634000	Lsd	Lsd		
+1943	1410000	929000	Lsd	Lsd		
+1944	1827000	1511000	Lsd	Lsd		
+1945	1944000	1221000	Lsd	Lsd		
+1946	1683000	1296000	Lsd	Lsd		
+1947	2148000	1525000	Lsd	Lsd		
+1948	B7669906	B6142601	BHD	BHD		
+1949	B5620605	B4565847	BHD	BHD		
+1950	B8782607	B4756647	BHD	BHD		
+1951	B12407332	B6234131	BHD	BHD		
+1952	B12671851	B6189987	BHD	BHD		
+1953	B11764015	B7490907	BHD	BHD		
+1954	B11409568	B7287826	BHD	BHD		
+1955	B14339799	B8186875	BHD	BHD		
+1956	B15850630	B9973040	BHD	BHD		
+1957	B15108063	B8943401	BHD	BHD		
+1958	B18516241	B9087875	BHD	BHD		
+1959						
+1960	B18783607	B11227455	BHD	BHD	28071888.5622288	USD
+1961	B22708464	B12402302	BHD	BHD	29964370.7125857	USD
+1962	B31202647	B12380520	BHD	BHD	31856922.8615428	USD
+1963	B27553446	B18571994	BHD	BHD	33749405.0118998	USD
+1964	B33900819		BHD		36193826.1234775	USD
+1965	B34987986		BHD		40069930.0699301	USD
+1966	B38761885	B19192693	BHD	BHD	44405594.4055944	USD
+1967	B36951914	B17462062	BHD	BHD	47379310.3448276	USD
+1968					44910179.6407186	USD
+1969					47305389.2215569	USD
+1970					53233532.9341317	USD
+1971					59207317.0731707	USD
+1972					66062500	USD
+1973					78343558.2822086	USD
+1974					103216374.269006	USD
+1975					118066298.342541	USD
+1976					96905829.5964126	USD
+1977					117650000	USD
+1978					136300000	USD
+1979					151800000	USD
+1980					197938222.429283	USD
+1981					196089854.656347	USD
+1982					182206326.985709	USD
+1983					192103185.955321	USD
+1984					214381949.019381	USD
+1985					212643742.664706	USD
+1986					231638320.535566	USD
+1987					281082558.5859	USD
+1988					320093360.27245	USD
+1989					369133890.704745	USD
+1990					412086445.492176	USD
+1991					444720750	USD
+1992					518239100	USD
+1993					559858250	USD
+1994					580863700	USD
+1995					620140400	USD
+1996					641383800	USD
+1997					654314350	USD
+1998					688992450	USD
+1999					732750000	USD
+2000					832050000	USD
+2001					868350000	USD
+2002					925050000	USD
+2003					983500000	USD
+2004					1051350000	USD
+2005					1102050000	USD
+2006					1210150000	USD
+2007					1271600000	USD
+2008					1351350000	USD
+2009					1317300000	USD
+2010					1377200000	USD
+2011					1460800000	USD
+2012					1522900000	USD
+2013					1579400000	USD
+2014					1662800000	USD
+2015					1723800000	USD
+2016					1775100000	USD
+2017					1836600000	USD
+2018					1871200000	USD
+2019					1879613600	USD
+2020						
+
+
+Trade + GDP 2020: Table 1
+	Trade	Trade unit	GDP	GDP unit
+1850	155271572.777179	BZD		
+1851	155764398.079265	BZD		
+1852	208343783.835654	BZD		
+1853	173708345.995472	BZD		
+1854	193541044.328151	BZD		
+1855	191803614.606009	BZD		
+1856	189247323.819785	BZD		
+1857	201645510.20471	BZD		
+1858	183869530.281939	BZD		
+1859	145831554.153199	BZD		
+1860	158028799.429348	BZD		
+1861	156976966.583767	BZD		
+1862	167511726.255791	BZD		
+1863	207438333.65827	BZD		
+1864	212308141.164548	BZD		
+1865	168709006.80656	BZD		
+1866	133585971.3552	BZD		
+1867	106071409.28715	BZD		
+1868	108462941.311374	BZD		
+1869	97668662.265175	BZD		
+1870	106680099.46291	BZD		
+1871	115053485.999949	BZD		
+1872	105626100.523318	BZD		
+1873	124054626.277217	BZD		
+1874	119180875.080807	BZD		
+1875	109657769.944056	BZD		
+1876	107333042.518839	BZD		
+1877	85109797.8765775	BZD		
+1878	96553721.8311285	BZD		
+1879	108629804.186886	BZD		
+1880	148280299.974784	BZD		
+1881	137383929.158371	BZD		
+1882	146301135.466778	BZD		
+1883	174887777.766744	BZD		
+1884	173463065.337003	BZD		
+1885	161325054.640603	BZD		
+1886	123006659.926155	BZD		
+1887	118041408.073852	BZD		
+1888	135173123.758269	BZD		
+1889	181309689.64697	BZD		
+1890	184434147.316244	BZD		
+1891	176641424.218265	BZD		
+1892	146732527.095479	BZD		
+1893	134630608.812459	BZD		
+1894	129331324.961653	BZD		
+1895	186297444.974604	BZD		
+1896	195622188.394644	BZD		
+1897	190132913.298622	BZD		
+1898	170289628.192676	BZD		
+1899	153629780.755454	BZD		
+1900				
+1901	166333596.636657	BZD		
+1902	164756837.091058	BZD		
+1903	227959688.656965	BZD		
+1904	227644987.728	BZD		
+1905	233344469.275315	BZD		
+1906	265263523.263839	BZD		
+1907	287768885.541281	BZD		
+1908	303427613.939658	BZD		
+1909	302372204.985297	BZD		
+1910	314467598.410805	BZD		
+1911	339371549.32084	BZD		
+1912	375181995.342062	BZD		
+1913	376537058.815215	BZD		
+1914	351933258.22279	BZD		
+1915	233054354.443309	BZD		
+1916	231577241.353998	BZD		
+1917	200743894.435469	BZD		
+1918	212532161.46919	BZD		
+1919	244111407.899536	BZD		
+1920	252401419.706633	BZD		
+1921	161691727.117477	BZD		
+1922	179742696.327567	BZD		
+1923	226355236.122966	BZD		
+1924	227322182.256161	BZD		
+1925	254326366.197136	BZD		
+1926	284248467.434034	BZD		
+1927	293780483.847246	BZD		
+1928	276027080.002736	BZD		
+1929	325643747.35617	BZD		
+1930	319606612.567294	BZD		
+1931	273629191.230058	BZD		
+1932	184524186.851671	BZD		
+1933	114489491.74205	BZD		
+1934	121150043.934591	BZD		
+1935	160100065.535811	BZD		
+1936	203185095.043866	BZD		
+1937	227024845.572841	BZD		
+1938	252087327.85095	BZD		
+1939	223921916.829555	BZD		
+1940	222047517.742385	BZD		
+1941	223983569.339695	BZD		
+1942	191630387.101739	BZD		
+1943	268252723.341294	BZD		
+1944	372316043.302037	BZD		
+1945	343588027.122324	BZD		
+1946	313814016.725668	BZD		
+1947	361483671.196661	BZD		
+1948	313453176.042087	BZD		
+1949	224664015.702418	BZD		
+1950	291733567.784199	BZD		
+1951	368199419.79311	BZD		
+1952	341269178.847861	BZD		
+1953	338058879.632955	BZD		
+1954	321911606.554487	BZD		
+1955	371642532.896675	BZD		
+1956	405345511.759375	BZD		
+1957	364648374.086383	BZD		
+1958	405540366.66319	BZD		
+1959				
+1960	434615768.689419	BZD	491027875	BZD
+1961	491453236.52861	BZD	518578252	BZD
+1962	584720773.152921	BZD	544800771	BZD
+1963	607368647.18189	BZD	570097705	BZD
+1964			603668677	BZD
+1965			657888693	BZD
+1966	678898210.821672	BZD	707735110	BZD
+1967	621052081.145737	BZD	734756877	BZD
+1968			667932941	BZD
+1969			667115601	BZD
+1970			709305119	BZD
+1971			756430441	BZD
+1972			817268693	BZD
+1973			912808324	BZD
+1974			1082897984	BZD
+1975			1134928290	BZD
+1976			880913582	BZD
+1977			1004196860	BZD
+1978			1080900092	BZD
+1979			1082041695	BZD
+1980			1242561245	BZD
+1981			1115658000	BZD
+1982			976776965	BZD
+1983			997779319	BZD
+1984			1067582896	BZD
+1985			1022666820	BZD
+1986			1093266655	BZD
+1987			1279732710	BZD
+1988			1400245483	BZD
+1989			1540416867	BZD
+1990			1631587933	BZD
+1991			1689258558	BZD
+1992			1910645810	BZD
+1993			2004909396	BZD
+1994			2027272115	BZD
+1995			2105289501	BZD
+1996			2115401131	BZD
+1997			2108752359	BZD
+1998			2186572717	BZD
+1999			2275648987	BZD
+2000			2499628955	BZD
+2001			2536981299	BZD
+2002			2660441229	BZD
+2003			2765757934	BZD
+2004			2879472595	BZD
+2005			2919287421	BZD
+2006			3105459707	BZD
+2007			3172646112	BZD
+2008			3246968252	BZD
+2009			3176448053	BZD
+2010			3267301692	BZD
+2011			3359579691	BZD
+2012			3431391561	BZD
+2013			3507320732	BZD
+2014			3633579559	BZD
+2015			3762414578	BZD
+2016			3826113798	BZD
+2017			3876107731	BZD
+2018			3854969501	BZD
+2019			3803377662	BZD
+2020				
+
+
+CPI: Table 1
+	USA	UK	Belize
+1850		8.4	
+1851		8.1	
+1852		8.1	
+1853		8.9	
+1854		10.2	
+1855		10.5	
+1856		10.5	
+1857		10.0	
+1858		9.1	
+1859		9.0	
+1860		9.3	
+1861		9.5	
+1862		9.3	
+1863		9.0	
+1864		8.9	
+1865		9.0	
+1866		9.5	
+1867		10.1	
+1868		10.0	
+1869		9.5	
+1870		9.5	
+1871		9.6	
+1872		10.0	
+1873		10.4	
+1874		10.0	
+1875		9.8	
+1876		9.8	
+1877		9.7	
+1878		9.5	
+1879		9.1	
+1880		9.4	
+1881		9.3	
+1882		9.4	
+1883		9.3	
+1884		9.1	
+1885		8.8	
+1886		8.7	
+1887		8.6	
+1888		8.7	
+1889		8.8	
+1890		8.8	
+1891		8.9	
+1892		8.9	
+1893		8.8	
+1894		8.7	
+1895	8.33333333333333	8.6	
+1896	8.33333333333333	8.5	
+1897	8.33333333333333	8.7	
+1898	8.33333333333333	8.7	
+1899	8.33333333333333	8.8	
+1900	8.33333333333333	9.2	
+1901	8.33333333333333	9.2	
+1902	8.66666666666667	9.2	
+1903	9	9.3	
+1904	9	9.3	
+1905	9	9.3	
+1906	9	9.3	
+1907	9.33333333333333	9.4	
+1908	9	9.4	
+1909	9	9.5	
+1910	9.33333333333333	9.6	
+1911	9.33333333333333	9.6	
+1912	9.66666666666667	9.9	
+1913	9.9	9.8	
+1914	10.0	9.8	
+1915	10.1	11.0	
+1916	10.9	13.0	
+1917	12.8	16.3	
+1918	15.1	19.9	
+1919	17.3	21.9	
+1920	20.0	25.3	
+1921	17.9	23.1	
+1922	16.8	19.9	
+1923	17.1	18.7	
+1924	17.1	18.6	
+1925	17.5	18.6	
+1926	17.7	18.5	
+1927	17.4	18.0	
+1928	17.1	18.0	
+1929	17.1	17.8	
+1930	16.7	17.3	
+1931	15.2	16.6	
+1932	13.7	16.2	
+1933	13.0	15.8	
+1934	13.4	15.8	
+1935	13.7	15.9	
+1936	13.9	16.0	
+1937	14.4	16.6	
+1938	14.1	16.8	
+1939	13.9	17.3	
+1940	14.0	20.2	
+1941	14.7	22.4	
+1942	16.3	24.0	
+1943	17.3	24.8	
+1944	17.6	25.5	
+1945	18.0	26.2	
+1946	19.5	27.0	
+1947	22.3	28.9	
+1948	24.1	31.1	
+1949	23.8	32.0	
+1950	24.1	33.0	
+1951	26.0	36.0	
+1952	26.5	39.3	
+1953	26.7	40.5	
+1954	26.9	41.3	
+1955	26.8	43.1	
+1956	27.2	45.3	
+1957	28.1	46.9	
+1958	28.9	48.4	
+1959	29.1	48.6	
+1960	29.6	49.1	
+1961	29.9	50.8	
+1962	30.3	53.0	
+1963	30.6	54.0	
+1964	31.0	55.8	
+1965	31.5	58.4	
+1966	32.5	60.7	
+1967	33.4	62.3	
+1968	34.8	65.2	
+1969	36.7	68.7	
+1970	38.8	73.1	
+1971	40.5	80.0	
+1972	41.8	85.7	
+1973	44.4	93.5	
+1974	49.3	108.5	
+1975	53.8	134.8	
+1976	56.9	157.1	
+1977	60.6	182.0	
+1978	65.2	197.1	
+1979	72.6	223.5	
+1980	82.4	263.7	
+1981	90.9	295.0	
+1982	96.5	320.4	
+1983	99.6	335.1	
+1984	103.9	351.8	
+1985	107.6	373.2	
+1986	109.6	385.9	
+1987	113.6	402.0	
+1988	118.3	421.7	
+1989	124.0	454.5	
+1990	130.7	497.5	
+1991	136.2	526.7	66.4
+1992	140.3	546.4	68.0 
+1993	144.5	555.1	69.0 
+1994	148.2	568.5	70.8 
+1995	152.4	588.2	72.8 
+1996	156.9	602.4	77.5 
+1997	160.5	621.3	78.3 
+1998	163.0	642.6	77.7 
+1999	166.6	652.5	76.7 
+2000	172.2	671.8	77.2 
+2001	177.1	683.7	78.1 
+2002	179.9	695.1	79.8 
+2003	184.0	715.2	81.9 
+2004	188.9	736.5	84.4 
+2005	195.3	757.3	87.5 
+2006	201.6	781.5	91.2 
+2007	207.342	815.0	93.3 
+2008	215.303	847.5	99.3 
+2009	214.537	843.0	98.2 
+2010	218.056	881.9	99.1 
+2011	224.939	927.8	100.7 
+2012	229.594	957.6	102.0 
+2013	232.957	986.7	102.5 
+2014	236.736	"1,010.0"	103.7 
+2015	237.017	"1,020.0"	102.8
+2016	240.007	1030	104
+2017	245.120	1057	105
+2018	251.107	1080	105
+2019	255.657	1100	105
+2020	258.660	1109	105
+
+
+FX: Table 1
+	S$ to Lsd	G$ to Lsd	USD to GBP	Lsd to BHD	USD to BHD
+1850					
+1851					
+1852					
+1853					
+1854					
+1855					
+1856					
+1857					
+1858					
+1859					
+1860					
+1861					
+1862					
+1863					
+1864					
+1865					
+1866					
+1867					
+1868					
+1869					
+1870				5.0	
+1871					
+1872					
+1873					
+1874					
+1875					
+1876					
+1877	0/3/6.5				
+1878	0/3/4.5				
+1879	0/3/4.5				
+1880	0/3/4.5				
+1881	0/3/4.5				
+1882	0/4/1.33333333				
+1883	0/3/3.33333333				
+1884	0/3/3.33333334				
+1885	0/3/2				1.0
+1886	0/2/11				1.0
+1887	0/2/11			6.5	1.0
+1888	0/2/9.5			6.5	1.0
+1889	0/2/9.5				1.0
+1890	0/3/1			6.5	1.0
+1891	0/2/11.25				1.0
+1892	0/2/7.5			7.3	1.0
+1893	0/2/3.8			9.5	1.0
+1894		0/4/1.33333333		4.866?	1.0
+1895		0/4/1.33333333			1.0
+1896		0/4/1.33333333		4.8	1.0
+1897		0/4/1.33333333		4.8	1.0
+1898		0/4/1.33333333		4.8	1.0
+1899		0/4/1.33333333		4.8	1.0
+1900		0/4/1.33333333		4.9	1.0
+1901		0/4/1.33333333		4.9	1.0
+1902		0/4/1.33333333		4.9	1.0
+1903		0/4/1.33333333		4.9	1.0
+1904		0/4/1.33333333		4.9	1.0
+1905		0/4/1.33333333		4.9	1.0
+1906		0/4/1.33333333		4.9	1.0
+1907		0/4/1.33333333		4.9	1.0
+1908		0/4/1.33333333		4.9	1.0
+1909		0/4/1.33333333		4.9	1.0
+1910		0/4/1.33333333		4.9	1.0
+1911		0/4/1.33333333		4.9	1.0
+1912		0/4/1.33333333		4.9	1.0
+1913		0/4/1.33333333		4.9	1.0
+1914		0/4/1.33333333		4.9	1.0
+1915		0/4/1.33333333		4.9	1.0
+1916		0/4/1.33333333		4.9	1.0
+1917		0/4/1.33333333		4.9	1.0
+1918		0/4/1.33333333		4.9	1.0
+1919		0/4/1.33333333		4.9	1.0
+1920		0/4/1.33333333		4.9	1.0
+1921		0/4/1.33333333		4.9	1.0
+1922		0/4/1.33333333		4.9	1.0
+1923		0/4/1.33333333		4.9	1.0
+1924		0/4/1.33333333		4.9	1.0
+1925		0/4/1.33333333		4.9	1.0
+1926		0/4/1.33333333		4.9	1.0
+1927		0/4/1.33333333		4.9	1.0
+1928		0/4/1.33333333		4.9	1.0
+1929		0/4/1.33333333		4.9	1.0
+1930		0/4/1.33333333		4.86	1
+1931		0/4/1.33333333		4.9	1.0
+1932		0/4/1.33333333		4.9	1.0
+1933		0/4/1.33333333		4.9	1.0
+1934				4.9	1.0
+1935				4.9	1.0
+1936				4.9	1.0
+1937				4.9	1.0
+1938				4.9	1.0
+1939					1.0
+1940				4.0	1.0
+1941				4.0	1.0
+1942				4.0	1.0
+1943				4.0	1.0
+1944				4.0	1.0
+1945				4.0	1.0
+1946				4.0	1.0
+1947				4.0	1.0
+1948				4.0	1.0
+1949				4.0	1.0
+1950				4.0	1.4
+1951				4.0	1.4
+1952				4.0	1.4
+1953				4.0	1.4
+1954				4.0	1.4
+1955				4.0	1.4
+1956				4.0	1.4
+1957				4.0	1.4
+1958				4.0	1.4
+1959				4.0	1.4
+1960			0.4	4.0	1.4
+1961			0.4	4.0	1.4
+1962			0.4	4.0	1.4
+1963			0.4	4.0	1.4
+1964			0.4	4.0	1.4
+1965			0.4	4.0	1.4
+1966			0.4	4.0	1.4
+1967			0.4	4.0	1.4
+1968			0.4	4.0	1.7
+1969			0.4	4.0	1.7
+1970			0.4	4.0	1.7
+1971			0.4	4.0	1.7
+1972			0.4	4.0	1.5
+1973			0.4	4.0	1.5
+1974			0.4	4.0	1.5
+1975			0.5	4.0	1.5
+1976			0.6	4.0	1.5
+1977			0.6	4.0	1.5
+1978			0.5		2.0
+1979			0.5		2.0
+1980			0.4		2.0
+1981			0.5		2.0
+1982			0.6		2.0
+1983			0.7		2.0
+1984			0.8		2.0
+1985			0.8		2.0
+1986			0.7		2.0
+1987			0.6		2.0
+1988			0.6		2.0
+1989			0.6		2.0
+1990			0.6		2.0
+1991			0.6		2.0
+1992			0.6		2.0
+1993			0.7		2.0
+1994			0.7		2.0
+1995			0.6		2.0
+1996			0.6		2.0
+1997			0.6		2.0
+1998			0.6		2.0
+1999			0.6		2.0
+2000			0.7		2.0
+2001			0.7		2.0
+2002			0.7		2.0
+2003			0.6		2.0
+2004			0.5		2.0
+2005			0.6		2.0
+2006			0.5		2.0
+2007			0.5		2.0
+2008			0.5		2.0
+2009			0.6		2.0
+2010			0.6		2.0
+2011			0.6		2.0
+2012			0.6		2.0
+2013			0.6		2.0
+2014			0.6		2.0
+2015			0.7		2.0
+2016			1		2
+2017			1		2
+2018			1		2
+2019			1		2
+2020			1		2
+
+
+Population: Table 1
+	Censuses	Estimates			
+1841	8235	"8,235.0"			
+1842		"9,105.0"			
+1843		"9,975.0"			
+1844		"10,845.0"			
+1845		"11,715.0"			
+1846		"12,585.0"			
+1847		"13,455.0"			
+1848		"14,325.0"			
+1849		"15,195.0"			
+1850		"16,065.0"			
+1851		"16,935.0"			
+1852		"17,805.0"			
+1853		"18,675.0"			
+1854		"19,545.0"			
+1855		"20,415.0"			
+1856		"21,285.0"			
+1857		"22,155.0"			
+1858		"23,025.0"			
+1859		"23,895.0"			
+1860		"24,765.0"			
+1861	25635	"25,635.0"			
+1862		"25,542.5"			
+1863		"25,450.0"			
+1864		"25,357.5"			
+1865		"25,265.0"			
+1866		"25,172.5"			
+1867		"25,080.0"			
+1868		"24,987.5"			
+1869		"24,895.0"			
+1870		"24,802.5"			
+1871	24710	"24,710.0"			
+1872		"24,984.2"			
+1873		"25,258.4"			
+1874		"25,532.6"			
+1875		"25,806.8"			
+1876		"26,081.0"			
+1877		"26,355.2"			
+1878		"26,629.4"			
+1879		"26,903.6"			
+1880		"27,177.8"			
+1881	27452	"27,452.0"			
+1882		"27,853.9"			
+1883		"28,255.8"			
+1884		"28,657.7"			
+1885		"29,059.6"			
+1886		"29,461.5"			
+1887		"29,863.4"			
+1888		"30,265.3"			
+1889		"30,667.2"			
+1890		"31,069.1"			
+1891	31471	"31,471.0"			
+1892		"32,071.8"			
+1893		"32,672.6"			
+1894		"33,273.4"			
+1895		"33,874.2"			
+1896		"34,475.0"			
+1897		"35,075.8"			
+1898		"35,676.6"			
+1899		"36,277.4"			
+1900		"36,878.2"			
+1901	37479	37479			
+1902		37776.9			
+1903		38074.8			
+1904		38372.7			
+1905		38670.6			
+1906		38968.5			
+1907		39266.4			
+1908		39564.3			
+1909		39862.2			
+1910		40160.1			
+1911	40458	40458			
+1912		40943.9			
+1913		41429.8			
+1914		41915.7			
+1915		42401.6			
+1916		42887.5			
+1917		43373.4			
+1918		43859.3			
+1919		44345.2			
+1920		44831.1			
+1921	45317	45317			
+1922		45920			
+1923		46523			
+1924		47126			
+1925		47729			
+1926		48332			
+1927		48935			
+1928		49538			
+1929		50141			
+1930		50744			
+1931	51347	51347			
+1932		51871.9			
+1933		52396.7			
+1934		52921.6			
+1935		53446.5			
+1936		53971.3			
+1937		54496.2			
+1938		55021.1			
+1939		55545.9			
+1940		56070.8			
+1941		56595.7			
+1942		57120.5			
+1943		57645.4			
+1944		58170.3			
+1945		58695.1			
+1946	59220.0	59220.0			
+1947		59998.2			
+1948		"60,776.3"			
+1949		"65,354.0"			
+1950		"68,915.0"			
+1951		"70,741.0"			
+1952		"73,171.0"			
+1953		"75,778.0"			
+1954		"78,094.0"			
+1955		"80,888.0"			
+1956		"82,333.0"			
+1957		"85,098.0"			
+1958		"88,156.0"			
+1959		"89,486.0"			
+1960	90505	"90,508.0"			
+1961		"93,586.0"			
+1962		"98,453.0"			
+1963		"100,165.0"			
+1964		"103,069.0"			
+1965		"106,120.0"			
+1966		"109,348.0"			
+1967		"112,707.0"			
+1968		"116,065.0"			
+1969		"119,269.0"			
+1970		"122,184.0"			
+1971		"124,795.0"			
+1972		"127,152.0"			
+1973		"129,294.0"			
+1974		"131,305.0"			
+1975		"133,264.0"			
+1976		"135,143.0"			
+1977		"136,990.0"			
+1978		"138,975.0"			
+1979		"141,302.0"			
+1980		"144,142.0"			
+1981		"147,572.0"			
+1982		"151,486.0"			
+1983		"155,820.0"			
+1984		"160,341.0"			
+1985		"164,918.0"			
+1986		"169,569.0"			
+1987		"174,333.0"			
+1988		"179,023.0"			
+1989		"183,471.0"			
+1990		"187,554.0"			
+1991		"191,136.0"			
+1992		"194,324.0"			
+1993		"197,625.0"			
+1994		"201,679.0"			
+1995		"206,962.0"			
+1996		"213,660.0"			
+1997		"221,575.0"			
+1998		"230,248.0"			
+1999		"238,979.0"			
+2000		"247,310.0"			
+2001		"255,068.0"			
+2002		"262,387.0"			
+2003		"269,428.0"			
+2004		"276,516.0"			
+2005		"283,798.0"			
+2006		"291,338.0"			
+2007		"299,031.0"			
+2008		"306,822.0"			
+2009		"314,655.0"			
+2010		"322,465.0"			
+2011		"330,236.0"			
+2012		"338,001.0"			
+2013		"345,707.0"			
+2014		"353,366.0"			
+2015		"360,926.0"			
+2016		368399			
+2017		375775			
+2018		383071			
+2019		390351			
+2020		397621			

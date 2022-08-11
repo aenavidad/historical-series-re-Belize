@@ -1,0 +1,596 @@
+Start 3: Table 1
+							
+							
+		Partitions of data which may be of use to us here		"NOTA we want classifications which are binary ie set partitioned into y and not y, which are easily mechanically computable or decidable ie not much thinking to classify a thing, and which produce gradually smaller classes of objects as levels increase ie level n class properly larger than level n+1 class AN 21 JUL 2022 / NOTA classes may need revision given last desideratum for decreasing class sizes AN 21 JUL 2022"			
+	id	description	null	notes			
+	0	are partitions by format					
+	1	are partitions by immediacy					
+	2	are partitions by coverage					
+	0a	is partition with data - extant - recorded split into published and not					
+	0aa	is partition with data - extant - recorded - published split into pre-20th century and not					
+	0ab	is partition with data - extant - recorded - published split into bound volumes and not					
+	0b	is partition with data - extant - recorded split into textual and not					
+	1a	is partition with data split into primary and not					
+	2a	is partition with data split into geographic and not					
+	2b	is partition with data - topical split into civil and not					
+							
+							
+							
+	0aa	partitions	level	notes			
+		data	0				
+		data - extant	1				
+		data - extant not	1				
+		data - extant - recorded	2				
+		data - extant - recorded - published	3				
+		data - extant - recorded - published - pre-20th century	5	eg up to 1900 inclusive			
+		data - extant - recorded - published - pre-20th century not	5	eg after 1900 exclusive			
+		data - extant - recorded - published not	3				
+		data - extant - recorded - published not - public	4				
+		data - extant - recorded - published not - public - Hispanic	5				
+		data - extant - recorded - published not - public - Hispanic not	5				
+		data - extant - recorded - published not - public not	4				
+		data - extant - recorded not	2				
+		data - extant - recorded not - archaeological	3				
+		data - extant - recorded not - archaeological not	3				
+		data - extant - recorded not - archaeological - excavated	4				
+		data - extant - recorded not - archaeological - excavated not	4				
+							
+							
+	0ab	partitions	level	notes			
+		data	0				
+		data - extant	1				
+		data - extant not	1				
+		data - extant - recorded	2				
+		data - extant - recorded - published	3				
+		data - extant - recorded - published - bound volumes	4	"eg single books, series of books"			
+		data - extant - recorded - published - bound volumes not	4	"eg ephemera, print"			
+		data - extant - recorded - published not	3				
+		data - extant - recorded - published not - public	4				
+		data - extant - recorded - published not - public - Hispanic	5				
+		data - extant - recorded - published not - public - Hispanic not	5				
+		data - extant - recorded - published not - public not	4				
+		data - extant - recorded not	2				
+		data - extant - recorded not - archaeological	3				
+		data - extant - recorded not - archaeological not	3				
+		data - extant - recorded not - archaeological - excavated	4				
+		data - extant - recorded not - archaeological - excavated not	4				
+							
+							
+	0b	partitions	level	notes			
+		data	0				
+		data - extant	1				
+		data - extant not	1				
+		data - extant - recorded	2				
+		data - extant - recorded - textual	3				
+		data - extant - recorded - textual not	3				
+		data - extant - recorded - textual not - cartographic	4				
+		data - extant - recorded - textual not - cartographic not	4				
+		data - extant - recorded not	2				
+		data - extant - recorded not - archaeological	3				
+		data - extant - recorded not - archaeological not	3				
+		data - extant - recorded not - archaeological - excavated	4				
+		data - extant - recorded not - archaeological - excavated not	4				
+							
+							
+	1a	partitions	level	notes			
+		data	0				
+		data - primary	1	ie primary sources			
+		data - primary not	1				
+		data - primary not - scholarly	2				
+		data - primary not - scholarly - secondary	3	eg archival-based peer-reviewed papers			
+		data - primary not - scholarly - secondary not	3	"ie survey work not using primary sources eg Britannica, handbooks, Oxford Bibliographies"			
+		data - primary not - scholarly not	2				
+							
+							
+	2a	partitions	level	notes			
+		data	0	points used Catoche [NGA 15664] / San Antonio [NGA 12436] / Camaron [NGA 16478] / Gracias a Dios [mouth of Rio Coco forming Honduras-Nicaragua border] / Vela [NGA 16844] / NGA lights queries in https://msi.nga.mil/Publications/NGALOL / GEBCO undersea features queries in https://www.ngdc.noaa.gov/gazetteer/ /// partition data - geographic - physical not needs expansion to cover political subdivisions 22 JULY 2022			
+		data - geographic	1	ie content restricted geographically eg *not* world history			
+		data - geographic - physical	2				
+		data - geographic - physical - western	3				
+		data - geographic - physical - western - marine	4				
+		data - geographic - physical - western - marine - Atlantic	5				
+		data - geographic - physical - western - marine - Atlantic - middle	6				
+		data - geographic - physical - western - marine - Atlantic - middle - Caribbean	7				
+		data - geographic - physical - western - marine - Atlantic - middle - Caribbean - western	8				
+		data - geographic - physical - western - marine - Atlantic - middle - Caribbean - western - Honduras	9	eg Catoche to Camaron			
+		data - geographic - physical - western - marine - Atlantic - middle - Caribbean - western - Honduras not	9				
+		data - geographic - physical - western - marine - Atlantic - middle - Caribbean - western not	8				
+		data - geographic - physical - western - marine - Atlantic - middle - Caribbean not	7				
+		data - geographic - physical - western - marine - Atlantic - middle - Caribbean not - Mexico	8	eg Catoche to San Antonio			
+		data - geographic - physical - western - marine - Atlantic - middle - Caribbean not - Mexico not	8	eg Gracias a Dios to Vela			
+		data - geographic - physical - western - marine - Atlantic - middle not	6				
+		data - geographic - physical - western - marine - Atlantic not	5				
+		data - geographic - physical - western - marine not	4				
+		data - geographic - physical - western not	3				
+		data - geographic - physical not	2				
+		data - geographic not	1	ie content not restricted geographically eg world history			
+							
+							
+	2b	partitions	level	notes			
+		data	0				
+		data - topical	1	ie content restricted topically eg *not* world history			
+		data - topical not	1	ie content not restricted topically eg world history			
+		data - topical - civil	2				
+		data - topical - civil - commerce	3	"eg smuggling, logging"			
+		data - topical - civil - commerce not	3				
+		data - topical - civil not	2	"ie military, paramilitary eg piratical, defence topics"			
+		data - topical - civil not - piratical	3				
+		data - topical - civil not - piratical - defence	4	"eg Spanish forts, armadas"			
+		data - topical - civil not - piratical - defence not	4	eg piratical attacks			
+		data - topical - civil not - piratical not	3	eg Tipu rebellion			
+
+
+Harvest 0: Table 1
+								
+								
+		Harvesting ie collection of data which may be of use to us here						
+	id	description	null	notes				
+	0	"are lists of guides, surveys, or aids created to help in gathering data eg bibliographies, finding aids, list of maps, etc"						
+	0a	are unpublished lists						
+	0b	are published lists						
+	0ba	are published lists to unpublished data eg to archives						
+	0bb	are published lists to published data eg bibliographies						
+	1	are lists of gathered data themselves						
+								
+								
+	???	description	scope	notes	link			
+		AN - Red tagged documents - Historical series re Belize - Introduction and series v 1.4 - Series S	1107 records	"NEED TO GET ALL THESE AN RECORDS INTO A SINGLE FILE, MAY NEED CURL FOR HTML, THEN EXTRACT ALL DATA TO CONTROLLED FORMAT VIA TXT 22 JULY 2022"	https://dataverse.harvard.edu/privateurl.xhtml?token=135a1006-cd54-4d9e-ba7b-d961b93f1bc4			
+		AN - Purple tagged documents - 1638 sources 1.5	460 records		/Users/angelnavidad/Documents/1638_proj/data/1638 sources 1.5 safe copy.numbers			
+		AN - Wikipedia - Timeline of piracy in the Bay of Honduras - References	266 records		https://en.wikipedia.org/wiki/Timeline_of_piracy_in_the_Bay_of_Honduras			
+		AN - Blue tagged documents - orig data sources 1.2	170 records		/Users/angelnavidad/Library/Mobile Documents/com~apple~Numbers/Documents/orig data sources 1.2 safe copy.numbers			
+		AN - Wikipedia - Draft:English settling of Belize - References	89 records		https://en.wikipedia.org/wiki/Draft:English_settling_of_Belize			
+		AN - Wikipedia - Jan Janszoon van Hoorn's expedition of 1633 - References	18 records		https://en.wikipedia.org/wiki/Jan_Janszoon_van_Hoorn%27s_expedition_of_1633			
+		AN - Wikipedia - Grace Bank - References	88 records		https://en.wikipedia.org/wiki/Grace_Bank			
+		AN - Wikipedia - 1543–1544 Pachecos entrada - References	27 records		https://en.wikipedia.org/wiki/1543–1544_Pachecos_entrada			
+
+
+Scrap 0: Table 1
+								
+		Will extract data in this sheet from txt						
+								
+		name	link	raw code	clean code			
+		AN - Red tagged documents - Historical series re Belize - Introduction and series v 1.4 - Series S	https://dataverse.harvard.edu/privateurl.xhtml?token=135a1006-cd54-4d9e-ba7b-d961b93f1bc4					
+		AN - Purple tagged documents - 1638 sources 1.5	/Users/angelnavidad/Documents/1638_proj/data/1638 sources 1.5 safe copy.numbers					
+		AN - Wikipedia - Timeline of piracy in the Bay of Honduras - References	https://en.wikipedia.org/wiki/Timeline_of_piracy_in_the_Bay_of_Honduras					
+		AN - Blue tagged documents - orig data sources 1.2	/Users/angelnavidad/Library/Mobile Documents/com~apple~Numbers/Documents/orig data sources 1.2 safe copy.numbers					
+		AN - Wikipedia - Draft:English settling of Belize - References	https://en.wikipedia.org/wiki/Draft:English_settling_of_Belize					
+		AN - Wikipedia - Jan Janszoon van Hoorn's expedition of 1633 - References	https://en.wikipedia.org/wiki/Jan_Janszoon_van_Hoorn%27s_expedition_of_1633					
+		AN - Wikipedia - Grace Bank - References	https://en.wikipedia.org/wiki/Grace_Bank					
+		AN - Wikipedia - 1543–1544 Pachecos entrada - References	https://en.wikipedia.org/wiki/1543–1544_Pachecos_entrada					
+
+
+Start 0: Table 1
+							
+							
+		Classifications of data to be employed in this study		"NOTA we want classifications which are binary ie set partitioned into y and not y, which are easily mechanically computable or decidable ie not much thinking to classify a thing, and which produce gradually smaller classes of objects as levels increase ie level n class properly larger than level n+1 class AN 21 JUL 2022 / NOTA classes may need revision given last desideratum for decreasing class sizes AN 21 JUL 2022"			
+	0 of 5	classes of type or form or format	level	eg	confidence in level stability		
+		data	0		level secure		
+		data - extant	1	vars	level secure		
+		data - not extant	1	vars	level secure		
+		data - extant - not recorded	2	"pottery, ships, toponyms"	level secure		
+		data - extant - recorded	2		level secure		
+		data - extant - not recorded - archaeological	3	eg vars Barcadares spots	level secure		
+		data - extant - not recorded - not archaeological	3	"eg toponyms, legends"	level secure		
+		data - extant - recorded - not published	3		level not secure		
+		data - extant - recorded - published	3		level not secure		
+		data - extant - recorded - cartographic	3		level not secure		
+		data - extant - recorded - not cartographic	3		level not secure		
+		data - extant - recorded - textual	3		level not secure		
+		data - extant - recorded - not textual	3		level not secure		
+		data - extant - not recorded - archaeological - excavated	4	eg vars Barcadares spots			
+		data - extant - not recorded - archaeological - not excavated	4	eg vars			
+		data - extant - recorded - not published - cartographic	4	eg vars manuscript maps			
+		data - extant - recorded - not published - not cartographic	4	eg vars manuscript letters			
+		data - extant - recorded - published - cartographic	4				
+		data - extant - recorded - published - not cartographic	4				
+		data - extant - recorded - not published - not cartographic - not public	5	eg business records			
+		data - extant - recorded - not published - not cartographic - public	5	eg state archives			
+		data - extant - recorded - published - not cartographic - ephemera	5	"eg newspapers, pamphlets"			
+		data - extant - recorded - published - not cartographic - not ephemera	5	eg books			
+		data - extant - recorded - not published - not cartographic - public - Hispanic	6	eg AGI			
+		data - extant - recorded - not published - not cartographic - public - not Hispanic	6	eg Staadsarchief			
+		data - extant - recorded - published - not cartographic - ephemera - Hispanic	6				
+		data - extant - recorded - published - not cartographic - ephemera - not Hispanic	6				
+		data - extant - recorded - published - not cartographic - not ephemera - Hispanic	6				
+		data - extant - recorded - published - not cartographic - not ephemera - not Hispanic	6				
+							
+							
+							
+							
+							
+	1 of 5	classes of subjects or topic material covered by or associated with data	level	eg	confidence in level stability		
+		subjects	0		level secure		
+		subjects - primary	1	eg main subject or topic covered	level not secure		
+		subjects - not primary	1		level not secure		
+		subjects - geographic	1		level not secure		
+		subjects - not geographic	1		level not secure		
+							
+							
+							
+							
+	2 of 5	classes of subjects or topic material covered by or associated with data	level	eg	confidence in level stability		
+		data - extant - recorded	2				
+		data - extant - recorded - primary source	3	"eg contemporary letters, news"			
+		data - extant - recorded - not primary source	3	eg diachronous historical work			
+		data - extant - recorded - not primary source - scholarly source	4	eg archival-based peer-reviewed papers	level not secure		
+		data - extant - recorded - not primary source - not scholarly source	4		level not secure		
+		data - extant - recorded - not primary source - secondary source	4	eg focussed specialist work using primary sources	level not secure		
+		data - extant - recorded - not primary source - not secondary source	4	"eg survey work not using primary sources eg Britannica, handbooks, Oxford Bibliographies"	level not secure		
+							
+							
+							
+							
+							
+							
+	3 of 5	classes of subjects or topic material covered by or associated with data	level	eg	confidence in level stability		
+		subjects - geographic	1		level not secure		
+		subjects - geographic - physical	2				
+		subjects - geographic - not physical	2				
+		subjects - geographic - physical - Bay of Honduras	3				
+		subjects - geographic - physical - not Bay of Honduras	3	"eg Mosquito Shore, Campeachy"			
+		subjects - geographic - not physical - Hispanic	3				
+		subjects - geographic - not physical - not Hispanic	3				
+		subjects - geographic - not physical - Hispanic - New Spain	4	"eg Yucatan, Goathemala provinces"			
+		subjects - geographic - not physical - Hispanic - not New Spain	4	eg Hispaniola colony			
+		subjects - geographic - not physical - not Hispanic - de jure	4	eg Old Prov colony			
+		subjects - geographic - not physical - not Hispanic - not de jure	4	eg Mesquite Shore settlement			
+							
+							
+							
+							
+	4 of 5	classes of subjects or topic material covered by or associated with data	level	eg	confidence in level stability		
+		subjects	0		level secure		
+		subjects - piracy	1				
+		subjects - not piracy	1				
+		subjects - smuggling	1				
+		subjects - not smuggling	1				
+		subjects - settlement	1				
+		subjects - not settlement	1				
+		subjects - defence	1				
+		subjects - not defence	1				
+		subjects - inter ethnic relations	1				
+		subjects - not inter ethnic relations	1				
+		subjects - piracy - Hispanic	2				
+		subjects - piracy - not Hispanic	2				
+		subjects - piracy - not Hispanic - British	3				
+		subjects - piracy - not Hispanic - not British	3	"eg Dutch, French"			
+		subjects - piracy - buccaneering	2	eg pirates mainly resident in Caribbean			
+		subjects - piracy - not buccaneering	2	eg non-resident pirates eg Elizabethan sea dogs			
+		subjects - smuggling - in New World ports	2	eg Truxillo			
+		subjects - smuggling - not in New World ports	2				
+		subjects - defence - Hispanic	2				
+		subjects - defence - not Hispanic	2				
+		subjects - defence - Hispanic - naval	3				
+		subjects - defence - Hispanic - not naval	3				
+
+
+Start 1: Table 1
+								
+								
+			Classifications of data to be employed in this study		"NOTA we want classifications which are binary ie set partitioned into y and not y, which are easily mechanically computable or decidable ie not much thinking to classify a thing, and which produce gradually smaller classes of objects as levels increase ie level n class properly larger than level n+1 class AN 21 JUL 2022 / NOTA classes may need revision given last desideratum for decreasing class sizes AN 21 JUL 2022"			
+	version	sort	classes of type or form or format	level	eg	confidence in level stability		
+	v0	0	data	0		level secure		
+		1	 - extant	1	vars	level secure		
+		2	 - - recorded	2	vars	level secure		
+		3	 - - not recorded	2				
+		4	 - - - archaeological	3				
+		5	 - - - - excavated	4				
+		6	 - - - - not excavated	4				
+		7	 - - - not archaeological	3				
+		8	 - not extant	1	"pottery, ships, toponyms"	level secure		
+								
+								
+	version	sort	classes of type or form or format	level	eg	confidence in level stability		
+	v1	0	data	0		level secure		
+		1	 - extant	1	vars	level secure		
+		2	 - - recorded	2	vars	level secure		
+		3	 - - - published	3				
+		4	 - - - not published	3				
+		5	 - - not recorded	2				
+		6	 - - - archaeological	3				
+		7	 - - - - excavated	4				
+		8	 - - - - not excavated	4				
+		9	 - - - not archaeological	3				
+		10	 - not extant	1	"pottery, ships, toponyms"	level secure		
+								
+								
+	version	sort	classes of type or form or format	level	eg	confidence in level stability		
+	v2	0	data	0		level secure		
+		1	 - extant	1	vars	level secure		
+		2	 - - recorded	2	vars	level secure		
+		3	 - - - textual	3				
+			 - - - - published	4				
+			 - - - - not published	4				
+			 - - - - - private	5				
+			 - - - - - not private	5				
+			 - - - - - - Hispanic	6				
+			 - - - - - - not Hispanic	6				
+		4	 - - - not textual	3	eg cartographic			
+		5	 - - not recorded	2				
+		6	 - - - archaeological	3				
+		7	 - - - - excavated	4				
+		8	 - - - - not excavated	4				
+		9	 - - - not archaeological	3				
+		10	 - not extant	1	"pottery, ships, toponyms"	level secure		
+								
+								
+								
+	version	sort	classes of type or form or format	level	eg	confidence in level stability		
+	v3	0	data	0		level secure		
+		1	 - extant	1	vars	level secure		
+		2	 - - recorded	2	vars	level secure		
+		3	 - - not recorded	2				
+		4	 - - - archaeological	3				
+		5	 - - - - excavated	4				
+		6	 - - - - not excavated	4				
+		7	 - - - not archaeological	3				
+		8	 - not extant	1	"pottery, ships, toponyms"	level secure		
+								
+								
+								
+								
+								
+								
+								
+								
+								
+								
+			data - extant - recorded - not published - not cartographic - public - Hispanic	6	eg AGI			
+			data - extant - recorded - not published - not cartographic - public - not Hispanic	6	eg Staadsarchief			
+			data - extant - recorded - published - not cartographic - ephemera - Hispanic	6				
+			data - extant - recorded - published - not cartographic - ephemera - not Hispanic	6				
+			data - extant - recorded - published - not cartographic - not ephemera - Hispanic	6				
+			data - extant - recorded - published - not cartographic - not ephemera - not Hispanic	6				
+								
+								
+								
+								
+								
+	1 of 5		classes of subjects or topic material covered by or associated with data	level	eg	confidence in level stability		
+			subjects	0		level secure		
+			subjects - primary	1	eg main subject or topic covered	level not secure		
+			subjects - not primary	1		level not secure		
+			subjects - geographic	1		level not secure		
+			subjects - not geographic	1		level not secure		
+								
+								
+								
+								
+	2 of 5		classes of subjects or topic material covered by or associated with data	level	eg	confidence in level stability		
+			data - extant - recorded	2				
+			data - extant - recorded - primary source	3	"eg contemporary letters, news"			
+			data - extant - recorded - not primary source	3	eg diachronous historical work			
+			data - extant - recorded - not primary source - scholarly source	4	eg archival-based peer-reviewed papers	level not secure		
+			data - extant - recorded - not primary source - not scholarly source	4		level not secure		
+			data - extant - recorded - not primary source - secondary source	4	eg focussed specialist work using primary sources	level not secure		
+			data - extant - recorded - not primary source - not secondary source	4	"eg survey work not using primary sources eg Britannica, handbooks, Oxford Bibliographies"	level not secure		
+								
+								
+								
+								
+								
+								
+	3 of 5		classes of subjects or topic material covered by or associated with data	level	eg	confidence in level stability		
+			subjects - geographic	1		level not secure		
+			subjects - geographic - physical	2				
+			subjects - geographic - not physical	2				
+			subjects - geographic - physical - Bay of Honduras	3				
+			subjects - geographic - physical - not Bay of Honduras	3	"eg Mosquito Shore, Campeachy"			
+			subjects - geographic - not physical - Hispanic	3				
+			subjects - geographic - not physical - not Hispanic	3				
+			subjects - geographic - not physical - Hispanic - New Spain	4	"eg Yucatan, Goathemala provinces"			
+			subjects - geographic - not physical - Hispanic - not New Spain	4	eg Hispaniola colony			
+			subjects - geographic - not physical - not Hispanic - de jure	4	eg Old Prov colony			
+			subjects - geographic - not physical - not Hispanic - not de jure	4	eg Mesquite Shore settlement			
+								
+								
+								
+								
+	4 of 5		classes of subjects or topic material covered by or associated with data	level	eg	confidence in level stability		
+			subjects	0		level secure		
+			subjects - piracy	1				
+			subjects - not piracy	1				
+			subjects - smuggling	1				
+			subjects - not smuggling	1				
+			subjects - settlement	1				
+			subjects - not settlement	1				
+			subjects - defence	1				
+			subjects - not defence	1				
+			subjects - inter ethnic relations	1				
+			subjects - not inter ethnic relations	1				
+			subjects - piracy - Hispanic	2				
+			subjects - piracy - not Hispanic	2				
+			subjects - piracy - not Hispanic - British	3				
+			subjects - piracy - not Hispanic - not British	3	"eg Dutch, French"			
+			subjects - piracy - buccaneering	2	eg pirates mainly resident in Caribbean			
+			subjects - piracy - not buccaneering	2	eg non-resident pirates eg Elizabethan sea dogs			
+			subjects - smuggling - in New World ports	2	eg Truxillo			
+			subjects - smuggling - not in New World ports	2				
+			subjects - defence - Hispanic	2				
+			subjects - defence - not Hispanic	2				
+			subjects - defence - Hispanic - naval	3				
+			subjects - defence - Hispanic - not naval	3				
+
+
+Start 2: Table 1
+							
+							
+		Partitions of data which may be of use to us					
+							
+		Partitions by type or format of data					
+		0 data					
+		1 whether extant or no ?					
+		2 whether recorded or no ?					
+		3 whether published or no ?					
+		3 whether archaeological or no ?					
+							
+							
+							
+							
+							
+							
+	0 of 5	classes of type or form or format	level	eg	confidence in level stability		
+		data	0		level secure		
+		data - extant	1	vars	level secure		
+		data - not extant	1	vars	level secure		
+		data - extant - not recorded	2	"pottery, ships, toponyms"	level secure		
+		data - extant - recorded	2		level secure		
+		data - extant - not recorded - archaeological	3	eg vars Barcadares spots	level secure		
+		data - extant - not recorded - not archaeological	3	"eg toponyms, legends"	level secure		
+		data - extant - recorded - not published	3		level not secure		
+		data - extant - recorded - published	3		level not secure		
+		data - extant - recorded - cartographic	3		level not secure		
+		data - extant - recorded - not cartographic	3		level not secure		
+		data - extant - recorded - textual	3		level not secure		
+		data - extant - recorded - not textual	3		level not secure		
+		data - extant - not recorded - archaeological - excavated	4	eg vars Barcadares spots			
+		data - extant - not recorded - archaeological - not excavated	4	eg vars			
+		data - extant - recorded - not published - cartographic	4	eg vars manuscript maps			
+		data - extant - recorded - not published - not cartographic	4	eg vars manuscript letters			
+		data - extant - recorded - published - cartographic	4				
+		data - extant - recorded - published - not cartographic	4				
+		data - extant - recorded - not published - not cartographic - not public	5	eg business records			
+		data - extant - recorded - not published - not cartographic - public	5	eg state archives			
+		data - extant - recorded - published - not cartographic - ephemera	5	"eg newspapers, pamphlets"			
+		data - extant - recorded - published - not cartographic - not ephemera	5	eg books			
+		data - extant - recorded - not published - not cartographic - public - Hispanic	6	eg AGI			
+		data - extant - recorded - not published - not cartographic - public - not Hispanic	6	eg Staadsarchief			
+		data - extant - recorded - published - not cartographic - ephemera - Hispanic	6				
+		data - extant - recorded - published - not cartographic - ephemera - not Hispanic	6				
+		data - extant - recorded - published - not cartographic - not ephemera - Hispanic	6				
+		data - extant - recorded - published - not cartographic - not ephemera - not Hispanic	6				
+							
+							
+							
+							
+							
+	1 of 5	classes of subjects or topic material covered by or associated with data	level	eg	confidence in level stability		
+		subjects	0		level secure		
+		subjects - primary	1	eg main subject or topic covered	level not secure		
+		subjects - not primary	1		level not secure		
+		subjects - geographic	1		level not secure		
+		subjects - not geographic	1		level not secure		
+							
+							
+							
+							
+	2 of 5	classes of subjects or topic material covered by or associated with data	level	eg	confidence in level stability		
+		data - extant - recorded	2				
+		data - extant - recorded - primary source	3	"eg contemporary letters, news"			
+		data - extant - recorded - not primary source	3	eg diachronous historical work			
+		data - extant - recorded - not primary source - scholarly source	4	eg archival-based peer-reviewed papers	level not secure		
+		data - extant - recorded - not primary source - not scholarly source	4		level not secure		
+		data - extant - recorded - not primary source - secondary source	4	eg focussed specialist work using primary sources	level not secure		
+		data - extant - recorded - not primary source - not secondary source	4	"eg survey work not using primary sources eg Britannica, handbooks, Oxford Bibliographies"	level not secure		
+							
+							
+							
+							
+							
+							
+	3 of 5	classes of subjects or topic material covered by or associated with data	level	eg	confidence in level stability		
+		subjects - geographic	1		level not secure		
+		subjects - geographic - physical	2				
+		subjects - geographic - not physical	2				
+		subjects - geographic - physical - Bay of Honduras	3				
+		subjects - geographic - physical - not Bay of Honduras	3	"eg Mosquito Shore, Campeachy"			
+		subjects - geographic - not physical - Hispanic	3				
+		subjects - geographic - not physical - not Hispanic	3				
+		subjects - geographic - not physical - Hispanic - New Spain	4	"eg Yucatan, Goathemala provinces"			
+		subjects - geographic - not physical - Hispanic - not New Spain	4	eg Hispaniola colony			
+		subjects - geographic - not physical - not Hispanic - de jure	4	eg Old Prov colony			
+		subjects - geographic - not physical - not Hispanic - not de jure	4	eg Mesquite Shore settlement			
+							
+							
+							
+							
+	4 of 5	classes of subjects or topic material covered by or associated with data	level	eg	confidence in level stability		
+		subjects	0		level secure		
+		subjects - piracy	1				
+		subjects - not piracy	1				
+		subjects - smuggling	1				
+		subjects - not smuggling	1				
+		subjects - settlement	1				
+		subjects - not settlement	1				
+		subjects - defence	1				
+		subjects - not defence	1				
+		subjects - inter ethnic relations	1				
+		subjects - not inter ethnic relations	1				
+		subjects - piracy - Hispanic	2				
+		subjects - piracy - not Hispanic	2				
+		subjects - piracy - not Hispanic - British	3				
+		subjects - piracy - not Hispanic - not British	3	"eg Dutch, French"			
+		subjects - piracy - buccaneering	2	eg pirates mainly resident in Caribbean			
+		subjects - piracy - not buccaneering	2	eg non-resident pirates eg Elizabethan sea dogs			
+		subjects - smuggling - in New World ports	2	eg Truxillo			
+		subjects - smuggling - not in New World ports	2				
+		subjects - defence - Hispanic	2				
+		subjects - defence - not Hispanic	2				
+		subjects - defence - Hispanic - naval	3				
+		subjects - defence - Hispanic - not naval	3				
+
+
+Sheet 1-1-1: Table 1
+						
+						
+						
+						
+						
+						
+						
+						
+			dasd			
+						
+						
+						
+						
+						
+						
+	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 		
+	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 		
+						
+		asdf	asdf	asdf		
+
+
+Sheet 1-1-1-1: Table 1
+						
+						
+						
+						
+						
+						
+						
+						
+			dasd			
+						
+						
+						
+						
+						
+						
+	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 		
+	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 		
+						
+		asdf	asdf	asdf		
+
+
+Sheet 1-1-1-1-1: Table 1
+						
+						
+						
+						
+						
+						
+						
+						
+			dasd			
+						
+						
+						
+						
+						
+						
+	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 		
+	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 	asd sad f pdf pdf sd f. dfa sdf. ds ds asd a sd 		
+						
+		asdf	asdf	asdf		

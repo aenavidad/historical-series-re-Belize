@@ -1,0 +1,1018 @@
+Meta: Table 1
+	Datapoints	Excluded		
+< 1790	46	1		
+> 1790	89	0		
+Exports				
+
+
+Sum: Table 1
+Yr	Population	Note
+1638	70	Median
+1639	70	Median
+1640	70	Median
+1641	70	Median
+1642	70	Median
+1643	70	Median
+1644	70	Median
+1645	70	Median
+1646	70	Median
+1647	70	Median
+1648	70	Median
+1649	70	Median
+1650	70	Median
+1651	70	Median
+1652	70	Median
+1653	70	Median
+1654	70	Median
+1655	70	Median
+1656	70	Median
+1657	70	Median
+1658	70	Median
+1659	70	Median
+1660	70	Median
+1661	70	Median
+1662	70	Median
+1663	84	Median
+1664	91	Median
+1665	99	Median
+1666	106	Median
+1667	113	Median
+1668	120	Median
+1669	128	Median
+1670	135	Median
+1671	270	Median
+1672	405	Median
+1673	250	Median
+1674	181	Median
+1675	113	Median
+1676	116	Median
+1677	120	Median
+1678	124	Median
+1679	128	Median
+1680	132	Median
+1681	136	Median
+1682	140	Median
+1683	146	Median
+1684	152	Median
+1685	158	Median
+1686	165	Median
+1687	171	Median
+1688	177	Median
+1689	183	Median
+1690	190	Median
+1691	196	Median
+1692	202	Median
+1693	208	Median
+1694	215	Median
+1695	221	Median
+1696	227	Median
+1697	233	Median
+1698	240	Median
+1699	246	Median
+1700	252	Median
+1701	258	Median
+1702	265	Median
+1703	271	Median
+1704	277	Median
+1705	283	Median
+1706	290	Median
+1707	296	Median
+1708	302	Median
+1709	308	Median
+1710	315	Median
+1711	321	Median
+1712	327	Median
+1713	333	Median
+1714	330	Median
+1715	360	Median
+1716	391	Median
+1717	422	Median
+1718	453	Median
+1719	407	Median
+1720	204	Median
+1721	390	Median
+1722	576	Median
+1723	864	Median
+1724	"1,037"	Median
+1725	985	Median
+1726	"1,035"	Median
+1727	931	Median
+1728	838	Median
+1729	419	Median
+1730	503	Median
+1731	30	Median
+1732	9	Median
+1733	11	Median
+1734	106	Median
+1735	200	Median
+1736	264	Median
+1737	347	Median
+1738	458	Median
+1739	603	Median
+1740	796	Median
+1741	670	Median
+1742	545	Median
+1743	420	Median
+1744	295	Median
+1745	170	Median
+1746	224	Median
+1747	278	Median
+1748	332	Median
+1749	386	Median
+1750	440	Median
+1751	608	Median
+1752	28	Median
+1753	500	Median
+1754	11	Median
+1755	319	Median
+1756	478	Median
+1757	574	Median
+1758	191	Median
+1759	76	Median
+1760	215	Median
+1761	353	Median
+1762	492	Median
+1763	630	Median
+1764	769	Median
+1765	907	Median
+1766	"1,092"	Median
+1767	"1,038"	Median
+1768	"1,090"	Median
+1769	"1,144"	Median
+1770	"1,201"	Median
+1771	601	Median
+1772	901	Median
+1773	891	Median
+1774	881	Median
+1775	870	Median
+1776	860	Median
+1777	850	Median
+1778	824	Median
+1779	15	Median
+1780	15	Median
+1781	15	Median
+1782	824	Median
+1783	905	Median
+1784	995	Median
+1785	"1,092"	Median
+1786	"1,200"	Median
+1787	"3,408"	Median
+1788	"3,103"	Median
+1789	"2,798"	Median
+1790	"2,493"	
+1791	"2,606"	
+1792	"2,719"	
+1793	"2,831"	
+1794	"2,944"	
+1795	"3,057"	
+1796	"3,170"	
+1797	"3,282"	
+1798	"3,395"	
+1799	"3,508"	
+1800	"3,621"	
+1801	"3,733"	
+1802	"3,846"	
+1803	"3,959"	
+1804	"3,914"	
+1805	"3,869"	
+1806	"3,824"	
+1807	"3,841"	
+1808	"3,857"	
+1809	"3,874"	
+1810	"3,891"	
+1811	"3,907"	
+1812	"3,924"	
+1813	"3,941"	
+1814	"3,957"	
+1815	"3,974"	
+1816	"3,990"	
+1817	"4,007"	
+1818	"4,024"	
+1819	"4,040"	
+1820	"4,057"	
+1821	"4,074"	
+1822	"4,090"	
+1823	"4,107"	
+1824	"4,622"	
+1825	"5,138"	
+1826	"5,653"	
+1827	"5,180"	
+1828	"4,708"	
+1829	"4,235"	
+1830	"4,336"	
+1831	"4,436"	
+1832	"4,537"	
+1833	"3,872"	
+1834	"3,208"	
+1835	"2,543"	
+1836	"3,492"	
+1837	"4,440"	
+1838	"5,389"	
+1839	"6,338"	
+1840	"7,286"	
+1841	"8,235"	
+1842	"8,718"	
+1843	"9,201"	
+1844	"9,685"	
+1845	"10,168"	
+1846	"10,651"	
+1847	"11,134"	
+1848	"11,618"	
+1849	"12,101"	
+1850	"12,584"	
+1851	"13,067"	
+1852	"13,550"	
+1853	"14,034"	
+1854	"14,517"	
+1855	"15,000"	
+1856	"16,773"	
+1857	"18,545"	
+1858	"20,318"	
+1859	"22,090"	
+1860	"23,863"	
+1861	"25,635"	
+1862	"25,543"	
+1863	"25,450"	
+1864	"25,358"	
+1865	"25,265"	
+1866	"25,173"	
+1867	"25,080"	
+1868	"24,988"	
+1869	"24,895"	
+1870	"24,803"	
+1871	"24,710"	
+1872	"24,984"	
+1873	"25,258"	
+1874	"25,533"	
+1875	"25,807"	
+1876	"26,081"	
+1877	"26,355"	
+1878	"26,629"	
+1879	"26,904"	
+1880	"27,178"	
+1881	"27,452"	
+1882	"27,854"	
+1883	"28,256"	
+1884	"28,658"	
+1885	"29,060"	
+1886	"29,462"	
+1887	"29,863"	
+1888	"30,265"	
+1889	"30,667"	
+1890	"31,069"	
+1891	"31,471"	
+1892	"32,072"	
+1893	"32,673"	
+1894	"33,273"	
+1895	"33,874"	
+1896	"34,475"	
+1897	"35,076"	
+1898	"35,677"	
+1899	"36,277"	
+1900	"36,878"	
+1901	"37,479"	
+1902	"37,777"	
+1903	"38,075"	
+1904	"38,373"	
+1905	"38,671"	
+1906	"38,969"	
+1907	"39,266"	
+1908	"39,564"	
+1909	"39,862"	
+1910	"40,160"	
+1911	"40,458"	
+1912	"40,944"	
+1913	"41,430"	
+1914	"41,916"	
+1915	"42,402"	
+1916	"42,888"	
+1917	"43,373"	
+1918	"43,859"	
+1919	"44,345"	
+1920	"44,831"	
+1921	"45,317"	
+1922	"45,920"	
+1923	"46,523"	
+1924	"47,126"	
+1925	"47,729"	
+1926	"48,332"	
+1927	"48,935"	
+1928	"49,538"	
+1929	"50,141"	
+1930	"50,744"	
+1931	"51,347"	
+1932	"51,872"	
+1933	"52,397"	
+1934	"52,922"	
+1935	"53,446"	
+1936	"53,971"	
+1937	"54,496"	
+1938	"55,021"	
+1939	"55,546"	
+1940	"56,071"	
+1941	"56,596"	
+1942	"57,121"	
+1943	"57,645"	
+1944	"58,170"	
+1945	"58,695"	
+1946	"59,220"	
+1947	"61,455"	
+1948	"63,689"	
+1949	"65,639"	
+1950	"68,537"	
+1951	"70,567"	
+1952	"72,899"	
+1953	"75,320"	
+1954	"77,596"	
+1955	"80,110"	
+1956	"81,950"	
+1957	"84,450"	
+1958	"87,096"	
+1959	"88,878"	
+1960	"90,507"	
+1961	"93,586"	
+1962	"98,453"	
+1963	"100,165"	
+1964	"103,069"	
+1965	"106,120"	
+1966	"109,348"	
+1967	"112,707"	
+1968	"116,065"	
+1969	"119,269"	
+1970	"122,184"	
+1971	"124,795"	
+1972	"127,152"	
+1973	"129,294"	
+1974	"131,305"	
+1975	"133,264"	
+1976	"135,143"	
+1977	"136,990"	
+1978	"138,975"	
+1979	"141,302"	
+1980	"144,142"	
+1981	"147,572"	
+1982	"151,486"	
+1983	"155,820"	
+1984	"160,341"	
+1985	"164,918"	
+1986	"169,569"	
+1987	"174,333"	
+1988	"179,023"	
+1989	"183,471"	
+1990	"187,554"	
+1991	"191,136"	
+1992	"194,324"	
+1993	"197,625"	
+1994	"201,679"	
+1995	"206,962"	
+1996	"213,660"	
+1997	"221,575"	
+1998	"230,248"	
+1999	"238,979"	
+2000	"247,310"	
+2001	"255,068"	
+2002	"262,387"	
+2003	"269,428"	
+2004	"276,516"	
+2005	"283,798"	
+2006	"291,338"	
+2007	"299,031"	
+2008	"306,822"	
+2009	"314,655"	
+2010	"322,465"	
+2011	"330,236"	
+2012	"338,001"	
+2013	"345,707"	
+2014	"353,366"	
+2015	"360,926"	
+2016	"368,399"	
+2017	"375,775"	
+2018	"383,071"	
+2019	"390,351"	
+2020	"397,621"	
+
+
+< 1790: Table 1
+Yr	Log	£	Date	Event	Desc	Source	A L	A U	Cf	E L Ev	E U Ev	Cf	L Splice	U Splice	L Extra	U Extra	Formula	L Fin	U Fin
+1638	0			// Pirate raids	c ? 70 crew camping	Vars				50	90		50	90				50	90
+1639	0														50	90	Con	50	90
+1640	0														50	90	Con	50	90
+1641	0														50	90	Con	50	90
+1642	0														50	90	Con	50	90
+1643	0														50	90	Con	50	90
+1644	0														50	90	Con	50	90
+1645	0														50	90	Con	50	90
+1646	0														50	90	Con	50	90
+1647	0														50	90	Con	50	90
+1648	0														50	90	Con	50	90
+1649	0														50	90	Con	50	90
+1650	0														50	90	Con	50	90
+1651	0														50	90	Con	50	90
+1652	0														50	90	Con	50	90
+1653	0														50	90	Con	50	90
+1654	0														50	90	Con	50	90
+1655	0														50	90	Con	50	90
+1656	0														50	90	Con	50	90
+1657	0														50	90	Con	50	90
+1658	0														50	90	Con	50	90
+1659	0														50	90	Con	50	90
+1660	0														50	90	Con	50	90
+1661	0														50	90	Con	50	90
+1662															50	90	Con	50	90
+1663															60	108	Growth 1.2	60	108
+1664															69	114	Inter	69	114
+1665															77	120	Inter	77	120
+1666															86	126	Inter	86	126
+1667															94	132	Inter	94	132
+1668															103	138	Inter	103	138
+1669															111	144	Inter	111	144
+1670			? ?		c ? Bay men from Belize R. settle New & Hondo Rivers after 29 May 1652 destruction of Bacalar town	Read’s Weekly Journal or British Gazetteer 375 London 1732 p 3				120	150	1226 III CSPC 7	120	150				120	150
+1671															240	300	Med	240	300
+1672			28 Sep		c 900 at Beef Island near Triste	940 CSPC 7				360	450		360	450				360	450
+1673			"5 Mar
+
+
+8 Jul"		"c 300 residing winter & summer at Yucatan for eight years past
+
+c 500 or 600 loggers & privateers at Campeachy"	"1226 III CSPC 7
+
+
+1115 CSPC 7"				200	300	1115 CSPC 7	200	300				200	300
+1674															150	213	Med	150	213
+1675			? Sep		c 250 settled in Campeachy	W. Dampier Voyages and descriptions v 2 part II “The Campeachy Voyages” London 1700				100	125		100	125				100	125
+1676															100	133	Inter	100	133
+1677															100	141	Inter	100	141
+1678															100	149	Inter	100	149
+1679															100	156	Inter	100	156
+1680															100	164	Inter	100	164
+1681			23 Nov	// Attack & expulsion at Campeachy	c 80 or 90 loggers surrendered to Spanish at Triste; many others escaped imprisonment	303 CSPC 11									100	172	Inter	100	172
+1682			29 Aug		c 200 to 300 loggers at Yucatan & New Spain	668 CSPC 11				100	180		100	180				100	180
+1683															106	186	Inter	106	186
+1684															113	192	Inter	113	192
+1685															119	198	Inter	119	198
+1686	444														125	204	Inter	125	204
+1687	402														131	211	Inter	131	211
+1688	"1,984"														138	217	Inter	138	217
+1689	"1,040"														144	223	Inter	144	223
+1690	320														150	229	Inter	150	229
+1691															156	236	Inter	156	236
+1692															163	242	Inter	163	242
+1693															169	248	Inter	169	248
+1694															175	254	Inter	175	254
+1695															181	261	Inter	181	261
+1696															188	267	Inter	188	267
+1697	623														194	273	Inter	194	273
+1698	"1,067"														200	279	Inter	200	279
+1699	"2,843"														206	286	Inter	206	286
+1700	"6,618"														213	292	Inter	213	292
+1701	"4,792"		1 Jun	// Attacks & expulsions at Campeachy & Honduras	"Spaniards have “made some Descents in the Bay of Campeachy, and on the Coast of Honduras, where they have burnt Houses, and drove away the People”"	Flying Post 944 London 1701 p 2									219	298	Inter	219	298
+1702	"4,434"		15 May		England / GB (part of Grand Alliance) declares war on France & Spain										225	304	Inter	225	304
+1703	"2,422"														231	311	Inter	231	311
+1704	"1,209"														238	317	Inter	238	317
+1705			? Sep	Belize appraised as one of principal sources of logwood for English	“River of Bully” (60 leagues from Porto Cavallo) = one of principal sources of logwood for English	CO 137/51 ff ?									244	323	Inter	244	323
+1706	321														250	329	Inter	250	329
+1707	829														256	336	Inter	256	336
+1708	"1,290"														263	342	Inter	263	342
+1709	826														269	348	Inter	269	348
+1710	653														275	354	Inter	275	354
+1711	470														281	361	Inter	281	361
+1712			? Jul	// Attacks & expulsions at Campeachy “some Time before”	"c 7 or 8 English, 12 slaves near Triest, after Spanish routing “some Time before”"	N. Uring A history of the voyages and travels of Capt. Nathaniel Uring p 246 London 1726									288	367	Inter	288	367
+1713	"2,190"		13 Jul		GB signs Peace of Utrecht with Spain										294	373	Inter	294	373
+1714	"4,766"									300	360	BNL 596; A. B. 1726	300	360				300	360
+1715	"5,860"		19 Sep	// Famine at Campeachy	"c 200 loggers gone from Campeachy, few remain starving, several Negroes dyed"	Boston News-Letter 596 Boston 1715 p 2				320	400		320	400				320	400
+1716	"2,056"		"? Feb
+
+
+10 Dec"	"
+
+
+// Attack & expulsion at Campeachy"	"c 150 “Men Whites and Blacks” held by Spanish in Campeachy
+
+c 50 loggers escape imprisonment by Spanish at Triste; Spanish hold & settle Triste & Terminos"	"Boston News-Letter 629 Boston 1716 p 2
+
+
+484 X CSPC 29"									349	433	Inter	349	433
+1717	"1,148"		"8 Apr
+
+
+
+? ?"		"c 200 to 300 loggers in Campeachy before Nov 1716 Spanish expulsion hadn’t surrendered, were “are Raving about in Perry-augers”
+
+c 400 loggers in Campeachy before Nov 1716 Spanish expulsion (= 2000 men employed in logwood trade ÷ 100 sail employed likewise, of which “upwards of 20 Sail” seized by Spanish in two attacks)"	"Boston News-Letter 677 Boston 1717 p 2
+
+
+
+A. B. The state of the island of Jamaica London 1726 p 15-6"									378	466	Inter	378	466
+1718	"1,175"		? ?	Campeachy loggers logging in Honduras	"Campeachy loggers, driven from Campeachy, “followed the same business in the bay of Honduras”"	"W. Douglas A summary, historical and political, of the first planting, progressive improvements, and present state of the British settlements in North-America 2 London 1755 p 88"									407	499	Inter	407	499
+1719	740														366	449	Decay 0.9	366	449
+1720	343														183	224	Decay 0.5	183	224
+1721	"1,798"														353	427	Median	353	427
+1722	"1,130"		? Aug		c 500 Merchants & Slaves at Barcadares on Belize R.	"J. Atkins A voyage to Guinea, Brasil and the West-Indies in His Majesty's ships, the Swallow and Weymouth London 1737 p 227"				523	630		523	630				523	630
+1723	"2,274"														784	945	Growth 1.5	784	945
+1724	"3,347"		15 Jul	// Attack & imprisonment of 7 or 8 sloops in Honduras	"c 7 or 8 sloops in Honduras, “gone thither to cut Logwood”, seized by Spanish man-of-war; men taken as slaves"	Parker’s London News or the Impartial Intelligencer 883 London 1724 p 5									941	"1,134"	Growth 1.2	941	"1,134"
+1725	"3,221"														893	"1,077"	Decay 0.95	893	"1,077"
+1726	"3,588"														938	"1,131"	Growth 1.05	938	"1,131"
+1727	"3,109"														844	"1,018"	Decay 0.9	844	"1,018"
+1728															760	916	Decay 0.9	760	916
+1729	989														380	458	Decay 0.5	380	458
+1730	"1,505"		18 Aug	// Attack & imprisonment of 30 loggers at New R.	c 30 English loggers at New River imprisoned in Spanish raid	London Journal 532 London 1729 p 5									456	550	Growth 1.2	456	550
+1731	781		24 Nov	// Evacuation of Honduras	"c 30 Persons remain at Hondo, New & Belize R., “under such Hardships, that they wish for nothing more, than an Opportunity to be gone.”"	Read’s Weekly Journal or British Gazetteer 375 London 1732 p 3	29	32					29	32				29	32
+1732	"1,189"		22 Jul		"c 8 or 9 Baymen left in Honduras, “hide in the Woods till they can get an Opportunity of transporting themselves to some other Place more secure.”"	Universal Spectator and Weekly Journal 198 London 1732 p 3	8	9					8	9				8	9
+1733	"1,461"		3 Oct		"c 2 “Families” left in Honduras, “most"" Baymen gone to Merida & Campeche with Servants etc. on promise of employment by Spanish"	Weekly Rehearsal 106 Boston 1733 p 2				8	14		8	14				8	14
+1734	"1,262"														99	112	Median	99	112
+1735	"1,595"		"6 Aug
+
+
+12 Oct"	// Presence of loggers in Honduras noted	"c 0 English loggers in Campeachy, c 200 in Honduras
+
+
+“the Fleet was there [Belize River] … [and] had met no Disturbance from the Spaniards”"	"Aug 1735 v 44 Journals of the Board of Trade and Plantations v 7 London 1930
+
+Boston Gazette 824 Boston 1735 p 3"	190	210	JBTP 7 1930				190	210				190	210
+1736	"2,232"														254	274	Inter 1746-50	254	274
+1737	"2,177"														338	356	Inter 1746-50	338	356
+1738	"2,520"														451	464	Inter 1746-50	451	464
+1739	"1,945"		22 Oct	// Start of War of Jenkins’ Ear	Start of War of Jenkins’ Ear										602	604	Inter 1746-50	602	604
+1740	"1,997"														804	787	Inter 1746-50	804	787
+1741	"1,289"														675	666	Inter	675	666
+1742	"1,031"														547	544	Inter	547	544
+1743	"1,299"														418	422	Inter	418	422
+1744	495														290	300	Inter	290	300
+1745	574		8 June		"c 170 inhabitants, 50 English + 120 slaves, in ? [Honduras]"	CO 137/48 ff ?	162	179					162	179				162	179
+1746	137														216	233	Inter	216	233
+1747	596														270	287	Inter	270	287
+1748	"1,747"														324	341	Inter	324	341
+1749	"1,234"		18 Oct	// End of War of Jenkins’ Ear	End of War of Jenkins’ Ear										378	395	Inter	378	395
+1750	"4,660"														432	449	Inter	432	449
+1751	"7,386"		14 Jul		"129 English Baymen = 7 small Sloops, taken from New R. by Spanish; 57 Sail at Belize R. (implied to be > 180 men)"	Boston Gazette 1643 Boston 1751 p 2				486	729		486	729				486	729
+1752	"5,368"		1 May	// Evacuation of Honduras	"c 5 “Families” left in Honduras, “most of the Bay-men” from Honduras now at Mosquito Shore (at least 40), driven away by “being daily routed by the Spaniards”"	New-York Mercury 16 NYC 1752 p 2				20	35		20	35				20	35
+1753	"3,912"									450	550	LEP 4234	450	550				450	550
+1754	"3,214"		"? Apr
+
+
+2 Oct
+
+
+
+
+22 Oct"	"// Battle at Belize Town with Spanish force
+
+// Evacuation of Honduras & settlement of Honduras by Spanish"	"210 Baymen, “principally slaves”, drive off incoming Spanish force from Belize town
+
+""the Baymen [have] deserted the Bay of Honduras, and, to the Number of 500, [are] actually arrived on the Musqueto Shore; … there remain in the Bay only ten or eleven very old Negroes”
+
+“The Bay of Honduras is settled by Spaniards.”"	"Antigua Weekly Register XV 759 St. John’s (Antigua & Barbuda) 1818 p 4
+
+London Evening Post 4234 London 1754 p 3
+
+
+
+London Evening Post 4228 London 1754 p 3"	10	11	LEP 4234				10	11				10	11
+1755	"2,545"		11 Feb	// Evacuation of Spanish from Honduras	"“Spaniards have orders from Old Spain to evacuate the Bay of Honduras, and let the English remain in quiet Possession thereof.”"	Antigua Gazette 130 St. John’s (Antigua & Barbuda) 1755 p 3									225	413	Fraction 1753	225	413
+1756	"4,803"														338	619	Growth 1.5	338	619
+1757	"4,158"		? ?	// Presence of loggers in Honduras noted	"c 1,500 men in Honduras"	E. Burke & W Burke An account of the European settlements in America 2 London 1757 p 71									405	743	Growth 1.2	405	743
+1758	"3,937"		19 Nov	// Evacuation of Honduras	“in Fear of a Rout … The greatest Part have … quit the Bay” of Honduras	Pennsylvania Gazette 1568 Philadelphia 1759 p 3									135	248	Decay 1/3	135	248
+1759	"4,851"		"23 Apr
+
+
+24 Oct"	"// Evacuation of Honduras
+
+
+// Presence of min. 61 loggers & slaves noted at Belize R."	"“the Bay [of Honduras] is almost evacuated”
+
+
+31 English Baymen + 30 Negroes “belonging to several Baymen” taken from Belize R. by Spanish “a few days ago”; saved from imprisonment by Capt. Owens"	"Pennsylvania Gazette 1589 Philadelphia 1759 p 3
+
+Pennsylvania Gazette 1624 Philadelphia 1760 p 3"				73	79		73	79				73	79
+1760	"1,853"														212	218	Inter	212	218
+1761	878														350	356	Inter	350	356
+1762	"1,984"		4 Jan		GB declares war on Spain										489	495	Inter	489	495
+1763	"3,567"		"10 Feb
+
+29 Dec"	"
+
+// Presence of 20 property owners noted at New & Hondo R."	"GB enters Treaty of Paris with Spain & others
+
+c / min 20 Baymen in New & Hondo River before evacuation order by G of Yucatan"	"
+
+CO 5/119 Part 1 ff 96-7"									627	633	Inter	627	633
+1764	"4,503"														766	772	Inter	766	772
+1765	"6,058"														904	911	Inter	904	911
+1766	"10,539"	"11,601"													"1,043"	"1,142"	1785	"1,043"	"1,142"
+1767	"9,099"	"15,611"													991	"1,085"	Decay 0.95	991	"1,085"
+1768	"9,598"	"34,633"													"1,040"	"1,139"	Growth 1.05	"1,040"	"1,139"
+1769	"10,368"	"7,456"													"1,092"	"1,196"	Growth 1.05	"1,092"	"1,196"
+1770	"10,590"	"85,659"	3 Oct	// Presence of “several” property owners noted at Ambergris Caye	"“about six weeks ago, a Spanish Pettiauger, … , from Baccalar, went to an Island in the Bay, called Ambergris, burnt several small Houses, and carried off a Negroe, under Pretence that the English had no Right to cut Wood there.”"	Pennsylvania Gazette 2189 Philadelphia 1770 p 3									"1,147"	"1,256"	Growth 1.05	"1,147"	"1,256"
+1771	"3,466"	"34,087"													573	628	Decay 0.5	573	628
+1772	"6,663"	"51,080"													860	942	Growth 1.5	860	942
+1773	"2,181"	"21,378"													850	932	Inter	850	932
+1774	"1,978"	"25,254"													840	921	Inter	840	921
+1775	"2,754"	"43,180"													829	911	Inter	829	911
+1776	"1,548"	"30,007"													819	901	Inter	819	901
+1777	"1,893"	"27,744"													809	891	Inter	809	891
+1778	"2,264"	"44,004"													799	850	1782	799	850
+1779	"4,403"	"10,690"	"? Jun
+
+28 Aug
+
+
+15 Sep"	"// Spain enters US Independence War
+
+
+
+// Attack & imprisonment of 95 to 100 at St. George’s Caye; & evacuation of Honduras"	"Spain enters US war against GB
+
+c 200 Baymen + 500 slaves fit for combat in ? [Honduras]
+
+Attack on St. George’s Caye; c 95 to 100 English Baymen imprisoned; c / min 100 escaped"	"
+
+CO 137/75 ff ?"				8	21	WR 106; LEP 4234	8	21				8	21
+1780	"4,296"	14								8	21	WR 106; LEP 4234	8	21				8	21
+1781	"3,057"									8	21	WR 106; LEP 4234	8	21				8	21
+1782	"1,441"		"? Jul
+
+
+16 Sep"	"// Release of imprisoned Baymen
+
+// Resettlement of Honduras"	"Imprisoned Baymen released
+
+
+Baymen resettle Honduras"										799	850	Inter 1788-9	799	850
+1783	"1,140"		? Sep	// End of US Independence War	GB enters Treaty of Versailles with Spain										873	938	Inter 1788-9	873	938
+1784	"2,323"														954	"1,035"	Inter 1788-9	954	"1,035"
+1785	"11,683"														"1,043"	"1,142"	Inter 1788-9	"1,043"	"1,142"
+1786	"15,472"		1 Jul	Daily increase of population noted	“Settlers at the Bay [of Honduras] … daily increase”	"Pennsylvania Journal, or, Weekly Advertiser 2094 Philadelphia 1786 p 2"	"1,140"	"1,260"	SLMG I 29				"1,140"	"1,260"				"1,140"	"1,260"
+1787	"8,795"		21 Jun	// Evacuation of Mosquito Shore completed	"Evacuation of Mosquito Shore completed
+
+c 15 sloops and schooners at Belize R. & St. Georges; 22 or 23 at Hondo & New R.; c 1,000 people resident at “Bellize-point”; 
+
+3408 inhabitants, of which 1200 = old Baymen, rest being relocated people from Mosquito Shore"	"
+
+Daily Advertiser IV 902 NYC 1788 p 2
+
+
+
+Savannah-la-Mar Gazette I 29 Savannah-la-Mar (Jamaica) 1788 p 3"	"3,348"	"3,468"	SLMG I 29				"3,348"	"3,468"				"3,348"	"3,468"
+1788	"6,334"														"3,063"	"3,143"	Inter	"3,063"	"3,143"
+1789															"2,778"	"2,818"	Inter	"2,778"	"2,818"
+1790			22 Oct	First census	2493 inhabitants	CO 123/9 ff ?	"2,493"	"2,493"					"2,493"	"2,493"				"2,493"	"2,493"
+
+
+> 1790: Table 1
+Yr	Census	Source	UN	Inter	Fin	Note
+1790	"2,493"	SIB		"2,493"	"2,493"	
+1791				"2,606"	"2,606"	
+1792				"2,719"	"2,719"	
+1793				"2,831"	"2,831"	
+1794				"2,944"	"2,944"	
+1795				"3,057"	"3,057"	
+1796				"3,170"	"3,170"	
+1797				"3,282"	"3,282"	
+1798				"3,395"	"3,395"	
+1799				"3,508"	"3,508"	
+1800				"3,621"	"3,621"	
+1801				"3,733"	"3,733"	
+1802				"3,846"	"3,846"	
+1803				"3,959"	"3,959"	
+1804				"3,914"	"3,914"	
+1805				"3,869"	"3,869"	
+1806	"3,824"	SIB		"3,824"	"3,824"	
+1807				"3,841"	"3,841"	
+1808				"3,857"	"3,857"	
+1809				"3,874"	"3,874"	
+1810				"3,891"	"3,891"	
+1811				"3,907"	"3,907"	
+1812				"3,924"	"3,924"	
+1813				"3,941"	"3,941"	
+1814				"3,957"	"3,957"	
+1815				"3,974"	"3,974"	
+1816				"3,990"	"3,990"	
+1817				"4,007"	"4,007"	
+1818				"4,024"	"4,024"	
+1819				"4,040"	"4,040"	
+1820				"4,057"	"4,057"	
+1821				"4,074"	"4,074"	
+1822				"4,090"	"4,090"	
+1823	"4,107"	SIB		"4,107"	"4,107"	
+1824				"4,622"	"4,622"	
+1825				"5,138"	"5,138"	
+1826	"5,653"	SIB		"5,653"	"5,653"	
+1827				"5,180"	"5,180"	
+1828				"4,708"	"4,708"	
+1829	"4,235"	SIB		"4,235"	"4,235"	
+1830				"4,336"	"4,336"	
+1831				"4,436"	"4,436"	
+1832	"4,537"	SIB		"4,537"	"4,537"	
+1833				"3,872"	"3,872"	
+1834				"3,208"	"3,208"	
+1835	"2,543"	SIB		"2,543"	"2,543"	
+1836				"3,492"	"3,492"	
+1837				"4,440"	"4,440"	
+1838				"5,389"	"5,389"	
+1839				"6,338"	"6,338"	
+1840				"7,286"	"7,286"	
+1841	"8,235"	SIB		"8,235"	"8,235"	
+1842				"8,718"	"8,718"	
+1843				"9,201"	"9,201"	
+1844				"9,685"	"9,685"	
+1845				"10,168"	"10,168"	
+1846				"10,651"	"10,651"	
+1847				"11,134"	"11,134"	
+1848				"11,618"	"11,618"	
+1849				"12,101"	"12,101"	
+1850				"12,584"	"12,584"	
+1851				"13,067"	"13,067"	
+1852				"13,550"	"13,550"	
+1853				"14,034"	"14,034"	
+1854				"14,517"	"14,517"	
+1855				"15,000"	"15,000"	
+1856				"16,773"	"16,773"	
+1857				"18,545"	"18,545"	
+1858				"20,318"	"20,318"	
+1859				"22,090"	"22,090"	
+1860				"23,863"	"23,863"	
+1861	"25,635"	SIB		"25,635"	"25,635"	
+1862				"25,543"	"25,543"	
+1863				"25,450"	"25,450"	
+1864				"25,358"	"25,358"	
+1865				"25,265"	"25,265"	
+1866				"25,173"	"25,173"	
+1867				"25,080"	"25,080"	
+1868				"24,988"	"24,988"	
+1869				"24,895"	"24,895"	
+1870				"24,803"	"24,803"	
+1871	"24,710"	SIB		"24,710"	"24,710"	
+1872				"24,984"	"24,984"	
+1873				"25,258"	"25,258"	
+1874				"25,533"	"25,533"	
+1875				"25,807"	"25,807"	
+1876				"26,081"	"26,081"	
+1877				"26,355"	"26,355"	
+1878				"26,629"	"26,629"	
+1879				"26,904"	"26,904"	
+1880				"27,178"	"27,178"	
+1881	"27,452"	SIB		"27,452"	"27,452"	
+1882				"27,854"	"27,854"	
+1883				"28,256"	"28,256"	
+1884				"28,658"	"28,658"	
+1885				"29,060"	"29,060"	
+1886				"29,462"	"29,462"	
+1887				"29,863"	"29,863"	
+1888				"30,265"	"30,265"	
+1889				"30,667"	"30,667"	
+1890				"31,069"	"31,069"	
+1891	"31,471"	SIB		"31,471"	"31,471"	
+1892				"32,072"	"32,072"	
+1893				"32,673"	"32,673"	
+1894				"33,273"	"33,273"	
+1895				"33,874"	"33,874"	
+1896				"34,475"	"34,475"	
+1897				"35,076"	"35,076"	
+1898				"35,677"	"35,677"	
+1899				"36,277"	"36,277"	
+1900				"36,878"	"36,878"	
+1901	"37,479"	SIB		"37,479"	"37,479"	
+1902				"37,777"	"37,777"	
+1903				"38,075"	"38,075"	
+1904				"38,373"	"38,373"	
+1905				"38,671"	"38,671"	
+1906				"38,969"	"38,969"	
+1907				"39,266"	"39,266"	
+1908				"39,564"	"39,564"	
+1909				"39,862"	"39,862"	
+1910				"40,160"	"40,160"	
+1911	"40,458"	SIB		"40,458"	"40,458"	
+1912				"40,944"	"40,944"	
+1913				"41,430"	"41,430"	
+1914				"41,916"	"41,916"	
+1915				"42,402"	"42,402"	
+1916				"42,888"	"42,888"	
+1917				"43,373"	"43,373"	
+1918				"43,859"	"43,859"	
+1919				"44,345"	"44,345"	
+1920				"44,831"	"44,831"	
+1921	"45,317"	SIB		"45,317"	"45,317"	
+1922				"45,920"	"45,920"	
+1923				"46,523"	"46,523"	
+1924				"47,126"	"47,126"	
+1925				"47,729"	"47,729"	
+1926				"48,332"	"48,332"	
+1927				"48,935"	"48,935"	
+1928				"49,538"	"49,538"	
+1929				"50,141"	"50,141"	
+1930				"50,744"	"50,744"	
+1931	"51,347"	SIB		"51,347"	"51,347"	
+1932				"51,872"	"51,872"	
+1933				"52,397"	"52,397"	
+1934				"52,922"	"52,922"	
+1935				"53,446"	"53,446"	
+1936				"53,971"	"53,971"	
+1937				"54,496"	"54,496"	
+1938				"55,021"	"55,021"	
+1939				"55,546"	"55,546"	
+1940				"56,071"	"56,071"	
+1941				"56,596"	"56,596"	
+1942				"57,121"	"57,121"	
+1943				"57,645"	"57,645"	
+1944				"58,170"	"58,170"	
+1945				"58,695"	"58,695"	
+1946	"59,220"	SIB		"59,220"	"59,220"	
+1947				"61,455"	"61,455"	
+1948				"63,689"	"63,689"	
+1949			"65,354"	"65,924"	"65,639"	Median
+1950			"68,915"	"68,159"	"68,537"	Median
+1951			"70,741"	"70,393"	"70,567"	Median
+1952			"73,171"	"72,628"	"72,899"	Median
+1953			"75,778"	"74,863"	"75,320"	Median
+1954			"78,094"	"77,097"	"77,596"	Median
+1955			"80,888"	"79,332"	"80,110"	Median
+1956			"82,333"	"81,566"	"81,950"	Median
+1957			"85,098"	"83,801"	"84,450"	Median
+1958			"88,156"	"86,036"	"87,096"	Median
+1959			"89,486"	"88,270"	"88,878"	Median
+1960	"90,505"	SIB	"90,508"	"90,505"	"90,507"	Median
+1961			"93,586"		"93,586"	
+1962			"98,453"		"98,453"	
+1963			"100,165"		"100,165"	
+1964			"103,069"		"103,069"	
+1965			"106,120"		"106,120"	
+1966			"109,348"		"109,348"	
+1967			"112,707"		"112,707"	
+1968			"116,065"		"116,065"	
+1969			"119,269"		"119,269"	
+1970			"122,184"		"122,184"	
+1971			"124,795"		"124,795"	
+1972			"127,152"		"127,152"	
+1973			"129,294"		"129,294"	
+1974			"131,305"		"131,305"	
+1975			"133,264"		"133,264"	
+1976			"135,143"		"135,143"	
+1977			"136,990"		"136,990"	
+1978			"138,975"		"138,975"	
+1979			"141,302"		"141,302"	
+1980			"144,142"		"144,142"	
+1981			"147,572"		"147,572"	
+1982			"151,486"		"151,486"	
+1983			"155,820"		"155,820"	
+1984			"160,341"		"160,341"	
+1985			"164,918"		"164,918"	
+1986			"169,569"		"169,569"	
+1987			"174,333"		"174,333"	
+1988			"179,023"		"179,023"	
+1989			"183,471"		"183,471"	
+1990			"187,554"		"187,554"	
+1991			"191,136"		"191,136"	
+1992			"194,324"		"194,324"	
+1993			"197,625"		"197,625"	
+1994			"201,679"		"201,679"	
+1995			"206,962"		"206,962"	
+1996			"213,660"		"213,660"	
+1997			"221,575"		"221,575"	
+1998			"230,248"		"230,248"	
+1999			"238,979"		"238,979"	
+2000			"247,310"		"247,310"	
+2001			"255,068"		"255,068"	
+2002			"262,387"		"262,387"	
+2003			"269,428"		"269,428"	
+2004			"276,516"		"276,516"	
+2005			"283,798"		"283,798"	
+2006			"291,338"		"291,338"	
+2007			"299,031"		"299,031"	
+2008			"306,822"		"306,822"	
+2009			"314,655"		"314,655"	
+2010			"322,465"		"322,465"	
+2011			"330,236"		"330,236"	
+2012			"338,001"		"338,001"	
+2013			"345,707"		"345,707"	
+2014			"353,366"		"353,366"	
+2015			"360,926"		"360,926"	
+2016			"368,399"		"368,399"	
+2017			"375,775"		"375,775"	
+2018			"383,071"		"383,071"	
+2019			"390,351"		"390,351"	
+2020			"397,621"		"397,621"	
+
+
+Exports: Table 1
+Yr	Kingston	England & Wales	Source	Note	England & Wales £	Source		
+1670								
+1671								
+1672								
+1673								
+1674								
+1675								
+1676								
+1677								
+1678								
+1679								
+1680								
+1681								
+1682								
+1683								
+1684								
+1685								
+1686	222.00	444.00	CO 142/13	England & Wales = Kingston ÷ 0.5				
+1687	201.00	402.00	CO 142/13	England & Wales = Kingston ÷ 0.5				
+1688	992.00	"1,984.00"	CO 142/13	England & Wales = Kingston ÷ 0.5				
+1689	520.00	"1,040.00"	CO 142/13	England & Wales = Kingston ÷ 0.5				
+1690	160.00	320.00	CO 142/13	England & Wales = Kingston ÷ 0.5				
+1691								
+1692								
+1693								
+1694								
+1695								
+1696								
+1697		622.56	Cust 3/81					
+1698		"1,067.00"	Cust 3/1					
+1699		"2,843.09"	Cust 3/3					
+1700		"6,618.30"	Cust 3/4					
+1701		"4,791.55"	Cust 3/5					
+1702		"4,434.48"	Cust 3/6					
+1703		"2,421.88"	Cust 3/7					
+1704		"1,209.03"	Cust 3/8					
+1705								
+1706		320.95	Cust 3/9					
+1707		829.47	Cust 3/10					
+1708		"1,289.52"	Cust 3/11					
+1709		825.73	Cust 3/12					
+1710		653.33	Cust 3/13					
+1711		470.33	Cust 3/14					
+1712								
+1713		"2,189.80"	Cust 3/15					
+1714		"4,766.50"	Cust 3/16					
+1715		"5,859.67"	Cust 3/17					
+1716		"2,055.62"	Cust 3/18					
+1717		"1,148.45"	Cust 3/19					
+1718		"1,174.86"	Cust 3/20					
+1719		739.63	Cust 3/21					
+1720		342.75	Cust 3/22					
+1721		"1,798.03"	Cust 3/23					
+1722		"1,130.40"	Cust 3/24					
+1723		"2,273.60"	Cust 3/25					
+1724		"3,347.48"	Cust 3/26					
+1725		"3,220.81"	Cust 3/27					
+1726		"3,588.07"	Cust 3/28B					
+1727		"3,108.98"	Cust 3/82					
+1728								
+1729		989.05	Cust 3/29					
+1730		"1,505.12"	Cust 3/30					
+1731		780.73	Cust 3/31					
+1732		"1,189.41"	Cust 3/32					
+1733		"1,461.12"	Cust 3/33					
+1734		"1,261.73"	Cust 3/34					
+1735		"1,594.55"	Cust 3/35					
+1736		"2,231.85"	Cust 3/36					
+1737		"2,176.78"	Cust 3/37					
+1738		"2,520.25"	Cust 3/38					
+1739		"1,945.37"	Cust 3/39					
+1740		"1,997.20"	Cust 3/40					
+1741		"1,289.17"	Cust 3/41					
+1742		"1,030.73"	Cust 3/42					
+1743		"1,299.07"	Cust 3/43					
+1744		495.11	Cust 3/44					
+1745		574.38	Cust 3/45					
+1746		136.55	Cust 3/46					
+1747		596.29	Cust 3/47					
+1748		"1,747.10"	Cust 3/48					
+1749		"1,233.65"	Cust 3/49					
+1750		"4,659.84"	Cust 3/50					
+1751		"7,386.18"	Cust 3/51					
+1752		"5,368.41"	Cust 3/52					
+1753		"3,912.26"	Cust 3/53					
+1754		"3,213.91"	Cust 3/54					
+1755		"2,545.10"	Cust 3/55					
+1756		"4,802.85"	Cust 3/56					
+1757		"4,158.47"	Cust 3/57					
+1758		"3,937.04"	Cust 3/58					
+1759		"4,851.48"	Cust 3/59					
+1760		"1,852.77"	Cust 3/60					
+1761		878.14	Cust 3/61					
+1762		"1,983.67"	Cust 3/62					
+1763		"3,567.21"	Cust 3/63					
+1764		"4,502.72"	Cust 3/64					
+1765		"6,058.00"	Cust 3/65					
+1766		"10,538.81"	Cust 3/66		"11,601.13"	Cust 3/66		
+1767		"9,098.50"	Cust 3/67		"15,611.41"	Cust 3/67		
+1768		"9,597.59"	Cust 3/68		"34,633.40"	Cust 3/68		
+1769		"10,367.78"	Cust 3/69		"7,456.50"	Cust 3/69		
+1770		"10,590.17"	Cust 3/70		"85,659.36"	Cust 3/70		
+1771		"3,466.16"	Cust 3/71		"34,087.48"	Cust 3/71		
+1772		"6,663.19"	Cust 3/72		"51,079.69"	Cust 3/72		
+1773		"2,180.99"	Cust 3/73		"21,377.69"	Cust 3/73		
+1774		"1,978.06"	Cust 3/74		"25,253.98"	Cust 3/74		
+1775		"2,754.33"	Cust 3/75		"43,180.32"	Cust 3/75		
+1776		"1,548.36"	Cust 3/76		"30,007.45"	Cust 3/76		
+1777		"1,892.97"	Cust 3/77		"27,744.38"	Cust 3/77		
+1778		"2,264.25"	Cust 3/78		"44,003.70"	Cust 3/78		
+1779		"4,403.45"	Cust 3/79		"10,690.08"	Cust 3/79		
+1780		"4,296.05"	Cust 3/80		14.05	Cust 3/80		
+1781		"3,056.68"	Cust 17/7					
+1782		"1,440.60"	Cust 17/7					
+1783		"1,140.45"	Cust 17/8					
+1784		"2,323.39"	Cust 17/8					
+1785		"11,683.07"	Cust 17/9					
+1786		"15,471.54"	Cust 17/9					
+1787		"8,795.04"	Cust 17/10					
+1788		"6,333.87"	Cust 17/10					
+1789								
+1790								
