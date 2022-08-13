@@ -215,4 +215,4 @@ this document specifies the work output expected within three weeks.[^1]
 - [pers note] may want string values even in csv to follow XML format eg input "&amp;" to encode "&" etc per https://en.wikipedia.org/wiki/XML maybe following additionally TEI Guidelines https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html eg with customised schema https://tei-c.org/about/frequently-asked-questions/
 
 
-[^1}: This txt file created 12 August 2022 in Boston MA by A Navidad.
+[^1]: This txt file created 12 August 2022 in Boston MA by A Navidad.
