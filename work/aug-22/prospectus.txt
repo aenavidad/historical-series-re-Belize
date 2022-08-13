@@ -2,7 +2,7 @@
 
 ## abtract
 
-this document outlines work needed to output a pre-print for the historical-series-re-Belize within three weeks
+this document outlines work needed to output a pre-print for the historical-series-re-Belize within three weeks.[^1]
 
 ## formats
 
@@ -56,3 +56,4 @@ this document outlines work needed to output a pre-print for the historical-seri
 - concept 0 - graph is set of vertices and edges eg in maths ie graph G = (vertices V, edges E) which may be fully specified by an adjacency matrix ie https://en.wikipedia.org/wiki/Adjacency_matrix
 - concept 1 - graph is set of finite vertices and finite edges eg in computer science
 
+[^1}: This txt file created 11 August 2022 in Boston MA by A Navidad.

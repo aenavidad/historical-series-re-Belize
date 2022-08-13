@@ -1,0 +1,65 @@
+# work-output
+
+## abstract
+
+this document specifies the work output expected within three weeks.[^1]
+
+## conceptually
+
+- note 0 - the work output is conceived of as a graph of unlabbelled vertices ie points and unlabelled edges from point to point ie edges ie relations, with each point or edge enumerated ie indexed by a natural number and mapped to exactly one alphanumeric string. That is, let V be a finite subset of the natural numbers {0,1,2,...} ie let V = {0,1,2,...,n}. We let E be a subset of the product V*V ... [branched into another idea]
+- note 1 - okay, the work output is conceived of as a graph ie the structure G = (V,E) ie the ordered pair G = (V,E) where the first member of the pair is a set of vertices ie points and the second member of the pair is a set of edges. as primitives we have points, [at this point unsure if edges are primitive in addition to points]
+- note 2 - we probably want a finite set V and a finite set E. Further we want directed edges in E, but would this allow for edges to represent unary relations ie properties? We further want edges and points to be labelled, to build a multigraph where each edge represent distinct relations. And we allow loops ie an edge from one point to the same point. We also want a non-empty set V and non-empty set E, of course.
+- note 3 - to clarify, a directed graph is one where edges have an orientation, so it seems like we would want this, but this may afford us less flexibility to encode unary relations ie loops. But directed graphs may have loops! according to https://en.wikipedia.org/wiki/Directed_graph
+- note 4 - the final structure we're after seems to be a directed multigraph https://en.wikipedia.org/wiki/Multigraph and more specifically a directed multigraph permitted to have loops each of whose nodes and edges are labelled ie each has an identity
+- note 5 - so the final structure we're after seems to be a quiver https://en.wikipedia.org/wiki/Quiver_(mathematics) ie a directed multigraph with labelled nodes and edges and which may have loops :) Further, our quiver is a 4-tuple G = (V, A, s, t) with V set of vertices, A set of edges, s: A to V assigning each edge its source vertex, t: A to V assigning each edge its target node ie target vertex.
+- note 6 - or, alternatively, we can let graphs be 3-tuples G = (V, E, d) with d being a mapping that, somehow, interprets edges as pairs of vertices. 
+- note 7 - again, alternatively, out final structure might be a directed pseudograph ie directed graph ie digraph ie quiver defined as a 3-tuple G = (V, E, d) with d: E to V^2 where V^2 is the cartesian product of V and V. See https://mathworld.wolfram.com/Pseudograph.html and further see https://ncatlab.org/nlab/show/pseudograph
+
+- end 0 - re primitives, we have points, sets, and the like [I think].
+- end 1 - re basic definitions
+	(i)	let naturals set N = {0,1,2,...}, 
+	(ii)	let a binary relation ~ [tilde] on set A and set B be set R = ~ a subset of A * B ie of the cartesian product of A and B where we allow A = B, 
+	(iii)	let a partial unary function f from set A to set B ie a unary function f from set A to set B be a binary relation ~ on set A and set B where for any a in A if a ~ b_i and a ~ b_j then b_i = b_j if if f(a) = b_i and f(a) = b_j then b_i = b_j,
+	(iv)	let a total unary function f from set A to set B be a unary function f from set A to set B where for any a in A there is at least one b such that f(a) = b.
+- end 1 - re structural definitions
+	(i)	let set V = {0,1,2,...,n) for natural n>0, 
+	(ii)	let set E = {0,1,2,...,m) for natural m>0,
+	(iii)	let set V^2 be the cartesian product of V and V,
+	(iv)	let total unary function d: E to V^2,
+	(v)	let graph G = (V, E, d).
+
+### re set V in G
+
+- note 0 - how many vertices do we have in V, and what are they?
+- note 1 - we likely have several thousand, but likely less than 100,000 vertices, so n < 100,000, likely.
+- note 2 - how will we make sense of them? for this we probably need an ontology, the top level of which is entity eg https://www.wikidata.org/wiki/Q35120 or thing eg https://schema.org/docs/full.html
+- note 3 - to make sense of the vertices in V ie to visualise them we'll need an ontology as defined in computer science ie a cs-ontology ie https://en.wikipedia.org/wiki/Ontology_(information_science)
+- note 4 - towards building a cs-ontology it looks like we first need an upper cs-ontology ie https://en.wikipedia.org/wiki/Upper_ontology ie https://digitaltwinhub.co.uk/top-level-ontologies/ ie https://ontology4.us/english/Ontologies/Upper-Ontologies/ and it looks like we can navigate published upper cs-ontologies using software Protege https://protege.stanford.edu/ [though this software comes with a learning curve]
+- note 5 - we probably want all vertices to be things, and have these split into disjoing parts with one being strings and the other being non-strings ie data and not data
+
+- draft 0 - re level 0 of cs-ontology tree ie subsumes all vertices
+	0	let entity be any vertex.
+- draft 1 - re level 1 of cs-ontology tree ie partitions V into two disjoint non-empty subsets
+	0.0	let extended-entity be vertices with extended referents ie vertices referring to or identifying things in spacetime ie entity per https://github.com/bfo-ontology/BFO/wiki ie entity per https://www.wikidata.org/wiki/Q35120 ie thing per https://schema.org/Thing,
+	0.1	let non-extended-entity be vertices without extended referents ie vertices referring to or identifying things not in spacetime ie abstract things 
+- draft 2 - re level 2 of cs-ontology tree ie partitions V into four disjoint subsets
+	0.0.0	let continuant-extended entity = continuant per https://github.com/bfo-ontology/BFO/wiki
+	0.0.1	let non-continuant-extended entity = occurrent per https://github.com/bfo-ontology/BFO/wiki
+	0.1.0	let string-like-[stopped here]
+	0.1.1	[missing]
+
+- note 6 - after some time writing draf 0 to draft 2 I think it might be better to keep level 0 of draft 0, and skip intermediate levels in draft 1 and draft 2 to simply get to some specific-enough level n. though at this point, at level n, would we like non-empty disjoint subsets of V? possibly we might use BFO for all upper level cs-ontology, though BFO 2.0 does not include mathematical structures [though BFO authors suggest https://ontobee.org/ontology/IAO for a mostly-compatible lower level cs-ontology].
+
+- end 0 - re BFO upper level cs-ontology
+	0	let entity = http://purl.obolibrary.org/obo/BFO_0000001
+	0.0	let continuant = http://purl.obolibrary.org/obo/BFO_0000002
+	0.1	let occurrent = http://purl.obolibrary.org/obo/BFO_0000003
+- end 1 - re lower level cs-ontology, likely use IAO for data and OWL https://www.w3.org/TR/owl2-overview/ or RDF https://www.w3.org/TR/rdf-schema/ by W3C for metadata definitions?
+
+## specification
+
+- note 0 - how do we visualise or draw or write out the structure we will build?
+- note 1 - wiki said [any? some?] graph may be fully specified by an adjacency matrix https://en.wikipedia.org/wiki/Adjacency_matrix
+- note 2 - must follow W3C data recommendations https://www.w3.org/TR/?tag=data&status=REC&version=latest esp best practices https://www.w3.org/TR/2017/REC-dwbp-20170131/ and vars others
+
+[^1}: This txt file created 12 August 2022 in Boston MA by A Navidad.
