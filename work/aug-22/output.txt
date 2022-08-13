@@ -4,6 +4,21 @@
 
 this document specifies the work output expected within three weeks.[^1]
 
+## final
+
+- note 0 - this section lists final standards or specifications for the work output, while sections following this one are more free-form or exploratory.
+- note 1 - we divide standards into conceptual and non-conceptual, where conceptual standards or specifications determine non-conceptual ones or are more fundamental than the latter
+- note 3 - in which case, conceptual standards are
+	+ as per end 0 to end 2 in the `conceptually` section where, for end 2 item (iv) we let total unary function d = d: E to P(V^2) ie the powerset of the cartesian product of V and V, as we want d to give all vertices connected by any given edge, not just some vertex.
+- note 4 - further, non-conceptual standards are
+	+ further subdivided into algorithmic and non-algorithmic, where the former are standards for the work itself, while the latter are standards for the output.
+		* algorithmic standards to be collected in `work.txt` though not added to the file as of 13 Aug 2022,
+		* non-algorithmic standards are - 
+			0. need all vertices and edges within at least one cs-ontology ie vocabulary ie W3C namespace
+			1. need [all? some?] vertices, edges, etc matched to a globally unique persistent URI
+			2. need all files encoded in UTF-8
+			3. [vars other standards further down this doc]
+
 ## conceptually
 
 - note 0 - the work output is conceived of as a graph of unlabbelled vertices ie points and unlabelled edges from point to point ie edges ie relations, with each point or edge enumerated ie indexed by a natural number and mapped to exactly one alphanumeric string. That is, let V be a finite subset of the natural numbers {0,1,2,...} ie let V = {0,1,2,...,n}. We let E be a subset of the product V*V ... [branched into another idea]
@@ -21,7 +36,7 @@ this document specifies the work output expected within three weeks.[^1]
 	(ii)	let a binary relation ~ [tilde] on set A and set B be set R = ~ a subset of A * B ie of the cartesian product of A and B where we allow A = B, 
 	(iii)	let a partial unary function f from set A to set B ie a unary function f from set A to set B be a binary relation ~ on set A and set B where for any a in A if a ~ b_i and a ~ b_j then b_i = b_j if if f(a) = b_i and f(a) = b_j then b_i = b_j,
 	(iv)	let a total unary function f from set A to set B be a unary function f from set A to set B where for any a in A there is at least one b such that f(a) = b.
-- end 1 - re structural definitions
+- end 2 - re structural definitions
 	(i)	let set V = {0,1,2,...,n) for natural n>0, 
 	(ii)	let set E = {0,1,2,...,m) for natural m>0,
 	(iii)	let set V^2 be the cartesian product of V and V,
