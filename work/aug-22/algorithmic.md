@@ -40,11 +40,11 @@ work-flow ie processes ie actions ie events in `sec 1` to must or may (as indica
 
 files output from `sec 1` which are not also `sec 3` files eg cs-clean raw data files must or may (as indicated) meet the following standards.
 
-1. must be only UTF-8 encoded ie inc no markup nor formatting per BW per TCD,
-2. may be stored as `csv` per TCL, BW,
-3. must, if an authoritative or orginal copy eg clean raw data, be deposited in at least one repository per TCL per BW,[^6]
-4. must, if an authoritative or original copy, be verifiably clean ie have passed cs-clean and hist-clean validation tests per BW,[^3]
-5. must, if an authoritative or original copy, by human- and machine-readable per TCD,
+1. must be only UTF-8 encoded ie inc no markup nor formatting per BW per TCD per W3C in tabular-data-model,
+2. may be stored as `csv` per TCL per BW per W3C in tabular-data-primer,
+3. must, if an authoritative or orginal copy eg clean raw data, be deposited in at least one repository per TCL per BW per W3C in dwbp,[^6]
+4. must, if an authoritative or original copy, be verifiably clean ie have passed cs-clean and hist-clean validation tests per BW per W3C in tabular-data-primer,[^3]
+5. must, if an authoritative or original copy, by human- and machine-readable per TCD per W3C in dwbp,
 
 ## sec 3. work output from sec. 1
 
@@ -59,13 +59,17 @@ we expect at least the followwing files upon following sec. 1 steps.[^2]
 
 `sec. 3` files must or may (as indicated) meet the following standards, in addition to standards 1-[null] of `sec 2.2` (where all `sec 3` files count as "authoritative or orignal copies")
 
-1. must use at least one controlled vocabulary ie ontology per TCL,[^4]
-2. must provide at least minimal metadata per TCL,
-3. must provide at least minimal explanation of missing values within metadata per BW per TCD,[^8]
+1. must use at least one controlled vocabulary ie ontology per TCL per W3C in dwbp per W3C in ld-bp,[^4]
+2. must provide at least minimal metadata per TCL per W3C in dwbp per W3C in tabular-data-primer per FD in table-schema per FD in tabular-data-resource per FD in tabular-data-package,
+3. must provide at least minimal explanation of missing values within metadata per BW per TCD per W3C in dwbp per FD in table-schema,[^8]
 4. must provide at least minimal data dictionary within metadata per BW,[^9]
-5. must use at least one URI ie IRI per TCL,
-6. must be translatable ie convertible to `rdf` format per TCL,[^7]
-7. xxx
+5. must provide at least minimal data provenance and quality information within metadata per W3C in dwbp per W3C in prov-overview,
+6. must provide at least minimal data version and version-history information within metadata per W3C in dwbp,
+7. must provide at least minimal data coverage information within metadata per W3C in dwbp,[^11]
+8. must provide at least minimal `csv` dialect information within metadata per FD in csv-dialect,
+9. must use at least one URI ie IRI per TCL per W3C in webarch per W3C in dwbp per W3C in ld-bp per W3C in tabular-data-primer,[^10]
+10. must be translatable ie convertible to `rdf` format per TCL per W3C in dwbp per W3C in ld-bp per W3C in tabular-data-primer,[^7]
+11. xxx
 
 ## authorities
 
@@ -74,11 +78,39 @@ we expect at least the followwing files upon following sec. 1 steps.[^2]
 - [TCD](https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/),
 - [BW](https://doi.org/10.1080/00031305.2017.1375989),
 - [MD](https://doi.org/10.3200/HMTS.37.1.34-38), //needs review as of 14 aug 2022
-- [HK](https://doi-org.ezp-prod1.hul.harvard.edu/10.1080/01615440.2018.1484676).//needs review as of 14 aug 2022
+- [HK](https://doi-org.ezp-prod1.hul.harvard.edu/10.1080/01615440.2018.1484676),//needs review as of 14 aug 2022
+- [IDS](https://maastrichtu-ids.github.io/best-practices/blog/2021/03/18/build-a-kg/)//needs review as of 14 aug 2022
+- [KBHS](https://link-springer-com.ezp-prod1.hul.harvard.edu/chapter/10.1007/978-3-319-49304-6_31)//needs review as of 14 aug 2022
+- [MHJN](https://www.researchgate.net/publication/329031219_Csv2rdf_Generating_rdf_data_from_csv_file_using_semantic_web_technologies)//needs review as of 14 aug 2022
+- [BGT](http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/migrating-complex-classification-scheme-semantic/docview/2543608213/se-2?accountid=11311)//needs review as of 14 aug 2022
+- [LOA](http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/rdfizing-biosynthetic-pathway-i-e-coli-o-antigen/docview/2611239195/se-2)//needs review as of 14 aug 2022
+- [ADBD](http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/evaluation-uplift-mapping-languages/docview/1966401153/se-2?accountid=11311)//needs review as of 14 aug 2022
+- [GBSL](http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/shexml-improving-usability-heterogeneous-data/docview/2463305655/se-2)//needs further review as of 14 aug 2022
+- [CF](https://www.semantic-web-journal.net/content/enhancing-virtual-ontology-based-access-over-tabular-data-morph-csv-0)//needs further review as of 14 aug 2022
+- [ASW](https://github.com/semantalytics/awesome-semantic-web/blob/master/README.md)//needs further review as of 14 aug 2022
+- [MHJN](http://www.jatit.org/volumes/Vol96No20/19Vol96No20.pdf)//needs further review as of 14 aug 2022
+- [FD](https://frictionlessdata.io)//needs further review as of 14 aug 2022
 
 ## references
 
-- xxx
+- W3C in [webarch](https://www.w3.org/TR/webarch/),
+- W3C in [dwbp](https://www.w3.org/TR/dwbp/),
+- W3C in [ld-bp](https://www.w3.org/TR/ld-bp/),
+- W3C in [sdw-bp](https://www.w3.org/TR/sdw-bp/),
+- W3C in [prov-overview](http://www.w3.org/TR/prov-overview/),//needs review as of 14 aug 2022
+- W3C in [tabular-data-primer](https://www.w3.org/TR/tabular-data-primer/),
+- W3C in [tabular-data-model](https://www.w3.org/TR/tabular-data-model/),
+- W3C in [csv2json](https://www.w3.org/TR/2015/REC-csv2json-20151217/),
+- W3C in [csv2rdf](http://www.w3.org/TR/csv2rdf/),
+- W3C in [tabular-metadata](https://www.w3.org/TR/2015/REC-tabular-metadata-20151217/),
+- W3C in [rdb-direct](http://www.w3.org/TR/rdb-direct-mapping/),//possibly not relevant as regards SQL skimmed on 14 aug 2022 - though may become relevant if it proves easier to store data in SQL rather than CSV, or if CSV -> SQL -> RDF proves easier than CSV -> RDF eg possibly using [PostgreSQL](https://www.postgresql.org) or MySQL per [Stack](https://insights.stackoverflow.com/survey/2021#section-most-loved-dreaded-and-wanted-databases)
+- W3C in [mull](https://www.w3.org/TR/?tag=data&status=REC&version=latest).//needs review as of 14 aug 2022
+- FD in [data-resource](https://specs.frictionlessdata.io/data-resource/)//needs review as of 14 aug 2022 - superseded by FD in tabular-data-resource
+- FD in [data-package](https://specs.frictionlessdata.io/data-package/)//needs review as of 14 aug 2022 - superseded by FD in tabular-data-package
+- FD in [csv-dialect](https://specs.frictionlessdata.io/csv-dialect/)
+- FD in [table-schema](https://specs.frictionlessdata.io/table-schema/)
+- FD in [tabular-data-resource](https://specs.frictionlessdata.io/tabular-data-resource/)
+- FD in [tabular-data-package](https://specs.frictionlessdata.io/tabular-data-package/)
 
 [^1]: file created 14 aug 2022 in boston MA.
 
@@ -97,27 +129,34 @@ we expect at least the followwing files upon following sec. 1 steps.[^2]
 [^3]: where*cs-clean*raw data meet certain syntax, encoding, etc technical standards as given by [null] for `csv` and [null] for `md`, while*hist-clean*raw data meet certain scholarly or data quality standards as given by [null], while validation-tests for these properties check that data meet said cs-clean or hist-clean standards eg
       - ie for `csv` files ensure these meet technical `csv` specifications per [null], and further meet scholarly `csv` specifications per [null] eg use string "yyyy-mm-dd" for date-values per BW, and trim string values ie purge leading and trailing space characters eg " one " -> "one" per BW, and "avoid" [ie purge?] or do not use any special characters other than "-" and "_" per BW and TCD, and leave no empty cells per BW, and store exactly one piece of data per cell per BW and TCD, and store only one table within a file per BW per TCD, and process data with [OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/) per TCD, and build variable names with only letters, numerals, and underscores ie sans spaces and sans special characters other than underscores per TCD,
       - ie for `json` [null],
-      - ie for `md` [null].
+      - ie for `md` [null],
+      - ie for spatial data ensure values meet technical specifications per W3C in sdw-bp,
+      - ie for textual quote ie transcription data ensure values meet technical specs per TEI,
+      - ie for date-time data ensure values meet technical specs per [null].
 
 [^4]: the most useful of which seem to be the following.
 
-      - those built or used in programming language specifications, eg for [TEI](https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html), RDF, XML, JSON, JSON-LD, CSV, OWL,
-      - upper level ontologies eg [BFO](http://xmlns.com/foaf/spec/) or [schema.org](https://schema.org) or [wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) or commonest ones as per the [LOV directory](https://lov.linkeddata.es/dataset/lov/),
+      - those built or used in programming language specifications, eg for [TEI](https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html), [RDF](http://www.w3.org/TR/rdf-primer), [RDF Schema](https://en.wikipedia.org/wiki/RDF_Schema), [XML](https://en.wikipedia.org/wiki/XML), [XML Schema](https://en.wikipedia.org/wiki/XML_Schema_(W3C)), [JSON](https://en.wikipedia.org/wiki/JSON), [JSON-LD](https://en.wikipedia.org/wiki/JSON-LD), [CSV by W3C](https://www.w3.org/2013/csvw/wiki/Main_Page), [CSV by FD](https://specs.frictionlessdata.io//tabular-data-package/), [OWL](https://en.wikipedia.org/wiki/Web_Ontology_Language), inc namespace namespaces ie QNames for [XML](http://www.w3.org/TR/xml-names11) inc language-independent namespaces eg [CURIEs](http://www.w3.org/TR/curie)
+      - upper level ontologies eg [BFO](http://xmlns.com/foaf/spec/) or [schema.org](https://schema.org) or [wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) or its derivative [DBpedia](https://www.dbpedia.org/about/) or commonest ones as per the [LOV directory](https://lov.linkeddata.es/dataset/lov/),
       - vars lower level ontologies or vocabs eg those
              + for authorities ie authors etc eg [LCNAF](http://id.loc.gov/authorities/names.html), [VIAF](https://viaf.org/), ISNI,
              + for human networks ie human-human edges etc eg [FOAF](http://xmlns.com/foaf/spec/),
              + ISO-related ones eg [ISO 639](https://www.loc.gov/standards/iso639-2/php/code_list.php) for languages, [null] for dates, [null] for [null],
              + geographic eg [Getty TGN](http://www.getty.edu/research/tools/vocabularies/tgn/index.html), [GeoNames](https://www.geonames.org),
              + bibliographic-cataloguing eg [LCSH](http://id.loc.gov/authorities/subjects.html) or its derivative [FAST](https://www.oclc.org/research/areas/data-science/fast.html), [UNESCO](http://vocabularies.unesco.org/thesaurus), [ICPSR](https://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/index), [CIDOC CRM](https://cidoc-crm.org),
-             + for metadata eg [Dublin Core](https://www.dublincore.org), [IOA](https://ontobee.org/ontology/IAO), [DDI](http://www.ddialliance.org/controlled-vocabularies), [SKOS](http://www.w3.org/2004/02/skos/core),
+             + for metadata eg [Dublin Core](https://www.dublincore.org), [IOA](https://ontobee.org/ontology/IAO), [DDI](http://www.ddialliance.org/controlled-vocabularies), [SKOS](http://www.w3.org/2004/02/skos/core), [DCAT](https://www.w3.org/TR/vocab-dcat/)
              + for licensing eg [CC](https://lov.linkeddata.es/dataset/lov/vocabs/cc).
 
 [^5]: eg following [Robertson best practices](http://sethrobertson.github.io/GitBestPractices/).
 
-[^6]: eg raw data files deposited in [CoreTrustSeal-certified repositories](https://www.coretrustseal.org/why-certification/certified-repositories/) eg [DANS](https://easy.dans.knaw.nl/ui/home) eg [Zenodo](https://zenodo.org).
+[^6]: eg raw data files deposited in [CoreTrustSeal-certified repositories](https://www.coretrustseal.org/why-certification/certified-repositories/) eg [DANS](https://easy.dans.knaw.nl/ui/home) eg [Zenodo](https://zenodo.org) further eg deposit in API-equipped repositories per W3C in dwbp further eg[*Nature*-listed repositories](https://www.nature.com/sdata/policies/repositories) further eg [Google-indexed repositories](https://developers.google.com/search/docs/advanced/structured-data/dataset)
 
-[^7]: esp by machines eg [OpenRefine](https://openrefine.org).
+[^7]: esp by machines eg [OpenRefine](https://openrefine.org) and esp to RDF as this facilitates (vs allows?) translation to XML or JSON-LD per W3C in ld-bp [sec convert](https://www.w3.org/TR/ld-bp/#CONVERT).
 
 [^8]: BW suggest string "NA" for missing data, and not blank cells nor number -999 nor number 999 for missing data. TCD suggest a blank cell, "NA", "na", or "NULL" and not -999 nor 999.
 
 [^9]: where per BW minimal data dictionary explains all variables used eg lists exact variable name as used in data files, give any alternative variable names used elsewhere, an explanation [definition? elucidation?] of the variable, measurement units of the variable, min and max values of the variable values.
+
+[^10]: eg use up to one [and at least one?] URI per resource eg per vertex, edge, record, dataset-splice or series, dataset, etc where said URI uses [IANA-registered scheme](http://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml) per W3C in webarch eg [PURL](https://purl.archive.org) per W3C in ld-bp.
+
+[^11]: W3C in dwbp no 28 give eg as preserving ie archiving all or at least at-risk third-party (online) resources which are referenced by dataset.
