@@ -17,7 +17,7 @@ this document specifies the work output expected within three weeks.[^1]
 			0. need all vertices and edges within at least one cs-ontology ie vocabulary ie W3C namespace
 			1. need [all? some?] vertices, edges, etc matched to a globally unique persistent URI
 			2. need all files encoded in UTF-8
-			3. [vars other standards further down this doc]
+			3. [vars other standards further down this doc]  
 
 ## conceptually
 
