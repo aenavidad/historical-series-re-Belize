@@ -10,7 +10,7 @@ this file has the following contents[^1]
 
 ## sec 1. work flow towards v-1.5
 
-start
+start[^12]
 
 1. query `v-1.4` and `pre-git-hist/files`, tagging files either as files to be mined during this work flow or not,
 2. collect all files tagged file-to-be-mined,
@@ -59,7 +59,7 @@ we expect at least the followwing files upon following sec. 1 steps.[^2]
 
 `sec. 3` files must or may (as indicated) meet the following standards, in addition to standards 1-[null] of `sec 2.2` (where all `sec 3` files count as "authoritative or orignal copies")
 
-1. must use at least one controlled vocabulary ie ontology per TCL per W3C in dwbp per W3C in ld-bp,[^4]
+1. must use at least one controlled vocabulary ie ontology per TCL per W3C in dwbp per W3C in ld-bp per W3C in ldp-bp,[^4]
 2. must provide at least minimal metadata per TCL per W3C in dwbp per W3C in tabular-data-primer per FD in table-schema per FD in tabular-data-resource per FD in tabular-data-package,
 3. must provide at least minimal explanation of missing values within metadata per BW per TCD per W3C in dwbp per FD in table-schema,[^8]
 4. must provide at least minimal data dictionary within metadata per BW,[^9]
@@ -67,7 +67,7 @@ we expect at least the followwing files upon following sec. 1 steps.[^2]
 6. must provide at least minimal data version and version-history information within metadata per W3C in dwbp,
 7. must provide at least minimal data coverage information within metadata per W3C in dwbp,[^11]
 8. must provide at least minimal `csv` dialect information within metadata per FD in csv-dialect,
-9. must use at least one URI ie IRI per TCL per W3C in webarch per W3C in dwbp per W3C in ld-bp per W3C in tabular-data-primer,[^10]
+9. must use at least one persistent resolvable URI ie IRI per TCL per W3C in webarch per W3C in dwbp per W3C in ld-bp per W3C in tabular-data-primer per W3C in cooluris per W3C in ldp-bp,[^10]
 10. must be translatable ie convertible to `rdf` format per TCL per W3C in dwbp per W3C in ld-bp per W3C in tabular-data-primer,[^7]
 11. xxx
 
@@ -79,17 +79,20 @@ we expect at least the followwing files upon following sec. 1 steps.[^2]
 - [BW](https://doi.org/10.1080/00031305.2017.1375989),
 - [MD](https://doi.org/10.3200/HMTS.37.1.34-38), //needs review as of 14 aug 2022
 - [HK](https://doi-org.ezp-prod1.hul.harvard.edu/10.1080/01615440.2018.1484676),//needs review as of 14 aug 2022
-- [IDS](https://maastrichtu-ids.github.io/best-practices/blog/2021/03/18/build-a-kg/)//needs review as of 14 aug 2022
-- [KBHS](https://link-springer-com.ezp-prod1.hul.harvard.edu/chapter/10.1007/978-3-319-49304-6_31)//needs review as of 14 aug 2022
-- [MHJN](https://www.researchgate.net/publication/329031219_Csv2rdf_Generating_rdf_data_from_csv_file_using_semantic_web_technologies)//needs review as of 14 aug 2022
-- [BGT](http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/migrating-complex-classification-scheme-semantic/docview/2543608213/se-2?accountid=11311)//needs review as of 14 aug 2022
-- [LOA](http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/rdfizing-biosynthetic-pathway-i-e-coli-o-antigen/docview/2611239195/se-2)//needs review as of 14 aug 2022
-- [ADBD](http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/evaluation-uplift-mapping-languages/docview/1966401153/se-2?accountid=11311)//needs review as of 14 aug 2022
-- [GBSL](http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/shexml-improving-usability-heterogeneous-data/docview/2463305655/se-2)//needs further review as of 14 aug 2022
-- [CF](https://www.semantic-web-journal.net/content/enhancing-virtual-ontology-based-access-over-tabular-data-morph-csv-0)//needs further review as of 14 aug 2022
-- [ASW](https://github.com/semantalytics/awesome-semantic-web/blob/master/README.md)//needs further review as of 14 aug 2022
-- [MHJN](http://www.jatit.org/volumes/Vol96No20/19Vol96No20.pdf)//needs further review as of 14 aug 2022
-- [FD](https://frictionlessdata.io)//needs further review as of 14 aug 2022
+- [IDS](https://maastrichtu-ids.github.io/best-practices/blog/2021/03/18/build-a-kg/)//needs review as of 14 aug 2022 - finishd 19.18
+- [KBHS](https://link-springer-com.ezp-prod1.hul.harvard.edu/chapter/10.1007/978-3-319-49304-6_31)//needs review as of 14 aug 2022 - finished 19.02
+- [MHJN](https://www.researchgate.net/publication/329031219_Csv2rdf_Generating_rdf_data_from_csv_file_using_semantic_web_technologies)//needs review as of 14 aug 2022 - finished prior to 18.54
+- [BGT](http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/migrating-complex-classification-scheme-semantic/docview/2543608213/se-2?accountid=11311)//needs review as of 14 aug 2022 - finished 18.53
+- [LOA](http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/rdfizing-biosynthetic-pathway-i-e-coli-o-antigen/docview/2611239195/se-2)//needs review as of 14 aug 2022 finished 18.39
+- [ADBD](http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/evaluation-uplift-mapping-languages/docview/1966401153/se-2?accountid=11311)//needs review as of 14 aug 2022 finished 18.27
+- [GBSL](http://search.proquest.com.ezp-prod1.hul.harvard.edu/scholarly-journals/shexml-improving-usability-heterogeneous-data/docview/2463305655/se-2)//needs further review as of 14 aug 2022 finished 18.14
+- [CF](https://www.semantic-web-journal.net/content/enhancing-virtual-ontology-based-access-over-tabular-data-morph-csv-0)//needs further review as of 14 aug 2022 - review started 17.44 finished 18.03
+- [ASW](https://github.com/semantalytics/awesome-semantic-web/blob/master/README.md)//needs further review as of 14 aug 2022 - review started null finished 17.11
+- [MHJN](http://www.jatit.org/volumes/Vol96No20/19Vol96No20.pdf)//needs further review as of 14 aug 2022 - review finished 17.32
+- [FD](https://frictionlessdata.io)//needs further review as of 14 aug 2022 - review done
+- [OGC](https://en.wikipedia.org/wiki/Open_Geospatial_Consortium),
+- [JT](https://github.com/JeniT/linked-csv)//needs review as of 14 aug 2022
+- [SW](https://csvw.org)//needs review as of 14 aug 2022 - finished 17.42
 
 ## references
 
@@ -105,6 +108,9 @@ we expect at least the followwing files upon following sec. 1 steps.[^2]
 - W3C in [tabular-metadata](https://www.w3.org/TR/2015/REC-tabular-metadata-20151217/),
 - W3C in [rdb-direct](http://www.w3.org/TR/rdb-direct-mapping/),//possibly not relevant as regards SQL skimmed on 14 aug 2022 - though may become relevant if it proves easier to store data in SQL rather than CSV, or if CSV -> SQL -> RDF proves easier than CSV -> RDF eg possibly using [PostgreSQL](https://www.postgresql.org) or MySQL per [Stack](https://insights.stackoverflow.com/survey/2021#section-most-loved-dreaded-and-wanted-databases)
 - W3C in [mull](https://www.w3.org/TR/?tag=data&status=REC&version=latest).//needs review as of 14 aug 2022
+- W3C in [cooluris](https://www.w3.org/TR/cooluris/)//needs review as of 14 aug 2022
+- W3C in [ldp-bp](https://www.w3.org/TR/ldp-bp/)//needs review as of 14 aug 2022 - review started 14.09 finished 14.19
+- W3C in [ld-glossary](https://www.w3.org/TR/ld-glossary/),
 - FD in [data-resource](https://specs.frictionlessdata.io/data-resource/)//needs review as of 14 aug 2022 - superseded by FD in tabular-data-resource
 - FD in [data-package](https://specs.frictionlessdata.io/data-package/)//needs review as of 14 aug 2022 - superseded by FD in tabular-data-package
 - FD in [csv-dialect](https://specs.frictionlessdata.io/csv-dialect/)
@@ -112,7 +118,7 @@ we expect at least the followwing files upon following sec. 1 steps.[^2]
 - FD in [tabular-data-resource](https://specs.frictionlessdata.io/tabular-data-resource/)
 - FD in [tabular-data-package](https://specs.frictionlessdata.io/tabular-data-package/)
 
-[^1]: file created 14 aug 2022 in boston MA.
+[^1]: file created 14 aug 2022 in boston MA. file may use terms as in W3C in ld-glossary.
 
 [^2]: per `output.md`, the structure we are meant to have is a graph construed as follows (variously called a quiver ie directed pseudograph ie directed graph ie digraph ie directed multigraph eg [per wolfram](https://mathworld.wolfram.com/Pseudograph.html) and eg [per ncatlab](https://ncatlab.org/nlab/show/pseudograph).
 
@@ -130,33 +136,46 @@ we expect at least the followwing files upon following sec. 1 steps.[^2]
       - ie for `csv` files ensure these meet technical `csv` specifications per [null], and further meet scholarly `csv` specifications per [null] eg use string "yyyy-mm-dd" for date-values per BW, and trim string values ie purge leading and trailing space characters eg " one " -> "one" per BW, and "avoid" [ie purge?] or do not use any special characters other than "-" and "_" per BW and TCD, and leave no empty cells per BW, and store exactly one piece of data per cell per BW and TCD, and store only one table within a file per BW per TCD, and process data with [OpenRefine](https://datacarpentry.org/OpenRefine-ecology-lesson/) per TCD, and build variable names with only letters, numerals, and underscores ie sans spaces and sans special characters other than underscores per TCD,
       - ie for `json` [null],
       - ie for `md` [null],
-      - ie for spatial data ensure values meet technical specifications per W3C in sdw-bp,
+      - ie for `rdf` [null] further validated eg by [W3C RDF-validator](http://www.w3.org/RDF/Validator/)
+      - ie for spatial data ensure values meet technical specifications per W3C in sdw-bp or tech specs for [GeoJSON](https://geojson.org) or tech specs for [GeoPackage](https://en.wikipedia.org/wiki/GeoPackage) or tech specs for [ArcGIS Online](http://desktop.arcgis.com/en/arcmap/10.3/manage-data/geodatabases/what-is-a-geodatabase.htm) or [ArcGIS Hub](https://doc.arcgis.com/en/hub/content/add-and-manage-groups.htm#ESRI_SECTION1_D0B2443A64F349BD95ED2094D9A80912) or [GDAL-accepted formats](https://gdal.org/drivers/vector/csv.html),//though GDAL or GeoJSON most preferred, and ArcGIS least preferred as of 14 aug 2022
       - ie for textual quote ie transcription data ensure values meet technical specs per TEI,
       - ie for date-time data ensure values meet technical specs per [null].
 
 [^4]: the most useful of which seem to be the following.
 
-      - those built or used in programming language specifications, eg for [TEI](https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html), [RDF](http://www.w3.org/TR/rdf-primer), [RDF Schema](https://en.wikipedia.org/wiki/RDF_Schema), [XML](https://en.wikipedia.org/wiki/XML), [XML Schema](https://en.wikipedia.org/wiki/XML_Schema_(W3C)), [JSON](https://en.wikipedia.org/wiki/JSON), [JSON-LD](https://en.wikipedia.org/wiki/JSON-LD), [CSV by W3C](https://www.w3.org/2013/csvw/wiki/Main_Page), [CSV by FD](https://specs.frictionlessdata.io//tabular-data-package/), [OWL](https://en.wikipedia.org/wiki/Web_Ontology_Language), inc namespace namespaces ie QNames for [XML](http://www.w3.org/TR/xml-names11) inc language-independent namespaces eg [CURIEs](http://www.w3.org/TR/curie)
-      - upper level ontologies eg [BFO](http://xmlns.com/foaf/spec/) or [schema.org](https://schema.org) or [wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) or its derivative [DBpedia](https://www.dbpedia.org/about/) or commonest ones as per the [LOV directory](https://lov.linkeddata.es/dataset/lov/),
+      - those built or used in programming language specifications, eg for [TEI](https://tei-c.org/release/doc/tei-p5-doc/en/html/index.html), [RDF](http://www.w3.org/TR/rdf-primer), [RDF Schema](https://en.wikipedia.org/wiki/RDF_Schema) ie [RDFS](https://www.w3.org/TR/rdf-schema/), [RDF Data Cube](https://www.w3.org/TR/vocab-data-cube/), [XML](https://en.wikipedia.org/wiki/XML), [XML Schema](https://en.wikipedia.org/wiki/XML_Schema_(W3C)), [JSON](https://en.wikipedia.org/wiki/JSON) and [RDF Data Cube extensions](https://www.w3.org/TR/qb4st/), [JSON-LD](https://en.wikipedia.org/wiki/JSON-LD), [CSV by W3C](https://www.w3.org/2013/csvw/wiki/Main_Page), [CSV by FD](https://specs.frictionlessdata.io//tabular-data-package/), [CVS by JT](https://github.com/JeniT/linked-csv), [OWL](http://www.w3.org/TR/owl-overview), inc namespace namespaces ie QNames for [XML](http://www.w3.org/TR/xml-names11) inc language-independent namespaces eg [CURIEs](http://www.w3.org/TR/curie)
+      - upper level ontologies eg [BFO](http://xmlns.com/foaf/spec/) or [schema.org](https://schema.org) or [wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) or its derivative [DBpedia](https://www.dbpedia.org/about/) or [gist](https://www.semanticarts.com/gist/) or commonest ones as per the [LOV directory](https://lov.linkeddata.es/dataset/lov/),
       - vars lower level ontologies or vocabs eg those
-             + for authorities ie authors etc eg [LCNAF](http://id.loc.gov/authorities/names.html), [VIAF](https://viaf.org/), ISNI,
+             + for authorities ie authors etc eg [LCNAF](http://id.loc.gov/authorities/names.html), [VIAF](https://viaf.org/), ISNI, and further for non-natural persons eg [ORG](http://www.w3.org/TR/vocab-org/)
              + for human networks ie human-human edges etc eg [FOAF](http://xmlns.com/foaf/spec/),
-             + ISO-related ones eg [ISO 639](https://www.loc.gov/standards/iso639-2/php/code_list.php) for languages, [null] for dates, [null] for [null],
-             + geographic eg [Getty TGN](http://www.getty.edu/research/tools/vocabularies/tgn/index.html), [GeoNames](https://www.geonames.org),
+             + ISO-related ones eg [ISO 639](https://www.loc.gov/standards/iso639-2/php/code_list.php) for languages, [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) for date-times, [ISO 4217](https://www.iso.org/iso-4217-currency-codes.html) for currency, [ISO 3166](https://www.iso.org/iso-3166-country-codes.html) for countries, [null] for [null],
+             + geographic eg [Getty TGN](http://www.getty.edu/research/tools/vocabularies/tgn/index.html), [GeoNames](https://www.geonames.org), [LinkedGeoData](http://linkedgeodata.org),
              + bibliographic-cataloguing eg [LCSH](http://id.loc.gov/authorities/subjects.html) or its derivative [FAST](https://www.oclc.org/research/areas/data-science/fast.html), [UNESCO](http://vocabularies.unesco.org/thesaurus), [ICPSR](https://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/index), [CIDOC CRM](https://cidoc-crm.org),
-             + for metadata eg [Dublin Core](https://www.dublincore.org), [IOA](https://ontobee.org/ontology/IAO), [DDI](http://www.ddialliance.org/controlled-vocabularies), [SKOS](http://www.w3.org/2004/02/skos/core), [DCAT](https://www.w3.org/TR/vocab-dcat/)
+             + for metadata eg [Dublin Core ie DCMI](https://www.dublincore.org), [IOA](https://ontobee.org/ontology/IAO), [DDI](http://www.ddialliance.org/controlled-vocabularies), [SKOS](http://www.w3.org/2004/02/skos/core), [DCAT](https://www.w3.org/TR/vocab-dcat/), [VOID](http://www.w3.org/TR/void/) (a derivative of Dublin Core and RDF Schema), [QUDT](https://www.qudt.org) (eg for datatypes),
              + for licensing eg [CC](https://lov.linkeddata.es/dataset/lov/vocabs/cc).
 
 [^5]: eg following [Robertson best practices](http://sethrobertson.github.io/GitBestPractices/).
 
-[^6]: eg raw data files deposited in [CoreTrustSeal-certified repositories](https://www.coretrustseal.org/why-certification/certified-repositories/) eg [DANS](https://easy.dans.knaw.nl/ui/home) eg [Zenodo](https://zenodo.org) further eg deposit in API-equipped repositories per W3C in dwbp further eg[*Nature*-listed repositories](https://www.nature.com/sdata/policies/repositories) further eg [Google-indexed repositories](https://developers.google.com/search/docs/advanced/structured-data/dataset)
+[^6]: eg raw data files deposited in [CoreTrustSeal-certified repositories](https://www.coretrustseal.org/why-certification/certified-repositories/) eg [DANS](https://easy.dans.knaw.nl/ui/home) eg [Zenodo](https://zenodo.org) further eg deposit in API-equipped repositories per W3C in dwbp further eg[*Nature*-listed repositories](https://www.nature.com/sdata/policies/repositories) further eg [Google-indexed repositories](https://developers.google.com/search/docs/advanced/structured-data/dataset) further eg [LOD Cloud-indexed dataset](https://lod-cloud.net).
 
-[^7]: esp by machines eg [OpenRefine](https://openrefine.org) and esp to RDF as this facilitates (vs allows?) translation to XML or JSON-LD per W3C in ld-bp [sec convert](https://www.w3.org/TR/ld-bp/#CONVERT).
+[^7]: esp by machines eg [OpenRefine](https://openrefine.org) and esp to RDF as this facilitates (vs allows?) translation to XML or JSON-LD per W3C in ld-bp [sec convert](https://www.w3.org/TR/ld-bp/#CONVERT) and further browse list of translators, processors ie parsers, etc in [ASW](https://github.com/semantalytics/awesome-semantic-web/blob/master/README.md) and further browse list of vars standard translation algorithms per GBSL.
 
 [^8]: BW suggest string "NA" for missing data, and not blank cells nor number -999 nor number 999 for missing data. TCD suggest a blank cell, "NA", "na", or "NULL" and not -999 nor 999.
 
 [^9]: where per BW minimal data dictionary explains all variables used eg lists exact variable name as used in data files, give any alternative variable names used elsewhere, an explanation [definition? elucidation?] of the variable, measurement units of the variable, min and max values of the variable values.
 
-[^10]: eg use up to one [and at least one?] URI per resource eg per vertex, edge, record, dataset-splice or series, dataset, etc where said URI uses [IANA-registered scheme](http://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml) per W3C in webarch eg [PURL](https://purl.archive.org) per W3C in ld-bp.
+[^10]: eg use up to one [and at least one?] URI per resource eg per vertex, edge, record, dataset-splice or series, dataset, etc where said URI uses [IANA-registered scheme](http://www.iana.org/assignments/uri-schemes/uri-schemes.xhtml) per W3C in webarch eg [PURL](https://purl.archive.org) per W3C in ld-bp eg [PermID](http://permid.org/) per ASW eg [W3ID](https://rml.io/yarrrml/matey) per IDS.
 
 [^11]: W3C in dwbp no 28 give eg as preserving ie archiving all or at least at-risk third-party (online) resources which are referenced by dataset.
+
+[^12]: compare to other processes in eg
+       - in MHJN (journal article pub 31 oct 2018) used `csv` to `rdf` via three algorithms ie `cvs` is parsed -> embedded metadata created or approximated in `json` -> data converted to `rdf` where algorithms written in Java and named CSV2RDF though name is ambiguous as of 14 aug 2022
+       - in SW (non-journal article by UK for-profit Swirrl) recommends `csv` to `rdf` via metadata manually created inc first- and third-party URIs -> input `csv` and `json` into a [validator or converter](https://csvw.org/tools.html) -> validate -> convert to `rdf`,
+       - in CF (preprint article pub 11 jun 2020 or 6 nov 2020) used `csv` to `sql` to `rdf` via algorithm written in SPARQL and named [Morph-CSV](https://morph.oeg.fi.upm.es/tool/morph-csv) //this seems well-documented and tested as of 14 aug 2022 18.02
+       - in GBSL (journal article pub 23 nov 2020) used `xml` + `json` to `rdf` but listed vars standard translation ie transformation algorithms in pages 3-6,
+       - in ADBD (journal article pub 2017) used `csv` to `rdf` via algorithm written in `null` called FunUL though could not located this in `github` nor elsewhere online as of 14 aug 2022
+       - in LOA (journal article pub 2021) used `csv` to `rdf` via standardising data-values in defined programming-language -> manually creating URIs via third-party -> input `csv` into Python-based converted called [RDFLib](https://gitlab.com/lsunmyoung/rdfization) -> get `rdf` in Turtle dialect -> validate output via SPARQL,
+       - in BGT (journal article pub 2021) used `csv` to `skos` via `.NET`-based [STELETO](https://github.com/cbinding/STELETO/) transformation tool,
+       - in KBHS (journal article pub 2016) used `csv` to `rdf` though does not cover the full process in detail,
+       - in IDS (non-journal article by non-profit institute) used `csv` to `rdf` via YARRRML-based programme [Matey](https://rml.io/yarrrml/matey),
+       - 
