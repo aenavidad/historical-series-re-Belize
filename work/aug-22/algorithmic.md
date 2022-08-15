@@ -33,7 +33,7 @@ end
 
 work-flow ie processes ie actions ie events in `sec 1` to must or may (as indicated) meet the following standards.
 
-1. must be recorded ie version-controlled via git per BW,[^5]
+1. must be recorded ie version-controlled via git per BW per HK per MD,[^5]
 2. must not endanger authoritative copy of cleaned raw data per BW,
 
 ### sec. 2.2. standards for intermediate files eg clean raw data
@@ -77,8 +77,9 @@ we expect at least the followwing files upon following sec. 1 steps.[^2]
 - [TCL](https://librarycarpentry.org/Top-10-FAIR/2018/12/01/historical-research/),
 - [TCD](https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/),
 - [BW](https://doi.org/10.1080/00031305.2017.1375989),
-- [MD](https://doi.org/10.3200/HMTS.37.1.34-38), //needs review as of 14 aug 2022
-- [HK](https://doi-org.ezp-prod1.hul.harvard.edu/10.1080/01615440.2018.1484676),//needs review as of 14 aug 2022
+- [MD](https://doi.org/10.3200/HMTS.37.1.34-38), //needs review as of 14 aug 2022 - started but unfinished as of 21.10
+- [RM](https://doi.org/10.1093/jsh/shab015)//needs review as of 14 aug 2022
+- [HK](https://doi-org.ezp-prod1.hul.harvard.edu/10.1080/01615440.2018.1484676),//needs review as of 14 aug 2022 - finished 19.49
 - [IDS](https://maastrichtu-ids.github.io/best-practices/blog/2021/03/18/build-a-kg/)//needs review as of 14 aug 2022 - finishd 19.18
 - [KBHS](https://link-springer-com.ezp-prod1.hul.harvard.edu/chapter/10.1007/978-3-319-49304-6_31)//needs review as of 14 aug 2022 - finished 19.02
 - [MHJN](https://www.researchgate.net/publication/329031219_Csv2rdf_Generating_rdf_data_from_csv_file_using_semantic_web_technologies)//needs review as of 14 aug 2022 - finished prior to 18.54
@@ -93,6 +94,8 @@ we expect at least the followwing files upon following sec. 1 steps.[^2]
 - [OGC](https://en.wikipedia.org/wiki/Open_Geospatial_Consortium),
 - [JT](https://github.com/JeniT/linked-csv)//needs review as of 14 aug 2022
 - [SW](https://csvw.org)//needs review as of 14 aug 2022 - finished 17.42
+- [TO](https://core.ac.uk/display/301654646)//needs review as of 14 aug 2022 - finished 20.18
+- [PH](http://programminghistorian.org/en/about)//needs review as of 14 aug 2022 - finished 14 aug 2022
 
 ## references
 
@@ -117,6 +120,8 @@ we expect at least the followwing files upon following sec. 1 steps.[^2]
 - FD in [table-schema](https://specs.frictionlessdata.io/table-schema/)
 - FD in [tabular-data-resource](https://specs.frictionlessdata.io/tabular-data-resource/)
 - FD in [tabular-data-package](https://specs.frictionlessdata.io/tabular-data-package/)
+
+## footnotes
 
 [^1]: file created 14 aug 2022 in boston MA. file may use terms as in W3C in ld-glossary.
 
@@ -154,7 +159,7 @@ we expect at least the followwing files upon following sec. 1 steps.[^2]
              + for metadata eg [Dublin Core ie DCMI](https://www.dublincore.org), [IOA](https://ontobee.org/ontology/IAO), [DDI](http://www.ddialliance.org/controlled-vocabularies), [SKOS](http://www.w3.org/2004/02/skos/core), [DCAT](https://www.w3.org/TR/vocab-dcat/), [VOID](http://www.w3.org/TR/void/) (a derivative of Dublin Core and RDF Schema), [QUDT](https://www.qudt.org) (eg for datatypes),
              + for licensing eg [CC](https://lov.linkeddata.es/dataset/lov/vocabs/cc).
 
-[^5]: eg following [Robertson best practices](http://sethrobertson.github.io/GitBestPractices/).
+[^5]: eg following [Robertson best practices](http://sethrobertson.github.io/GitBestPractices/) though HK further require or recommend use of work-process-history to report and discuss and explicitly describe data transformations inc data selection, modelling, normalisation, classification, and linking eg within journal article per HK while TO further require or recommend discussion of data-source and data-discovery-tools biases, limitations etc inc repository collection policies, digitisaiton procedures, OCR quality, catalogue or finding aid quality, error correction and search ie query procedures per TO further eg when choosing amongs [PH-listed tools](http://programminghistorian.org/en/lessons/?topic=web-scraping) per PH and further MD require or recommend information re source selection and critaria, data entry, integration, standardisation, and storage, and enrichment and release actions be divulged per MD.//TO and HK and MD**standards not met**by git-versioning and so not met by `sec 1` process as of 14 aug 2022
 
 [^6]: eg raw data files deposited in [CoreTrustSeal-certified repositories](https://www.coretrustseal.org/why-certification/certified-repositories/) eg [DANS](https://easy.dans.knaw.nl/ui/home) eg [Zenodo](https://zenodo.org) further eg deposit in API-equipped repositories per W3C in dwbp further eg[*Nature*-listed repositories](https://www.nature.com/sdata/policies/repositories) further eg [Google-indexed repositories](https://developers.google.com/search/docs/advanced/structured-data/dataset) further eg [LOD Cloud-indexed dataset](https://lod-cloud.net).
 
@@ -178,4 +183,4 @@ we expect at least the followwing files upon following sec. 1 steps.[^2]
        - in BGT (journal article pub 2021) used `csv` to `skos` via `.NET`-based [STELETO](https://github.com/cbinding/STELETO/) transformation tool,
        - in KBHS (journal article pub 2016) used `csv` to `rdf` though does not cover the full process in detail,
        - in IDS (non-journal article by non-profit institute) used `csv` to `rdf` via YARRRML-based programme [Matey](https://rml.io/yarrrml/matey),
-       - 
+       - in [null]
