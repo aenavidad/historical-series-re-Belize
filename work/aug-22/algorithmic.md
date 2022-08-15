@@ -61,7 +61,7 @@ we expect at least the followwing files upon following sec. 1 steps.[^2]
 
 1. must use at least one controlled vocabulary ie ontology per TCL per W3C in dwbp per W3C in ld-bp per W3C in ldp-bp,[^4]
 2. must provide at least minimal metadata per TCL per W3C in dwbp per W3C in tabular-data-primer per FD in table-schema per FD in tabular-data-resource per FD in tabular-data-package,
-3. must provide at least minimal explanation of missing values within metadata per BW per TCD per W3C in dwbp per FD in table-schema,[^8]
+3. must provide at least minimal explanation of missing values within metadata per BW per TCD per W3C in dwbp per FD in table-schema per MD,[^8]
 4. must provide at least minimal data dictionary within metadata per BW,[^9]
 5. must provide at least minimal data provenance and quality information within metadata per W3C in dwbp per W3C in prov-overview,
 6. must provide at least minimal data version and version-history information within metadata per W3C in dwbp,
@@ -76,6 +76,7 @@ we expect at least the followwing files upon following sec. 1 steps.[^2]
 - [W3C](https://www.w3.org/TR/?tag=data&version=latest),
 - [TCL](https://librarycarpentry.org/Top-10-FAIR/2018/12/01/historical-research/),
 - [TCD](https://datacarpentry.org/spreadsheet-ecology-lesson/02-common-mistakes/),
+- [DDI](https://en.wikipedia.org/wiki/Data_Documentation_Initiative),//needs review as of 14 aug 2022
 - [BW](https://doi.org/10.1080/00031305.2017.1375989),
 - [MD](https://doi.org/10.3200/HMTS.37.1.34-38), //needs review as of 14 aug 2022 - started but unfinished as of 21.10
 - [RM](https://doi.org/10.1093/jsh/shab015)//needs review as of 14 aug 2022
@@ -96,6 +97,9 @@ we expect at least the followwing files upon following sec. 1 steps.[^2]
 - [SW](https://csvw.org)//needs review as of 14 aug 2022 - finished 17.42
 - [TO](https://core.ac.uk/display/301654646)//needs review as of 14 aug 2022 - finished 20.18
 - [PH](http://programminghistorian.org/en/about)//needs review as of 14 aug 2022 - finished 14 aug 2022
+- [AHA](https://www.historians.org/jobs-and-professional-development/statements-standards-and-guidelines-of-the-discipline)
+- [UKDA](https://www.data-archive.ac.uk/managing-data/standards-and-procedures/
+- [COS](https://www.cos.io/initiatives/top-guidelines]).
 
 ## references
 
@@ -120,6 +124,8 @@ we expect at least the followwing files upon following sec. 1 steps.[^2]
 - FD in [table-schema](https://specs.frictionlessdata.io/table-schema/)
 - FD in [tabular-data-resource](https://specs.frictionlessdata.io/tabular-data-resource/)
 - FD in [tabular-data-package](https://specs.frictionlessdata.io/tabular-data-package/)
+- AHA in [statement](https://www.historians.org/jobs-and-professional-development/statements-standards-and-guidelines-of-the-discipline/statement-on-standards-of-professional-conduct#SharedValues)//needs review as fo 14 aug 2022 - finished 21.35 but found no suitable standards
+- COS in [top](https://osf.io/9f6gx/wiki/Guidelines/)//needs review as of 14 aug 2022
 
 ## footnotes
 
@@ -155,11 +161,11 @@ we expect at least the followwing files upon following sec. 1 steps.[^2]
              + for human networks ie human-human edges etc eg [FOAF](http://xmlns.com/foaf/spec/),
              + ISO-related ones eg [ISO 639](https://www.loc.gov/standards/iso639-2/php/code_list.php) for languages, [ISO 8601](https://www.iso.org/iso-8601-date-and-time-format.html) for date-times, [ISO 4217](https://www.iso.org/iso-4217-currency-codes.html) for currency, [ISO 3166](https://www.iso.org/iso-3166-country-codes.html) for countries, [null] for [null],
              + geographic eg [Getty TGN](http://www.getty.edu/research/tools/vocabularies/tgn/index.html), [GeoNames](https://www.geonames.org), [LinkedGeoData](http://linkedgeodata.org),
-             + bibliographic-cataloguing eg [LCSH](http://id.loc.gov/authorities/subjects.html) or its derivative [FAST](https://www.oclc.org/research/areas/data-science/fast.html), [UNESCO](http://vocabularies.unesco.org/thesaurus), [ICPSR](https://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/index), [CIDOC CRM](https://cidoc-crm.org),
+             + bibliographic-cataloguing eg [LCSH](http://id.loc.gov/authorities/subjects.html) or its derivative [FAST](https://www.oclc.org/research/areas/data-science/fast.html), [UNESCO](http://vocabularies.unesco.org/thesaurus), [ICPSR](https://www.icpsr.umich.edu/icpsrweb/ICPSR/thesaurus/index), [CIDOC CRM](https://cidoc-crm.org), [EAD](https://en.wikipedia.org/wiki/Encoded_Archival_Description),
              + for metadata eg [Dublin Core ie DCMI](https://www.dublincore.org), [IOA](https://ontobee.org/ontology/IAO), [DDI](http://www.ddialliance.org/controlled-vocabularies), [SKOS](http://www.w3.org/2004/02/skos/core), [DCAT](https://www.w3.org/TR/vocab-dcat/), [VOID](http://www.w3.org/TR/void/) (a derivative of Dublin Core and RDF Schema), [QUDT](https://www.qudt.org) (eg for datatypes),
              + for licensing eg [CC](https://lov.linkeddata.es/dataset/lov/vocabs/cc).
 
-[^5]: eg following [Robertson best practices](http://sethrobertson.github.io/GitBestPractices/) though HK further require or recommend use of work-process-history to report and discuss and explicitly describe data transformations inc data selection, modelling, normalisation, classification, and linking eg within journal article per HK while TO further require or recommend discussion of data-source and data-discovery-tools biases, limitations etc inc repository collection policies, digitisaiton procedures, OCR quality, catalogue or finding aid quality, error correction and search ie query procedures per TO further eg when choosing amongs [PH-listed tools](http://programminghistorian.org/en/lessons/?topic=web-scraping) per PH and further MD require or recommend information re source selection and critaria, data entry, integration, standardisation, and storage, and enrichment and release actions be divulged per MD.//TO and HK and MD**standards not met**by git-versioning and so not met by `sec 1` process as of 14 aug 2022
+[^5]: eg following [Robertson best practices](http://sethrobertson.github.io/GitBestPractices/) though HK further require or recommend use of work-process-history to report and discuss and explicitly describe data transformations inc data selection, modelling, normalisation, classification, and linking eg within journal article per HK while TO further require or recommend discussion of data-source and data-discovery-tools biases, limitations etc inc repository collection policies, digitisaiton procedures, OCR quality, catalogue or finding aid quality, error correction and search ie query procedures per TO further eg when choosing amongs [PH-listed tools](http://programminghistorian.org/en/lessons/?topic=web-scraping) per PH and further MD require or recommend information re source selection and critaria, data entry, integration, standardisation, and storage, and enrichment and release actions be divulged per MD.//TO and HK and MD**standards not met**by git-versioning and so not met by `sec 1` process as of 14 aug 2022 - addendum at 22.10 - may need to keep something akin to a lab-notebook ie a log of all work done eg in the [OSF online log by the COs](https://www.cos.io/initiatives/top-guidelines) or to adopt [COS in top](https://osf.io/9f6gx/wiki/Guidelines/) standards
 
 [^6]: eg raw data files deposited in [CoreTrustSeal-certified repositories](https://www.coretrustseal.org/why-certification/certified-repositories/) eg [DANS](https://easy.dans.knaw.nl/ui/home) eg [Zenodo](https://zenodo.org) further eg deposit in API-equipped repositories per W3C in dwbp further eg[*Nature*-listed repositories](https://www.nature.com/sdata/policies/repositories) further eg [Google-indexed repositories](https://developers.google.com/search/docs/advanced/structured-data/dataset) further eg [LOD Cloud-indexed dataset](https://lod-cloud.net).
 
