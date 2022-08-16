@@ -30,19 +30,19 @@ note these conventions.
 | [W3C](https://www.w3.org) | [ld-bp](http://www.w3.org/TR/ld-bp/) |  `yes` |‌ re linked data |
 | [W3C](https://www.w3.org) | [prov](http://www.w3.org/2005/Incubator/prov/XGR-prov/) |  `yes` |‌ re data provenance |
 | [OKF](https://okfn.org) | [Frictionless Standards](https://frictionlessdata.io/standards)[^ie Data Protocols announced [17 July 2012 by Rufus Pollock](https://blog.okfn.org/2012/07/17/data-protocols-community-based-light-weight-data-protocols-for-collaborative-distributed-work-with-data/).] | `yes` | `null` |
-| [OKF](https://okfn.org) | [Open Definition](https://opendefinition.org) | `yes` | not reviewed as of 6.30 |
-| [FOSTER](https://www.fosteropenscience.eu/about)[^EU-funded project (unincorporated body?) 2014 to present.] | [Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/book/) | `null` | not reviewed as of 6.32 |
+| [OKF](https://okfn.org) | [Open Definition](https://opendefinition.org) | `yes` | `null` |
+| [FOSTER](https://www.fosteropenscience.eu/about)[^EU-funded project (unincorporated body?) 2014 to present.] | [Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/book/) | `no` | not standards |
 | [AHA](https://www.historians.org) | [Statement on Standards of Professional Conduct 1987-2019](https://www.historians.org/jobs-and-professional-development/statements-standards-and-guidelines-of-the-discipline/statement-on-standards-of-professional-conduct#SharedValues) | `no` | language too vague |
 | [NCPH](https://ncph.org) | [Code of Ethics and Professional Conduct 2007](https://ncph.org/about/governance-committees/code-of-ethics-and-professional-conduct/) | `no` | language too vague |
-| [COS](https://www.cos.io) | [TOP Guidelines](https://www.cos.io/initiatives/top-guidelines) | `yes` | not reviewed as of 6.33 |
-| `null` | [Broman & Woo 2018](https://doi.org/10.1080/00031305.2017.1375989) | `null` | re tabular data |
-| `null` | [Mandakers & Dillon 2004](https://doi.org/10.3200/HMTS.37.1.34-38) | `yes` | re tabular data |
-| `null` | [Robertson & Mullen 2021](https://doi.org/10.1093/jsh/shab015) | `null` | re work-log and text eg pre-print etc |
+| [COS](https://www.cos.io) | [TOP Guidelines](https://www.cos.io/initiatives/top-guidelines) | `yes` | `null` |
+| `null` | [Broman & Woo 2018](https://doi.org/10.1080/00031305.2017.1375989) | `no` | re tabular data only |
+| `null` | [Mandakers & Dillon 2004](https://doi.org/10.3200/HMTS.37.1.34-38) | `yes` | `null` |
+| `null` | [Robertson & Mullen 2021](https://doi.org/10.1093/jsh/shab015) | `no` | not standards |
 | `null` | [Hoekstra & Koolen 2019](https://doi-org.ezp-prod1.hul.harvard.edu/10.1080/01615440.2018.1484676) | `yes` | re work-log and text eg pre-print etc |
-| [IDS at Maastricht Univ](https://www.maastrichtuniversity.nl/research/institute-data-science) | [IDS Best Practices](https://maastrichtu-ids.github.io/best-practices/) | `null` | nor reviewed as of 7.02 |
-| `null` | [Panton Principles 2009](http://www.pantonprinciples.org) | `null` | not reviewed as ot 7.00 |
+| [IDS at Maastricht Univ](https://www.maastrichtuniversity.nl/research/institute-data-science) | [IDS Best Practices](https://maastrichtu-ids.github.io/best-practices/) | `yes` | `null` |
+| `null` | [Panton Principles 2009](http://www.pantonprinciples.org) | `yes` | `null` |
 | [APS](https://www.psychologicalscience.org) | [*Psychological Science* Submission Guidelines](http://www.psychologicalscience.org/publications/psychological_science/ps-submissions#DISC) | `null` | not reviewed as of 9.58 |
-| [GFISCO](https://www.go-fair.org/imprint/) | [FAIR Guiding Principles](https://www.go-fair.org/fair-principles/) | `null` | not reviewed as of 14.25 |
+| [GFISCO](https://www.go-fair.org/imprint/) | [FAIR Guiding Principles](https://www.go-fair.org/fair-principles/) | `yes` | not reviewed as of 14.25 |
 
 ### TOP Guidelines by COS
 
@@ -173,7 +173,7 @@ reviewed 16 aug 2022 12.59. composed of vars recommendations ie rules spanning a
 | A1 | `yes` | `output` should inc info re purpose and content of `data` |
 | A2 | `no`[^as info not available in version 1.4 so likely not possible to get for `data`.] | `output` should inc extensive info re primary sources used in `work` |
 | A3 | `no`[^as info not available in version 1.4 so likely not possible to get for `data`.] | as A2 adding further content requirements |
-| A4 | `null`[^as not relevant] | re samples |
+| A4 | `no`[^as not relevant] | re samples |
 | B1 | `yes` | `work-files` must be editable[^to allow correction of mistaken data values at any point during `work`] |
 | B2 | `no` | standardisation and integration processes within `work` should be iterative |
 | B3 | `no`[^as info not available in version 1.4 so likely not possible to get for `data`.] | `working-files` or `output` should inc rules used to integrate data from disparate sources during `work` |
@@ -214,9 +214,31 @@ reviewed 16 aug 2022 14.02. vars recommendations re project or re research. reco
 
 ### FAIR Guiding Principles by GFISCO
 
+latest version [15 march 2016](https://www.nature.com/articles/sdata201618) reviewed 16 aug 2022 14.31.
 
+| rec | adoption[^inc partial or modified adoption though in that case notice made in `note` column.] | note |
+|:--|:--|:--|
+| F1 | `yes` | `data` should inc globally unique and persistent URIs[^inc for the whole and component parts]
+| F2 | `yes` | `data` should inc rich descriptive metadata |
+| F3 | `yes` | as F2 adding *and inc URI of* `data` |
+| F4 | `no`[^as depends on third-party] | re publication |
+| A1 | `no`[^as depends on third-party] | `data` should be easily retreivable via its URI |
+| A2 | `no`[^as depends on third-party] | `data` metadata should be accessible even after data removal |
+| I1 | `yes` | `data` should use formal, accessible, shared, and applicable data representations[^eg `rdf`, `owl`, `json-ld`] |
+| I2 | `no`[^as may not be possible] | `data` should use FAIR-compliant vocabularies |
+| I3 | `no`[^as may not be possible] | relevance or relation of references within `data` to `data` itself should be well-described[^eg *see x for so-and-so* instead of simply *see x*.] |
+| R1 | `yes` | as F2 adding *inc vars accurate and relevant attributes* |
 
+### Panton Principles 2009
 
+latest version viewed 16 aug 2022 18.14.
+
+| principle | adoption[^inc partial or modified adoption though in that case notice made in `note` column.] | note |
+|:--|:--|:--|
+| 1 | `no`[^likely not relevant] | `data` should inc statement re author wishes[^wrt third-party re-use or re-purposing of individual data elements, whole dataset, or subsets thereof.] |
+| 2 | `no`[^may not be possible] | `data` should inc dedicated data licence |
+| 3 | `no`[^may not be possible] | as 2 adding *inc no restrictions* |
+| 4 | `no`[^may not be possible] | as 2 adding *inc placing in public domain* |
 
 ## process standards
 
