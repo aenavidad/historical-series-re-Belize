@@ -1,8 +1,20 @@
 # algorithmic
 
+- [algorithmic](#algorithmic)
+  - [abstract](#abstract)
+  - [sec 1. work flow towards v-1.5](#sec-1-work-flow-towards-v-15)
+  - [sec 2. work flow standards for sec. 1](#sec-2-work-flow-standards-for-sec-1)
+    - [sec 2.1. standards for work-flow ie actions ie events](#sec-21-standards-for-work-flow-ie-actions-ie-events)
+    - [sec. 2.2. standards for intermediate files eg clean raw data](#sec-22-standards-for-intermediate-files-eg-clean-raw-data)
+  - [sec 3. work output from sec. 1](#sec-3-work-output-from-sec-1)
+  - [sec 4. work output standards for sec. 3](#sec-4-work-output-standards-for-sec-3)
+  - [authorities](#authorities)
+  - [references](#references)
+  - [footnotes](#footnotes)
+
 ## abstract
 
-this file has the following contents[^1]
+this file has the following contents.[^1]
 1. a list of steps to be followed to produce v-1.5 from v-1.4 data (or from v-1.4 and pre-git-hist data),
 2. a list of work-procedural standards which steps in section 1 must or may meet,
 3. a list of file outputs expecting from following steps in section 1,
@@ -98,7 +110,7 @@ we expect at least the followwing files upon following sec. 1 steps.[^2]
 - [TO](https://core.ac.uk/display/301654646)//needs review as of 14 aug 2022 - finished 20.18
 - [PH](http://programminghistorian.org/en/about)//needs review as of 14 aug 2022 - finished 14 aug 2022
 - [AHA](https://www.historians.org/jobs-and-professional-development/statements-standards-and-guidelines-of-the-discipline)
-- [UKDA](https://www.data-archive.ac.uk/managing-data/standards-and-procedures/
+- [UKDA](https://www.data-archive.ac.uk/managing-data/standards-and-procedures/)
 - [COS](https://www.cos.io/initiatives/top-guidelines]).
 
 ## references
