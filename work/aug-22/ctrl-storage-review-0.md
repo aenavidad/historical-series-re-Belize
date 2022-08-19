@@ -29,4 +29,12 @@ have not answered question re
 - version control vs backup ie archiving? diff?
 - version control or backup for code vs for data?
 - std lang for algorithms?
-- 
+
+## further addendum
+
+added 18 aug 2022 22.59
+
+- let version control be implemented using `git` and `git-lfs`
+- let backup be implemented using `github` and `osf`
+
+above works well for small files ie below 100 MB, though we lose file-grained diffs for files above this threshhold.[^eg as per [OKF blog 2 july 2013](https://blog.okfn.org/2013/07/02/git-and-github-for-data/).]
