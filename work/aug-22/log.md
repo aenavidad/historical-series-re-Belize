@@ -17,4 +17,5 @@
 ## 18 aug 2022 in Boston MA
 
 - start 22.47
-- 
+- `git` check passed (`osf` check thought not needed)
+- continue review of version control and backup rules in `ctrl-storage-review-0.md`
