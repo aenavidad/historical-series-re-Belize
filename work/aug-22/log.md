@@ -20,4 +20,5 @@
 - `git` check passed (`osf` check thought not needed)
 - continue review of version control and backup rules in `ctrl-storage-review-0.md`
 - finish writing `ctrl-storage-review-0.md` on 19 aug 2022 6.12 am
-- started tagging of files for data extraction in `null`
+- started tagging of files for data extraction in `tagged.md`
+- merged `aug-work` branch of `historical-series-re-Belize` repo to `main`
