@@ -7,4 +7,10 @@ this file lists files in `aenavidad/pre-git-hist` or `aenavidad/historical-serie
 ## in `aenavidad/historical-series-re-Belize`
 
 - 14 `tsv` files in `/v-1.4`
-- 
+- nothing else
+
+## in `aenavidad/pre-git-hist`
+
+- vars `tsv` files in `/files`
+- vars other files in `/files`
+- nothing else
