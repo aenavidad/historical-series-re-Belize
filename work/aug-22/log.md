@@ -28,3 +28,17 @@
 - start 9.48
 - `git` check passed (`osf` check thought not needed)
 - continue tagging files in `tagged.md`
+- abort tagging of files in `tagged.md`
+- start cleaning of `pre-git-hist/grey/` files
+- abort cleaning of `pre-git-hist/grey/`
+- started review `rules-20-aug-2022.md`
+- end at `null`
+
+## 21 aug 2022 in Boston MA
+
+- start 11.20
+- continue review `rules-20-aug-2022.md`
+- pause review `rules-20-aug-2022.md` on 12.50
+- start review `rules-20-aug-2022.numbers` on 12.51
+- finished review `rule-20-aug-2022.numbers` on 18.11
+- added `rules-20-aug-2022.tsv` to `work/aug-22` on 18.12
