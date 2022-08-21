@@ -42,3 +42,5 @@
 - start review `rules-20-aug-2022.numbers` on 12.51
 - finished review `rule-20-aug-2022.numbers` on 18.11
 - added `rules-20-aug-2022.tsv` to `work/aug-22` on 18.12
+- `git` check passed (`osf` check thought not needed)
+- continue review `rules-20-aug-2022.md` on 18.16
