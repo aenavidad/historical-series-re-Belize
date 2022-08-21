@@ -29,100 +29,37 @@ start[^started 9 aug 2022 in Boston MA upon adoption of `git` for version-contro
 
 end
 
+where to write `v-1.5`,
+
+start
+
+- [ ] tag files in `pre-git-files` slated for data extraction,
+- [ ] per tagged file, extract vertices, edges, d-function mapping and clean these and log all relevant decisions and details and write relevant csv and json files,
+- [ ] validate all files written above,
+- [ ] add with (clean) raw data,
+- [ ] add generated data,
+- [ ] transform into machine-readable format,
+- [ ] transform into human-readable format,
+
+end
+
 ## standards
 
-### adopted
-
-| no[^as per `process-0.md`] | standard | from |
+| no[^as per `process-0.md`] | standard | from[^no as per `rules-20-aug-2022.tsv`] |
 |:--|:--|:--|
-| 1 | `work` must be replicable | `null` |
-| 2 | `v-1.5` must be human-readable | `null` |
-| 3 | `v-1.5` must be machine-readable | `null` |
+| 1 | `work` must be replicable | vars[^see table for nos 1.1-1.7] |
+| 2 | `v-1.5` must be human-readable | 68, 162, 187, 223 |
+| 3 | `v-1.5` must be machine-readable | 64, 65, 66, 67, 90, 93, 94, 116, 124, 125, 158, 160, 188, 200, 223, 224, 225 |
 
-where[^from `process-0.md` with minor modifications in phrasing]
+where[^from `process-0.md` and `rules-20-aug-2022.tsv` with minor modifications in phrasing]
 
-| no[^as per `process-0.md`] | standard[^rephrased from `process-0.md`] | from |
+| no[^nos 1.1-1.7 as per `process-0.md` , no 1.8 added here] | standard[^rephrased from `process-0.md`] | from[^no as per `rules-20-aug-2022.tsv`] |
 |:--|:--|:--|
-| 1.1 | `work-files` must cite sources | `null` |
-| 1.2 | `work-files` must be archived | `null` |
-| 1.3 | `work` must be logged | `null` |
-| 1.4 | `work` must be registered | `null` |
-| 1.5 | `pre-git-files` and `work-files` must be licensed | `null` |
-| 1.6 | `work-files` must be citeable | `null` |
-| 1.7 | `v-1.5` must inc metadata | `null` |
-
-and where[^from `standards.md` with minor modifications in phrasing]
-
-| standards | no | adoption[^inc partial or modified adoption though in that case notice made in `note` column.] | note |
-|:--|:--|:--|:--|
-| COS TOP Guidelines | no 1 lvl iii | yes | `work-files` must appropriately cite[^ie must cite datasets and programme code used, where citation should (may) inc persistent identifier.] |
-| COS TOP Guidelines | no 2 lvl ii[^lvl iii only possible via third-party action as requires publishing journal to verify replicability of `work`] | yes | `work-files` must be deposited in trusted repository[^where `work-files` must inc materials and methods (eg work log, work standards) and where `work-files` must be clearly and precisely documented and maximally available and where `work-files` must inc full account of how data collected, preprocessed, cleaned, and generated and where `work-files` must inc all materials and methods information necessary to independently replicate `work` and where parts of `work-files` which may not be shared (eg for legal or ethical reasons) must be noted in `work-files` inc explanation of restrictions and description of how to access restricted parts thereof.] |
-| COS TOP Guidelines | no 3 lvl ii | yes | as in no 2 lvl ii |
-| COS TOP Guidelines | no 4 lvl ii | yes | as in no 2 lvl ii |
-| COS TOP Guidelines | no 5 lvl iii | yes | `pre-print` must inc key design and log details of work[^ie `pre-print` must report exclusions from `v-1.5` and data manipulations or measures used to produce `v-1.5` and further `pre-print` should (may) explain how sample size was determined] |
-| COS TOP Guidelines | no 6 lvl i[^lvl ii and lvl iii only possible via third-party action] | no[^as this project's work began in oct 2020, it isn't possible to pre-register it, though will be registered prior to pre-print.] | `work` must be pre-registered[^ie pre-registered in independent institutional registry.] |
-| COS TOP Guidelines | no 7 lvl i | yes | data analysis plan ie steps to produce`v-1.5` must be pre-registered[^ie deposited in independent institutional registry. this is possible since version 1.4 data have not been cleaned nor analysed, so it's still possible to pre-register any plan for cleaning or processing of those data to produce `v-1.5`] |
-| COS TOP Guidelines | no 8 lvl i[^lvl ii and lvl iii only possible via third-party action] | no | not applicable |
-| W3C webarch | sec 2.1 | yes | `work-files` should identify resources with URIs |
-| W3C webarch | sec 2.3.1 | no | `work-files` should not use URI aliasses |
-| W3C webarch | sec 2.4[^prior to sec 2.4.1] | yes | URIs in `work-files` should be use existing URI schemes |
-| W3C webarch | sec 3.5[^prior to sec 3.5.1] | yes | URI-identified resources in `work-files` should be provided[^eg URIs created for resourced in `work-files` should be made available] |
-| W3C webarch | sec 3.5.1 | yes | as sec 3.5 adding *provided consistently and predictably* |
-| W3C dwbp | bp 1 |  |  |
-| W3C dwbp | bp 2 |  |  |
-| W3C dwbp | bp 3 |  |  |
-| W3C dwbp | bp 4 |  |  |
-| W3C dwbp | bp 5 |  |  |
-| W3C dwbp | bp 6 |  |  |
-| W3C dwbp | bp 7 |  |  |
-| W3C dwbp | bp 8 |  |  |
-| W3C dwbp | bp 9 |  |  |
-| W3C dwbp | bp 10 |  |  |
-| W3C dwbp | bp 11 |  |  |
-| W3C dwbp | bp 12 |  |  |
-| W3C dwbp | bp 13 |  |  |
-| W3C dwbp | bp 14 |  |  |
-| W3C dwbp | bp 15 |  |  |
-| W3C dwbp | bp 16 |  |  |
-| W3C dwbp | bp 17 | no[^not relevant as regards third-party] |   should provide bulk download of `v-1.5` |
-| W3C dwbp | bp 18 | no[^as depends on third-party] | should provide subsets of `v-1.5` if too large |
-| W3C dwbp | bp 19 | no[^not relevant as regards third-party] |  |
-| W3C dwbp | bp 20 | no[^not relevant to research] |  |
-| W3C dwbp | bp 21 | no[^not relevant to research] |  |
-| W3C dwbp | bp 22 | yes | `work-files` should inc explanation of unavailable data values within `v-1.5` |
-| W3C dwbp | bp 23 | no[^as depends on third-party] | `v-1.5` should be available via API |
-| W3C dwbp | bp 24 | no[^as depends on third-party] | as bp 23 adding *standards-compliant API* |
-| W3C dwbp | bp 25 | no[^as depends on third-party] | as bp 23 adding *well-documented API* |
-| W3C dwbp | bp 26 | no[^as depends on third-party] | as bp 23 adding *persistently-available API* |
-| W3C dwbp | bp 27 | no[^as depends on third-party] | should preserve URIs |
-| W3C dwbp | bp 28 | yes | `v-1.5` should inc info re its coverage |
-| W3C dwbp | bp 29 | no[^as depends on third-party] | should gather feedback |
-| W3C dwbp | bp 30 | no[^as depends on third-party] | should make feedback available |
-| W3C dwbp | bp 31 | yes | `work-files` should inc further data generated from `v-1.5` if informative or enriching[^likely not needed though] |
-| W3C dwbp | bp 32 | no[^as depends on third-party] | should provide complementary presentations |
-| W3C dwbp | bp 33 | no[^as depends on third-party] | should provide feedback |
-| W3C dwbp | bp 34 | yes | `work-files` should comply with licences of materials employed during `work` |
-| W3C dwbp | bp 35 | yes | `work-files` should cite data sources |
-
-### reviewed
-
-| body | standards[^relevant standards not found in [EQUATOR](https://www.equator-network.org/) on 16 aug 2022 9.56.] | adoption[^inc partial adoption or adoption after interpretation or modification.] | notes |
-|:--|:--|:--|:--|
-| [COS](https://www.cos.io/) | [TOP Guidelines](https://www.cos.io/initiatives/top-guidelines) | yes | `null` |
-| [W3C](https://www.w3.org/) | [webarch](http://www.w3.org/TR/webarch/) | yes | `null` |
-| [W3C](https://www.w3.org/) | [dwbp](https://www.w3.org/TR/dwbp/) | yes | `null` |
-| [W3C](https://www.w3.org/) | [ld-bp](http://www.w3.org/TR/ld-bp/) | yes | `null` |
-| [W3C](https://www.w3.org/) | [prov](http://www.w3.org/2005/Incubator/prov/XGR-prov/) | yes | `null` |
-| [OKF](https://okfn.org/) | [Frictionless Standards](https://frictionlessdata.io/standards)[^ie Data Protocols announced [17 July 2012 by Rufus Pollock](https://blog.okfn.org/2012/07/17/data-protocols-community-based-light-weight-data-protocols-for-collaborative-distributed-work-with-data/)] | yes | `null` |
-| [OKF](https://okfn.org/) | [Open Definition](https://opendefinition.org/) | yes | `null` |
-| `null` | [Mandakers & Dillon 2004](https://doi.org/10.3200/HMTS.37.1.34-38) | yes | `null` |
-| `null` | [Hoekstra & Koolen 2019](https://doi-org.ezp-prod1.hul.harvard.edu/10.1080/01615440.2018.1484676) | yes | `null` |
-| [IDS at Maastricht Univ](https://www.maastrichtuniversity.nl/research/institute-data-science) | [IDS Best Practices](https://maastrichtu-ids.github.io/best-practices/) | yes | `null` |
-| [GFISCO](https://www.go-fair.org/imprint/) | [FAIR Guiding Principles](https://www.go-fair.org/fair-principles/) | yes | `null` |
-| [FOSTER](https://www.fosteropenscience.eu/about) | [Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/book/) | no | not standards |
-| [AHA](https://www.historians.org) | [Statement on Standards of Professional Conduct 1987-2019](https://www.historians.org/jobs-and-professional-development/statements-standards-and-guidelines-of-the-discipline/statement-on-standards-of-professional-conduct#SharedValues) | no | language too vague |
-| [NCPH](https://ncph.org) | [Code of Ethics and Professional Conduct 2007](https://ncph.org/about/governance-committees/code-of-ethics-and-professional-conduct/) | no | language too vague |
-| `null` | [Broman & Woo 2018](https://doi.org/10.1080/00031305.2017.1375989) | no | re tabular data only |
-| `null` | [Robertson & Mullen 2021](https://doi.org/10.1093/jsh/shab015) | no | not standards |
-| `null` | [Panton Principles 2009](http://www.pantonprinciples.org) | no | `null` |
-| [APS](https://www.psychologicalscience.org) | [*Psychological Science* Submission Guidelines](http://www.psychologicalscience.org/publications/psychological_science/ps-submissions#DISC) | no | `null` |
+| 1.1 | `work-files` must cite sources | 11, 20, 21, 22, 24, 61, 87, 227 |
+| 1.2 | `work-files` must be archived | 12, 13, 14, 51, 123, 146, 153, 167, 169, 173, 212, 219 |
+| 1.3 | `work` must be logged | 15, 86, 99, 100, 102, 166, 168, 178, 179, 180, 181 |
+| 1.4 | `work` must be registered | 17 |
+| 1.5 | `pre-git-files` and `work-files` must be licensed | 51, 56, 91, 175, 184, 204, 212, 226 |
+| 1.6 | `work-files` must be citeable | 51, 62, 63, 92, 98, 176, 190, 192, 221 |
+| 1.7 | `v-1.5` must inc metadata | 53, 54, 55, 57, 58, 59, 74, 80, 117, 119, 121, 142, 160, 174, 177, 193, 194, 203, 205, 206, 220 |
+| 1.8 | `v-1.5` must distinguish raw vs processed or generated datavalues | 83 |
