@@ -62,7 +62,8 @@ this file lists files in `aenavidad/pre-git-hist` or `aenavidad/historical-serie
 | `harv/Events-*.tsv` | 1 |
 | `harv/Events 2-*.tsv` | 1 |
 | `blue/orig data events 1.2 *.tsv` | 1 |
-| total | 5 |
+| `wiki/*.xml` | 44 |
+| total | 49 |
 
 ### extracts
 
