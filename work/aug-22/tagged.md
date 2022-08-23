@@ -32,7 +32,10 @@ this file lists files in `aenavidad/pre-git-hist` or `aenavidad/historical-serie
 | `grey/series-v-1.5-*.tsv` | 11 |
 | `yell/sources *.tsv` | 8 |
 | `blue/hist sources v1.1 *.tsv` | 3 |
-| total | 47 |
+| `purp/disc amb 1.1 *.tsv` | 5 |
+| `tran/hist sources 1.4 *.tsv` | 2 |
+| `tran/hist sources v1.3 *.tsv` | 3 |
+| total | 57 |
 
 ### statistical
 
