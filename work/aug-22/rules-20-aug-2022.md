@@ -45,15 +45,15 @@ end
 
 ## standards
 
-| no[^as per `process-0.md`] | standard | from[^no as per `rules-20-aug-2022.tsv`] |
+| no[^as per [[process-0.md]].] | standard | from[^no as per [[rules-20-aug-2022.tsv]].] |
 |:--|:--|:--|
 | 1 | `work` must be replicable | vars[^see table for nos 1.1-1.7] |
 | 2 | `v-1.5` must be human-readable | 68, 162, 187, 223 |
 | 3 | `v-1.5` must be machine-readable | 64, 65, 66, 67, 90, 93, 94, 116, 124, 125, 158, 160, 188, 200, 223, 224, 225 |
 
-where[^from `process-0.md` and `rules-20-aug-2022.tsv` with minor modifications in phrasing]
+where[^from [[process-0.md]] and [[rules-20-aug-2022.tsv]] with minor modifications in phrasing]
 
-| no[^nos 1.1-1.7 as per `process-0.md` , no 1.8 added here] | standard[^rephrased from `process-0.md`] | from[^no as per `rules-20-aug-2022.tsv`] |
+| no[^nos 1.1-1.7 as per [[process-0.md]] , no 1.8 added here] | standard[^rephrased from [[process-0]].] | from[^no as per [[rules-20-aug-2022.tsv]].] |
 |:--|:--|:--|
 | 1.1 | `work-files` must cite sources | 11, 20, 21, 22, 24, 61, 87, 227 |
 | 1.2 | `work-files` must be archived | 12, 13, 14, 51, 123, 146, 153, 167, 169, 173, 212, 219 |

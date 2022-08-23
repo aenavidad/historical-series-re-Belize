@@ -2,13 +2,13 @@
 
 ## abstract
 
-this file contains output from step 50 of `extractions.md`[^file written 22 aug 2022 12.48 in Boston MA.]
+this file contains output from step 50 of [[extractions.md]][^file written 22 aug 2022 12.48 in Boston MA.]
 
 ## current content
 
-this section contains full extracts of all content within files listed in step 36 of `extractions.md`[^of 11 files listed in step 36 (ie inc 1 file added as per step 46), 9 have no content and 2 have content so this section extracts content only for these latter 2 files.]
+this section contains full extracts of all content within files listed in step 36 of [[extractions.md]][^of 11 files listed in step 36 (ie inc 1 file added as per step 46), 9 have no content and 2 have content so this section extracts content only for these latter 2 files.]
 
-in `vertices.csv`
+in [[vertices.csv]]
 
 ```
 gid,vertex,vocab,type
@@ -26,7 +26,7 @@ vaa0010,graph.csv-metadata.json,ioa,0000445
 vaa0011,null,ioa,0000445
 ```
 
-in `vertices.csv-metadata.json`
+in [[vertices.csv-metadata.json]]
 
 ```
 {
@@ -75,9 +75,9 @@ in `vertices.csv-metadata.json`
 
 ## observations
 
-this section contains free-form notes of observations during steps 45-50 of `extractions.md`
+this section contains free-form notes of observations during steps 45-50 of [[extractions.md]]
 
-1. vertices listed in `vertices.csv` aren't properly vertices of the graph but we need to specify what we mean by this,
+1. vertices listed in [[vertices.csv]] aren't properly vertices of the graph but we need to specify what we mean by this,
 2. the graph's *proper* vertices should be as follows,
     - authorities ie persons,
     - works ie creations inc extracts,
@@ -90,7 +90,7 @@ this section contains free-form notes of observations during steps 45-50 of `ext
     - nothing else,
 4. given the above we may want to use BFO to formalise the above,[^note [latest OWL implementation of BFO](https://github.com/BFO-ontology/BFO) has 35 owl:Classes ie OWL implementation specifies classes only and does not specify relations (further per Guide sec 0 *BFO 2.0 OWL is a classes-only specification. The incorporation of core relations has been held over for a later version.*)]
     - begin formalisation,
-    - let graph be as follows,[^as per footnote 6 of `algorithmic.md` ie the structure we are meant to have is a graph (variously called a quiver ie directed pseudograph ie directed graph ie digraph ie directed multigraph eg [per wolfram](https://mathworld.wolfram.com/Pseudograph.html) and eg [per ncatlab](https://ncatlab.org/nlab/show/pseudograph)).]
+    - let graph be as follows,[^as per footnote 6 of [[algorithmic.md]] ie the structure we are meant to have is a graph (variously called a quiver ie directed pseudograph ie directed graph ie digraph ie directed multigraph eg [per wolfram](https://mathworld.wolfram.com/Pseudograph.html) and eg [per ncatlab](https://ncatlab.org/nlab/show/pseudograph)).]
         - begin output,
         - take the usual mathematical primitives eg points, sets.
         - let naturals N = {0,1,2,...},
@@ -151,8 +151,8 @@ this section contains free-form notes of observations during steps 45-50 of `ext
     - define *complement* \\(\not\sim\\) from \\(A\\) to \\(B\\) (ie over \\(A\\) to \\(B\\)) as \\( \not\sim\;\subseteq A\times B\\) where \\( a_i\not\sim b_i \\) iff not \\( a_i\sim b_i \\),
     - consider *binary relations* \\(\sim_{v_i}\\) over \\(V\\),[^ie from \\(V\\) to \\(V\\).]
     - let \\(v_i\sim_{v_0}v_j\\) iff \\(v_i\\) is a *particular* and \\(v_j\\) is a *particular*,[^where we do not define *particular* but elucidate it as *a particular is a spatiotemporal instance ie not a universal nor type eg extended things eg concrete things counter-eg abstract things eg things in actual spacetime*]
-    - then \\( \sim_{v_0}\subseteq V\times V\\) is not empty,[^ie at least some of our vertices are *particulars* eg all those to-be-extracted from files in `tagged.md###events` seem like *particulars* rather than not]
-    - further \\( \not\sim_{v_0}\subseteq V\times V\\) is not empty,[^ie at least some of our vertices are not *particulars* eg all those to-be-extracted from files in `tagged.md##topical groupings` (other than files in `tagged.md###events`) seem unlike *particulars* rather than like]
+    - then \\( \sim_{v_0}\subseteq V\times V\\) is not empty,[^ie at least some of our vertices are *particulars* eg all those to-be-extracted from files in subsec events of [[tagged.md]] seem like *particulars* rather than not]
+    - further \\( \not\sim_{v_0}\subseteq V\times V\\) is not empty,[^ie at least some of our vertices are not *particulars* eg all those to-be-extracted from files in sec topical groupings of [[tagged.md]] (other than files in subsection events) seem unlike *particulars* rather than like]
     - consider *binary relations* \\(\sim_{{vo}_i}\\) from \\(V\\) to \\(O_v \\),
     - let \\(v_i\sim_{{vo}_0}o_{v_j}\\) iff \\(v_i\\) is a *particular* and \\( v_i\; \mathrm{instance\_of}\; o_{v_j}\\) for \\( \mathrm{instance\_of}\; =\;\\) **instance_of** relation specified in BFO 2.0 non-OWL,[^recall no \\(o_{v_j} \\) in \\( O_v\\) is a *particular*] [^where BFO 2.0 non-OWL is either the natural-language or logical-language specification of BFO 2.0 but not the OWL specification.]
     - and let \\(v_i\sim_{{vo}_1}o_{v_j}\\) iff \\(v_i\\) is not a *particular* and \\( v_i\; \mathrm{is\_a}\; o_{v_j}\\) for \\( \mathrm{is\_a}\; =\;\\) *is_a* relation specified in BFO 2.0 non-OWL,

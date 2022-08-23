@@ -2,7 +2,7 @@
 
 ## abstract
 
-this file is intended to finalise work process and output standards as gathered in prior files.[^inc in order of preference `standards.md` and `algorithmic.md`. this file created 16 aug 2022 15.10 in Boston MA.]
+this file is intended to finalise work process and output standards as gathered in prior files.[^inc in order of preference [[standards.md]] and [[algorithmic.md]]. this file created 16 aug 2022 15.10 in Boston MA.]
 
 note
 
@@ -30,9 +30,9 @@ end
 
 ## work
 
-start[^started 16 aug 2022 in Boston MA upon writing `standards.md`.]
+start[^started 16 aug 2022 in Boston MA upon writing [[standards]].]
 
-1. complete `process` file,[^inc all standards and relevant info from `algorithmic.md`, `output.md`, `prospectus.md`, `standards.md`.]
+1. complete `process` file,[^inc all standards and relevant info from [[algorithmic.md]], [[output.md]], [[prospectus.md]], [[standards.md]].]
 2. complete `osf` registration for `work`,
 3. start `log` file,[^to log each working session inc date-times, `git` and `osf` checks, actions started or complete, and specifications of these.]
 4. if `v-1.5` exists, skip to step 9, else to step 5,
@@ -56,7 +56,7 @@ end
 
 ## standards
 
-note references to sec standards of `standards.md` used in the `from` columns in this section.
+note references to sec standards of [[standards.md]] used in the `from` columns in this section.
 
 | no | standard | from |
 |:--|:--|:--|:--|
@@ -78,7 +78,7 @@ note references to sec standards of `standards.md` used in the `from` columns in
 
 ### third-party
 
-adopted third party standards[^from `standards.md` as of 16 aug 2022 18.37.]
+adopted third party standards[^from [[standards.md]] as of 16 aug 2022 18.37.]
 
 | standards | no | note |
 |:--|:--|:--|

@@ -143,7 +143,7 @@ we expect at least the followwing files upon following sec. 1 steps.[^2]
 
 [^1]: file created 14 aug 2022 in boston MA. file may use terms as in W3C in ld-glossary.
 
-[^2]: per `output.md`, the structure we are meant to have is a graph construed as follows (variously called a quiver ie directed pseudograph ie directed graph ie digraph ie directed multigraph eg [per wolfram](https://mathworld.wolfram.com/Pseudograph.html) and eg [per ncatlab](https://ncatlab.org/nlab/show/pseudograph).
+[^2]: per [[output.md]], the structure we are meant to have is a graph construed as follows (variously called a quiver ie directed pseudograph ie directed graph ie digraph ie directed multigraph eg [per wolfram](https://mathworld.wolfram.com/Pseudograph.html) and eg [per ncatlab](https://ncatlab.org/nlab/show/pseudograph).
 
       - take the usual mathematical primitives eg points, sets.
       - let naturals N = {0,1,2,...},

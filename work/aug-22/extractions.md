@@ -11,9 +11,9 @@ re ~~47~~57 files topically grouped as **sources and authorities** in [[tagged]]
 start
 
 1. start on 21 aug 2022 20.17,
-2. order files chronologically as per `pre-git-hist/events.tsv` to better navigate files and to weed out duplicate datavalues,
+2. order files chronologically as per [[pre-git-hist/events.tsv]] to better navigate files and to weed out duplicate datavalues,
     - output from most to least recent is `grey/series-v-1.5-*.tsv`, `yell/sources *.tsv`, `harv/found bib 1.2-*.tsv`, `harv/found scrap 1.2-*.tsv`, `harv/found data 1.2-*.tsv`, `harv/1638 sources 1.5-Sources *.tsv`, ~~`detour at 20.27`~~, ~~`detour at 20.38`~~, `purp/disc amb 1.1 *.tsv`, `tran/hist sources 1.4 *.tsv`, `tran/hist sources v1.3 *.tsv`, `blue/hist sources v1.1 *.tsv`, `harv/Sources-*.tsv`, `harv/Sources 2-*.tsv`.
-3. `detour at 20.27` taken to add 5 `disc amb 1.1 *.tsv` files to `pre-git-hist/files/purp/` and to `pre-git-hist/files.tsv`,
+3. `detour at 20.27` taken to add 5 `disc amb 1.1 *.tsv` files to `pre-git-hist/files/purp/` and to [[pre-git-hist/files.tsv]],
 4. `detour at 20.38` taken to add `purp/disc amb 1.1 *.tsv` and `tran/hist sources 1.4 *.tsv` and `tran/hist sources v1.3 *.tsv` to `tagged.md` thereby bringing files grouped as *sources and authorities* from 47 total to 57 total,
 5. determine duplicate datavalues within `grey/series-v-1.5-*.tsv`, and further weed out sparse or useless files,
     - output alphabetically ordered is,
@@ -200,11 +200,11 @@ start
     - reserve `va[a-z]num` for vertices wholly contained within the graph eg tables, records, files, and the like,
     - reserve `vaanum` for files,
     - end output,
-41. start writing `vertices.csv` at 7.57,
+41. start writing [[vertices.csv]] at 7.57,
     - start ouput,
     - further reserve `vaanum` for files and add to step 40,
     - end output,
-42. start writing `vertices.csv-metadata.json` at 8.41,
+42. start writing [[vertices.csv-metadata.json]] at 8.41,
     - start ouput,
     - decide to specify all 10 properties for tables as listed in [Metadata fig 1](https://www.w3.org/TR/2015/REC-tabular-metadata-20151217/#metadata-format) except those omitted in step 42,
     - decide to omit the `dialect` property for tables ie to use default value for said property as given in [Metadata sec 5.9](https://www.w3.org/TR/2015/REC-tabular-metadata-20151217/#dialect-descriptions),
@@ -265,6 +265,6 @@ start
 50. `detour at 12.46` taken to write `detour-at-12-46.md` file,
 51. continued on 23 aug 2022 1.36,
 52. `detour at 1.54` taken to write `detour-at-1-54.md` file,
-53. `detour at 2.20` taken to convert all filenames of files within `work/aug-22` to [iA Writer WikiLinks](https://ia.net/writer/support/general/wikilinks),
+53. `detour at 2.20` taken to convert all filenames of files within `work/aug-22` to [iA Writer WikiLinks](https://ia.net/writer/support/general/wikilinks),[^with minor detour taken just prior to 2.56 to make commits to the `historical-series-re-Belize` repo, to merge `aug-tagging` branch to main branch, to clone both repos in `github.com/aenavidad/` to iCloud directory `/Users/angelnavidad/Library/Mobile Documents/com~apple~CloudDocs/GitHub`, and to add this directory to iA Writer Locations so as to enable WikiLinks within all these documents (though only documents in `work/aug-22` are being WikiLinked during `detour at 2.20`)]
 
 end
