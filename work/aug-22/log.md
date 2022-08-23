@@ -20,5 +20,38 @@
 - `git` check passed (`osf` check thought not needed)
 - continue review of version control and backup rules in `ctrl-storage-review-0.md`
 - finish writing `ctrl-storage-review-0.md` on 19 aug 2022 6.12 am
-- started tagging of files for data extraction in `tagged.md`
+- started tagging of files for data extraction in `tagged.md`[^using `aug-tagging` branch per [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow).]
 - merged `aug-work` branch of `historical-series-re-Belize` repo to `main`
+- paused on 19 aug 2022 7.31
+
+## 20 aug 2022 in Boston MA
+
+- start 9.48
+- `git` check passed (`osf` check thought not needed)
+- continue tagging files in `tagged.md`
+- abort tagging of files in `tagged.md`
+- start cleaning of `pre-git-hist/grey/` files
+- abort cleaning of `pre-git-hist/grey/`
+- started review `rules-20-aug-2022.md`
+- end at `null`
+
+## 21 aug 2022 in Boston MA
+
+- start 11.20
+- continue review `rules-20-aug-2022.md`
+- pause review `rules-20-aug-2022.md` on 12.50
+- start review `rules-20-aug-2022.numbers` on 12.51
+- finished review `rule-20-aug-2022.numbers` on 18.11
+- added `rules-20-aug-2022.tsv` to `work/aug-22` on 18.12
+- `git` check passed (`osf` check thought not needed)
+- continue review `rules-20-aug-2022.md` on 18.16
+- finished review `rules-20-aug-2022.md` on 19.00
+- continue tagging files in `tagged.md`
+- finished tagged files in `tagged.md` on 19.45
+- started extraction of 47 sources and authorities files listed in `tagged.md` on 20.06 with details in `extractions.md`,
+- paused 22 aug 2022 1.10,
+
+## 22 aug 2022 in Boston MA
+
+- start 6.33
+- continue extraction of sources and authorities files in `tagged.md` with details in `extractions.md`,

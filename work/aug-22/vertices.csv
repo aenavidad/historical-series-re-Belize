@@ -1,0 +1,13 @@
+gid,vertex,vocab,type
+vaa0000,vertices.csv,ioa,0000445
+vaa0001,vertices.csv-metadata.json,ioa,0000445
+vaa0002,edges.csv,ioa,0000445
+vaa0003,edges.csv-metadata.json,ioa,0000445
+vaa0004,d-function.csv,null,null
+vaa0005,d-function.csv-metadata.json,ioa,0000445
+vaa0006,authorities.csv,null,null
+vaa0007,authorities.csv-metadata.json,ioa,0000445
+vaa0008,works.csv,ioa,0000445
+vaa0009,works.csv-metadata.json,ioa,0000445
+vaa0010,graph.csv-metadata.json,ioa,0000445
+vaa0011,null,ioa,0000445
