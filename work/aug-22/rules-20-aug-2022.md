@@ -33,7 +33,7 @@ where to write `v-1.5`,
 
 start
 
-- [ ] tag files in `pre-git-files` slated for data extraction,
+- [x] tag files in `pre-git-files` slated for data extraction,
 - [ ] per tagged file, extract vertices, edges, d-function mapping and clean these and log all relevant decisions and details and write relevant csv and json files,
 - [ ] validate all files written above,
 - [ ] add with (clean) raw data,
