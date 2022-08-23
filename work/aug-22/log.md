@@ -21,6 +21,7 @@
 - continue review of version control and backup rules in `ctrl-storage-review-0.md`
 - finish writing `ctrl-storage-review-0.md` on 19 aug 2022 6.12 am
 - started tagging of files for data extraction in `tagged.md`[^using `aug-tagging` branch per [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow).]
+- merged `aug-work` branch of `historical-series-re-Belize` repo to `main`
 - paused on 19 aug 2022 7.31
 
 ## 20 aug 2022 in Boston MA
