@@ -1,0 +1,42 @@
+{
+"@context": ["http://www.w3.org/ns/csvw", {"@language": "en", "@base": "http://example.org/"}],
+"@id": "vaa0000",
+"@type": "Table",
+"url": "vertices.csv",
+"tableDirection": "ltr",
+"tableSchema": {
+                "@type": "Schema",
+                "primaryKey": "gid",
+                "columns": [
+                            { 
+                            "@type": "Column",
+                            "name": "gid",
+                            "virtual": false,
+                            "required": true,
+                            "datatype": null,
+                            },
+                            { 
+                            "@type": "Column",
+                            "name": "vertex",
+                            "virtual": false,
+                            "required": false,
+                            "datatype": null,
+                            },
+                            { 
+                            "@type": "Column",
+                            "name": "vocab",
+                            "virtual": false,
+                            "required": false,
+                            "datatype": null,
+                            },
+                            { 
+                            "@type": "Column",
+                            "name": "type",
+                            "virtual": false,
+                            "required": false, 
+                            "datatype": null,
+                            "propertyURL": null,
+                            }
+                            ]
+                }
+}
