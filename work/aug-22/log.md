@@ -44,3 +44,13 @@
 - added `rules-20-aug-2022.tsv` to `work/aug-22` on 18.12
 - `git` check passed (`osf` check thought not needed)
 - continue review `rules-20-aug-2022.md` on 18.16
+- finished review `rules-20-aug-2022.md` on 19.00
+- continue tagging files in `tagged.md`
+- finished tagged files in `tagged.md` on 19.45
+- started extraction of 47 sources and authorities files listed in `tagged.md` on 20.06 with details in `extractions.md`,
+- paused 22 aug 2022 1.10,
+
+## 22 aug 2022 in Boston MA
+
+- start 6.33
+- continue extraction of sources and authorities files in `tagged.md` with details in `extractions.md`,
