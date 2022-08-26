@@ -267,5 +267,8 @@ start
 52. `detour at 1.54` taken to write `detour-at-1-54.md` file,
 53. `detour at 2.20` taken to convert all filenames of files within `work/aug-22` to [iA Writer WikiLinks](https://ia.net/writer/support/general/wikilinks),[^with minor detour taken just prior to 2.56 to make commits to the `historical-series-re-Belize` repo, to merge `aug-tagging` branch to main branch, to clone both repos in `github.com/aenavidad/` to iCloud directory `/Users/angelnavidad/Library/Mobile Documents/com~apple~CloudDocs/GitHub`, and to add this directory to iA Writer Locations so as to enable WikiLinks within all these documents (though only documents in `work/aug-22` are being WikiLinked during `detour at 2.20`)]
 54. continued `detour at 1.54` from step 52,
+55. paused on 23 aug 2022 4.11,
+56. continued on 24 aug 2022 15.00,
+57. continued step 54,
 
 end
