@@ -45,6 +45,8 @@ this file contains output from step 52 of [[ia-extractions]][^file written 23 au
 13. continue at 15.26,
 14. note W3C [Guide](https://www.w3.org/Guide/) for specification development,
     15. begin step 14 notes,
-    16. use [CommonMark](https://commonmark.org) for markdown,
+    16. use [CommonMark](https://commonmark.org) for markdown as per editing tool [Bikeshed](https://tabatkins.github.io/bikeshed/),
+    17. vars practices per [QA Guide](https://www.w3.org/TR/qaframe-spec/) and [Manual of Style](https://www.w3.org/Guide/manual-of-style/) and [QA Primer](https://www.w3.org/QA/WG/qaframe-primer),
+    18. use of [DTD](https://en.wikipedia.org/wiki/Document_type_definition),[^where, DTD defines the structure and the legal elements and attributes of an markup lang document]
     16. end step 14 notes,
 15. null
