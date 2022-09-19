@@ -49,4 +49,19 @@ this file contains output from step 52 of [[ia-extractions]][^file written 23 au
     17. vars practices per [QA Guide](https://www.w3.org/TR/qaframe-spec/) and [Manual of Style](https://www.w3.org/Guide/manual-of-style/) and [QA Primer](https://www.w3.org/QA/WG/qaframe-primer),
     18. use of [DTD](https://en.wikipedia.org/wiki/Document_type_definition),[^where, DTD defines the structure and the legal elements and attributes of an markup lang document]
     16. end step 14 notes,
-15. null
+15. list things we need to produce from this detour,
+    16. begin step 15 notes,
+    17. we want to know what programmes we're using during data extractions,
+        18. begin programmes,
+        19. system = macOS 11.6 (20G165) with kernel = Darwin 20.6.0 (both) by Apple Inc.
+        20. terminal = Terminal 2.11 (440) by Apple Inc. with shell = zsh 5.8 (x86_64-apple-darwin20.0) and with vcs = git version 2.30.1 (Apple Git-130) with git-lfs/3.2.0 (GitHub; darwin amd64; go 1.18.2), 
+        21. editors = iA Writer 6.0.2 (60068) by Information Architects Inc.
+        22. browser = Safari 14.1.2 (16611.3.10.1.6) by Apple Inc. with github.com by GitHub Inc. and osf.io by Center for Open Science Inc.,
+        19. end programmes,
+    18. we want standards for working files which aren't product files,
+    19. we'd like to know what languages we're using when writing working files,
+        20. begin languages,
+        21. zsh for terminal,
+        21. end languages,
+    17. end step 15 notes,
+16. null
