@@ -2,7 +2,7 @@
 
 ## abstract
 
-this file contains output from step 52 of [[ia-extractions]][^file written 23 aug 2022 1.56 in Boston MA]
+this file contains output from step 52 of [[extractions]][^file written 23 aug 2022 1.56 in Boston MA]
 
 ## style
 
