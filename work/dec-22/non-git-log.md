@@ -11,9 +11,9 @@ lists work undertaken since august 2022 which isn't immediately pertinent to thi
 | [[iCloud: ibarra extracts]] | 28 sep 2022 | event and source data from physical book | null |
 | [[iCloud: gonzalez lazaro extracts]] | 29 sep 2022 | event and source data from physical book | null |
 | [[iCloud: andrews extracts]] | 3 oct 2022 | event and source data from physical book | null |
-| [[iCloud: base-maps]] | 26 oct 2022 | gis raster and vector resources lsit | null |
+| [[iCloud: base-maps]] | 26 oct 2022 | gis raster and vector resources list | null |
 | [[iCloud: hist pp notes]] | 9 nov 2022 | free-form log, notes, and resources for pre-print of v 1.4 of historical series | null |
-|  |  |  |  |
+| /Users/angelnavidad/Documents/QGIS | 25 oct 2022 | gis projects and templates in QGIS | null |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
