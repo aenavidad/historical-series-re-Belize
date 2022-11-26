@@ -39,7 +39,7 @@ free text for pre-print for version 1.4 of historical series. begun on 25 nov 20
 | bz-cy	| created file	 | 10 January 2021 at 03:21 |	re tran/blue books data v1 *.tsv | `uncertain` |
 | bz-cy	| created file | 10 January 2021 at 17:28 | re tran/hurr bz v2 *.tsv | `uncertain` |
 
-## table 2
+## table 2[^includes all 'created file' events in pre-git-hist/events.tsv except those described as 're pre-existing data', those with 'wiki/*' paths, those after the first 'deposited dataset' action (on 4 November 2021 at 00:00), and letters (eg tran/foi act request lett copy.rtf), free text (eg red/hurr bz.rtf), non-free text (eg extracts as in red/1700s brneys.rtf, eg structured manuscript as in red/prelim rep bz 1.1.rtf or wiki/Chetumal_Province.xml), bibliography (eg tran/My EndNote Library.xml).]
 
 | place | date | files | dates | topics | notes |
 |:--|:--|:--|:--|:--|
@@ -57,7 +57,45 @@ free text for pre-print for version 1.4 of historical series. begun on 25 nov 20
 | bz-cy | 18 January 2021 at 01:20	 | tran/dis bz v1.1 *.tsv | 1700s-2010s | disaster events | no metadata some sources[^these are sort-of standardised in tran/dis bz v1.1 D Sources-Table 1.tsv.] |
 | bz-cy | 18 January 2021 at 21:39 | tran/econ bz 1700s *.tsv | 1690s | trade stats[^only one filled record available at tran/econ bz 1700s Sheet 1-Table 1.tsv] | no metadata nor sources[^tracking this sources seems really difficult as only one filled record is available] |
 | bz-cy | 19 January 2021 at 22:46	 | re tran/early gdp dis bz v1 *.tsv[^given as re tran/early gdp dis bz v1 RAW *.tsv in pre-git-hist/events.tsv] | 1680s-1820s | trade stats | no metadata some sources[^though not standardised, likely from CO or CUST series via uk natl archives or adam matthews.] |
-| bz-cy | 28 January 2021 at 17:38	 | red/pop bz v1.4 *.tsv | cover | desc | xx |
-| bz-cy | date	 | path | cover | desc | xx |
-| bz-cy | date	 | path | cover | desc | xx |
-| bz-cy | date	 | path | cover | desc | xx |
+| bz-cy | 28 January 2021 at 17:38	 | red/pop bz v1.4 *.tsv | 1630s-2020s | disaster events, trade stats | no metadata[^though short summary of dataset size provided in red/pop bz v1.4 Meta-Table 1.tsv.] some sources[^not standardised] |
+| bz-cy | 30 January 2021 at 20:41 | red/shipping bz v1.1 *.tsv | 1680s-1790s | trade stats | no metadata some sources[^not standardised] |
+| bz-cy | 31 January 2021 at 20:29	 | red/trade raw bz v1.4 *.tsv | 1690s-1940s | trade stats, official stats | no metadata some sources[^some sort-of standardised in red/trade raw bz v1.4 Index of Abstracts-Table 1.tsv and red/trade raw bz v1.4 Index of Reports-Table 1.tsv.] |
+| bz-cy | 3 February 2021 at 00:09	 | red/trade bz v1.3 *.tsv | `null`[^no filled records] | `null`[^no filled records] | `null`[^no filled records] |
+| bz-cy | 3 February 2021 at 00:12	 | red/trade bz v1.5 *.tsv | 1670s-2010s | trade, official, financial stats | no metadata some sources[^not standardised] |
+| bz-cy | 3 February 2021 at 05:56	 | tran/swi cust 3 cust 17 v1.1 copy of *.tsv | 1690s-1940s | trade, official, financial stats | no metadata some sources[^sort of standardised in tran/swi cust 3 cust 17 v1.1 copy of Index of Abstracts-Table 1.tsv and tran/swi cust 3 cust 17 v1.1 copy of Index of Reports-Table 1.tsv.] |
+| bz-cy | 4 February 2021 at 16:29	 | tran/trade raw bz v1.4 WORKG COPY *.tsv | 1690s-1940s | trade, official, financial stats | no metadata some sources[^sort of standardised in tran/trade raw bz v1.4 WORKG COPY Index of Abstracts-Table 1.tsv and tran/trade raw bz v1.4 WORKG COPY Index of Reports-Table 1.tsv.] |
+| bz-cy | 5 February 2021 at 16:10	 | red/trade bz v1.4 WORKING *.tsv | 1670s-2020s | trade, official, financial stats | no metadata some sources[^not standardised] |
+| bz-cy | 5 February 2021 at 17:03	 | red/disasters non-hurr bz v1.5 REVIEW *.tsv | 1700s-2010s | disaster events | no metadata some sources[^not standardised] |
+| bz-cy | 9 February 2021 at 20:54	 | red/trade bz v2.3 *.tsv | cover | desc | xx |
+| bz-cy | 11 February 2021 at 00:25	 | red/disasters non-hurr bz v3.3 *.tsv | cover | desc | xx |
+| bz-cy | 13 February 2021 at 22:09	 | red/dis < 1820 non-hurr 3.5 *.tsv | cover | desc | xx |
+| bz-cy | 14 February 2021 at 21:16 | red/disasters non-hurr bz v3.3 SOURCE LINKS *.tsv | cover | desc | xx |
+| bz-cy | 15 February 2021 at 12:58 | red/dis < 1820 non-hurr calcs 3.3 *.tsv | cover | desc | xx |
+| bz-cy | 17 February 2021 at 05:51 | red/dis < 1820 non-hurr 3.7 sources *.tsv | cover | desc | xx |
+| bz-cy | 18 February 2021 at 12:11 | red/dis < 1820 non-hurr LOSS 3.5 *.tsv | cover | desc | xx |
+| bz-cy | 19 February 2021 at 07:50 | red/dis < 1820 non-hurr 3.6 *.tsv | cover | desc | xx |
+| bz-cy | 19 February 2021 at 13:05 | red/disasters non-hurr bz v3.3 copy REVIEW *.tsv | cover | desc | xx |
+| bz-cy | 23 February 2021 at 23:22 | red/dis non-hurr Eng settlement 3.7 *.tsv | cover | desc | xx |
+| bz-cy | 27 February 2021 at 19:28 | red/dis non-hurr Eng settlement 3.7 asdfsd *.tsv | cover | desc | xx |
+| bz-cy | 20 March 2021 at 22:24 | red/repos bz 1.1 *.tsv | cover | desc | xx |
+| bz-cy | 21 March 2021 at 11:34 | red/prelim rep bz 1.6 *.tsv | cover | desc | xx |
+| bz-cy | 21 March 2021 at 14:00 | red/prelim rep bz 1.4 WORK *.tsv | cover | desc | xx |
+| bz-cy | 21 March 2021 at 14:21 | red/prelim rep 1.4 events *.tsv | cover | desc | xx |
+| bz-cy | 29 March 2021 at 21:22 | red/prelim rep bz events 1.6 *.tsv | cover | desc | xx |
+| bz-cy | 8 April 2021 at 00:59 | red/prelim rep bz 1.6 ctrl *.tsv | cover | desc | xx |
+| bz-cy | 9 April 2021 at 16:35 | tran/prelim rep bz 1.7 *.tsv | cover | desc | xx |
+| bz-cy | 9 April 2021 at 16:35 | tran/prelim rep bz ctrl 1.7 *.tsv | cover | desc | xx |
+| bz-cy | 28 April 2021 at 16:31 | red/prelim rep bz ctrl 1.8 *.tsv | cover | desc | xx |
+| bz-cy | 28 April 2021 at 23:50 | red/prelim rep bz 1.8 *.tsv | cover | desc | xx |
+| bz-cy | 19 May 2021 at 21:57 | red/rep bz fin pub 1.0 *.tsv | cover | desc | xx |
+| bz-cy | 20 May 2021 at 17:24 | tran/rep bz fin pub 1.0 *.tsv | cover | desc | xx |
+| bz-cy | 20 May 2021 at 18:53 | red/white pp pre 1 *.tsv | cover | desc | xx |
+| bz-cy | 22 May 2021 at 10:54 | red/rep bz fin pub 1.3 *.tsv | cover | desc | xx |
+| bz-cy | 21 June 2021 at 19:02	| red/sfadfasdfasfsdfsf *.tsv | cover | desc | xx |
+| bz-cy | 22 June 2021 at 00:24 | red/asdfasdfasdfasdf *.tsv | cover | desc | xx |
+| bz-cy | 21 August 2021 at 02:44	| blue/bz crime rep pre 1.0 *.tsv | cover | desc | xx |
+| bz-cy | 3 September 2021 at 13:23 | red/bz fb prelim 1.0 *.tsv | cover | desc | xx |
+| bz-cy | 5 September 2021 at 12:55	| red/bz fb pre 1.1 *.tsv | cover | desc | xx |
+| bz-cy | 7 September 2021 at 20:12	| red/rep bz fin pub 1.3_stable *.tsv | cover | desc | xx |
+| bz-cy | 7 October 2021 at 21:51	| red/rep bz fin pub 1.4 *.tsv | cover | desc | xx |
+| bz-cy | 4 November 2021 at 00:00	| harv/ *.tsv | cover | desc | xx |
