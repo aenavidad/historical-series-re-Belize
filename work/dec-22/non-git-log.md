@@ -14,13 +14,4 @@ lists work undertaken since august 2022 which isn't immediately pertinent to thi
 | [[iCloud: base-maps]] | 26 oct 2022 | gis raster and vector resources list | null |
 | [[iCloud: hist pp notes]] | 9 nov 2022 | free-form log, notes, and resources for pre-print of v 1.4 of historical series | null |
 | /Users/angelnavidad/Documents/QGIS | 25 oct 2022 | gis projects and templates in QGIS | null |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| null | null | various wikipedia drafts and articles | null |
