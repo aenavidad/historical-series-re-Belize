@@ -21,6 +21,7 @@ free text for pre-print for version 1.4 of historical series. begun on 25 nov 20
     - breat at 3.12 on 26 nov,
     - return at 6.15 on 26 nov,
     - break at 7.16 on 26 nov,
+    - continue at 13.22 on 26 nov,
 4. xxx
 
 # output
@@ -45,4 +46,9 @@ free text for pre-print for version 1.4 of historical series. begun on 25 nov 20
 | bz-cy | 22 October 2020 at 05:04 | tran/civil list v1 *.tsv | 2010s | crown offices, programmes, budget | no metadata nor sources[^likely [2014 staff list](https://web.archive.org/web/20221126112141/https://nbzlive.files.wordpress.com/2015/02/gob_staff_list-1.pdf) gotten via [blog](https://nbzlive.wordpress.com/2015/02/) and [fy2020-21 govt budget](https://web.archive.org/web/20221126114232/https://www.mof.gov.bz/uploads/files/pmokx5oc.pdf) gotten via [treasury](https://www.mof.gov.bz/downloads).] |
 | bz-cy | 2 November 2020 at 20:16 | tran/bz gov ind *.tsv | 1990s-2010s | govt indicators | no metadata nor sources[^likely [world bank's wdi](https://datatopics.worldbank.org/world-development-indicators/).] |
 | bz-cy | 11 November 2020 at 19:38 | red/gob rights practices *.tsv | 2000s-2020s | govt rights violations | no metadata nor sources[^likely [us state reports](https://www.state.gov/reports-bureau-of-democracy-human-rights-and-labor/country-reports-on-human-rights-practices/), [vanderbilt americasbarometer](https://www.vanderbilt.edu/lapop/about-americasbarometer.php), [wjp rule of law index](https://www.worldjusticeproject.org/rule-of-law-index/).] |
-| bz-cy | 13 November 2020 at 22:47 | red/integrity 2016 *.tsv | xx | xx | xx |
+| bz-cy | 13 November 2020 at 22:47 | red/integrity 2016 *.tsv | 2010s | crown financial disclosures | no metadata nor sources[^likely from physical copy obtained from integrity commission likely during 2 oct 2022 - 13 nov 2022, inclusive, of recent certifications of statutory financial disclosures by crown service.] |
+| bz-cy | 14 November 2020 at 20:53 | tran/debt belize 1 *.tsv[^renderred `tran/devt belize 1 *.tsv` in pre-git-hist/events.tsv, but this likely a mistake as no such file listed in pre-git-hist/files.tsv] | 1980s-2020s | sovereign debt, defaults, credit | no metadata some sources[^sources given per table but citation not standardised nor up to par.] |
+| bz-cy | 25 November 2020 at 16:25 | red/HURR BZ V1 *.tsv[^not located in pre-git-hist/red/ on 26 nov 2022 at 13.41 est.] | `uncertain` | `uncertain` | `uncertain` |
+| bz-cy | 10 January 2021 at 03:21 | tran/blue books data v1 *.tsv | 1830s | crown budget, authorisations | no metadata nor sources[^likely blue books gotten via adam matthew] |
+| bz-cy | 10 January 2021 at 17:28 	| tran/hurr bz v2 *.tsv | 1830s-2020s | hurricane, storm landings; official statistics | no metadata nor sources[^likely noaa hurdat for hurricanes, as this series begin in 1850s, but sources uncertain for populaiton, spending, trade, gdp, though gdp data quoted as '2020 figs' while spending and trade data quoted as '2015 figs'.] |
+| bz-cy | 10 January 2021 at 22:24	 | tran/Bz hurr hist 1 *.tsv | 1810s-2020s | crown authorisations, official stats, financial stats | no metadata nor sources[^possibly physical copies of the *Gazette*, likely gotten via heritage library, as one table labelled 'Gazette Reports', though one table labelled 'UN', though some official stats labelled '2020'.] |
