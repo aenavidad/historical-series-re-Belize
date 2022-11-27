@@ -29,7 +29,20 @@ free text for pre-print for version 1.4 of historical series. begun on 25 nov 20
     - break at 4.38 on 27 nov,
     - continue at 5.01 on 27 nov,
     - done at 5.40 on 27 nov,
-4. xxx
+4. may now need specifics regarding versioning and provenance needed for version 1.4,
+    - earliest metadata standards possibly related to [MARC](https://en.wikipedia.org/wiki/MARC_standards) dating to 1965-1968,
+    - vars metadata stds listed in [wiki article](https://en.wikipedia.org/wiki/Metadata_standard), in [ands post](https://www.ands.org.au/working-with-data/data-management/data-versioning), in [klump](http://doi.org/10.5334/dsj-2021-012) ie [rda](https://www.rd-alliance.org/node/54345/outputs),
+    - vars provenance stds listed in [w3c prov](https://www.w3.org/TR/prov-overview/), [jauer](https://doi.org/10.3233/shti200380), [eu scds](https://eudatasharing.eu/technical-aspects/data-provenance-part-1), [ardc](https://ardc.edu.au/resource/data-provenance/),
+5. skim vars metadata and provenance stds located in step 4 and output in this step the relevant metadata, versioning, provenance values we need for datasets listed in output table 2,
+    - may be standardised or not, in human-readable format, machine-readable format,
+    - must record where data comes from (origin) and how it was processed (movement),
+    - may record source data licenses, esp for data in v-1.4,
+    - may want to retroactively record or estimate minimal fit-for-use requirements listed by [jauer](https://doi.org/10.3233/shti200380) sec. 3, at least for those datasets in output table 2 deemed to have contributed to v-1.4,
+    - may want to retroactively record or estimate the six data versioning principles listed by [klump](http://doi.org/10.5334/dsj-2021-012) seventh sec., at least for those datasets in output table 2 deemed to have contributed to v-1.4,
+6. now want to skim [[iCloud:hist pp notes.md]] for model articles accompanying historical dataset releases to see what exactly our pre-print for v-1.4 should look like,
+    - inc abstract, conclusion, obviously, 
+    - in introductory / contextual section inc some notes on historiography eg accuracy as regards facts, eg biases or trends, eg access or availability of primary sources, non-interpretative secondary sources, their accuracy, and so on,
+7. xx
 
 # output
 ## table 1
