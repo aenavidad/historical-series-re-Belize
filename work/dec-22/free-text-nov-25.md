@@ -40,9 +40,11 @@ free text for pre-print for version 1.4 of historical series. begun on 25 nov 20
     - may want to retroactively record or estimate minimal fit-for-use requirements listed by [jauer](https://doi.org/10.3233/shti200380) sec. 3, at least for those datasets in output table 2 deemed to have contributed to v-1.4,
     - may want to retroactively record or estimate the six data versioning principles listed by [klump](http://doi.org/10.5334/dsj-2021-012) seventh sec., at least for those datasets in output table 2 deemed to have contributed to v-1.4,
 6. now want to skim [[iCloud:hist pp notes.md]] for model articles accompanying historical dataset releases to see what exactly our pre-print for v-1.4 should look like,
-    - inc abstract, conclusion, obviously, 
+    - inc abstract, conclusion, and so on, obviously, 
     - in introductory / contextual section inc some notes on historiography eg accuracy as regards facts, eg biases or trends, eg access or availability of primary sources, non-interpretative secondary sources, their accuracy, and so on,
-7. xx
+    - in presentation / description section inc some notes on size, precision / accuracy of data in v-1.4,
+7. now want to ouput text re notes on historiography in output text 1,
+8. xx
 
 # output
 ## table 1
@@ -119,3 +121,10 @@ free text for pre-print for version 1.4 of historical series. begun on 25 nov 20
 | bz-cy | 7 September 2021 at 20:12	| red/rep bz fin pub 1.3_stable.tsv[^could only find red/rep bz fin pub 1.3_stable.tsv so 'red/rep bz fin pub 1.3_stable *.tsv' taken as misprint] | 0000s-2010s | vars events, vars stts, bibliogaphic | no metadata some sources[^sort of standardised] |
 | bz-cy | 7 October 2021 at 21:51	| red/rep bz fin pub 1.4 *.tsv | 0000s-2020s | vars events, vars stats, bibliographic | some metadata[^sort of standardised] some sources[^sort of standardised] |
 | bz-cy | 4 November 2021 at 00:00	| harv/ *.tsv | 0000s-2020s | vars events, vars stats, bibliographic | some metadata[^sort of standardised] some sources[^sort of standardised] |
+
+## text 1
+
+How to measure the selectivity and coverage of sources in historical literature? eg absence of newspapers, of Spanish primary records, etc.
+
+As here were reviewing / commenting on literature, we'd like an exhaustive bibliography of said literature, possibly beginning with most recent? This would help demonstrate the rift between Spanish and non-Spanish sources. ie we'd like a graph of the literature.
+
