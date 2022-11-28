@@ -42,7 +42,8 @@ free text for pre-print for version 1.4 of historical series. begun on 25 nov 20
 6. now want to skim [[iCloud:hist pp notes.md]] for model articles accompanying historical dataset releases to see what exactly our pre-print for v-1.4 should look like,
     - inc abstract, conclusion, and so on, obviously, 
     - in introductory / contextual section inc some notes on historiography eg accuracy as regards facts, eg biases or trends, eg access or availability of primary sources, non-interpretative secondary sources, their accuracy, and so on,
-    - in presentation / description section inc some notes on size, precision / accuracy of data in v-1.4,
+    - in presentation / description section inc some notes on size, precision / accuracy / quality of data in v-1.4 (picture), inc notes on data collection and construction of data in v-1.4 (history),
+    - in appendix section inc codebook ie descriptions of variables and values in v-1.4 (codebook), log of changes between versions, revisions, or releases (log).
 7. now want to ouput text re notes on historiography in output text 1,
 8. want to output tsv data re literature to be covered in pre-print section on notes on historiography, at 20.59 on 27 nov, with output to pp.numbers,
 9. stop step 8 at 21.20 on 27 nov, as seems like this could go on forever despite its serving only an auxiliary function in the pre-print, so rather pivot towards what is meant to the bulk of the pre-pring, ie presentation / description section, for which we need more detail in the step 6, so we now continue step 6,
