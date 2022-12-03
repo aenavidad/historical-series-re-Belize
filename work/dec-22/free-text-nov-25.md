@@ -47,7 +47,15 @@ free text for pre-print for version 1.4 of historical series. begun on 25 nov 20
 7. now want to ouput text re notes on historiography in output text 1,
 8. want to output tsv data re literature to be covered in pre-print section on notes on historiography, at 20.59 on 27 nov, with output to pp.numbers,
 9. stop step 8 at 21.20 on 27 nov, as seems like this could go on forever despite its serving only an auxiliary function in the pre-print, so rather pivot towards what is meant to the bulk of the pre-pring, ie presentation / description section, for which we need more detail in the step 6, so we now continue step 6,
-10. xxx
+10. re building log, as per step 6, as of 3 dec 2022 at 16.54 est, we'd like to – 
+    - know whether any files created between 22 oct 2020 to 14 nov 2020 contributed anythign to v 1.4 of data,
+        - files created 22 oct 2020, 2 nov 2020, 11 nov 2020[^this one re human rights had event data but seems mostly crime related so likely not included in E nor E2 series of v-1.4], 13 nov 2020, 14 nov 2020[^this one re public finances had stat and finance data but was not included in Estimate nor Finances series of v-1.4] did not from cursory skim,
+        - so none of these files contributed to v-1.4 of data as per cursory skims by 3 dec 2022 on 17.11 est,
+    - get lost copy of red/HURR BZ V1 *.tsv,
+        - found copy at /Users/angelnavidad/Library/Mobile Documents/com~apple~Numbers/Documents/HURR BZ V1.numbers,
+        - confirmed creation date of November 25, 2020 at 16:25,
+        - uploaded to pre-git-hist/files/red to match events.tsv address,
+11. xx
 
 # output
 ## table 1
