@@ -60,17 +60,21 @@ free text for pre-print for version 1.4 of historical series. begun on 25 nov 20
 12. before continuing step 6, decide to transfer all data from pp.numbers as git doesn't seem to track diffs here,[^or there do seem to be tools to do this, but looks like a steep learning curve to continue with tsv files instead]
     - output to tsv 1 (log), tsv 2 (literature),
 13. at 3 dec 2022 at 19.35 est, continue step 6 by building log in table 3 (log),
-14. xx
+14. as of 4 dec 2022 at 18.07 est, the rule for versioning in table 3 (log) are -
+    - start at version 0.1.0 and increase x for each subsequent 'release' as per [semver faq](https://semver.org/#faq),
+    - each 'release' has, at least, both stats and events records, similar to or in keeping with those records in v 0.1.0 ie in red/HURR BZ V1 *.tsv,
+15. xx
 
 # output
 ## table 3 (log)
 
-| semver[^per [klump](http://doi.org/10.5334/dsj-2021-012) and [semver](https://semver.org), esp their [faq](https://semver.org/#faq)] | start | end | paths[^excluding '*.tsv' suffix] | diffs[^to 1.4] | notes[^contents *excludes* empty records] |
+| semver[^per [klump](http://doi.org/10.5334/dsj-2021-012) and [semver](https://semver.org), esp their [faq](https://semver.org/#faq)] | start | end | paths[^excluding '*.tsv' suffix and 'pre-git-hist/files/' prefix] | diffs[^to 1.4] | notes[^contents *excludes* empty records] |
 |:--|:--|:--|:--|:--|
 | 0.1.0 | 25 Nov 2020 | 9 Jan 2021 | red/HURR BZ V1 | `missing` | cf[^cf standardised code in `missing` / in 'Storms' + 'Storms < 4' + 'Storms-1' + 'Simulated' + 'Loss' + 'NMS' = 186 storm records for 1851-2018 fm `missing` / in 'Historical' + 'BLUE-1-1' + 'BLUE' + 'GDP-Pop' = 187 stats records for 1834-2020 fm `missing` / in 'NAVAL' = 71 stats records for 1765-1938 fm `missing` / in 'Rainfall' = 56 stats records for 1961-2016 fm `missing` / in 'Graph' = 26 stats records for `uncertain`-`uncertain` fm `missing` / in 'GFM' = 17 stats records for 2014-2020 fm `missing`] |
-| 0.2.0 | 10 Jan 2021 | xx | tran/blue books data v1 + tran/hurr bz v2 + tran/Bz hurr hist 1 + tran/Hurricanes bz v2.1 | `missing` | cf[^in blue books 'Govt' + blue books 'Military' = 1 stats record for 1836 fm `missing` / in hurr bz 'Sheet 1' = 186 stats records for 1834-2019 fm `missing` / in Bz hurr 'Sheet 1' = 6 authorities records for 1638-2021 fm `uncertain` / in Bz hurr 'Original' + Bz hurr 'Gazette / Reports' + Bz hurr 'Simulated' + Bz hurr 'UN' = 190 stats records for 1829-2020 fm `missing` / in Hurricanes 'xx' = xx xx records for xx fm `missing`] |
-| 0.x.y | xx | xx | xx | xx |
-| 0.x.y | xx | xx | xx | xx |
+| 0.2.0 | 10 Jan 2021 | 16 Jan 2021 | tran/blue books data v1 + tran/hurr bz v2 + tran/Bz hurr hist 1 + tran/Hurricanes bz v2.1 | `missing` | cf[^in blue books 'Govt' + blue books 'Military' = 1 stats record for 1836 fm `missing` / in hurr bz 'Sheet 1' = 186 stats records for 1834-2019 fm `missing` / in Bz hurr 'Sheet 1' = 6 authorities records for 1638-2021 fm `uncertain` / in Bz hurr 'Original' + Bz hurr 'Gazette / Reports' + Bz hurr 'Simulated' + Bz hurr 'UN' = 190 stats records for 1829-2020 fm `missing` / in Hurricanes 'Metadata' + Hurricantes 'Formulas' = 22 metadata + source records for `uncertain`-`uncertain` fm `missing` / in Hurricanes 'Disasters' + Hurricanes 'Storms' + Hurricanes 'Storm History' + Hurricanes 'Storm Deaths' + Hurricanes 'Storm Damages' = 220 event records for 1798-2019 fm `missing` / in Hurricanes 'Trade + GDP' + Hurricanes 'Trade + GDP 2020' + Hurricanes 'CPI' + Hurricanes 'FX' + Hurricanes 'Population' = 178 stats records for 1841-2020 fm `missing`] |
+| 0.3.0 | 17 Jan 2021 | 27 Jan 2021 | tran/asdfsaf + tran/dis bz v1.1 + tran/econ bz 1700s + tran/early gdp dis bz v1 | `missing` | cf[^in asdfsaf 'xx' = xx xx records for xx fm `missing` / in xx 'xx' = xx xx records for xx fm `missing` / in xx 'xx' = xx xx records for xx fm `missing` / in xx 'xx' = xx xx records for xx fm `missing`] |
+| 0.x.0 | xx | xx | xx | xx | xx |
+| 0.x.0 | xx | xx | xx | xx | xx |
 
 ## table 1
 
