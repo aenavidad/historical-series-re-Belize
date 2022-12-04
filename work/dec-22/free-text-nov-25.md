@@ -55,7 +55,11 @@ free text for pre-print for version 1.4 of historical series. begun on 25 nov 20
         - found copy at /Users/angelnavidad/Library/Mobile Documents/com~apple~Numbers/Documents/HURR BZ V1.numbers,
         - confirmed creation date of November 25, 2020 at 16:25,
         - uploaded to pre-git-hist/files/red to match events.tsv address,
-11. xx
+        - updated output table 2,
+11. as of 3 dec 2022 at 19.19 est, confirm that red/HURR BZ V1 *.tsv is earliest ancestral dataset of v-1.4, so (i think) it counts as version 0.0.0,
+12. before continuing step 6, decide to transfer all data from pp.numbers as git doesn't seem to track diffs here,[^or there do seem to be tools to do this, but looks like a steep learning curve to continue with tsv files instead]
+    - output to tsv 1 (log), tsv 2 (literature),
+13. xx
 
 # output
 ## table 1
@@ -81,7 +85,7 @@ free text for pre-print for version 1.4 of historical series. begun on 25 nov 20
 | bz-cy | 11 November 2020 at 19:38 | red/gob rights practices *.tsv | 2000s-2020s | govt rights violations | no metadata nor sources[^likely [us state reports](https://www.state.gov/reports-bureau-of-democracy-human-rights-and-labor/country-reports-on-human-rights-practices/), [vanderbilt americasbarometer](https://www.vanderbilt.edu/lapop/about-americasbarometer.php), [wjp rule of law index](https://www.worldjusticeproject.org/rule-of-law-index/).] |
 | bz-cy | 13 November 2020 at 22:47 | red/integrity 2016 *.tsv | 2010s | crown financial disclosures | no metadata nor sources[^likely from physical copy obtained from integrity commission likely during 2 oct 2022 - 13 nov 2022, inclusive, of recent certifications of statutory financial disclosures by crown service.] |
 | bz-cy | 14 November 2020 at 20:53 | tran/debt belize 1 *.tsv[^renderred `tran/devt belize 1 *.tsv` in pre-git-hist/events.tsv, but this likely a mistake as no such file listed in pre-git-hist/files.tsv] | 1980s-2020s | sovereign debt, defaults, credit | no metadata some sources[^sources given per table but citation not standardised nor up to par.] |
-| bz-cy | 25 November 2020 at 16:25 | red/HURR BZ V1 *.tsv[^not located in pre-git-hist/red/ on 26 nov 2022 at 13.41 est.] | `uncertain` | `uncertain` | `uncertain` |
+| bz-cy | 25 November 2020 at 16:25 | red/HURR BZ V1 *.tsv[^not located in pre-git-hist/red/ on 26 nov 2022 at 13.41 est.] | 1760s-2010s | storm events, vars stats | no metadata some sources[^not standardised.] |
 | bz-cy | 10 January 2021 at 03:21 | tran/blue books data v1 *.tsv | 1830s | crown budget, authorisations | no metadata nor sources[^likely blue books gotten via adam matthew] |
 | bz-cy | 10 January 2021 at 17:28 	| tran/hurr bz v2 *.tsv | 1830s-2020s | hurricane, storm landings, official stats | no metadata nor sources[^likely noaa hurdat for hurricanes, as this series begin in 1850s, but sources uncertain for populaiton, spending, trade, gdp, though gdp data quoted as '2020 figs' while spending and trade data quoted as '2015 figs'.] |
 | bz-cy | 10 January 2021 at 22:24	 | tran/Bz hurr hist 1 *.tsv | 1810s-2020s | crown authorisations, official stats, financial stats | no metadata nor sources[^possibly physical copies of the *Gazette*, likely gotten via heritage library, as one table labelled 'Gazette Reports', though one table labelled 'UN', though some official stats labelled '2020'.] |
@@ -139,3 +143,49 @@ How to measure the selectivity and coverage of sources in historical literature?
 
 As here were reviewing / commenting on literature, we'd like an exhaustive bibliography of said literature, possibly beginning with most recent? This would help demonstrate the rift between Spanish and non-Spanish sources. ie we'd like a graph of the literature.
 
+## tsv 1 (log)
+
+```
+contains tsv data for pre-print for version 1.4 of data. document created on 27 nov 2022 at 20.54 est in east boston, ma
+
+id	cf	date	path	labelled_version	semantic_version	non-trivial_diffs_vs_id	non-trivial_diffs_intro	non-trivial_diffs_sources	non-trivial_diffs_events	non-trivial_diffs_cartas	non-trivial_diffs_weather	non-trivial_diffs_currency	non-trivial_diffs_finances	non-trivial_diffs_trade	non-trivial_diffs_towns	non-trivial_diffs_estimates	non-trivial_diffs_note	deposit_0_uri	deposit_0_date	deposit_0_licence	deposit_0_note	deposit_1_uri	deposit_1_date	deposit_1_licence	deposit_1_note	deposit_2_uri	deposit_2_date	deposit_2_licence	deposit_2_note	deposit_3_uri	deposit_3_date	deposit_3_licence	deposit_3_note	deposit_4_uri	deposit_4_date	deposit_4_licence	deposit_4_note		
+0	work/dec-22/free-text-nov-25.md sec output table 2 last row	4 Nov 2021	harv/*.tsv	1.4	0.y.z	1	none	none	none	none	none	`null`	`null`	`null`	`null`	`null`	"vs id=1, assume none value for `null` values as seems correct as of 28 nov 2022 at 3.25 est"	https://github.com/aenavidad/pre-git-hist	11 Aug 2022	none	"repository created 11 Aug 2022, files last added to repository 21 Aug 2022, made public on `null`, remains public as of 27 Nov 2022"	https://dataverse.harvard.edu/privateurl.xhtml?token=135a1006-cd54-4d9e-ba7b-d961b93f1bc4	4 Nov 2021	CC0 1.0	non-public draft as of 27 Nov 2022	https://github.com/aenavidad/historical-series-re-Belize/tree/main/v-1.4	10 Aug 2022	CC0 1.0	"repository created 13 July 2022, made public on `null`, remains public as of 27 Nov 2022"	https://osf.io/rm7be/	16 Aug 2022	CC BY 4.0	"made public 16 Aug 2022, registered 16 Aug 2022 at https://osf.io/5byhm, remains public as of 27 Nov 2022"	https://osf.io/7ujq5/	`null`	CC BY 4.0	non-public draft as of 27 Nov 2022		
+1	work/dec-22/free-text-nov-25.md sec output table 2 second-to-last row	7 Oct 2021	red/rep bz fin pub 1.4 *.tsv	none	0.y.z	2	`null`	"3 variables added [NAME 0, FAID, and one other], 278 records added, 333 ID values added [S 964 to S 1628, exc addition of S 402 value], vars other changes"	`null`	`null`	none	`null`	`null`	`null`	`null`	`null`	"vs id=2, assume vars value for `null` values as seems correct as of 28 nov 2022 at 3.37 est"	https://github.com/aenavidad/pre-git-hist	11 Aug 2022	none	"repository created 11 Aug 2022, files last added to repository 21 Aug 2022, made public on `null`, remains public as of 27 Nov 2022"	`null`	`null`	`null`	`null`	`null`	`null`	`null`	`null`	`null`	`null`	`null`	`null`	`null`	`null`	`null`	`null`		
+2	work/dec-22/free-text-nov-25.md sec output table 2 third-to-last row	7 Sep 2021	red/rep bz fin pub 1.3_stable.tsv	none	0.y-1.z												`null`	https://github.com/aenavidad/pre-git-hist	11 Aug 2022	none	"repository created 11 Aug 2022, files last added to repository 21 Aug 2022, made public on `null`, remains public as of 27 Nov 2022"	`null`	`null`	`null`	`null`	`null`	`null`	`null`	`null`	`null`	`null`	`null`	`null`	`null`	`null`	`null`	`null`		
+
+```
+
+## tsv 2 (literature)
+
+```
+contains tsv data for pre-print for version 1.4 of data. document created on 27 nov 2022 at 20.54 est in east boston, ma / notes Higman = https://doi.org/10.1007/978-1-349-73776-5	
+
+	source	type	name			
+	Higman p 682	book	Humphrey's 1960 *Diplomatic History*			
+	Higman p 682	book	Henderson's 1809 `null`			
+	Higman p 682	book	Crowe's 1850 `null`			
+	Higman p 682	book	Gibbs's 1883 `null`			
+	Higman p 682	book	Burdon's 1931-5 *Archives*			
+	Higman p 682	book	Caiger's 1951 `null`			
+	Higman p 682	book	Waddell's 1967 `null`			
+	Higman p 682	book	Clegern's 1967 `null`			
+	Higman p 683	book	Dobson's 1973 *History*			
+	Higman p 683	journal	*J of Belizean Affairs*			
+	Higman p 683	journal	*Belizean Studies*			
+	Higman p 683	journal	*BELCAST J of Belizean Affairs*			
+	Higman p 683	author	Belizean Institute for Social and Research Activities			
+	Higman p 683	book	Bolland's 1977 `null`			
+	Higman p 683	author	Cedric Grant			
+	Higman p 683	author	Assad Shoman			
+	Higman p 684	journal	*Readings in Belizean History*			
+	Higman p 685	author	Soc for the Promotion of Education and Research			
+	Higman p 685	author	Herman Byrd			
+	Higman p 685	author	Lita Hunter-Krohn			
+	Higman p 685	author	James Murphy			
+	Higman p 685	author	Mateo Ayuso			
+	Higman p 685	author	Joseph Palacio			
+	Higman p 685	author	Said Musa			
+	Higman p 685	author	Historical Society [Belize]			
+	Higman p 685	author	Emory King			
+
+```
