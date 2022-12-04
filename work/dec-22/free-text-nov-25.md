@@ -59,9 +59,19 @@ free text for pre-print for version 1.4 of historical series. begun on 25 nov 20
 11. as of 3 dec 2022 at 19.19 est, confirm that red/HURR BZ V1 *.tsv is earliest ancestral dataset of v-1.4, so (i think) it counts as version 0.0.0,
 12. before continuing step 6, decide to transfer all data from pp.numbers as git doesn't seem to track diffs here,[^or there do seem to be tools to do this, but looks like a steep learning curve to continue with tsv files instead]
     - output to tsv 1 (log), tsv 2 (literature),
-13. xx
+13. at 3 dec 2022 at 19.35 est, continue step 6 by building log in table 3 (log),
+14. xx
 
 # output
+## table 3 (log)
+
+| semver[^per [klump](http://doi.org/10.5334/dsj-2021-012) and [semver](https://semver.org), esp their [faq](https://semver.org/#faq)] | start | end | paths[^excluding '*.tsv' suffix] | diffs[^to 1.4] | notes[^contents *excludes* empty records] |
+|:--|:--|:--|:--|:--|
+| 0.1.0 | 25 Nov 2020 | 9 Jan 2021 | red/HURR BZ V1 | `missing` | cf[^cf standardised code in `missing` / in 'Storms' + 'Storms < 4' + 'Storms-1' + 'Simulated' + 'Loss' + 'NMS' = 186 storm records for 1851-2018 fm `missing` / in 'Historical' + 'BLUE-1-1' + 'BLUE' + 'GDP-Pop' = 187 stats records for 1834-2020 fm `missing` / in 'NAVAL' = 71 stats records for 1765-1938 fm `missing` / in 'Rainfall' = 56 stats records for 1961-2016 fm `missing` / in 'Graph' = 26 stats records for `uncertain`-`uncertain` fm `missing` / in 'GFM' = 17 stats records for 2014-2020 fm `missing`] |
+| 0.2.0 | 10 Jan 2021 | xx | tran/blue books data v1 + tran/hurr bz v2 + tran/Bz hurr hist 1 + tran/Hurricanes bz v2.1 | `missing` | cf[^in blue books 'Govt' + blue books 'Military' = 1 stats record for 1836 fm `missing` / in hurr bz 'Sheet 1' = 186 stats records for 1834-2019 fm `missing` / in Bz hurr 'Sheet 1' = 6 authorities records for 1638-2021 fm `uncertain` / in Bz hurr 'Original' + Bz hurr 'Gazette / Reports' + Bz hurr 'Simulated' + Bz hurr 'UN' = 190 stats records for 1829-2020 fm `missing` / in Hurricanes 'xx' = xx xx records for xx fm `missing`] |
+| 0.x.y | xx | xx | xx | xx |
+| 0.x.y | xx | xx | xx | xx |
+
 ## table 1
 
 | place | action | date | description | notes |
