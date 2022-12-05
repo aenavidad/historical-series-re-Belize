@@ -62,8 +62,11 @@ free text for pre-print for version 1.4 of historical series. begun on 25 nov 20
 13. at 3 dec 2022 at 19.35 est, continue step 6 by building log in table 3 (log),
 14. as of 4 dec 2022 at 18.07 est, the rule for versioning in table 3 (log) are -
     - start at version 0.1.0 and increase x for each subsequent 'release' as per [semver faq](https://semver.org/#faq),
-    - each 'release' has, at least, both stats and events records, similar to or in keeping with those records in v 0.1.0 ie in red/HURR BZ V1 *.tsv,
-15. xx
+    - each 'release' has, at least, both stats and events records, similar to or in keeping with those records in v 0.1.0 ie in red/HURR BZ V1 *.tsv (ie more than just a few records of each type),
+15. as of 4 dec 2022 at 23.21 est, the rules for versioning in table 3 (log) given in step 14 above are modified as -
+    - each release has all (most?) records in red/HURR BZ V1, which are now to be listed in [[v-log]],
+16. all versioning work also to be routed to [[v-log]],
+17. xx
 
 # output
 ## table 3 (log)
@@ -72,9 +75,11 @@ free text for pre-print for version 1.4 of historical series. begun on 25 nov 20
 |:--|:--|:--|:--|:--|
 | 0.1.0 | 25 Nov 2020 | 9 Jan 2021 | red/HURR BZ V1 | `missing` | cf[^cf standardised code in `missing` / in 'Storms' + 'Storms < 4' + 'Storms-1' + 'Simulated' + 'Loss' + 'NMS' = 186 storm records for 1851-2018 fm `missing` / in 'Historical' + 'BLUE-1-1' + 'BLUE' + 'GDP-Pop' = 187 stats records for 1834-2020 fm `missing` / in 'NAVAL' = 71 stats records for 1765-1938 fm `missing` / in 'Rainfall' = 56 stats records for 1961-2016 fm `missing` / in 'Graph' = 26 stats records for `uncertain`-`uncertain` fm `missing` / in 'GFM' = 17 stats records for 2014-2020 fm `missing`] |
 | 0.2.0 | 10 Jan 2021 | 16 Jan 2021 | tran/blue books data v1 + tran/hurr bz v2 + tran/Bz hurr hist 1 + tran/Hurricanes bz v2.1 | `missing` | cf[^in blue books 'Govt' + blue books 'Military' = 1 stats record for 1836 fm `missing` / in hurr bz 'Sheet 1' = 186 stats records for 1834-2019 fm `missing` / in Bz hurr 'Sheet 1' = 6 authorities records for 1638-2021 fm `uncertain` / in Bz hurr 'Original' + Bz hurr 'Gazette / Reports' + Bz hurr 'Simulated' + Bz hurr 'UN' = 190 stats records for 1829-2020 fm `missing` / in Hurricanes 'Metadata' + Hurricantes 'Formulas' = 22 metadata + source records for `uncertain`-`uncertain` fm `missing` / in Hurricanes 'Disasters' + Hurricanes 'Storms' + Hurricanes 'Storm History' + Hurricanes 'Storm Deaths' + Hurricanes 'Storm Damages' = 220 event records for 1798-2019 fm `missing` / in Hurricanes 'Trade + GDP' + Hurricanes 'Trade + GDP 2020' + Hurricanes 'CPI' + Hurricanes 'FX' + Hurricanes 'Population' = 178 stats records for 1841-2020 fm `missing`] |
-| 0.3.0 | 17 Jan 2021 | 27 Jan 2021 | tran/asdfsaf + tran/dis bz v1.1 + tran/econ bz 1700s + tran/early gdp dis bz v1 | `missing` | cf[^in asdfsaf 'xx' = xx xx records for xx fm `missing` / in xx 'xx' = xx xx records for xx fm `missing` / in xx 'xx' = xx xx records for xx fm `missing` / in xx 'xx' = xx xx records for xx fm `missing`] |
-| 0.x.0 | xx | xx | xx | xx | xx |
-| 0.x.0 | xx | xx | xx | xx | xx |
+| 0.3.0 | 17 Jan 2021 | 27 Jan 2021 | tran/asdfsaf + tran/dis bz v1.1 + tran/econ bz 1700s + tran/early gdp dis bz v1 + xx | `missing` | cf[^in asdfsaf 'Sheet 1' + dis bz 'D Citations' + dis bz 'D Sources' + dis bz 'D Deaths' = 100 events records for 1701-2019 fm `missing` / in econ bz 'Sheet 1' = 1 stats records for 1698 fm `missing` / in early gdp 'Cust Jamaica' + ealy gdp 'Cust Boston' + early gdp 'Cust CO' + early gdp 'Cust 16 2' + early gdp 'Cust Span / Hon' + `missing` = `missing` cartas-like records for `missing` fm `missing` / in xx 'xx' = xx xx records for xx fm `missing`] |
+| 0.x.0 | xx | xx | xx | `missing` | cf[^in xx 'xx' = xx xx records for xx fm `missing` / in xx 'xx' = xx xx records for xx fm `missing`] |
+| 0.x.0 | xx | xx | xx | `missing` | cf[^in xx 'xx' = xx xx records for xx fm `missing` / in xx 'xx' = xx xx records for xx fm `missing`] |
+| 0.x.0 | xx | xx | xx | `missing` | cf[^in xx 'xx' = xx xx records for xx fm `missing` / in xx 'xx' = xx xx records for xx fm `missing`] |
+| 0.x.0 | xx | xx | xx | `missing` | cf[^in xx 'xx' = xx xx records for xx fm `missing` / in xx 'xx' = xx xx records for xx fm `missing`] |
 
 ## table 1
 
