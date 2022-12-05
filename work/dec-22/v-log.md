@@ -15,4 +15,4 @@ following [[iCloud:hist pp notes]], we divide records into -
 6. temporal events,
 7. all else.
 
-though might be better to use standardised vocab for these?
+though might be better to use standardised vocab for these?[^might take too long to do this so left this for a later time on 5 dec 2022 at 1.53 est]
