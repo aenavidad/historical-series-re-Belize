@@ -4,10 +4,290 @@ document created 4 dec 2022 at 23.33 in boston, ma, to hold all relevant output 
 
 
 # records
-## records
+## records 2
+
+```
+
+```
+
+## records 1[^started 16 dec 2022 at 11.00 est in boston, ma, after format in records 0 was taking too long / was too cumbersome.]
+
+```
+------ start id 00 ------ ------ ------ start id 00 ------
+v-log files id = 00
+sheets = 14
+for sheet no 1 ie Cartas-Series C 0—992 ...
+    records type = calendar
+    filled records = 993
+    filled vars = 11
+    start = 1610
+    end = 1680
+    gaps = null
+    sources given = vars
+    metadata given = vars
+    notes = calendar of AGI GUATEMALA series with named records C 0 to C 992 with no gaps
+for sheet no 2 ie Currency-Series L 0—382 ...
+    records type = stats
+    filled records = 383
+    filled vars = 17
+    start = 1638
+    end = 2020
+    gaps = null
+    sources given = vars
+    metadata given = vars
+    notes = currency or foreign exchange stats with named records L 0 to L 382 with no gaps
+for sheet no 3 ie Estimates-Series A 0—112 ...
+    records type = stats
+    filled records = 113
+    filled vars = 14
+    start = 1636
+    end = 1867
+    gaps = null
+    sources given = vars
+    metadata given = vars
+    notes = population and trade stats with named records A 0 to A 112 with no gaps
+for sheet no 4 ie Events 2-Series E 1—2163 ...
+    records type = events
+    filled records = 1082
+    filled vars = 23
+    start = 0001
+    end = 2001
+    gaps = null
+    sources given = vars
+    metadata given = vars
+    notes = non-disastrous events with named records E 1 to E 2163 with even gaps
+for sheet no 5 ie Events-Series E 0—1076 ...
+    records type = events
+    filled records = 539
+    filled vars = 23
+    start = 1634
+    end = 2019
+    gaps = null
+    sources given = vars
+    metadata given = vars
+    notes = disastrous events with named records E 0 to E 1076 with odd gaps
+for sheet no 6 ie Finances-Series F 0—170 ...
+    records type = stats
+    filled records = 160
+    filled vars = 13
+    start = 1807
+    end = 1967
+    gaps = null
+    sources given = vars
+    metadata given = vars
+    notes = public finances stats with named records F 0 to F 170 with no gaps (with F 0 - F 6 and F 168 - F 170 () as empty named records)
+for sheet no 7 ie xx
+    records type = null
+    filled records = null
+    filled vars = null
+    start = null
+    end = null
+    gaps = null
+    sources given = null
+    metadata given = null
+    notes = null
+for sheet no 8 ie xx
+    records type = null
+    filled records = null
+    filled vars = null
+    start = null
+    end = null
+    sources given = null
+    metadata given = null
+    notes = null
+for sheet no 9 ie xx
+    records type = null
+    filled records = null
+    filled vars = null
+    start = null
+    end = null
+    sources given = null
+    metadata given = null
+    notes = null
+for sheet no 10 ie xx
+    records type = null
+    filled records = null
+    filled vars = null
+    start = null
+    end = null
+    sources given = null
+    metadata given = null
+    notes = null
+for sheet no 11 ie xx
+    records type = null
+    filled records = null
+    filled vars = null
+    start = null
+    end = null
+    sources given = null
+    metadata given = null
+    notes = null
+for sheet no 12 ie xx
+    records type = null
+    filled records = null
+    filled vars = null
+    start = null
+    end = null
+    sources given = null
+    metadata given = null
+    notes = null
+for sheet no 13 ie xx
+    records type = null
+    filled records = null
+    filled vars = null
+    start = null
+    end = null
+    sources given = null
+    metadata given = null
+    notes = null
+for sheet no 14 ie xx
+    records type = null
+    filled records = null
+    filled vars = null
+    start = null
+    end = null
+    sources given = null
+    metadata given = null
+    notes = null
+------ end id 00 ------ ------ ------ end id 00 ------
+
+------ start id 50 ------ ------ ------ start id 50 ------
+v-log files id = 00
+sheets = 15
+for sheet no 1 ie BLUE-1-1-Table 1
+    records type = stats
+    filled records = 187
+    filled vars = 36
+    start = 1834
+    end = 2020
+    sources given = some
+    metadata given = some
+    notes = null
+for sheet no 2 ie xx
+    records type = null
+    filled records = null
+    filled vars = null
+    start = null
+    end = null
+    sources given = null
+    metadata given = null
+    notes = null
+for sheet no 3 ie xx
+    records type = null
+    filled records = null
+    filled vars = null
+    start = null
+    end = null
+    sources given = null
+    metadata given = null
+    notes = null
+for sheet no 4 ie xx
+    records type = null
+    filled records = null
+    filled vars = null
+    start = null
+    end = null
+    sources given = null
+    metadata given = null
+    notes = null
+for sheet no 5 ie xx
+    records type = null
+    filled records = null
+    filled vars = null
+    start = null
+    end = null
+    sources given = null
+    metadata given = null
+    notes = null
+for sheet no 6 ie xx
+    records type = null
+    filled records = null
+    filled vars = null
+    start = null
+    end = null
+    sources given = null
+    metadata given = null
+    notes = null
+for sheet no 7 ie xx
+    records type = null
+    filled records = null
+    filled vars = null
+    start = null
+    end = null
+    sources given = null
+    metadata given = null
+    notes = null
+for sheet no 8 ie xx
+    records type = null
+    filled records = null
+    filled vars = null
+    start = null
+    end = null
+    sources given = null
+    metadata given = null
+    notes = null
+for sheet no 9 ie xx
+    records type = null
+    filled records = null
+    filled vars = null
+    start = null
+    end = null
+    sources given = null
+    metadata given = null
+    notes = null
+for sheet no 10 ie xx
+    records type = null
+    filled records = null
+    filled vars = null
+    start = null
+    end = null
+    sources given = null
+    metadata given = null
+    notes = null
+for sheet no 11 ie xx
+    records type = null
+    filled records = null
+    filled vars = null
+    start = null
+    end = null
+    sources given = null
+    metadata given = null
+    notes = null
+for sheet no 12 ie xx
+    records type = null
+    filled records = null
+    filled vars = null
+    start = null
+    end = null
+    sources given = null
+    metadata given = null
+    notes = null
+for sheet no 13 ie xx
+    records type = null
+    filled records = null
+    filled vars = null
+    start = null
+    end = null
+    sources given = null
+    metadata given = null
+    notes = null
+for sheet no 14 ie xx
+    records type = null
+    filled records = null
+    filled vars = null
+    start = null
+    end = null
+    sources given = null
+    metadata given = null
+    notes = null
+------ end id 50 ------ ------ ------ end id 50 ------
+```
+
+## records 0[^stopped 16 dec 2022 at 11.00 est in boston, ma, after format in records 0 was taking too long / was too cumbersome.]
 ### 50
 
 ```
+v-log files id = 00
 sheets = 15
 for sheet no 1 ie BLUE-1-1-Table 1
     records type = stats
@@ -125,33 +405,33 @@ for sheet no 1 ie BLUE-1-1-Table 1
             named sources = none
             named sources notes = none
             named notes = none
-            start = null
-            end = null
-            gaps = null
+            start = 1834
+            end = 1938
+            gaps = 5
             notes = null
         for var in col P ie Imports
             named sources = none
             named sources notes = none
             named notes = none
-            start = null
-            end = null
-            gaps = null
+            start = 1836
+            end = 1938
+            gaps = 8
             notes = null
         for var in col Q ie Exports
             named sources = none
             named sources notes = none
             named notes = none
-            start = null
-            end = null
-            gaps = null
+            start = 1836
+            end = 1938
+            gaps = 8
             notes = null
         for var in col R ie Lsd to BH$
             named sources = none
             named sources notes = none
             named notes = none
-            start = null
-            end = null
-            gaps = null
+            start = 1870
+            end = 1977
+            gaps = 5
             notes = null
         for var in col S ie US$ to BH$
             named sources = none
