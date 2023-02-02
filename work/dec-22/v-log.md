@@ -6,9 +6,7 @@ document created 4 dec 2022 at 23.33 in boston, ma, to hold all relevant output 
 # records
 ## records 2
 
-```
-
-```
+temporarily at downloads/v-logs-recs-2.numbers[^starting 16 dec 2022 at 14.00 est boston]
 
 ## records 1[^started 16 dec 2022 at 11.00 est in boston, ma, after format in records 0 was taking too long / was too cumbersome.]
 
