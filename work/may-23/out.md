@@ -57,3 +57,26 @@ subsx of context sec of preprint as per
 | nprim | moral | have morally troublesome events or parts of history not been covered in nprim sources eg slaving | SEP sec 6.0 |
 | nprim | objectivity | what motivated the nprim's author's interest in the past, eg epistemic (*knowing that x*, *knowing why x*), moral (xx), political (*we did x*, nationalism, anticolonialism, ethnocentrism, political commitment, conservatism), aesthetic (narrative closure, narrative templates), or what motivated their writing | Paul p 30, 31-32, 34, 35, 56, 59, 71, 80-81 |
 | nprim | meta | how will nprim sources be selected for scrutiny in preprint eg google scholar query, random selection of bibliography, all bibliography fm selected sources,[^may cf Bethell 1995, Higman 2003, Ashdown 1978a, Ashdown 1978b, Haug 1995, Cambell 2009, Holden 2020] all 21st cent sources cited for E series up to 1799 | x |
+
+## supplement content
+
+content as per [[v-log]] sec `records` subsec 1 `records 2`[^content for log portion of supplement ie provenance, metadata, revision, version log.][^filepaths in code block as per [[v-log]] sec `records` subsec 5 `files`]
+
+```
+for
+- 0 = 0-action = 4 Nov 2021 - 4 Nov 2021 / harv/* / deposited in harv dataverse
+- 1 = 1-action = 7 Oct 2021 - 3 Nov 2021 / red/rep bz fin pub 1.4 * / revised
+- 2 = 2-action = 7 Sep 2021 - 6 Oct 2021 / red/rep bz fin pub 1.3_stable* / null
+
+records for
+- metadata saw 0 1 2
+- sources saw 0 1
+- A 0 - A 112 saw 0 1
+- C 0 - C 992 saw 0 1
+- E 0 - E 1076, odd E 1077 - E 2163 saw 0 1
+- F 0 - F 170 saw 0 1
+- L 0 - L 382 saw 0 1
+- O 0 - O 37 saw 0 1
+- T 0 - T 600, odd T 601 - T 781 saw 0 1
+- W 0 - W 71, even W 72 - W 104 saw 0 1
+```

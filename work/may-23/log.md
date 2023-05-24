@@ -21,4 +21,9 @@ lists work undertaken. created 23 may 2023 23.58 in belmopan.
     - detour fm extration to [WIK art on hist](https://en.wikipedia.org/wiki/Outline_of_history),
     - detour fm extraction to [Paul 2015](https://www.routledge.com/Key-Issues-in-Historical-Theory/Paul/p/book/9781138802735),[^ref fm SEP sec 3.4]
     - detour fm extraction to [Bethell 1995](https://doi.org/10.1017/CHOL9780521395250),
-3. xx
+3. now figure out what maths or anls tools ought or may be used for subsx listed in [[out]] sec `24 may` subsec 2 `context subsx`
+    - first, quick google query, returned [Neuendorf 2016](https://us.sagepub.com/en-us/nam/the-content-analysis-guidebook/book234078) on coding, [Liu 2016](https://www.tandfonline.com/doi/10.1080/23270012.2016.1214540) on algorithms,[^cf their refs eg [Porch 2015](https://eprints.qut.edu.au/110341/).][^further cf [[iCloud: hist pp notes]] sec `table` subsec 3.1 `for general sources`]
+    - then, quick scan of model preprints et articles in [[iCloud: hist pp notes]], returned none,[^though cf articles deemed `good` therein]
+4. now develop presentation and supplement content in [[out]]
+    - xx
+5. xx
