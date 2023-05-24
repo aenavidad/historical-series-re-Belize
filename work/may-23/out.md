@@ -55,5 +55,5 @@ subsx of context sec of preprint as per
 | nprim | meta | how should nprim sources be judged / are they offering historical explanations, reasoning from empirical evidence, or building a narrative or survey | SEP sec 3.4[^cf Paul 2015 Key issues in historical theory] |
 | nprim | meta | how should truth claims be judged, as opposed to nprim sources themselves / what stds of evidence and reasoning apply to truth claims in nprim sources | SEP sec 4.0 |
 | nprim | moral | have morally troublesome events or parts of history not been covered in nprim sources eg slaving | SEP sec 6.0 |
-| nprim | objectivity | what motivated the nprim's author's interest in the past, eg epistemic (*knowing that x* or *knowing why x*), moral, political, aesthetic, or what motivated their writing | Paul p 30, 31-32, 34, 35 |
+| nprim | objectivity | what motivated the nprim's author's interest in the past, eg epistemic (*knowing that x*, *knowing why x*), moral (xx), political (*we did x*, nationalism, anticolonialism, ethnocentrism, political commitment, conservatism), aesthetic (narrative closure, narrative templates), or what motivated their writing | Paul p 30, 31-32, 34, 35, 56, 59, 71, 80-81 |
 | nprim |  |  |  |
