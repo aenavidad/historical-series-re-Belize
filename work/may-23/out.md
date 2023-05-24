@@ -80,3 +80,22 @@ records for
 - T 0 - T 600, odd T 601 - T 781 saw 0 1
 - W 0 - W 71, even W 72 - W 104 saw 0 1
 ```
+
+### supplement content M
+
+content M for metadata, as per above, and newly created as per [[may-23/log]] sec `24 may` no 4[^id in code block = id in [[v-log]] sec `records` subsec 5 `files`, ver = is this file fit for versioning for this series, mdiff = list of records with diff for prev version with `/` separators, desc = nat lang desc of diff with `/` separators]
+
+```
+id,ver,mdiff,desc,note
+00,1,null,null,null
+01,1,none,none,null
+02,1,none,xx,null
+03,0,null,null,ver 0 file bc no metadata et no data overlap with most prior ver 1 file
+04,0,null,null,ver 0 file bc no metadata et no data overlap with most prior ver 1 file
+05,0,null,null,ver 0 file bc no metadata et no data overlap with most prior ver 1 file
+06,1,all,xx,null,ver 1 file bc no metadata (but empty table present for it) et some data overlap with most prior ver 1 file
+```
+
+### supplement content S
+
+content S for sources, as per above, and newly created as per [[may-23/log]] sec `24 may` no 4
