@@ -5,4 +5,4 @@ contains files created or modified during 23 may 2023 to 31 may 2023. directory 
 # navigation
 
 1. `log` lists work undertaken,
-2. `pp0` is draft-ready output from work undertaken.
+2. `out` is draft-ready output from work undertaken.
