@@ -17,5 +17,6 @@ lists work undertaken. created 23 may 2023 23.58 in belmopan.
     - of [[v-log]]
         - content for one section as identified in [[free-text-nov-25]]
 2. now extract useful parts of content reviewed in no 1 to [[out]]
-    - detour fm extraction to [SEP art re hist](https://plato.stanford.edu/entries/history/)
+    - detour fm extraction to [SEP art re hist](https://plato.stanford.edu/entries/history/),
+    - detour fm extration to [WIK art on hist](https://en.wikipedia.org/wiki/Outline_of_history),
 3. xx

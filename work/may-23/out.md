@@ -38,18 +38,18 @@ where
 
 subsx of context sec of preprint as per 
 - sec `preprint sx` above, 
-- [[may-23/log]] sec `24 may` no 2 (SEP art on hist),
+- [[may-23/log]] sec `24 may` no 2 (SEP art on hist, WIK art of hist),
 - [[free-text-nov-25]] sec `output` subsec 6 `tsv 2 (literature)` (Higman 2003),[^copy of sheet in `pp.numbers`]
 - [[iCloud: hist pp notes]] sec `notes` last bullet (Ashdown 1978a, Ashdown 1978b, Haug 1995, Higman 2003, Campbell 2009, Holden 2020).
 
 | source[^where prim = primary source, nprim = not a primary source] | short | full | notes |
 |:--|:--|:--|:--|
-| nprim | coverage | how much of history is covered by sources eg spatially, temporally / how many prim sources are used for said coverage | per SEP sec 1.2 |
+| nprim | coverage | how much of history is covered by sources eg spatially, temporally / how many prim sources are used for said coverage / what parts of either are omitted or selected | per SEP sec 1.2 |
 | nprim | accuracy | as re factual data | x |
-| nprim | bias | what biases or trends | x |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+| nprim | objectivity | what are the biases, trends, interpretations observed | per SEP sec 3.2 |
+| nprim | reliability | what stds of historical explanation are used / what stds of reasoning used historical claims or interpretations of human behaviour | per SEP sec 3.0 |
+| nprim | reliability | what constitutes good historical explanation | per SEP sec 3.0-3.1 |
+| prim | accuracy | is historical knowledge underdetermined by available evidence | per SEP sec 3.0 |
+| nprim | synthesis | how are sm events knit together into lg events eg revolutions | per SEP sec 3.2 |
+| nprim | coverage | what are the fields of hist, and how well are these covered | WIK sec 1-2 |
 |  |  |  |  |
