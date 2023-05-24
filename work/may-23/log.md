@@ -19,4 +19,5 @@ lists work undertaken. created 23 may 2023 23.58 in belmopan.
 2. now extract useful parts of content reviewed in no 1 to [[out]]
     - detour fm extraction to [SEP art re hist](https://plato.stanford.edu/entries/history/),
     - detour fm extration to [WIK art on hist](https://en.wikipedia.org/wiki/Outline_of_history),
+    - detour fm extraction to [Paul 2015](https://www.routledge.com/Key-Issues-in-Historical-Theory/Paul/p/book/9781138802735),[^ref fm SEP sec 3.4]
 3. xx

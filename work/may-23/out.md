@@ -49,7 +49,11 @@ subsx of context sec of preprint as per
 | nprim | objectivity | what are the biases, trends, interpretations observed | per SEP sec 3.2 |
 | nprim | reliability | what stds of historical explanation are used / what stds of reasoning used historical claims or interpretations of human behaviour | per SEP sec 3.0 |
 | nprim | reliability | what constitutes good historical explanation | per SEP sec 3.0-3.1 |
-| prim | accuracy | is historical knowledge underdetermined by available evidence | per SEP sec 3.0 |
-| nprim | synthesis | how are sm events knit together into lg events eg revolutions | per SEP sec 3.2 |
+| prim | accuracy | is historical knowledge underdetermined by available evidence / how much of the past is retained in prim sources | per SEP sec 3.0 / Paul p 27 |
+| nprim | synthesis | how are sm events knit together into lg events eg revolutions / any gluts or gaps in coverage of these lg events | per SEP sec 3.2, 3.4 |
 | nprim | coverage | what are the fields of hist, and how well are these covered | WIK sec 1-2 |
-|  |  |  |  |
+| nprim | meta | how should nprim sources be judged / are they offering historical explanations, reasoning from empirical evidence, or building a narrative or survey | SEP sec 3.4[^cf Paul 2015 Key issues in historical theory] |
+| nprim | meta | how should truth claims be judged, as opposed to nprim sources themselves / what stds of evidence and reasoning apply to truth claims in nprim sources | SEP sec 4.0 |
+| nprim | moral | have morally troublesome events or parts of history not been covered in nprim sources eg slaving | SEP sec 6.0 |
+| nprim | objectivity | what motivated the nprim's author's interest in the past, eg epistemic (*knowing that x* or *knowing why x*), moral, political, aesthetic, or what motivated their writing | Paul p 30, 31-32, 34, 35 |
+| nprim |  |  |  |
