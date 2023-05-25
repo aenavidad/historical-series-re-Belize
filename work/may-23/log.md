@@ -26,4 +26,9 @@ lists work undertaken. created 23 may 2023 23.58 in belmopan.
     - then, quick scan of model preprints et articles in [[iCloud: hist pp notes]], returned none,[^though cf articles deemed `good` therein]
 4. now develop presentation and supplement content in [[out]]
     - first, finish log part of supplement,[^on completing subsections of [[out]] sec 2.3 `supplement content`, will likely need *s* csv tables to finish versioning for *s* number of versions deemed fit for versioning in each sec 2.3 subsec, and where each such csv table is normalised to march records, rows, and columns to make csv diff easy to see.]
-5. xx
+
+# 25 may
+
+1. continue s `24 may` no 4 fn 11
+    - first, list all files to be used for *s* csv tables in [[out]] s 3.1,
+2. xx
