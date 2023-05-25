@@ -257,3 +257,9 @@ id,m,s,a,c,e,f,l,o,t,w,notes
 49,0,0,0,0,0,0,0,0,0,0,null
 50,0,0,1,0,1,1,1,0,1,1,null
 ```
+
+## 25 may
+
+### supplement content
+
+continues output fm s 2.3 above
