@@ -83,26 +83,34 @@ records for
 
 ### supplement content M
 
-content M for metadata, as per above, and newly created as per [[may-23/log]] sec `24 may` no 4[^id in code block = id in [[v-log]] sec `records` subsec 5 `files`, ver = is this file fit for versioning for this series (0 for file w no metadata nor metadata vars ie no dedicated space for metadata, 0 for file w no data overlap with nearest ensuing ver 1 file, 1 else), mdiff = list of records with diff for prev version with `/` separators, desc = nat lang desc of diff with `/` separators]
+content M for metadata, as per above, and newly created as per [[may-23/log]] sec `24 may` no 4[^id in code block = id in [[v-log]] sec `records` subsec 5 `files`, ver = is this file fit for versioning for this series (0 for file w no metadata nor metadata vars ie no dedicated space for metadata, 0 for file w no data overlap with nearest ensuing ver 1 file, 1 else), diff = list of records with diff fm nearest ensuing version w `/` separators, desc = nat lang desc of diff w `/` separators]
 
 ```
-id,ver,mdiff,desc,note
+id,ver,diff,desc,note
 00,1,null,null,null
 01,1,none,none,null
 02,1,none,none,null
 03,0,null,null,null
-04,0,null,null, null
-05,0,null,null, null
-06,1,all,additions,null, null
+04,0,null,null,null
+05,0,null,null,null
+06,1,all,additions,null,null
 07,1,none,none,null
 08,1,none,none,null
-09,0,null,null, null
-10,1,none,none, null
+09,0,null,null,null
+10,1,none,none,null
 11,1,none,none,null
-12,0,null,null, null
-13,0,null,null, null
-14,0,null,null, null
-15,0,null,null, null
+12,0,null,null,null
+13,0,null,null,null
+14,1,all,deletions,for * Errors-A1—14 *.tsv
+15,0,null,null,null
+16,1,xx,xx,for * Errors-A1—14 *.tsv
+17,0,null,null,possy ver 1 for empty * Style-Table 1.tsv if it was meant as metadata space
+18,0,null,null,null
+19,1,xx,xx,for * Errors-A1–14 *.tsv
+20,1,xx,xx,for * Errors-A1–14 *.tsv
+21,0,null,null,null
+22,0,null,null,null
+23,
 ```
 
 ### supplement content S
