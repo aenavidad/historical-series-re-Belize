@@ -30,5 +30,6 @@ lists work undertaken. created 23 may 2023 23.58 in belmopan.
 # 25 may
 
 1. continue s `24 may` no 4 fn 11
-    - first, list all files to be used for *s* csv tables in [[out]] s 3.1,
+    - first, list all files to be used for *s* csv tables in [[out]] s 3.1,[^more fully listed in [[out-sup0.tsv]], w desc of vars in [[out]] s 3.1.1]
+    - and, strike out superseded content in [[out]],[^all of s 2.3]
 2. xx
