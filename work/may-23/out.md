@@ -110,7 +110,26 @@ id,ver,diff,desc,note
 20,1,xx,xx,for * Errors-A1–14 *.tsv
 21,0,null,null,null
 22,0,null,null,null
-23,
+23,0,null,null,null
+24,0,null,null,null
+25,0,null,null,null
+26,0,null,null,null
+27,0,null,null,null
+28,0,null,null,null
+29,0,null,null,null
+30,0,null,null,null
+31,0,null,null,null
+32,0,null,null,null
+33,0,null,null,null
+34,0,null,null,null
+35,0,null,null,null
+36,0,null,null,null
+37,0,null,null,null
+38,0,null,null,where empty * Sheet 1-Table 1.tsv not taken as metadata space
+39,0,null,null,null
+40,0,null,null,null
+41,1,xx,xx,for * Meta-Table 1.tsv where possy all diff
+42, 
 ```
 
 ### supplement content S
