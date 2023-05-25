@@ -25,5 +25,5 @@ lists work undertaken. created 23 may 2023 23.58 in belmopan.
     - first, quick google query, returned [Neuendorf 2016](https://us.sagepub.com/en-us/nam/the-content-analysis-guidebook/book234078) on coding, [Liu 2016](https://www.tandfonline.com/doi/10.1080/23270012.2016.1214540) on algorithms,[^cf their refs eg [Porch 2015](https://eprints.qut.edu.au/110341/).][^further cf [[iCloud: hist pp notes]] sec `table` subsec 3.1 `for general sources`]
     - then, quick scan of model preprints et articles in [[iCloud: hist pp notes]], returned none,[^though cf articles deemed `good` therein]
 4. now develop presentation and supplement content in [[out]]
-    - first, finish log part of supplement,
+    - first, finish log part of supplement,[^on completing subsections of [[out]] sec 2.3 `supplement content`, will likely need *s* csv tables to finish versioning for *s* number of versions deemed fit for versioning in each sec 2.3 subsec, and where each such csv table is normalised to march records, rows, and columns to make csv diff easy to see.]
 5. xx
