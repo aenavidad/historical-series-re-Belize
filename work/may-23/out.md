@@ -1,10 +1,10 @@
-# abstract
+## abstract
 
 lists output produced. created 23 may 2023 23.59 in belmopan.
 
-# 24 may
+## 24 may
 
-## preprint sx
+### preprint sx
 
 sx as per [[free-text-nov-25]] sec `log` no 6 and per [[may-23/log]] sec `24 may` no 2
 
@@ -34,7 +34,7 @@ where
         log ie log of changers between versions, revisions, or releases ie versioning and provenance
 ```
 
-## context subsx
+### context subsx
 
 subsx of context sec of preprint as per
 - sec `preprint sx` above, 
@@ -58,7 +58,7 @@ subsx of context sec of preprint as per
 | nprim | objectivity | what motivated the nprim's author's interest in the past, eg epistemic (*knowing that x*, *knowing why x*), moral (xx), political (*we did x*, nationalism, anticolonialism, ethnocentrism, political commitment, conservatism), aesthetic (narrative closure, narrative templates), or what motivated their writing | Paul p 30, 31-32, 34, 35, 56, 59, 71, 80-81 |
 | nprim | meta | how will nprim sources be selected for scrutiny in preprint eg google scholar query, random selection of bibliography, all bibliography fm selected sources,[^may cf Bethell 1995, Higman 2003, Ashdown 1978a, Ashdown 1978b, Haug 1995, Cambell 2009, Holden 2020] all 21st cent sources cited for E series up to 1799 | x |
 
-## supplement content
+### supplement content
 
 content as per [[v-log]] sec `records` subsec 1 `records 2`[^content for log portion of supplement ie provenance, metadata, revision, version log.][^filepaths in code block as per [[v-log]] sec `records` subsec 5 `files`]
 
@@ -81,9 +81,9 @@ records for
 - W 0 - W 71, even W 72 - W 104 saw 0 1
 ```
 
-### supplement content M
+#### supplement content M
 
-content M for metadata, as per above, and newly created as per [[may-23/log]] sec `24 may` no 4[^id in code block = id in [[v-log]] sec `records` subsec 5 `files`, ver = is this file fit for versioning for this series (0 for file w no metadata nor metadata vars ie no dedicated space for metadata, 0 for file w no data overlap with nearest ensuing ver 1 file, 1 else), diff = list of records with diff fm nearest ensuing version w `/` separators, desc = nat lang desc of diff w `/` separators]
+content M for metadata, as per above, and newly created as per [[may-23/log]] sec `24 may` no 4[^id in code block = id in [[v-log]] sec `records` subsec 5 `files`, ver = is this file fit for versioning for this series (0 for file w no metadata nor metadata vars ie no dedicated space for metadata where short string metadata within data files not counted as metadata, 0 for file w no data overlap with ~~nearest ensuing ver 1~~ 00 file, 1 else), diff = list of records with diff fm nearest ensuing version w `/` separators, desc = nat lang desc of diff w `/` separators]
 
 ```
 id,ver,diff,desc,note
@@ -140,6 +140,11 @@ id,ver,diff,desc,note
 50,0,null,null,null
 ```
 
-### supplement content S
+#### supplement content S
 
-content S for sources, as per above, and newly created as per [[may-23/log]] sec `24 may` no 4
+content S for sources,[^understood as per [[v-log]] sec `records` subsec 4 `rules`] as per above, and newly created as per [[may-23/log]] sec `24 may` no 4[^id, diff, desc as for codeblock for metadata above, ver = is this file fit for versioning for this series (0 for file w no full citations nor dedicated space for them where short citations within data files not counted as full citations, 0 for file w no data overlap with 00 file, 1 else).]
+
+```
+id,ver,diff,desc,note
+00,1,null,null,null
+```
