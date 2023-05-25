@@ -201,21 +201,21 @@ id,ver,diff,desc,note
 
 #### supplement content M–W
 
-content M, S, A, C, E, F, L, O, T, W for metadata (M), sources (S), and series A–W, as per sec 2.3.0 above[^further cf data categories per [[v-log]] sec `records` subsec 4 `rules`, and note this subsec, unlike sec 2.3.1–2.3.2 above, does not include diff nor desc vars, restricting content to id, ver (labelled m–w), and note vars]
+content M, S, A, C, E, F, L, O, T, W for metadata (M), sources (S), and series A–W,[^statistics (precensal A), extracts (C), temporal (E), statistics (finances F), statistics (currency L), spatial (O), statistics (trade T), statistics (weather W), following [[v-log]] data categories] as per sec 2.3.0 above[^further cf data categories per [[v-log]] sec `records` subsec 4 `rules`, and note this subsec, unlike sec 2.3.1–2.3.2 above, does not include diff nor desc vars, restricting content to id, ver (labelled m–w), and note vars]
 
 ```
 id,m,s,a,c,e,f,l,o,t,w,notes
 00,1,1,1,1,1,1,1,1,1,1,null
-01,1,1,0,0,0,0,0,0,0,0,null
-02,1,1,0,0,0,0,0,0,0,0,null
-03,0,0,0,0,0,0,0,0,0,0,null
-04,0,0,0,0,0,0,0,0,0,0,null
+01,1,1,1,1,1,1,1,1,1,1,null
+02,1,1,1,1,1,1,1,0,1,1,null
+03,0,1,0,0,0,0,0,0,0,0,updated s for cf*.tsv
+04,0,0,0,0,1,0,0,0,0,0,null
 05,0,0,0,0,0,0,0,0,0,0,null
-06,1,1,0,0,0,0,0,0,0,0,null
-07,1,0,0,0,0,0,0,0,0,0,null
-08,1,1,0,0,0,0,0,0,0,0,null
-09,0,0,0,0,0,0,0,0,0,0,null
-10,1,1,0,0,0,0,0,0,0,0,null
+06,1,1,1,0,1,1,1,0,1,0,null
+07,1,0,0,0,1,0,0,0,0,0,null
+08,1,1,1,1,1,1,1,1,1,1,null
+09,0,0,0,0,1,0,0,0,0,0,null
+10,1,1,1,0,1,1,1,0,1,0,null
 11,1,1,0,0,0,0,0,0,0,0,null
 12,0,0,0,0,0,0,0,0,0,0,null
 13,0,1,0,0,0,0,0,0,0,0,null
