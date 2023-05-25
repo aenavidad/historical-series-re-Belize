@@ -177,4 +177,24 @@ id,ver,diff,desc,note
 28,0,null,null,null
 29,1,xx,xx,null
 30,0,null,null,null
+31,1,xx,xx,null
+32,0,null,null,null
+33,0,null,null,null
+34,0,null,null,null
+35,1,xx,xx,for * Index *.tsv
+36,1,xx,xx,for * Index *.tsv
+37,0,null,null,null
+38,0,null,null,where empty * Sheet 1-Table 1.tsv not taken as sources space
+39,1,xx,xx,for * Index *.tsv
+40,0,null,null,null
+41,0,null,null,null
+42,0,null,null,null
+43,0,null,null,null
+44,1,xx,xx,null
+45,0,null,null,null
+46,0,null,null,null
+47,0,null,null,null
+48,0,null,null,null
+49,0,null,null,null
+50,0,null,null,null
 ```
