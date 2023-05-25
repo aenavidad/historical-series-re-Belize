@@ -147,4 +147,14 @@ content S for sources,[^understood as per [[v-log]] sec `records` subsec 4 `rule
 ```
 id,ver,diff,desc,note
 00,1,null,null,null
+01,1,xx,xx,prolly revisions desc
+02,1,xx,xx,null
+03,0,null,null,null
+04,0,null,null,null
+05,0,null,null,null
+06,1,xx,xx,prolly revisions desc
+07,0,null,null,null
+08,1,xx,xx,null
+09,0,null,null,null
+10,1,xx,xx,null
 ```
