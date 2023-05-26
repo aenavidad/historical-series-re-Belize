@@ -32,4 +32,5 @@ lists work undertaken. created 23 may 2023 23.58 in belmopan.
 1. continue s `24 may` no 4 fn 11
     - first, list all files to be used for *s* csv tables in [[out]] s 3.1,[^more fully listed in [[out-sup0.tsv]], w desc of vars in [[out]] s 3.1.1]
     - and, strike out superseded content in [[out]],[^all of s 2.3]
+    - now, get granular versioning of metadata,[^given in [[out-sup1.tsv]], with index in last 396 lines.]
 2. xx
