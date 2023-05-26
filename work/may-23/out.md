@@ -587,3 +587,7 @@ list of all files to be used in producing record-by-record versioning, as per [[
 | 50---storms-1-storms-w-in-150- | [link](https://github.com/aenavidad/pre-git-hist/blob/main/files/red/HURR%20BZ%20V1%20-%20Storms-1-Storms%20w%20in%20150%20nautical%20miles%20of%20Belize..tsv) | 00.1011.1011 | null |
 | 50---storms-2-storms-w-in-150- | [link](https://github.com/aenavidad/pre-git-hist/blob/main/files/red/HURR%20BZ%20V1%20-%20Storms-2-Storms%20w%20in%20150%20nautical%20miles%20of%20Belize..tsv) | 00.1011.1011 | null |
 | 50---storms-storms-w-in-150-na | [link](https://github.com/aenavidad/pre-git-hist/blob/main/files/red/HURR%20BZ%20V1%20-%20Storms-Storms%20w%20in%20150%20nautical%20miles%20of%20Belize..tsv) | 00.1011.1011 | null |
+
+#### metadata versioning content
+
+table of metadata records for 12 eligible file ids, with index for ease, per [[may-23/log]] s `25 may` no 1[^total 13\*396 lines, inc 8-line prefaces per file id or index table]
