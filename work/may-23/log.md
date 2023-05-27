@@ -34,4 +34,5 @@ lists work undertaken. created 23 may 2023 23.58 in belmopan.
     - and, strike out superseded content in [[out]],[^all of s 2.3]
     - now, get granular versioning of metadata,[^given in [[out-sup1.tsv]], with index in last 396 lines.]
     - now, get granular versioning of sources[^given in [[out-sup2.tsv]], with index in last lines.]
+    - now, get granular versioning of events,
 2. xx
