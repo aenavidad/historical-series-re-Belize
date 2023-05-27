@@ -34,5 +34,10 @@ lists work undertaken. created 23 may 2023 23.58 in belmopan.
     - and, strike out superseded content in [[out]],[^all of s 2.3]
     - now, get granular versioning of metadata,[^given in [[out-sup1.tsv]], with index in last 396 lines.]
     - now, get granular versioning of sources[^given in [[out-sup2.tsv]], with index in last lines.]
-    - now, get granular versioning of events,[^detour at 26 may 19.58 to ensure pre-git-hist has all files necessary, and to update pre-git-hist/files]
-2. xx
+    - now, get granular versioning of events,[^detour at 26 may 19.58 to ensure pre-git-hist has all files necessary, and to update pre-git-hist/files.tsv and events.tsv, and to see whether native macos versioning can be extracted for git, and wiki editing extracted for git]
+2. stop at 27 may 10.23 to given detour at no 1 above,
+    - now, instead provide `out-sup3.tsv` as an updated list of files in `work/files` to be scanned for versioning,[^this tsv has two new records, given id `45.5` and `41.5`, and lists files in their original formats (mostly `.numbers`), resulting in one file per id (mostly, except for id `01` and `42`, which were originally multi-file), and further adds last-modified and first-committed dates to each id for use in versioning]
+    - now, get copies of native versions of files in `out-sup3.tsv`,[^ie copies kept by native macos software]
+    - now, update version files for metadata (`out-sup1`) and sources (`out-sup2`), if necessary,
+    - now, continue with events versioning,
+3. xx
