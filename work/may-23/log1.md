@@ -4,7 +4,7 @@ lists work undertaken. created 29 may 2023 22.23 in belmopan.
 
 # tasks
 
-1. [x] add list of source files to [[out1]],
+1. [x] add list of source files to [[out1]],[^list of file-related events included in [[out1-sup0]].]
 2. [ ] update metadata versioning,
     - [ ] get current single-file versioning into multi-file granular format,
     - [ ] review `nn` id files for missed metadata attd to data (eg captions),
