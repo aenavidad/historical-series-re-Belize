@@ -28,12 +28,12 @@ list of all files to be used in producing granular versioning[^in alphabetic ord
 | 24 | 01.0010.0000 | disasters non-hurr bz v3.3 copy REVIEW |
 | 29 | 01.0010.0000 | disasters non-hurr bz v3.3 SOURCE LINKS |
 | 42 | 00.0000.0010 | early gdp dis bz v1 |
-| 41.5 | nn.nnnn.nnnn | early gdp raw data |
+| 41.5 | 10.1000.0010 | early gdp raw data |
 | 43 | 00.0000.0010 | econ bz 1700s |
 | 50 | 00.1011.1011 | HURR BZ V1 |
 | 48 | 00.1011.0010 | hurr bz v2 |
 | 46 | 10.1010.1010 | Hurricanes bz v2.1 |
-| 45.5 | nn.nnnn.nnnn | Hurricanes bz v3 writing |
+| 45.5 | 10.1010.1010 | Hurricanes bz v3 writing |
 | 41 | 10.1010.0010 | pop bz v1.4 |
 | 18 | 00.0010.0000 | prelim rep 1.4 events |
 | 19 | 11.1010.1000 | prelim rep bz 1.4 WORK |
