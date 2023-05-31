@@ -28,5 +28,5 @@ lists work undertaken. created 29 may 2023 22.23 in belmopan.
     - [ ] for all, review vals for columns up to col `288` by cross-reference to `historical-series-re-Belize/work/may-23/out1.md`,
     - [ ] for `metadata.tsv` and `sources.tsv`, review vals for columns up to col `288` by cross-reference to `work/may-23/out0-supn.tsv`,
     - [ ] for all, review appropriateness of records groupings given in columns up to col `000`,[^where, *a0,...,an* are the 'natural record groupings' ie those groupings presented in `pre-git-hist/sheets/` (eg by being presented as a table or sheet, eg `v 1.4` would have at least xx natural record groupings eg `Sources`, `Sources 2`, etc), and where each *ai* is a set of (*v0*, *v1*) pairs for variable *v0* and corresponding value *v1* / in which case, an appropriate record grouping is a union *ai0,...,aik* where, for any *ai* and *aj* in the union, *ai* is not disjoint from *aj* (ie they share at least on (*v0*, *v1*) pair).]
-    - [ ] for all, note all ambiguities, uncertainties in last lines of `tsv` file,
-8. [ ] xx
+    - [ ] for all, note all ambiguities, uncertainties in last lines of `tsv` file,[^from `note0` to `noten`]
+8. [x] do no 7 for `v-1.4/versioning/metadata.tsv`,[^ie metadata versioning deemed complete for record-groups on 31 may 2023 at 16.40]
