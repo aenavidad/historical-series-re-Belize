@@ -1,8 +1,9 @@
-# abstract
+# out
+## abstract
 
 lists output fm [[jun-23/log]]. created 3 jun 2023 07.18 in belmopan.
 
-# fm no 3
+## fm log no 3
 
 | subj | desc | location |
 |:--|:--|:--|
@@ -13,4 +14,7 @@ lists output fm [[jun-23/log]]. created 3 jun 2023 07.18 in belmopan.
 | preprint | content for | [[versioning/events.tsv]] |
 | preprint | content, sx for | s '24 may' nos 1-3 [[log0]][^inc fm `work/dec-22`] |
 | work | procedure for | s 'tasks' no 7 [[log1]] |
-|  |  |  |
+| work, files, preprint | standards for | [[rules-20-aug-2022.tsv]], [[rules-20-aug-2022.md]] |
+
+## fm log no 4
+
