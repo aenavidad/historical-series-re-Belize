@@ -11,5 +11,6 @@ lists output fm [[jun-23/log]]. created 3 jun 2023 07.18 in belmopan.
 | preprint | content for | [[metadata.tsv]] |
 | preprint | content for | [[sources.tsv]] |
 | preprint | content for | [[versioning/events.tsv]] |
-|  |  |  |
+| preprint | content, sx for | s '24 may' nos 1-3 [[log0]][^inc fm `work/dec-22`] |
+| work | procedure for | s 'tasks' no 7 [[log1]] |
 |  |  |  |
