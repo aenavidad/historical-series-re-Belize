@@ -5,5 +5,6 @@ contains files created or modified during 24 september 2023 to 30 sep 2023. dire
 
 ## navigation
 
-* [[sep-23/log]] lists work undertaken
-* [[sep-23/out]] lists output produced
+* [[sep-23/log]] lists work undertaken,
+* [[sep-23/out]] lists output produced,
+* [[draft0]] is initial version of content for preprint,
