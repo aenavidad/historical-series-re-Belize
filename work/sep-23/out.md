@@ -1,13 +1,14 @@
-# out
+# sep-23/out
 ## abstract
 
 lists output from [[sep-23/log]]. created 24 sep 2023 at 12.56 in belmopan.
 
 ## fm no 1
 
-| subj | desc | content | location |
+| subj | desc | add[^sep 2023 additions to content as it appears in the location in column 'location'] | location[^of content] |
 |:--|:--|:--|:--|
 | preprint | sx | s 2.1 | jun-23/out s 2 row 1[^orig may-23/out0 s 2.1 citing (i) may-23/log0 s '24 may' n 2, et (ii) dec-22/free-text-nov-25 s 'log' n 6.] |
+| preprint | sx | - | jun-23/out s 2 row 2 |
 
 ### content row 1
 
