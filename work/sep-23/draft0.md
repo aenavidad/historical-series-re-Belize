@@ -110,10 +110,21 @@ where, if we were to follow [IFLA FRBR](https://www.ifla.org/references/best-pra
 
 ## presentation [s 5]
 ### v 1.4 [s 5.1]
-#### history of v 1.4 [s 5.1.1]
+#### history of v 1.4<!--eg data collection, construction, inspo--> [s 5.1.1]
 xx
 
-#### picture of v 1.4 [s 5.1.2]
+Table listing events related to v 1.4 construction.[^perused records from `work/dec-22/free-text-nov-25.md` s 'output' subs 2 via `work/jun-23/out.md` s 2, but claims therein are outdated so was ignored. all file paths within the table are for `pre-git-hist/` except in footnotes.]
+
+| place | action | date | description | notes |
+|:---:|:---|:---|:---|:---|
+| bz-cy | created file | 01 Oct 2020 11:02 | re `files/tran/The Baymen's experiment.rtf` | earliest record in `events.tsv` |
+| bz-cy | created file | 22 Oct 2020 05:04 | re `files/tran/civil list v1 *.tsv` | earliest *tsv* record in `events.tsv`[^re 2010s crown offices, programmes, budget per `work/dec-22/free-text-nov-25.md` s 'output' subs 3.] |
+| bz-cy | created file | 11 Nov 2020 19:38 | re `files/red/gob rights practices *.tsv` | *possy* earliest events record in `events.tsv`[^but possy these events did not make it into v 1.4? file is re 2000s–2020s govt rights violations per `work/dec-22/free-text-nov-25.md` s 'output' subs 3.] |
+| bz-cy | created file | 14 Nov 2020 20:53 | re `files/tran/debt belize 1 *.tsv` | *possy* earliest *stats* record in `events.tsv`[^but possy these stats did not make it into v 1.4? file is re 1980s–2020s sovereign debt, defaults, credit per `work/dec-22/free-text-nov-25.md` s 'output' subs 3.] |
+| bz-cy | created file | 25 Nov 2020 15:25 | re `sheets/HURR BZ V1 *.numbers` | earliest record in `sheets.tsv` |
+| bz-cy | created file | 25 Nov 2020 16:25 | re `files/red/HURR BZ V1 *.tsv` | *likely* earliest *events* et *stats* in `events.tsv`[^these events almost definitely made it into v 1.4. file is re 1760s–2010s storm events, vars stats per `work/dec-22/free-text-nov-25.md` s 'output' subs 3.] |
+
+#### picture of v 1.4<!--notes on size, precision, accuracy, quality--> [s 5.1.2]
 xx
 
 ### v 1.5 [s 5.2]
@@ -130,4 +141,12 @@ xx
 xx
 
 ## supplement [s 7]
+### v 1.4 [s 7.1]
 xx
+
+### codebook for v 1.4<!--update of intro file fm v 1.4 inc descriptions of variables and values--> [s 7.2]
+xx
+
+### log for v 1.4<!--log of changes between versions, revisions, or releases ie versioning and provenance--> [s 7.3]
+First, see log in `v-1.4/versioning/`.[^per `work/jun-23/out.md` s 2. this log uses `pre-git-hist/sheets/` to build a log. the procedure used is in `work/may-23/log1.md` s 'tasks' n 7.]
+
