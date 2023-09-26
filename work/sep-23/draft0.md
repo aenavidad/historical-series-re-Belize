@@ -148,5 +148,5 @@ xx
 xx
 
 ### log for v 1.4<!--log of changes between versions, revisions, or releases ie versioning and provenance--> [s 7.3]
-First, see log in `v-1.4/versioning/`.[^per `work/jun-23/out.md` s 2. this log uses `pre-git-hist/sheets/` to build a log. the procedure used is in `work/may-23/log1.md` s 'tasks' n 7.]
+First, see series-by-series log in `v-1.4/versioning/`.[^per `work/jun-23/out.md` s 2. this log uses `pre-git-hist/sheets/` to build a log. the procedure used is in `work/may-23/log1.md` s 'tasks' n 7.] Further, see file-by-file log in `work/may-23/out1.md`.[^in s 'list source files', location obtained via `wokr/jun-23/out.md` s 2.] For file-by-file contents description and provenance, see in `work/dec-22/free-text-nov-25.md`.[^in s 'output' subs 3, location obtained via `wokr/jun-23/out.md` s 2. this list is incomplete for the relevant files. other `work/` files might also have relevant information.]
 
