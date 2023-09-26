@@ -19,5 +19,5 @@ lists work understaken. created 24 sep 2023 at 12.55 in belmopan.
 6. [x] write draft0 s 5.1.1,
 7. [ ] write draft s 7.3,
     1. [ ] fill in `v-1.4/versioning/statistics.tsv`,
-    2. [x] check inclusion of named but null v 1.4 records in `v-1.4/versioning/*.tsv` files, as it seems these null records ought not to be counted for versioning?[^decided to include all named records, but to note them in tsv notes]
+    2. [x] check inclusion of named but null v 1.4 records in `v-1.4/versioning/*.tsv` files, as it seems these null records ought not to be counted for versioning?[^decided to include all named records, but to note them in tsv notes. further decided that rows with *only* empty but named records (ie row 4) ought to be versioned last or ignored in this initial pass.]
 8. [ ] xx
