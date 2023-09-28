@@ -113,7 +113,7 @@ where, if we were to follow [IFLA FRBR](https://www.ifla.org/references/best-pra
 #### history of v 1.4<!--eg data collection, construction, inspo--> [s 5.1.1]
 xx
 
-Table listing events related to v 1.4 construction.[^perused records from `work/dec-22/free-text-nov-25.md` s 'output' subs 2 via `work/jun-23/out.md` s 2, but claims therein are outdated so was ignored. all file paths within the table are for `pre-git-hist/` except in footnotes.]
+Table listing events related to v 1.4 construction.[^perused records from `work/dec-22/free-text-nov-25.md` s 'output' subs 2 via `work/jun-23/out.md` s 2, but claims therein are outdated so was ignored. deposit records from `work/dec-22/pp.numbers` sheet 'log' = `work/dec-22/free-text-nov-25.md` s 'output' subs 5. all file paths within the table are for `pre-git-hist/` except in footnotes *and* except for `pp.numbers` in last col.]
 
 | place | action | date | description | notes |
 |:---:|:---|:---|:---|:---|
@@ -123,6 +123,7 @@ Table listing events related to v 1.4 construction.[^perused records from `work/
 | bz-cy | created file | 14 Nov 2020 20:53 | re `files/tran/debt belize 1 *.tsv` | *possy* earliest *stats* record in `events.tsv`[^but possy these stats did not make it into v 1.4? file is re 1980s–2020s sovereign debt, defaults, credit per `work/dec-22/free-text-nov-25.md` s 'output' subs 3.] |
 | bz-cy | created file | 25 Nov 2020 15:25 | re `sheets/HURR BZ V1 *.numbers` | earliest record in `sheets.tsv` |
 | bz-cy | created file | 25 Nov 2020 16:25 | re `files/red/HURR BZ V1 *.tsv` | *likely* earliest *events* et *stats* in `events.tsv`[^these events almost definitely made it into v 1.4. file is re 1760s–2010s storm events, vars stats per `work/dec-22/free-text-nov-25.md` s 'output' subs 3.] |
+| xx | deposited file | 4 Nov 2021 ??:?? | re `files/harv/*.tsv` | eaarlist deposit in `pp.numbers`[^deposit uri = [dataverse.harvard.edu](https://dataverse.harvard.edu/privateurl.xhtml?token=135a1006-cd54-4d9e-ba7b-d961b93f1bc4), licensed CC0 1.0, *not* public as of 27 Nov 2022, but note `pp.numbers` lists 4 later deposits, inc *public* ones under distinct licences.] |
 
 #### picture of v 1.4<!--notes on size, precision, accuracy, quality--> [s 5.1.2]
 xx
