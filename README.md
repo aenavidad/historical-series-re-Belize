@@ -6,8 +6,9 @@ This repository was initialised on 9 August 2022 in Boston MA to store work hist
 
 ## navigation
 
-- draft version 1.4 data in `v-1.4`.
+- draft version 1.4 data in `v-1.4`.[^on 29 sep 2023 at 19.28 belmopan time, `v-1.4/versioning` was moved to `work/versioning` as this is more fitting.]
 - draft version 1.5 data in `v-1.5`.
+- working files in `work`.
 
 ## pre-requisites
 
