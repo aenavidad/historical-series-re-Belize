@@ -14,3 +14,4 @@ This directory contains working files. Created 12 August 2022 in Boston MA.
 - `jun-23` working files for june 2023
 - `sep-23` working files for september 2023
 - `oct-23` working files for october 2023[^possibly including commit-ready work from 29 sep 2023 onwards]
+- `versioning` working files re versioning of data series[^created 31 may 2023 and initially placed in `v-1.4/versioning`, but moved to `work/versioning` on 29 sep 2023 as this is a more fitting place.] 
