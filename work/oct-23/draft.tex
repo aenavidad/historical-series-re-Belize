@@ -1,0 +1,95 @@
+\documentclass{amsart}% see https://ctan.org/pkg/amsart or https://www.ams.org/arc/handbook/index.html
+%
+%
+%
+%
+% use only CTAN packages ? - amsthm, amsmath, amsfonts loaded  via amsart documentclass
+% \usepackage{amssymb}% for more ams symbols
+\usepackage{tabularx}% for table spacing
+\usepackage{lipsum}% for dummy text
+\usepackage{booktabs}% for table style
+% \usepackage{csvsimple-l3}% for tables
+\usepackage{tikz-cd}% tikz derivative - for diagrams
+% \usepackage{xcolor}% for colours
+\usepackage[shortlabels]{enumitem}% for lists
+% \usepackage[UKenglish]{babel}% for english variant
+\usepackage{hyperref}% for hyperlinks - apparently must load sort-of last
+\usepackage{amsrefs}% for citations - must load after hyperref
+%
+%
+%
+\theoremstyle{definition}% needed ?
+\newtheorem{clm}{Claim}[section]
+\theoremstyle{definition}
+\newtheorem{dfn}{Definition}[section]
+%
+%
+%
+%
+%
+\begin{document}
+%
+%
+%
+\title{Draft}
+\author{AE Navidad}
+\address{Harvard College, Cambridge, MA}% apparently research ie affiliation address
+\curraddr{Belmopan, Belize}% if diff from \address
+\email{navidad@college.harvard.edu}
+\date{29 September 2023}
+\thanks{\lipsum[1][1]}% appareantly rather for research grants info
+\begin{abstract}
+\lipsum[1]
+\end{abstract}
+\keywords{\lipsum[1][1]}
+\maketitle
+%
+%
+%
+\section{Introduction}
+\label{s:intro}
+\lipsum[1-2]
+%
+%
+%
+\section{Version 1.0.0-alpha}
+\label{s:valpha}
+\lipsum[1-3]
+%
+%
+%
+\section{Version 1.0.0}
+\label{s:vfirst}
+\lipsum[1-3]
+%
+%
+%
+\section{Conclusion}
+\label{s:conc}
+\lipsum[1]
+%
+%
+%
+\input draft-tab % dummy table
+%
+%
+%
+\section*{Supplements}
+\label{s:supp}
+\lipsum[1][1-3]
+%
+%
+%
+\section*{Acknowledgements}
+\label{s:acknow}
+\lipsum[1]
+%
+%
+%
+%
+%
+\input draft-refs % dummy refs
+%
+%
+%
+\end{document}
