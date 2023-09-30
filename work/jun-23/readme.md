@@ -4,4 +4,5 @@ contains files created or modified during 1 june 2023 to 30 may 2023. directory 
 
 # navigation
 
-- log lists work undertaken
+- [[jun-23/log]] lists work undertaken
+- [[jun-23/out]] lists output from work
