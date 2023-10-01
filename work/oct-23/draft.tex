@@ -1,20 +1,31 @@
-\documentclass{amsart}% see https://ctan.org/pkg/amsart or https://www.ams.org/arc/handbook/index.html
+\documentclass{amsart}% see https://ctan.org/pkg/amsart or https://www.ams.org/arc/handbook/index.html - and may want to avoid taboos https://ctan.math.utah.edu/ctan/tex-archive/info/l2tabu/english/l2tabuen.pdf
 %
 %
 %
 %
 % use only CTAN packages ? - amsthm, amsmath, amsfonts loaded  via amsart documentclass
-% \usepackage{amssymb}% for more ams symbols
-\usepackage{tabularx}% for table spacing
-\usepackage{lipsum}% for dummy text
+\usepackage{array}% prereq of tabularx package so already loaded via that - apparently good practice to explicitly load nonetheless
+\usepackage{amssymb}% for more ams symbols - may not need ?
+% \usepackage[UKenglish]{babel}% for english variant
 \usepackage{booktabs}% for table style
 % \usepackage{csvsimple-l3}% for tables
-\usepackage{tikz-cd}% tikz derivative - for diagrams
-% \usepackage{xcolor}% for colours
 \usepackage[shortlabels]{enumitem}% for lists
-% \usepackage[UKenglish]{babel}% for english variant
+\usepackage{lipsum}% for dummy text
+\usepackage{tabularx}% for table spacing
+\usepackage{threeparttable}% for table footers
+\usepackage{tikz-cd}% tikz derivative - for diagrams
+\usepackage[normalem]{ulem}% for strikethrough
+% \usepackage{xcolor}% for colours
 \usepackage{hyperref}% for hyperlinks - apparently must load sort-of last
 \usepackage{amsrefs}% for citations - must load after hyperref
+%
+%
+%
+\newcommand{\code}[1]{\texttt{#1}}% for inline code - avoids formatting in document
+\newcommand{\titleit}[1]{\textit{#1}}% for inline titles of books etc - avoids formatting in document
+\newcommand{\mention}[1]{\textit{#1}}% for mentioned rather than used terms - avoids formatting in document
+\newcommand{\tabnote}[1]{\footnotesize{#1}}% for macgyvered last-row-multicolumn table notes - avoids formatting in document
+\newcommand{\simset}{\mathord\sim}% for \sim as set name rather than relation operator - fixes spacing
 %
 %
 %
@@ -22,6 +33,11 @@
 \newtheorem{clm}{Claim}[section]
 \theoremstyle{definition}
 \newtheorem{dfn}{Definition}[section]
+%
+%
+%
+\newcolumntype{S}{>{\hsize=.6\hsize\linewidth=\hsize}X}% for tabularx package - may only use with one L columntype per ss 4.2-4.4 of package docs
+\newcolumntype{L}{>{\hsize=1.4\hsize\linewidth=\hsize}X}% for tabularx package - may only use with one S columntype per ss 4.2-4.4 of package docs
 %
 %
 %
@@ -52,14 +68,88 @@
 %
 %
 %
-\section{Version 1.0.0-alpha}
-\label{s:valpha}
+\section{Context}
+\label{s:cont}
+\lipsum[1][1-3]
+
+At this point, the following is proposed as a useful sketch of evidence used in historical reasoning.\footnote{Assume non-monotonic reasoning. Assume clean boundary between work and non-work things, for \mention{work} as \code{frbr:work} \sout{or \code{ioa:information content entity}} and \mention{thing} as \code{bfo:thing}. Do not assume clean break between evidence and product, for \mention{evidence} as \code{?\_0} and \mention{product} as \code{?\_1}. In the diagram we imagine first \(\alpha_0=\Gamma\to W\) giving us a set of work evidence \emph{only}, with later \(\alpha_1=W\to W\) resulting in product. Eg \(a_0\) might be a Mayan scribe's recording some claim \(c_0\) on some stela (say, `king so-and-so was crowned on 13.0.0.0.0'), while \(a_1\) might be an epigrapher's using \(c_0\) to arrive at some conclusion \(c_1\) (say, `king so-and-so was crowned on 13 August 516.')}% we want ?_0 evidence to be the output of some sort of minimal reasoning, and ?_1 product to require at least a bit more than minimal reasoning < 30 sep 2023 15.23
+\[
+\begin{tikzcd}
+\Gamma \ar[r,"\alpha_0"] & W\ar[loop,"\alpha_1"] % \vdash for consequence ie follows from - \models for models
+\end{tikzcd}
+\]
+
+for
+\begin{align*}
+\Gamma &= \text{set of non-work evidence,}\\
+W &= \text{set of work evidence \emph{and} product.}
+\end{align*}
+
+Now, we might further sketch \(W\) as follows.\footnote{Assume product is always work output. Then \(\Gamma\) certainly has no work in it, and has no overlap with \(W\). Rather it contains events, states of affairs, slices of spacetime, and so on, eg non-work archaeological things (eg refuse middens, eg ceramic middens, eg ceramic shards, counter-eg ceramics% ceramic midden itself  is not a work, nor would ceramic shards themself, since midden nor shard's formation seem to count as work, but the ceramic itself would count as work it seems < 30 sep 2023 15.23
+), or palaeolithic stuff (eg stalagmites).} Let \(\sim_0\) be the equivalence `is a manifestation just as' in \(W\), for \mention{manifestation} as \code{frbr:manifestation}. Then in \(\bigcup W\slash\simset_0=W_0\) we have all members of \(W\) which are manifestations, and in \(W_0^\prime\) all and only those which are not.\footnote{Eg unrecorded oral history still being realised. Note \(\sim_0\) might not actually be an equivalence, given how hazy \code{frbr:manifestation} is, and likewise for \(\sim_1,\ldots,\sim_3\).} Further, let \(\sim_1,\ldots,\sim_3\) be similar equivalence relations in \(W_0\) for \mention{published}, \mention{textual}, \mention{digital} as \code{?:1}, \code{?:2}, \code{?:3}.\footnote{For non-published we have eg manuscripts; for non-textual we might read \emph{mostly} non-textual eg maps, recordings, paintings; for non-digital we might understand manifestations with no digital item eg undigitised books, and for digital we would of course include born-digital.} Then in \(W_1\) we have all members of \(W_0\) which are published manifestations, and in \(W_1^\prime\) all and only those which are not, and so on. Lastly, let \(\sim_4,\sim_5\) be similar equivalence relations in \(W_1\) for \mention{historical}, \mention{official} as \code{?:4}, \code{?:5}. % maybe just allow all \sim_i for i>0 to not be equivalences ? seems like we only need \sim_0 as equivalence < 30 sep 2023 15.23
+Then in \(W_4\) we have all members of \(W_1\) which are historical publications, and in \(W_4^\prime\) all and only those which are not, and so on.\footnote{Eg published books, articles on history or by historians in \(W_4\), and published papers, reports by Crown or parliament in \(W_5\).}
+
+The following is a similar sketch.
+\begin{verbatim}
+level - set
+0 - thing
+1 - thing > work
+1 - thing > non-work
+2 - thing > work > manifestation
+2 - thing > work > non-manifestation
+3 - thing > work > manifestation > published
+3 - thing > work > manifestation > non-published
+3 - thing > work > manifestation > textual
+3 - thing > work > manifestation > non-textual
+3 - thing > work > manifestation > digital
+3 - thing > work > manifestation > non-digital
+4 - thing > work > manifestation > published > historical
+4 - thing > work > manifestation > published > non-historical
+4 - thing > work > manifestation > published > official
+4 - thing > work > manifestation > published > non-official
+\end{verbatim}
+
+Now, given rough sketches of \(\Gamma\) and \(W\), we might move to sketching \(\alpha_0\) and \(\alpha_1\) as follows.\footnote{Where \(\alpha_{-1} = \Gamma\to\Gamma\), eg the witnessing of an event% this process needs to be more fully worked out but seems fitting at 30 sep 2023 15.23
+. This sketch was made clearer by the \mention{continuum} or \mention{participation} model of scientific communication, which was brought to mind by Oliver Lugg.%ie back-and-forth transmission of science along intra-specialist -> inter-specialist -> pedagogical -> popular -> public audiences - seen 22 sep 2023 in belmopan at mark 1.36.12 of the `Mass Extinction Debates' YouTube video by Lugg
+}
+\begin{align*}
+\alpha_{-1_0} &= \text{Mayan king witnesses his coronation} \\% \Gamma to \Gamma
+\alpha_{0_0} &= \text{King informs scribe of coronation} \\% \Gamma to W given intentional utterance ie thing > work > non-manifestation
+\alpha_{1_0} &= \text{Scribe records the coronation}\\% W to W but now work > non-manifestation to work > manifestation
+\alpha_{1_1} &= \text{Epigraphist decodes coronation record}\\% eg gets `king was crowned on 13.0.0.0.0.0'
+\alpha_{1_2} &= \text{Epigraphist translates decoded record}\\% eg gets `king was crowned on 13 Jan 605 Julian'
+\alpha_{1_3} &= \text{Mayanist uses translated record to make claim}\\% eg gets `he was the n-th king of Caracol'
+\alpha_{1_4} &= \text{Historian uses Mayanist claim to make claim}\\% eg gets `Caracol had at least n kings'
+\alpha_{1_5} &= \text{Reviewer uses historical claim to make claim}\\% eg gets `the Mayan Lowlands had some p>>n kings'
+\alpha_{1_6} &= \text{Professor uses reviewed claim to make claim}\\
+\alpha_{1_7} &= \text{Journalist uses professorial claim to make claim}
+\end{align*}
+
+It seems each \(\alpha_i\) here introduces non-insignificant error into the stream. % eg loss or gaps or ommissions, distortions or inaccuracies or gluts or biases, so on - eg epigraphist gives 2 distinct translations, then Mayanist uses one for his claim, except the other may not have licensed his claim so well, etc
+Further, it seems it would take much time and effort to trace the path back to the scribe's record, eg from the journalist's publication, in case one wanted to, say, fact check the journalistic claim or reasoning. It might prove useful, then, to bridge the \(\alpha_1\) path.% eg to specialists just for ease of reference ie not much gain for them - but to non-specialists and non-historians and broader public it would provide more than just ease of use ie very gainful for them - there should be more to observe / better point to make here it seems 30 sep 2023 16.16
+
+One way this has historically been done within \(W_1\) is chronicles, ie chronological narratives of events, eg Peter Martyr's \titleit{Decades}. % ie in thing > work > manifestation > published - the 1516 Decades, for our area of interest
+Of the same sort are calendars, catalogues, compendia, dictionaries, gazetteers, and the like, all of which are herein deemed \mention{series}.% this part seems to need a transition 30 sep 2023 17.12 - and a better sketch of what are and are not series 30 sep 2023 23.04
+
+Table~\ref{t:series} lists those series which seem most useful to historical reasoning and dissemination or communication, and so desirable to have in version 1.0.0.
+\input draft-tab% may want more local `Noted' examples for last col of this table eg Burdon's Archives, the like 30 sep 2023 22.44 - and may want separate \mention command for numbers to not italicise them ? 30 sep 2023 20.34
+%
+%
+%
+\section{Presentation}
+\label{s:pres}
+\lipsum[2]
+% sketch of all data series across all versions as one graph, possy in work/aug-22, as this will be used in supplement section for semver versioning 30 sep 2023 22.57
+%
+%
+\subsection{Version 1.0.0}
+\label{ss:ver1}
 \lipsum[1-3]
 %
 %
 %
-\section{Version 1.0.0}
-\label{s:vfirst}
+\subsection{Version 0.n.0}
+\label{ss:ver0}
 \lipsum[1-3]
 %
 %
@@ -70,13 +160,20 @@
 %
 %
 %
-\input draft-tab % dummy table
-%
-%
-%
+% \appendix - this is a command not environment - needed ? place before acknowledgements ? before refs ?
 \section*{Supplements}
 \label{s:supp}
 \lipsum[1][1-3]
+\subsection{Versioning}
+For \href{https://semver.org}{\code{semver 2.0.0}}, as interpreted for data by xx, we have the following versioning.% need semver interpretation for data esp non-machine readable data before we can use sep-23/draft0-s-7-sources.tsv to fill out this versioning section 30 sep 2023 22.21
+\begin{enumerate}
+\item semantic version 1.0.0, previously version 1.5, that dataset described in section \ref{ss:ver1}, immediately preceded (possibly with alpha's and rc's) by 0.r.s for \(\text{p}<\text{r}\) and \(0\leq\text{s}\),
+\item semantic versions 0.p.q to 0.r.s,
+\item semantic version 0.n.0 for \(0<\text{n}\), % possy 99 < n << 0
+previously version 1.4, that dataset described in section \ref{ss:ver0}, immediately followed (possibly with alpha's and rc's) by 0.p.q for \(\text{n}<\text{p}\) and \(0\leq\text{q}\),
+\item semantic versions \ldots,
+\item semantic version 0.0.0, that dataset xx.% eg first tsv file ? first tsv file group ? gotta find semver interpretation for data
+\end{enumerate}
 %
 %
 %

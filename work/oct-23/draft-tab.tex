@@ -1,13 +1,29 @@
-\begin{table}% \centering not needed for amsart documentclass
-\caption{\lipsum[1][1]}% must top table for amsart
-\label{t:dummy}% should follow caption for amsart
-\begin{tabularx}{\textwidth}{clllXX}
+\begin{table}[h]% \centering not needed for amsart documentclass
+\caption{Series which would prove useful in version 1.0.0 or a later version.}% must top table for amsart
+\label{t:series}% should follow caption for amsart
+\begin{tabularx}{\textwidth}{lScL}
 \toprule
-*id & filepath & source & manip & output & notes\\
+series & of & 1.0.0 & note\\
 \midrule
-900 & lorem & id:gibbs & para & claim bz settled in 1638 by baymen & source is possible\\
-\hline
-900 & lorem & id:gibbs & para & claim bz settled in 1638 by baymen & source is possible\\
+calendar & records in significant or major collections & yes & Known major records collections include some in the AGI, ARS, TNA. Noted calendars include Burdon's \titleit{Archives}, the \titleit{CSP}, the \titleit{CDI}.\\
+calendar & records in minor collections & no & Various identified in historical literature and version 0.n.0. Some catalogued. Noted calendars include \emph{some} of the Camden Series.\\
+calendar & rare literature & no & Rare literature includes rare books, scarce periodicals. Noted calendars include \emph{some} of the Camden Series.\\
+catalogue & historical literature & yes & Noted catalogues include xx.\\
+catalogue & non-historical literature & no & Non-historical literature includes eg archaeological, geographical literature. Noted catalogues include xx.\\
+catalogue & official literature & no & Official literature includes eg Crown reports, parliamentary papers. Noted catalogues include xx.\\
+catalogue & non-official literature & no & Non-official literature includes eg press. Noted catalogues include xx.\\
+catalogue & manuscripts & yes & Noted catalogues include xx.\\
+chronicle & pre-Columbian events & may & Noted chronicles include xx.\\
+chronicle & Columbian events & yes & Noted chronicles include xx.\\
+compendium & pre-statistical or historical statistics & yes & Noted compendia include the \titleit{BHS}, the \titleit{HSUS}.\\
+compendium & statistical or modern statistics & yes & Noted compendia include xx.%for modern as in 19th to 20th cent
+\\
+dictionary & identities of natural persons & may & Noted dictionaries include Oxford's \titleit{DNB}, the RAH's \titleit{DBE}.\\
+dictionary & identities of non-natural persons & no & Noted dictionaries include xx.\\
+gazetteer & identities of natural points or shapes & no & Noted gazetteers include Enciso's \titleit{Suma de Geographia}.\\
+gazetteer & identities of non-natural points or shapes & may & Noted gazetteers include xx.\\
 \bottomrule
+\addlinespace[\belowrulesep]% suggested by booktabs package
+\multicolumn{4}{p{\textwidth}}{\tabnote{Header row---\mention{1.0.0} is version 1.0.0. First column---\mention{calendar} includes \emph{both} those which describe or summarise items or their contents \emph{and} those which further transcribe or translate their contents; \mention{catalogue} includes bibliographies and the like; \mention{compendium} includes statistical series, digests, and the like; \mention{dictionary} includes directories and the like; \mention{gazetteer} includes geographical dictionaries, pilots, maps, atlases, and the like. Second column---append `of use to historical reasoning' to all entries, and read \mention{literature} as publications. Third column---\mention{may} is maybe or perhaps. Fourth column---\mention{notable} as in relatively salient to the author during the building of version 0.n.0.}}
 \end{tabularx}
 \end{table}
