@@ -1,0 +1,23 @@
+\section{Dummy}
+\label{s:dummy}
+\lipsum[5][1-3]
+
+At this point, the following is proposed as a useful sketch.
+\[
+\begin{tikzcd}
+\Gamma\ar[r,"\alpha_0"] & W\ar[in=60,out=0,loop,"\alpha_1"]
+\end{tikzcd}
+\]
+for
+\begin{align*}
+\Gamma &= \text{set of non-work things,}\\% apparently commas, periods ought to be in text mode unless part of maths expression
+\alpha_i &= \text{process,}\\
+W &= \text{set of work things.}
+\end{align*}
+Here, consider \(\Gamma\) and \(W\) disjoint, and read \mention{work} and \mention{thing} as \code{frbr:work} and \code{bfo:entity}, respectively. A simple example of this sketch follows.\footnote{Here, let \(\alpha_{-1}\) be a \(\Gamma\to\Gamma\) process, and consider \(\gamma_i\) and \(w_i\) members of \(\Gamma\) and \(W\), respectively.}
+\[
+\begin{tikzcd}
+\gamma_0\ar[r,"\alpha_{-1}"] & \gamma_1\ar[r,"\alpha_0"] & w_0\ar[r,"\alpha_{1_0}"] & w_1\ar[r,"\alpha_{1_1}"] & w_2\ar[r,"\alpha_{1_2}"] & \ldots\ar[r,"\alpha_{1_n}"] & w_{n+1}
+\end{tikzcd}
+\]
+Here, consider \(\gamma_0\) an event, \(\gamma_1\) a mental representation, \(w_0\) an utterance, and \(w_i\) written claims, for \(0<i\). For instance, say we have a Mayan king's coronation for \(\gamma_0\). The king's witnessing his coronation would naturally be our \(\alpha_{-1}\) process, and his resulting mental representation of the affair would be our \(\gamma_1\). If he were then to verbally inform a scribe of the coronation, say to commission a stela, we would now have the king's utterance for \(w_0\), and his forming that from memory would count as our \(\alpha_0\) process. Obediently, the scribe records the account he was given of the king's coronation in a stela, thereby giving us our first written claim \(w_1\), arrived at via \(\alpha_{1_0}\), say, the scribe's recalling the details and inscribing them. If, much later, an epigraphist were to decode and translate the stela, we would now further have \(w_2\) and \(w_3\), the former being an account of the coronation in Mayan, and the latter in English. And so on.

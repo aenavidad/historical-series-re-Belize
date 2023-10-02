@@ -4,15 +4,14 @@
 %
 %
 % use only CTAN packages ? - amsthm, amsmath, amsfonts loaded  via amsart documentclass
+% for tabes - csvsimple-l3 (for table import) seems only worthwhile for long tables - threeparttable (for table footers) seems to change spacing a little bit
 \usepackage{array}% prereq of tabularx package so already loaded via that - apparently good practice to explicitly load nonetheless
 \usepackage{amssymb}% for more ams symbols - may not need ?
 % \usepackage[UKenglish]{babel}% for english variant
 \usepackage{booktabs}% for table style
-% \usepackage{csvsimple-l3}% for tables
 \usepackage[shortlabels]{enumitem}% for lists
 \usepackage{lipsum}% for dummy text
 \usepackage{tabularx}% for table spacing
-\usepackage{threeparttable}% for table footers
 \usepackage{tikz-cd}% tikz derivative - for diagrams
 \usepackage[normalem]{ulem}% for strikethrough
 % \usepackage{xcolor}% for colours
@@ -26,13 +25,28 @@
 \newcommand{\mention}[1]{\textit{#1}}% for mentioned rather than used terms - avoids formatting in document
 \newcommand{\tabnote}[1]{\footnotesize{#1}}% for macgyvered last-row-multicolumn table notes - avoids formatting in document
 \newcommand{\simset}{\mathord\sim}% for \sim as set name rather than relation operator - fixes spacing
+\newcommand{\powerset}{\raisebox{.15\baselineskip}{\Large\ensuremath{\wp}}}% for \powerset - avoids formatting in document
 %
 %
-%
-\theoremstyle{definition}% needed ?
-\newtheorem{clm}{Claim}[section]
+% the theorem styles below are general
+\theoremstyle{plain}
+\newtheorem{claim}{Claim}[section]
 \theoremstyle{definition}
-\newtheorem{dfn}{Definition}[section]
+\theoremstyle{remark}
+\newtheorem*{note}{Note}
+%
+%
+%
+% the theorem styles below are specially for a supplementary glossary
+\swapnumbers% numbers in left instead of right
+\theoremstyle{definition}
+\newtheorem{term}{Term}[subsection]% definitions and elucidations - a sort of subsubsection for the glossary
+\theoremstyle{remark}
+\newtheorem*{term-elun}{Elucidation}
+\newtheorem*{term-type}{Type}
+\newtheorem*{term-note}{Remark}
+\newtheorem*{term-eg}{Examples}
+\newtheorem*{term-ceg}{Counter-examples}
 %
 %
 %
@@ -68,9 +82,20 @@
 %
 %
 %
+\input draft-sec
+%
+%
+%
+%
+%
 \section{Context}
 \label{s:cont}
 \lipsum[1][1-3]
+% sx of this section - edit this section to have the following sx per 1 oct 2023 13.15
+% 1 - start w a short first-pass sketch of \Gamma\to W\loop, just enough to make 2 intelligible
+% 2 - present sketch of \alpha_{-1} to \alpha_{1} transmission of information, and leave space for salient observations on this model
+% 3 - may move to s:pres - *now* present a more thorough sketch of \Gamma\to W\loop, and in this case we need enough clarity to understand or see the series to be described in 4
+% 4 - may move to s:pres - present and explain each series formally as a graph, and elucidate their subjects using the sketch from no 3
 
 At this point, the following is proposed as a useful sketch of evidence used in historical reasoning.\footnote{Assume non-monotonic reasoning. Assume clean boundary between work and non-work things, for \mention{work} as \code{frbr:work} \sout{or \code{ioa:information content entity}} and \mention{thing} as \code{bfo:thing}. Do not assume clean break between evidence and product, for \mention{evidence} as \code{?\_0} and \mention{product} as \code{?\_1}. In the diagram we imagine first \(\alpha_0=\Gamma\to W\) giving us a set of work evidence \emph{only}, with later \(\alpha_1=W\to W\) resulting in product. Eg \(a_0\) might be a Mayan scribe's recording some claim \(c_0\) on some stela (say, `king so-and-so was crowned on 13.0.0.0.0'), while \(a_1\) might be an epigrapher's using \(c_0\) to arrive at some conclusion \(c_1\) (say, `king so-and-so was crowned on 13 August 516.')}% we want ?_0 evidence to be the output of some sort of minimal reasoning, and ?_1 product to require at least a bit more than minimal reasoning < 30 sep 2023 15.23
 \[
@@ -136,10 +161,59 @@ Table~\ref{t:series} lists those series which seem most useful to historical rea
 %
 %
 %
+%
+%
 \section{Presentation}
 \label{s:pres}
-\lipsum[2]
 % sketch of all data series across all versions as one graph, possy in work/aug-22, as this will be used in supplement section for semver versioning 30 sep 2023 22.57
+% we're going to fulfil tasks 3 and 4 from s:cont notes here ie -
+% 3 - may move to s:pres - *now* present a more thorough sketch of \Gamma\to W\loop, and in this case we need enough clarity to understand or see the series to be described in 4
+% 4 - may move to s:pres - present and explain each series formally as a graph, and elucidate their subjects using the sketch from no 3
+% we might further want the series table in this section, maybe as text rather than a table.
+We would now like a sketch of \mention{series}. A desirable sketch would be as simple as possible while nonetheless subsuming all and only those things we would like to count as series, both now and in the near future. So say a series is a pair \(S=(G,M)\) as follows.
+\begin{align*}
+S &= (G,M)\\
+G &= (V,E)\\
+V &= \{v_0,\ldots,v_k\}\text{ for labelled vertices }v_i\text{ and }0<k\\% functionally just finite strings ie datapoints
+E &= \{e_0,\ldots,e_m\}\text{ for labelled edges }e_i\text{ and }0<m\\% functinally e_i = (l,v_i,v_j) ie the label = finite string, start point, end point
+M &= \{m_0,\ldots,m_n\}\text{ for strings }m_i\text{ and }0\leq n% so allowed to be empty - this could be more complex eg strings and labelling functin to G and its subsets
+\end{align*}
+Here is one way to see \(S\). Say \(T\) is the set of finite, non-empty strings from a finite, non-empty alphabet. % so we have countable T
+Eg we might have countable \(T=\{\langle 0\rangle,\langle 1\rangle,\langle 00\rangle,\langle 01\rangle,\ldots\}\) for the alphabet composed of symbols `0' and `1' only. Of course, a more fitting \(T\) would be one for Unicode characters. Then we might identify each vertex \(v_i\) with its label, and since the latter is just some \(t_j\) in some appropriate \(T\), we would have \(v_i=t_j\), and so \(V\subset T\). % proper subset
+Similarly, we might imagine each edge \(e_i\) as a pair \(e_i=(t_j,(v_k,v_m))\) for label \(t_i\), edge start \(v_k\), and edge end \(v_m\), and so we would have \(E\subset T\times V^2\). Finally, as each \(m_i\) is just a string, we would have \(m_i=t_j\) and so \(M\subset T\).
+
+We would now like to test the sketch. Consider Table~\ref{t:example}.
+\begin{table}[h]% \centering not needed for amsart documentclass
+\caption{\lipsum[1][1]}% must top table for amsart
+\label{t:example}% should follow caption for amsart
+\begin{tabularx}{\textwidth}{ccrrrX}
+\toprule
+id & year & start & value0 & value1 & note\\
+\midrule
+a000 & cal & 1 Jan 1630 & 13L3d0s & 1,000 & value0 via the KJB p 7, but disputed in KJB p 10\\
+a001 & fis & 1 Mar 1630 & 13L3d0s & 970 & \lipsum[1][3]\\
+\bottomrule
+\addlinespace[\belowrulesep]% suggested by booktabs package
+\multicolumn{6}{p{\textwidth}}{\tabnote{Sheet started on 1 oct 2021 in cambridge, ma. value0 via KJB pp 7-13, value1 via Wallace tab 3.}}
+\end{tabularx}
+\end{table}
+Though there are a number of ways of translating such a table into a series, what matters to us is that there is some satisfactory and easy-enough translation. And we would like such an algorithm to exist, at least in concept, for any of our sources, including blocks of text.% more text goes here - we may want to revise this - we want to have a principled way of translating blocks of text and tables into graphs ie into series, as this is what we'll be focussing on from hereon out - and we need this sort of transformation in order to version everything else - perhaps we should focus on that for now 1 oct 2023 19.18 - furthermore, notet that *all* historical examples of series ought to count as series inc Burdon's archives, CSP, CDI, atlases, maps, even pictures and so one, so we need our concept of *series* to subsume them, and so we ought to have (i) general series subsuming any possible concept of series, (ii) formal series which is the shape our data will take ie graphs or graphs of graphs, in which case we need some princpled way of translating (i) to (ii), possibly via tables. 1 oct 2023 19.22 - though in the case of versioning, we ought to only include *structured* series so we have (i) series simpliciter subsuming all possible series, (ii) structured series including only *some* series eg human-readable tables (iii) graphical series ie a subset of structured series which meets further conditions eg having lots of metadata, being machine-readable, etc.
+
+\lipsum[1]
+
+We would now like a sketch of \mention{series}. We say a series is a graph \(G\) as follows.\footnote{That is, \(V=\{0,\ldots,m\}\), \(E=\{0,\ldots,n\}\), and \(d\colon E\to\powerset(V^2)\), for \(0<m,n\). By \mention{function} we mean total unary function. For the further avoidance of doubt---let a total unary function \(f\colon A\to B\) be a partial unary function \(g\colon A\to B\) where, for any \(a\) in \(A\), there is at least one \(b\) in \(B\) such that \(f(a)=g(a)=b\); let a partial unary function \(g\colon A\to B\) be a binary relation \(\sim\) on \(A,B\) where, for any \(a\) in \(A\), if \(a\sim b_i\) and \(a\sim b_j\) then \(b_i=b_j\), which is to say, if \(g(a)=b_i\) and \(g(a)=b_j\), then \(b_i=b_j\); let a binary relation \(\sim\) on \(A,B\) be \(\simset\subseteq A\times B\).}
+\begin{align*}
+G &= (V, E, d)\\% ie a 3-tuple
+V &= \{0,\ldots,m\}\text{ for } 0<m\\
+E &= \{0,\ldots,n\}\text{ for } 0<m\\
+d &\subseteq E\times\powerset(V\times V)\\
+d(e) &=\begin{cases}
+\{(v_{i_0},v_{j_0}),\ldots,(v_{i_n},v_{j_n})\} & \text{if}\\
+\{\} & \text{else}
+\end{cases}
+\end{align*}
+where for \(d\colon E\to\powerset(V\times V)\), \(d(e)=x\) if xx, else xx.
+%
 %
 %
 \subsection{Version 1.0.0}
@@ -154,9 +228,13 @@ Table~\ref{t:series} lists those series which seem most useful to historical rea
 %
 %
 %
+%
+%
 \section{Conclusion}
 \label{s:conc}
 \lipsum[1]
+%
+%
 %
 %
 %
@@ -164,7 +242,72 @@ Table~\ref{t:series} lists those series which seem most useful to historical rea
 \section*{Supplements}
 \label{s:supp}
 \lipsum[1][1-3]
+\subsection{Terms}
+\label{ss:terms}
+This is a non-alphabetical glossary of terms of interest to us. This is not a controlled vocabulary, though that would prove more useful. As such, terms are elucidated rather than strictly defined. We generally follow \href{https://www.ebi.ac.uk/ols4/ontologies/bfo}{\code{bfo}} and \href{https://www.ebi.ac.uk/ols4/ontologies/iao}{\code{iao}}, with deviations noted.
+%
+%
+%
+\begin{term}[Entity]
+\label{term:entity}
+An \href{http://purl.obolibrary.org/obo/BFO_0000001}{\code{bfo:entity}}.
+\begin{term-note}
+Is primitive. Is meant to subsume all instances in reality % bfo guide = `tracks instances in reality in a way that'
+and all universals in reality and nothing else. Is primitive. Is not fully elucidated.\footnote{\code{bfo} categories not specified for universals nor for instances not subject to study nor for instances not touching human endeavour.} % in bfo particular = instance, universal = type, category is a universal
+Has associated claims.\footnote{\code{bfo} claim entities are either particulars or universals, and claim no entity is both a particular and a universal.}
+\end{term-note}
+\end{term}
+%
+%
+%
+\begin{term}[\(T\)]
+\label{term:t}
+The class of \href{http://purl.obolibrary.org/obo/BFO_0000001}{\code{bfo:entities}}.% but does bfo include abstract things eg frbr:works?
+\begin{term-note}
+This is meant to include at least all those things of interest to us in this paper. So it ought to include run-of-the-mill extended things, but also, it seems, abstract things like events, oral history, speleothems, utterances, writings, performances, statistics (are these like temperature?).
+\end{term-note}
+\end{term}
+%
+%
+%
+\begin{term}[\(W\)]
+\label{term:w}
+The subclass of \(T\) with \sout{\code{frbr:works}} \href{http://purl.obolibrary.org/obo/IAO_0000030}{\code{iao:information content entities}} ie \code{iao:ices} \sout{and \href{http://purl.obolibrary.org/obo/IAO_0000015}{\code{ioa:information carriers}} and \href{http://purl.obolibrary.org/obo/IAO_0000178}{\code{iao:material information bearers}}}.% not of ioa:information content entities as some frbr:works might not be ioa:ice's ?
+\begin{term-note}
+Clean or sharp bounds for \(W\) within its container class may be useful to us. It seems it would take a bit of work to carve out such a clean shape for \(W\) though, at least with \code{frbr}.% eg ceramic midden vs shards vs ceramics themselves
+\end{term-note}
+\begin{term-note}
+Current elucidation seems to include more than we would like. Eg DNA sequences are \code{bfo:generically dependent continuants} which might be \code{iao:information content entities} unless they do not hold \code{iao:is about} to some \code{bfo:entity}, except that DNA sequences \emph{do} seem to hold \code{is about} to entities eg proteins.
+\end{term-note}
+\begin{term-note}
+Current elucidation seems to exclude some things we would like. Eg unrecorded oral history, but see \href{https://hal.science/hal-03484145}{hal:03484145} for possible fix.
+\end{term-note}
+\begin{term-type}[\sout{\(W_{\text{man}}\)}]
+\sout{The subclass of \(W\) with \code{frbr:manifestations}.}
+\begin{term-type}[\(W_{\text{pub}}\)]
+The subclass of \sout{\(W_{\text{man}}\)} \(W\) with published \sout{\code{frbr:manifestations}} \code{iao:ices}.
+\end{term-type}% for pub
+\end{term-type}% for man
+\end{term}
+%
+%
+%
+\begin{term}[Series]
+\label{term:series}
+An \code{frbr:work} which is in \(W_n\). % refine this defn after filling in term:w - 1 oct 2023 21.53
+ May be characterised by extent of structure (a bit vs a lot), by machine-readability (is vs is not machine-readable), by location of subject matter (subject in \(\Gamma\) vs in \(W\)). % for W_n = scholarly published works with manifestations
+\begin{term-type}[Structured]
+A series which is trivially transformable into an \(m\times n\) table for \(1<m\) columns and \(0<n\) rows. For instance, any series may be trivially transformed into a \(1\times 1\) table without much effort. On the other hand, any may be \emph{non}-trivially transformed into a \(m\times n\) table for \(1<m\) and \(0<n\). Take the first decade in Martyr's \titleit{Decades}. We might have this as a \(1\times 1\) table with a single datapoint containing the entire decade. Alternatively, since the decade is split into 10 books, we could have a \(2\times 10\) table with the first column naming the book, and the second giving the corresponding portion of the decade. And so on. In which case, we cannot trivially transform Martyr's first decade into the required table. On the other hand, we may trivially transform the \titleit{CSP} into one such, namely a \(2\times n\), with the first column indexing the paper (eg providing an id, creation date, creation place) and the second column describing the paper's contents. This last transformation is trivial in that this is already the format used in \titleit{CSP}.
+\begin{term-type}[Digital]
+A structured series which is machine-readable.% by which standard - eg structured data, has metadata, conforms to so-and-so standards
+\end{term-type}
+\end{term-type}
+\end{term}
+%
+%
+%
 \subsection{Versioning}
+\label{ss:versioning}
 For \href{https://semver.org}{\code{semver 2.0.0}}, as interpreted for data by xx, we have the following versioning.% need semver interpretation for data esp non-machine readable data before we can use sep-23/draft0-s-7-sources.tsv to fill out this versioning section 30 sep 2023 22.21
 \begin{enumerate}
 \item semantic version 1.0.0, previously version 1.5, that dataset described in section \ref{ss:ver1}, immediately preceded (possibly with alpha's and rc's) by 0.r.s for \(\text{p}<\text{r}\) and \(0\leq\text{s}\),
@@ -178,15 +321,17 @@ However, it might prove more practical to carve out all data since the earliest 
 %
 %
 %
+%
+%
 \section*{Acknowledgements}
 \label{s:acknow}
 \lipsum[1]
 %
 %
 %
-%
-%
 \input draft-refs % dummy refs
+%
+%
 %
 %
 %
