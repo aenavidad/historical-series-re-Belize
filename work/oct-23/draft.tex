@@ -20,6 +20,8 @@
 %
 %
 %
+%
+%
 \newcommand{\code}[1]{\texttt{#1}}% for inline code - avoids formatting in document
 \newcommand{\titleit}[1]{\textit{#1}}% for inline titles of books etc - avoids formatting in document
 \newcommand{\mention}[1]{\textit{#1}}% for mentioned rather than used terms - avoids formatting in document
@@ -28,12 +30,15 @@
 \newcommand{\powerset}{\raisebox{.15\baselineskip}{\Large\ensuremath{\wp}}}% for \powerset - avoids formatting in document
 %
 %
+%
+%
 % the theorem styles below are general
 \theoremstyle{plain}
 \newtheorem{claim}{Claim}[section]
 \theoremstyle{definition}
 \theoremstyle{remark}
 \newtheorem*{note}{Note}
+%
 %
 %
 %
@@ -49,8 +54,12 @@
 %
 %
 %
+%
 \newcolumntype{S}{>{\hsize=.6\hsize\linewidth=\hsize}X}% for tabularx package - may only use with one L columntype per ss 4.2-4.4 of package docs
 \newcolumntype{L}{>{\hsize=1.4\hsize\linewidth=\hsize}X}% for tabularx package - may only use with one S columntype per ss 4.2-4.4 of package docs
+%
+%
+%
 %
 %
 %
@@ -68,16 +77,19 @@
 \date{29 September 2023}
 \thanks{\lipsum[1][1]}% appareantly rather for research grants info
 \begin{abstract}
-\lipsum[1]
+\lipsum[1][1-6]
 \end{abstract}
 \keywords{\lipsum[1][1]}
 \maketitle
 %
 %
 %
+%
+%
 \section{Introduction}
 \label{s:intro}
-\lipsum[1-2]
+xx
+%
 %
 %
 %
@@ -89,7 +101,7 @@
 %
 \section{Context}
 \label{s:cont}
-\lipsum[1][1-3]
+xx
 % sx of this section - edit this section to have the following sx per 1 oct 2023 13.15
 % 1 - start w a short first-pass sketch of \Gamma\to W\loop, just enough to make 2 intelligible
 % 2 - present sketch of \alpha_{-1} to \alpha_{1} transmission of information, and leave space for salient observations on this model
@@ -133,8 +145,13 @@ level - set
 4 - thing > work > manifestation > published > non-official
 \end{verbatim}
 
-Now, given rough sketches of \(\Gamma\) and \(W\), we might move to sketching \(\alpha_0\) and \(\alpha_1\) as follows.\footnote{Where \(\alpha_{-1} = \Gamma\to\Gamma\), eg the witnessing of an event% this process needs to be more fully worked out but seems fitting at 30 sep 2023 15.23
-. This sketch was made clearer by the \mention{continuum} or \mention{participation} model of scientific communication, which was brought to mind by Oliver Lugg.%ie back-and-forth transmission of science along intra-specialist -> inter-specialist -> pedagogical -> popular -> public audiences - seen 22 sep 2023 in belmopan at mark 1.36.12 of the `Mass Extinction Debates' YouTube video by Lugg
+Now, given rough sketches of \(\Gamma\) and \(W\), we might move to sketching \(\alpha_0\) and \(\alpha_1\) as follows.\footnote{Where \(\alpha_{-1} = \Gamma\to\Gamma\), eg the witnessing of an event. %
+%
+% this process needs to be more fully worked out but seems fitting at 30 sep 2023 15.23
+%
+This sketch was made clearer by the \mention{continuum} or \mention{participation} model of scientific communication, which was brought to mind by Oliver Lugg.%
+%
+% ie back-and-forth transmission of science along intra-specialist -> inter-specialist -> pedagogical -> popular -> public audiences - seen 22 sep 2023 in belmopan at mark 1.36.12 of the `Mass Extinction Debates' YouTube video by Lugg
 }
 \begin{align*}
 \alpha_{-1_0} &= \text{Mayan king witnesses his coronation} \\% \Gamma to \Gamma
@@ -198,7 +215,7 @@ a001 & fis & 1 Mar 1630 & 13L3d0s & 970 & \lipsum[1][3]\\
 \end{table}
 Though there are a number of ways of translating such a table into a series, what matters to us is that there is some satisfactory and easy-enough translation. And we would like such an algorithm to exist, at least in concept, for any of our sources, including blocks of text.% more text goes here - we may want to revise this - we want to have a principled way of translating blocks of text and tables into graphs ie into series, as this is what we'll be focussing on from hereon out - and we need this sort of transformation in order to version everything else - perhaps we should focus on that for now 1 oct 2023 19.18 - furthermore, notet that *all* historical examples of series ought to count as series inc Burdon's archives, CSP, CDI, atlases, maps, even pictures and so one, so we need our concept of *series* to subsume them, and so we ought to have (i) general series subsuming any possible concept of series, (ii) formal series which is the shape our data will take ie graphs or graphs of graphs, in which case we need some princpled way of translating (i) to (ii), possibly via tables. 1 oct 2023 19.22 - though in the case of versioning, we ought to only include *structured* series so we have (i) series simpliciter subsuming all possible series, (ii) structured series including only *some* series eg human-readable tables (iii) graphical series ie a subset of structured series which meets further conditions eg having lots of metadata, being machine-readable, etc.
 
-\lipsum[1]
+xx
 
 We would now like a sketch of \mention{series}. We say a series is a graph \(G\) as follows.\footnote{That is, \(V=\{0,\ldots,m\}\), \(E=\{0,\ldots,n\}\), and \(d\colon E\to\powerset(V^2)\), for \(0<m,n\). By \mention{function} we mean total unary function. For the further avoidance of doubt---let a total unary function \(f\colon A\to B\) be a partial unary function \(g\colon A\to B\) where, for any \(a\) in \(A\), there is at least one \(b\) in \(B\) such that \(f(a)=g(a)=b\); let a partial unary function \(g\colon A\to B\) be a binary relation \(\sim\) on \(A,B\) where, for any \(a\) in \(A\), if \(a\sim b_i\) and \(a\sim b_j\) then \(b_i=b_j\), which is to say, if \(g(a)=b_i\) and \(g(a)=b_j\), then \(b_i=b_j\); let a binary relation \(\sim\) on \(A,B\) be \(\simset\subseteq A\times B\).}
 \begin{align*}
@@ -217,13 +234,13 @@ where for \(d\colon E\to\powerset(V\times V)\), \(d(e)=x\) if xx, else xx.
 %
 \subsection{Version 1.0.0}
 \label{ss:ver1}
-\lipsum[1-3]
+xx
 %
 %
 %
 \subsection{Version 0.n.0}
 \label{ss:ver0}
-\lipsum[1-3]
+xx
 %
 %
 %
@@ -231,7 +248,8 @@ where for \(d\colon E\to\powerset(V\times V)\), \(d(e)=x\) if xx, else xx.
 %
 \section{Conclusion}
 \label{s:conc}
-\lipsum[1]
+xx
+%
 %
 %
 %
@@ -240,10 +258,16 @@ where for \(d\colon E\to\powerset(V\times V)\), \(d(e)=x\) if xx, else xx.
 % \appendix - this is a command not environment - needed ? place before acknowledgements ? before refs ?
 \section*{Supplements}
 \label{s:supp}
-\lipsum[1][1-3]
+xx
+%
+%
+%
+%
 \subsection{Terms}
 \label{ss:terms}
 This is a non-alphabetical glossary of terms of interest to us. This is not a controlled vocabulary, though that would prove more useful. As such, terms are elucidated rather than strictly defined. We generally follow \href{https://www.ebi.ac.uk/ols4/ontologies/bfo}{\code{bfo}} and \href{https://www.ebi.ac.uk/ols4/ontologies/iao}{\code{iao}}, with deviations noted.
+%
+%
 %
 %
 %
@@ -252,7 +276,10 @@ This is a non-alphabetical glossary of terms of interest to us. This is not a co
 An \href{http://purl.obolibrary.org/obo/BFO_0000001}{\code{bfo:entity}}.
 \begin{term-note}
 Primitive. Meant to subsume all instances in reality % bfo guide = `tracks instances in reality in a way that'
-and all universals in reality and nothing else, for reality as the whole made of actual space and actual time and nothing else. Is exactly one of instance or universal. Not fully elucidated.\footnote{Not fully elucidated as \code{bfo} not specified for universals nor for instances not subject to study nor for instances not touching human endeavour. % in bfo particular = instance, universal = type, reality = space + time, category is a universal, exists is xx?
+and all universals in reality and nothing else, for reality as the whole made of actual space and actual time and nothing else. Is exactly one of instance or universal. Not fully elucidated.\footnote{Not fully elucidated as \code{bfo} not specified for universals nor for instances not subject to study nor for instances not touching human endeavour. %
+%
+% in bfo particular = instance, universal = type, reality = space + time, category is a universal, exists is xx?
+%
 Partially elucidated as \code{bfo} claim entities are either particulars or universals, and claim no entity is both a particular and a universal.}
 \end{term-note}
 \begin{note}
@@ -268,11 +295,39 @@ An entity which is a type. Is not a instance. Is instantiated by instances only.
 %
 %
 %
+%
+%
 \begin{term}[Work]
 \label{term:work}
 An \href{http://purl.obolibrary.org/obo/IAO_0000030}{\code{iao:information content entity}} which \href{http://purl.obolibrary.org/obo/IAO_0000219}{\code{iao:denotes}} some instance.\footnote{Or, which was first \code{bfo:concretised} by some entity resulting from some \href{http://purl.obolibrary.org/obo/BFO_0000015}{\code{bfo:process}} where the latter \code{bfo:s-depends on} some \href{http://purl.obolibrary.org/obo/BFO_0000030}{\code{bfo:object}} which is a natural person. Or, which was created ie output by some \code{bfo:process} where the latter \ldots.}% or relate output itself directly to human person as opposed to via process ? - and may want to allow non-natural persons though might just reduce to natural ones - 2 oct 2023 06.42
 \begin{term-note}[On \code{iao:ice}]
-Derived via \href{http://purl.obolibrary.org/obo/BFO_0000031}{\code{bfo:gdc}} via \href{http://purl.obolibrary.org/obo/BFO_0000002}{\code{bfo:continuant}} from entity.\footnote{So imports as follows. An \code{iao:ice} \code{bfo:g-depends on} at least one \href{http://purl.obolibrary.org/obo/BFO_0000004}{\code{bfo:ic}}. Eg a poem (string of symbols) exists only so long as some physical copy of it exists somewhere, like as ink-on-paper or electrons-on-silicon or chemicals-in-neurons (ie the \code{iao:ice} may \mention{migrate} from copy to copy, in contrast to entities which \code{bfo:s-depend on} something, which cannot so migrate but are rather \mention{stuck} to a single copy). If an \code{iao:ice} \code{bfo:g-depends on} some \code{bfo:ic} then there is some \code{bfo:sdc} which \code{bfo:concretises} the \code{iao:ice} and which \code{bfo:s-depends on} the \code{bfo:ic}. Eg a particular physical copy of the poem (say examplar of first print in this-or-that typeface and such-and-such typesetting) xxconcretises the poem (string) and furthermore exists only so long as that particular copy does. If a \code{bfo:process} \code{bfo:has participant} \code{iao:ice}, then there is some \code{bfo:ic} which is not a \code{bfo:spatial region} such that \code{iao:ice} \code{bfo:g-depends on} it and \code{bfo:process} \code{bfo:s-depends on} it. Eg xx.} Meant to subsume xx. See \href{https://doi.org/10.3233/AO-210246}{doi:10.3233/AO-210246} for review, \href{https://hal.science/hal-03484145}{hal:03484145} for proposed extension to utterances, \href{https://ceur-ws.org/Vol-3155/short5.pdf}{ceur:v3155short5} for xx, \href{https://doi.org/10.3233/FAIA210370}{doi:10.3233/FAIA210370} for critique and proposed alternative. Not fully elucidated.\footnote{Not strictly defined as \code{iao} do not fully specify \href{http://purl.obolibrary.org/obo/IAO_0000136}{\code{iao:is about}} nor \href{http://purl.obolibrary.org/obo/IAO_0000015}{\code{iao:information carrier}}. % which relation includes non-entity things as relata eg configurations
+Derived via \href{http://purl.obolibrary.org/obo/BFO_0000031}{\code{bfo:gdc}} via \href{http://purl.obolibrary.org/obo/BFO_0000002}{\code{bfo:continuant}} from entity.\footnote{So imports as follows. An \code{iao:ice} \code{bfo:g-depends on} at least one \href{http://purl.obolibrary.org/obo/BFO_0000004}{\code{bfo:ic}}. Eg a poem (string of symbols) %
+%
+% so for ice it seems = `one` \neq `ONE' \neq `uno`
+%
+exists only so long as some physical copy of it exists somewhere, like as ink-on-paper or electrons-on-silicon or chemicals-in-neurons (ie the \code{iao:ice} may \mention{migrate} from copy to copy, in contrast to entities which \code{bfo:s-depend on} something, which cannot so migrate but are rather \mention{stuck} to a single copy). If an \code{iao:ice} \code{bfo:g-depends on} some \code{bfo:ic} then there is some \code{bfo:sdc} which \code{bfo:concretises} the \code{iao:ice} and which \code{bfo:s-depends on} the \code{bfo:ic}. Eg a visual image of some physical copy of the poem (shape ie arrangement ie pattern of black strokes and serifs on whitespace as found on 
+this-or-that copy ie examplar of the poem) %
+%
+% where if x s-depends on y then x shares no parts with y - and x cannot exist sans y
+% where if x s-depends on y and y on z then x s-depends on z - ie transitive
+% where no sdc is extended in space ie all sdc are immaterial - where an ic may be material or immaterial
+% so we have sdc = `the shape ie form of one' \neq `the shape of \textit{one}' \neq `the shape of \textcolour{red}{one}' etc (easy cases) - but also `the shape of this one' \neq `the shape of this other one' (hard cases) - seems correct per bfo guide s 3.8 pp63-64
+% and we have ic = this particular copy (electrons on silicon here) of `one' \neq that particular copy (electrons on silicon there) of `one' (easy cases) - \sout{ NO = this particular print run ie edition of `one' \neq that particular print run of `one' ? (hard cases) = NO } - factcheck 2 oct 2023 14.05
+% QUOTE = BFO QUIDE P64 = think of gdc (gdc eg the chessboard pattern, the Coca Cola logo), intuitively, as complex continuant patters (complex qualities) of the sort created by authors or designer, or (in the case of DNA sequeneces) through the processes of evolution. ... gdc exist only if concretised in some counterpart sdc (sdc eg the pattern of black and white squares on this wooden chessboard here, the patters of red and white swirls on the label of this Coca Cola bottle) ... A certain pattern (of letters of the alphabet and associated punctuation and spacing) which is a work of literature is concretized in the patterns of ink marks in this and that particular copy of the work. When you create a novel, you first of all create an s-dependent pattern of inkmarks on your manuscript, a pattern that only exists when ink marks are spread around in a certain way. In addition, you create also a particular instance of the generically dependent continuant type novel. When you print further copies in book form, then you create multiple particular instances of the independent continuant type book. = P64 GUICE BFO = QUOTE
+% ie for quote above - gdc = a string of symbols `one', sdc_0 = shape of black glyphs `o' and `n' and `e' in this screen here, sdc_1 = shape of black glyphs `o' and `n' and `e' in that screen there, such that sdc_i concretises gdc
+% ie cont for quote above - gdc as above, sdc_0 = pattern of inkmarks spread so-and-so on your manuscript, such that sdc_0 concretises gdc
+% ie cont for quote above - gdc as above, sdc_0 as above, such that sdc_0 is a particular instance of gdc
+% ie cont for quote above - gdc as above, sdc_0 as above, where sdc_0 was taken to press and n copies printed [not facsimiles] such that sdc_1 is one print copy, ... , sdc_n is one print copy, then sdc_i is a particular instance of ic for 0<i
+%
+exists only so long as that particular copy (this-or-that copy of the poem) does, and furthermore, if said physical copy were itself xeroxed (producing another copy of the poem), we would also have a copy of the visual image of the non-xeroxed copy of the poem. %
+%
+% factcheck `and furthermore, ...' part re concretises - 2 oct 2023 15.35
+% for concretises - if x g-depends on y, then there is some z which concretises x  and which s-depends on y - eg if ice poem g-deps on ic physical copy, then there is some sdc pattern which s-depends on the ic physical copy
+%
+That is, eg if we have our poem and some physical copy of it somewhere (say ink on this-or-that parchment), then we further have a depiction (arrangement of shapes and colours) which exists only so long as that very physical copy of the poem exists. If a \code{bfo:process} \code{bfo:has participant} \code{iao:ice}, then there is some \code{bfo:ic} which is not a \code{bfo:spatial region} such that \code{iao:ice} \code{bfo:g-depends on} it and \code{bfo:process} \code{bfo:s-depends on} it. Eg xx.} Meant to subsume xx. See \href{https://doi.org/10.3233/AO-210246}{doi:10.3233/AO-210246} for review, \href{https://hal.science/hal-03484145}{hal:03484145} for proposed extension to utterances, \href{https://ceur-ws.org/Vol-3155/short5.pdf}{ceur:v3155short5} for xx, \href{https://doi.org/10.3233/FAIA210370}{doi:10.3233/FAIA210370} for critique and proposed alternative. Not fully elucidated.\footnote{Not strictly defined as \code{iao} do not fully specify \href{http://purl.obolibrary.org/obo/IAO_0000136}{\code{iao:is about}} nor \href{http://purl.obolibrary.org/obo/IAO_0000015}{\code{iao:information carrier}}. % 
+%
+% which relation includes non-entity things as relata eg configurations
+%
 Partially defined as \code{iao} claim xx.}
 \end{term-note}
 \begin{term-note}[On \code{iao:denotes}]
@@ -282,6 +337,8 @@ Derived from \code{iao:is about}. Meant to subsume xx. Meant to exclude those \c
 Certain examples of---database entries input by some clerk, xx. Certain non-examples---xx. Grey cases---xx.% grey eg iao:ices which fail the iao:is_about relation eg fake news ? stories about myths ?
 \end{note}
 \end{term}
+%
+%
 %
 %
 %
@@ -307,6 +364,8 @@ A series which is about xx ie not about a work nor its concretisations nor reali
 %
 %
 %
+%
+%
 \subsection{Versioning}
 \label{ss:versioning}
 For \href{https://semver.org}{\code{semver 2.0.0}}, as interpreted for data by xx, we have the following versioning.% need semver interpretation for data esp non-machine readable data before we can use sep-23/draft0-s-7-sources.tsv to fill out this versioning section 30 sep 2023 22.21
@@ -326,7 +385,8 @@ However, it might prove more practical to carve out all data since the earliest 
 %
 \section*{Acknowledgements}
 \label{s:acknow}
-\lipsum[1]
+xx
+%
 %
 %
 %
