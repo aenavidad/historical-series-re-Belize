@@ -42,7 +42,6 @@
 \theoremstyle{definition}
 \newtheorem{term}{Term}[subsection]% definitions and elucidations - a sort of subsubsection for the glossary
 \theoremstyle{remark}
-\newtheorem*{term-elun}{Elucidation}
 \newtheorem*{term-type}{Type}
 \newtheorem*{term-note}{Remark}
 \newtheorem*{term-eg}{Examples}
@@ -252,20 +251,30 @@ This is a non-alphabetical glossary of terms of interest to us. This is not a co
 \label{term:entity}
 An \href{http://purl.obolibrary.org/obo/BFO_0000001}{\code{bfo:entity}}.
 \begin{term-note}
-Is primitive. Is meant to subsume all instances in reality % bfo guide = `tracks instances in reality in a way that'
-and all universals in reality and nothing else. Is primitive. Is not fully elucidated.\footnote{\code{bfo} categories not specified for universals nor for instances not subject to study nor for instances not touching human endeavour.} % in bfo particular = instance, universal = type, category is a universal
-Has associated claims.\footnote{\code{bfo} claim entities are either particulars or universals, and claim no entity is both a particular and a universal.}
+Primitive.\footnote{Not fully elucidated as \code{bfo} not specified for universals nor for instances not subject to study nor for instances not touching human endeavour. % in bfo particular = instance, universal = type, reality = space + time, category is a universal, exists is xx?
+Partially elucidated as \code{bfo} claim entities are either particulars or universals, and claim no entity is both a particular and a universal.} Meant to subsume all instances in reality % bfo guide = `tracks instances in reality in a way that'
+and all universals in reality and nothing else. Not fully elucidated.
 \end{term-note}
+\begin{note}
+Certain examples of---Julius Caesar, his body mass index, WWII, Verdi's \titleit{Requiem}. Certain non-examples---numbers, sets, mathematical objects, propositions ie ideal meanings. Grey cases---xx.% eg those questionably `in reality' ie questionable existence - maybe some universals, maybe holes ? - we ought to restrict examples to our own historical domain
+\end{note}
 \end{term}
 %
 %
 %
-\begin{term}[\(T\)]
-\label{term:t}
-The class of \href{http://purl.obolibrary.org/obo/BFO_0000001}{\code{bfo:entities}}.% but does bfo include abstract things eg frbr:works?
-\begin{term-note}
-This is meant to include at least all those things of interest to us in this paper. So it ought to include run-of-the-mill extended things, but also, it seems, abstract things like events, oral history, speleothems, utterances, writings, performances, statistics (are these like temperature?).
+\begin{term}[Work]
+\label{term:work}
+An \href{http://purl.obolibrary.org/obo/IAO_0000030}{\code{iao:information content entity}} ie \code{iao:ice} which is created ie output by some \code{bfo:process} where the latter \code{bfo:s-depends on} some \code{bfo:object} which is a natural person.% or relate output itself directly to human person as opposed to via process ? - and may want to allow non-natural persons though might just reduce to natural ones - 2 oct 2023 06.42
+\begin{term-note}[On \code{iao:ice}]
+Derived.\footnote{Not strictly defined as \code{iao:ice} is specified with an only partially elucidated \code{iao:is about} relation.% which relation includes non-entity things as relata eg configurations
+} Meant to subsume xx. See \href{https://doi.org/10.3233/AO-210246}{doi:10.3233/AO-210246} for review, \href{https://hal.science/hal-03484145}{hal:03484145} for proposed extension to utterances, \href{https://ceur-ws.org/Vol-3155/short5.pdf}{ceur:v3155short5} for xx, \href{https://doi.org/10.3233/FAIA210370}{doi:10.3233/FAIA210370} for critique and proposed alternative.
 \end{term-note}
+\begin{term-note}[On qualifier]% or have remarks for each part of
+Derived.\footnote{Not fully elucidated as xx.} Meant to subsume xx. Meant to exclude those \code{iao:ices} not relevant to us eg DNA sequences.
+\end{term-note}
+\begin{note}
+Certain examples of---database entries input by him, xx. Certain non-examples---xx. Grey cases---xx.% grey eg iao:ices which fail the iao:is_about relation eg fake news ? stories about myths ?
+\end{note}
 \end{term}
 %
 %
@@ -299,7 +308,7 @@ An \code{frbr:work} which is in \(W_n\). % refine this defn after filling in ter
 \begin{term-type}[Structured]
 A series which is trivially transformable into an \(m\times n\) table for \(1<m\) columns and \(0<n\) rows. For instance, any series may be trivially transformed into a \(1\times 1\) table without much effort. On the other hand, any may be \emph{non}-trivially transformed into a \(m\times n\) table for \(1<m\) and \(0<n\). Take the first decade in Martyr's \titleit{Decades}. We might have this as a \(1\times 1\) table with a single datapoint containing the entire decade. Alternatively, since the decade is split into 10 books, we could have a \(2\times 10\) table with the first column naming the book, and the second giving the corresponding portion of the decade. And so on. In which case, we cannot trivially transform Martyr's first decade into the required table. On the other hand, we may trivially transform the \titleit{CSP} into one such, namely a \(2\times n\), with the first column indexing the paper (eg providing an id, creation date, creation place) and the second column describing the paper's contents. This last transformation is trivial in that this is already the format used in \titleit{CSP}.
 \begin{term-type}[Digital]
-A structured series which is machine-readable.% by which standard - eg structured data, has metadata, conforms to so-and-so standards
+A structured series which is machine-readable.% by which standard - eg structured data, has metadata, conforms to so-and-so standards - but in some transparent way ie excluding ISBN, MARC etc catalogue stuff as the `machine readable' part
 \end{term-type}
 \end{term-type}
 \end{term}
