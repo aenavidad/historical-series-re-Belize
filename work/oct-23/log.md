@@ -24,4 +24,7 @@ file written 29 sep 2023 at 21.52 belmopan. this is a log of oct 2023 work.
     5. [x] check `pre-git-hist/events.tsv` to ensure *every* named `tsv` file with a 'created file' event prior to 4 Nov 2021 appears on `work/oct-23/draft-*files.tsv`,[^check passed]
     6. [x] see if any of the 'created file' events prior to 4 Nov 2021 described as 're pre-existing data' ought to also be included in `work/oct-23/draft-*files.tsv`,[^cross reference creation dates with those listed on 'Numbers' folder of local hard drive - which contains all `.numbers` files - check passed as all such files appear to be non-original data from third-party databases - ie no new files added to `work/oct-23/draft-*files.tsv`]
     7. [x] add versioning data in *chains* for the persons ie identities series to `work/oct-23/draft-*versioning.tsv`,
+    8. [x] repeat no 4.7 above for places ie gazetteer ie towns series,
+    9. [x] repeat no 4.7 for calendar ie cartas ie extracts series,
+    10. [x] repeat no 4.7 for sources ie catalogue ie bibliography series,[^here use `work/versioning/sources.tsv` but extend to files without varids]
 5. [ ] xx.
