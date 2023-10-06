@@ -282,10 +282,10 @@ and all universals in reality and nothing else, for reality as the whole made of
 %
 % in bfo particular = instance, universal = type, reality = space + time, category is a universal, exists is xx?
 %
-Partially elucidated as \code{bfo} claim entities are either particulars or universals, and claim no entity is both a particular and a universal.} See \href{https://doi.org/10.3233/978-1-60750-581-5-13}{doi:10.3233/978-1-60750-581-5-13} for xx.
+Partially elucidated as \code{bfo} claim entities are either particulars or universals, and claim no entity is both a particular and a universal. Purportedly further elucidated in \href{https://doi.org/10.3233/978-1-60750-581-5-13}{doi:10.3233/978-1-60750-581-5-13} ss 3--4.}
 \end{term-note}
 \begin{note}
-Certain examples of -- Julius Caesar, his body mass index, WWII, Verdi's \titleit{Requiem}. Certain non-examples -- mathematical things eg points eg numbers, propositions ie ideal meanings. Grey cases -- things with uncertain principles of identity?, spurious mereological sums?, universals of entities ie universals instantiated by universals?, things in possible worlds, xx.% eg those questionably `in reality' ie questionable existence - maybe some universals, maybe holes ? - we ought to restrict examples to our own historical domain
+Certain examples of -- Julius Caesar, his body mass index, WWII, Verdi's \titleit{Requiem}. Certain non-examples -- mathematical things eg points eg numbers, propositions ie ideal meanings, Ceuster--Manzoor configurations. Grey cases -- things with uncertain principles of identity?, spurious mereological sums?, universals of entities ie universals instantiated by universals?, things in possible worlds, xx.% eg those questionably `in reality' ie questionable existence - maybe some universals, maybe holes ? - we ought to restrict examples to our own historical domain
 \end{note}
 \begin{term-type}[Instance]
 An entity which is a particular. Is not a universal. Is not relata of \code{bfo:is a}.
@@ -301,7 +301,7 @@ An entity which is a type. Is not a instance. Is instantiated by instances only.
 %
 \begin{term}[Work]
 \label{term:work}
-An \href{http://purl.obolibrary.org/obo/IAO_0000030}{\code{iao:information content entity}} which \href{http://purl.obolibrary.org/obo/IAO_0000219}{\code{iao:denotes}} some instance.\footnote{Or, which was first \code{bfo:concretised} by some entity resulting from some \href{http://purl.obolibrary.org/obo/BFO_0000015}{\code{bfo:process}} where the latter \code{bfo:s-depends on} some \href{http://purl.obolibrary.org/obo/BFO_0000030}{\code{bfo:object}} which is a natural person. Or, which was created ie output by some \code{bfo:process} where the latter \ldots.}% or relate output itself directly to human person as opposed to via process ? - and may want to allow non-natural persons though might just reduce to natural ones - 2 oct 2023 06.42
+An \href{http://purl.obolibrary.org/obo/IAO_0000030}{\code{iao:information content entity}} which \href{http://purl.obolibrary.org/obo/IAO_0000219}{\code{iao:denotes}} some instance.\footnote{Or, which was first \code{bfo:concretised} by some entity resulting from some \href{http://purl.obolibrary.org/obo/BFO_0000015}{\code{bfo:process}} where the latter \code{bfo:s-depends on} some \href{http://purl.obolibrary.org/obo/BFO_0000030}{\code{bfo:object}} which is a natural person. Or, which was created ie output by some \code{bfo:process} where the latter \ldots. Or, which was created ie output by some \code{bfo:process} which \code{bfo:has participant} some \code{bfo:object} which is a natural person.}% or relate output itself directly to human person as opposed to via process ? - and may want to allow non-natural persons though might just reduce to natural ones - 2 oct 2023 06.42
 \begin{term-note}[On \code{iao:ice}]
 Derived via \href{http://purl.obolibrary.org/obo/BFO_0000031}{\code{bfo:gdc}} via \href{http://purl.obolibrary.org/obo/BFO_0000002}{\code{bfo:continuant}} from entity.\footnote{So imports as follows. An \code{iao:ice} \code{bfo:g-depends on} at least one \href{http://purl.obolibrary.org/obo/BFO_0000004}{\code{bfo:ic}}. Eg a poem (string of symbols) %
 %
@@ -318,14 +318,22 @@ Eg say we had our poem and some physical copy of it somewhere (say ink on this-o
 % factcheck `and furthermore, ...' part re concretises - 2 oct 2023 15.35
 % for concretises - if x g-depends on y, then there is some z which concretises x  and which s-depends on y - eg if ice poem g-deps on ic physical copy, then there is some sdc pattern which s-depends on the ic physical copy
 %
-If a \code{bfo:process} \code{bfo:has participant} \code{iao:ice}, then there is some \code{bfo:ic} which is not a \code{bfo:spatial region} such that \code{iao:ice} \code{bfo:g-depends on} it and \code{bfo:process} \code{bfo:s-depends on} it. Eg say some bard drafted our poem in this-or-that place and year, then we would have xx.} Meant to subsume xx. See \href{https://doi.org/10.3233/AO-210246}{doi:10.3233/AO-210246} for review, \href{https://hal.science/hal-03484145}{hal:03484145} for proposed extension to utterances, \href{https://ceur-ws.org/Vol-3155/short5.pdf}{ceur:v3155short5} for xx, \href{https://doi.org/10.3233/FAIA210370}{doi:10.3233/FAIA210370} for critique and proposed alternative. Not fully elucidated.\footnote{Not strictly defined as \code{iao} do not fully specify \href{http://purl.obolibrary.org/obo/IAO_0000136}{\code{iao:is about}} nor \href{http://purl.obolibrary.org/obo/IAO_0000015}{\code{iao:information carrier}}. % 
+If a \code{bfo:process} \code{bfo:has participant} \code{iao:ice}, then there is some \code{bfo:ic} which is not a \code{bfo:spatial region} such that \code{iao:ice} \code{bfo:g-depends on} it and \code{bfo:process} \code{bfo:s-depends on} it. Eg say some bard drafted our poem in this-or-that time and place, producing exactly one physical copy of it (ie the original manuscript as ink on this-or-that parchment), then our poem would exist only so long as some physical copy of it existed (the manuscript, a xerox, etc) while the bard's drafting-qua-process existed only so long as the orignal manuscript existed (that is, if that particular manuscript had not been produced, the process would have been distinct, eg producing a distinct manuscript -- even if the same poem had been produced).%
+%
+% process is an occurrent which has proper temporal parts (is not just an instant) and p s-depends on some material entity
+% so process = drafting of the poem resulting in this manuscript \neq drafting of the poem resulting in that manuscript
+%
+} Meant to subsume all \code{bfo:gdcs} which \code{iao:are about} some thing and nothing else, for thing as entity or non-entity. xx. Not fully elucidated.\footnote{Not strictly defined as \code{iao} do not fully specify \href{http://purl.obolibrary.org/obo/IAO_0000136}{\code{iao:is about}} nor \href{http://purl.obolibrary.org/obo/IAO_0000015}{\code{iao:information carrier}}. % 
 %
 % which relation includes non-entity things as relata eg configurations
 %
-Partially defined as \code{iao} claim xx.}
+Partially defined as \code{iao} claim xx. See \href{https://doi.org/10.3233/AO-210246}{doi:10.3233/AO-210246} for review, \href{https://hal.science/hal-03484145}{hal:03484145} for proposed extension to utterances, \href{https://ceur-ws.org/Vol-3155/short5.pdf}{ceur:v3155short5} for xx, \href{https://doi.org/10.3233/FAIA210370}{doi:10.3233/FAIA210370} for critique and proposed alternative.}
 \end{term-note}
 \begin{term-note}[On \code{iao:denotes}]
-Derived from \code{iao:is about}. Meant to subsume xx. Meant to exclude those \code{iao:ices} not relevant to us eg DNA sequences. Not fully elucidated.\footnote{Not fully elucidated as xx.}
+Derived from \code{iao:is about}. Meant to subsume xx. Meant to exclude those \code{iao:ices} not relevant to us eg DNA sequences. Not fully elucidated.\footnote{Not fully elucidated as xx.} See further \href{https://doi.org/10.3233/978-1-60750-581-5-13}{doi:10.3233/978-1-60750-581-5-13}.
+\end{term-note}
+\begin{term-note}
+Derived from \code{iao:ice}. Meant to subsume xx. xx. Not fully elucidated.\footnote{Not fully elucidated as xx. Partially elucidated as xx.}
 \end{term-note}
 \begin{note}
 Certain examples of -- database entries input by some clerk, xx. Certain non-examples -- xx. Grey cases -- xx.% grey eg iao:ices which fail the iao:is_about relation eg fake news ? stories about myths ?
@@ -353,7 +361,28 @@ A structured series which is machine-readable.% by which standard - eg structure
 \end{term-type}% structured
 \begin{term-type}[Empirical]
 A series which is about xx ie not about a work nor its concretisations nor realisations eg chronicle, dictionary, gazetteer, compendium.
-\end{term-type}
+\begin{term-type}[Chronicle]
+An empirical series which xx
+\end{term-type}% chronicle
+\begin{term-type}[Dictionary]
+An empirical series which xx
+\end{term-type}% dictionary
+\begin{term-type}[Gazetteer]
+An empirical series which xx
+\end{term-type}% gazetteer
+\begin{term-type}[Compendium]
+An empirical series which xx
+\end{term-type}% compendium
+\end{term-type}% empirical
+\begin{term-type}[Non-empirical]
+A series which is not an empirical series.
+\begin{term-type}[Calendar]
+A non-empirical series which xx
+\end{term-type}% calendar
+\begin{term-type}[Catalogue]
+A non-empirical series which xx
+\end{term-type}% catalogue
+\end{term-type}% non-empirical
 \end{term}
 %
 %
