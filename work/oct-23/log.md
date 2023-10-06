@@ -28,5 +28,7 @@ file written 29 sep 2023 at 21.52 belmopan. this is a log of oct 2023 work.
     9. [x] repeat no 4.7 for calendar ie cartas ie extracts series,
     10. [x] repeat no 4.7 for sources ie catalogue ie bibliography series,[^here use `work/versioning/sources.tsv` but extend to files without varids]
     11. [x] review values in `work/oct-23/draft-*files.tsv` as these will be used for versioning and provenance,
-    12. [ ] review values from 4.7-4.10 above with values from 4.11,
+    12. [x] review values from 4.7-4.10 above with values from 4.11,
+    13. [ ] repeat no 4.10 for events,
+    14. [ ] repeat no 4.10 for statistics,
 5. [ ] xx.
