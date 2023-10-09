@@ -32,4 +32,8 @@ file written 29 sep 2023 at 21.52 belmopan. this is a log of oct 2023 work.
     13. [x] repeat no 4.10 for events,
     14. [x] repeat no 4.10 for statistics,
     15. [x] review values from 4.13-4.14 with values from 4.11,
-5. [ ] xx.
+5. [x] vars updates to `draft-*.tsv`,
+6. [x] add missing `.numbers` files to `pre-git-hist/sheets`,[^namely, those files in the local `/Numbers/` ie in local disc which had `.tsv` copies in `pre-git-hist/files/` ie which were recorded in `pre-git-hist/events.tsv` but which were not yet in `pre-git-hist/sheets/` ie not in `pre-git-hist/sheets.tsv` - in the end 33 such files were committed]
+7. [x] verify all files just committed in no 6 really ought to have been committed,[^all are named in `pre-git-hist/events.tsv` it seems - from quick look through on 9 oct 2023 06.01]
+8. [x] add any local `.numbers` versions of files in no 6 above,[^if available in Numbers app, except do not add for files with 'created' and 'last-edited' values within the same day, and further do not add for files of only recycled data eg `found scrap 1.2.numbers` or of only scraped data eg `oclc serials 1.1.numbers`]
+9. [ ] xx.
