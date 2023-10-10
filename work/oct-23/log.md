@@ -36,4 +36,9 @@ file written 29 sep 2023 at 21.52 belmopan. this is a log of oct 2023 work.
 6. [x] add missing `.numbers` files to `pre-git-hist/sheets`,[^namely, those files in the local `/Numbers/` ie in local disc which had `.tsv` copies in `pre-git-hist/files/` ie which were recorded in `pre-git-hist/events.tsv` but which were not yet in `pre-git-hist/sheets/` ie not in `pre-git-hist/sheets.tsv` - in the end 33 such files were committed]
 7. [x] verify all files just committed in no 6 really ought to have been committed,[^all are named in `pre-git-hist/events.tsv` it seems - from quick look through on 9 oct 2023 06.01]
 8. [x] add any local `.numbers` versions of files in no 6 above,[^if available in Numbers app, except do not add for files with 'created' and 'last-edited' values within the same day, and further do not add for files of only recycled data eg `found scrap 1.2.numbers` or of only scraped data eg `oclc serials 1.1.numbers`]
-9. [ ] xx.
+9. [x] recent addition to wikipedia outside of git not added to `pre-git-hist` as these additions post-date aug 2022 despite being outside of git,
+10. [x] add to `draft-*files.tsv` those `pre-git-hist/sheets` files added on 9 oct 2023 and named files in `pre-git-hist/events.tsv` not already present,[^to create a *master* list containing all files in `pre-git-hist/sheets` and all those in `pre-git-hist/*` for `*` not equal to `harv` nor `wiki`, resulting in a `draft-*files.tsv` of 531 records]
+11. [x] add series  or metadata present or absence data for files added during no 10 above,
+12. [x] check existing chains in `draft-*versioning.tsv` to ensure chronology was maintained upon addition of new fiels in no 10 above,[^it was kept]
+13. [ ] check existing chains in `draft-*versioning.tsv` for completeness,
+14. [ ] add missing chains to `draft-*versioning.tsv`.
