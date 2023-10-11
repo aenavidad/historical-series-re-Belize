@@ -10,3 +10,4 @@ this file is a standard readme. written 29 sep 2023 at 17.08 in belmopan. this d
 - `draft.tex` is preprint draft in tex format
 - `draft-*.tex` are standalone sections for preprint draft
 - `draft-*.tsv` are supplementary files for preprint draft
+- [[oct-23/osf-draft]] is draft content for `osf` registration[^per log task no 15]
