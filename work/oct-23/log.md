@@ -40,5 +40,6 @@ file written 29 sep 2023 at 21.52 belmopan. this is a log of oct 2023 work.
 10. [x] add to `draft-*files.tsv` those `pre-git-hist/sheets` files added on 9 oct 2023 and named files in `pre-git-hist/events.tsv` not already present,[^to create a *master* list containing all files in `pre-git-hist/sheets` and all those in `pre-git-hist/*` for `*` not equal to `harv` nor `wiki`, resulting in a `draft-*files.tsv` of 531 records]
 11. [x] add series  or metadata present or absence data for files added during no 10 above,
 12. [x] check existing chains in `draft-*versioning.tsv` to ensure chronology was maintained upon addition of new fiels in no 10 above,[^it was kept]
-13. [ ] check existing chains in `draft-*versioning.tsv` for completeness,
-14. [ ] add missing chains to `draft-*versioning.tsv`.
+13. [ ] ~~check existing chains in `draft-*versioning.tsv` for completeness,[^seems taxing for little benefit - may return to complete later]~~
+14. [ ] ~~add missing chains to `draft-*versioning.tsv`~~
+15. [ ] build pre-registration for `pre-git-hist` to `v-1.5` move for `v-1.5` as 1.0.0-alpha as per `work/oct-23/draft.tex` s presenting the version.
