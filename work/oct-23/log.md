@@ -45,7 +45,7 @@ file written 29 sep 2023 at 21.52 belmopan. this is a log of oct 2023 work.
 15. [ ] build ~~pre-~~registration for `pre-git-hist` to `v-1.5` move for `v-1.5` as 1.0.0-alpha as per `work/oct-23/draft.tex` s presenting the version,
     1. [x] update files stored in `osf` such that it mirrors those in `pre-git-hist` and `historical-series-re-Belize`,[^organised in two sub-project components (`pre-git work` for `pre-git-hist` files, and `post-git work` for `historical-series-re-Belize` files. done by 11 oct 2023 10.58 bmp, with a further empty component `version 1.5` to hold upcoming data series. ~~the required project components could not be created for technical reasons by 10 oct 2023 20.49 - it seems project was marked as spam by `osf`, so have gotta sort that before bring osf files up to date.~~)]
     2. [x] make `osf` public as `github` is already public anyways,[^done on 11 oct 2023 at 09.35 belmopan]
-    3. [ ] figure out correct licensing before registration,
-    4. [ ] once `osf`-stored files are up to date, create a new registration draft for the project,
+    3. [x] figure out correct licensing before registration,[^correct copyright also figured out]
+    4. [x] once `osf`-stored files are up to date, create a new registration draft for the project,
     5. [ ] fill in draft with [[work/oct-23/osf-draft.md]] content (may have to clean up),
-16. [ ] xx.
+16. [ ] submit `osf` registration with [[work/oct-23/osf-reg.md]] attached.
