@@ -9,7 +9,22 @@ version 1.5 ought to be composed of exactly six data series ie directories (`cal
 xx
 
 ## standards
-xx
+we first set out top level ie first order standards. note the following terms,[^terms and first order stds copied or adapted from [[work/aug-22/process-0]] as identified in the 16 aug 2022 `osf` registration.]
+- `source data` are data contained in files tagged for extraction in `work/oct-23/draft-draft0s7files.tsv`,
+- `version 1.5` are data defined in ss 2–3 of this document,
+- `work` is the `source data` to `version 1.5` process detailed in s 6 'process' of this document.
+
+| no | standard | adoption |
+|:--|:--|:--|
+| 1 | `work` must be replicable | partial |
+| 2 | `version 1.5` must be human readable | all |
+| 3 | `version 1.5` must be machine readable | none |
+
+we now set out lower level ie second order standards.
+
+| no | standard | adopted | note |
+|:--|:--|:--:|:--|
+| 1.1 | xx | yes | xx |
 
 ## process
 xx
