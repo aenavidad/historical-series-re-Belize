@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:646f1db5099d9e22184849899943e51d76817fefe8cabc22897583f026c705bb
-size 1374
+no	top	varid	adoption	standard	elucidation	notes
+1	1	1	part	`work` must be replicable	"nos=4-10, 400"	"adopted only to extent possible, but not possible to adopt fully ie maximal possible adoption; for replicable = reproducible ? - 12 oct 2023 19.37"
+2	2	2	full	`v 1.5` must be human readable	"nos=68, 162, 187, 223"	na
+3	3	3	part	`v 1.5` must be machine readable	"nos=64-67, 90, 93-94, 116, 124-125, 158, 160, 188, 200, 223-225"	adopted only to extent necessary to allow for full adoption in superseding version of data series ie minimal needed adoption
+4	1	1.1	na	`work files` must cite sources	"nos=11, 20-22, 24, 61, 87, 227"	na
+5	1	1.2	na	`work files` must be archived	"nos=12-14, 51, 123, 146, 153, 167, 169, 173, 212, 219"	na
+6	1	1.3	na	`work` must be logged	"nos=15, 86, 99-100, 102, 166, 168, 178-181"	na
+7	1	1.4	na	`work` must be registered	no=17	and inc only mechanical processes ie possible to automate in principle ? - 12 oct 2023 19.35
+8	1	1.5	na	`source data` and `work files` must be licensed	"nos=51, 56, 91, 175, 184, 204, 212, 226"	na
+9	1	1.6	na	`work files` must be citeable	"nos=51, 62-63, 92, 98, 176, 190, 192, 221"	na
+10	1	1.7	na	`v 1.5` must inc metadata	"nos=53-55, 57-59, 74, 80, 117, 119, 121, 142, 160, 174, 177, 193-194, 203, 205-206, 220"	na
+400	1	1.8	na	`v 1.5` must distinguish raw from processed or generated data values	no=83	na
