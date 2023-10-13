@@ -9,22 +9,22 @@ version 1.5 ought to be composed of exactly six data series ie directories (`cal
 xx
 
 ## standards
-we first set out top level ie first order standards. note the following terms,[^terms and first order stds copied or adapted from [[work/aug-22/process-0]] as identified in the 16 aug 2022 `osf` registration.]
-- `source data` are data contained in files tagged for extraction in `work/oct-23/draft-draft0s7files.tsv`,
-- `version 1.5` are data defined in ss 2–3 of this document,
-- `work` is the `source data` to `version 1.5` process detailed in s 6 'process' of this document.
+routed to `work/oct-23/osf-stds.tsv`, with the following notes.[^sheet created 11 oct 2023 20.58 bmp.]
 
-| no | standard | adoption |
-|:--|:--|:--|
-| 1 | `work` must be replicable | partial |
-| 2 | `version 1.5` must be human readable | all |
-| 3 | `version 1.5` must be machine readable | none |
+note0 / conventions, etc = 
+- i / 'na' and '99' are null vals, cols with names starting in '\*' are working cols,
+- ii / col 'no' identifies the corresponding standard number per `work/aug-22/rules-20-aug-2022.tsv` for nos=1-316 or assigns an identifying number for the same if not available, 
+- iii / col 'top' identifies the subsuming top level ie first order standard from nos=1-3, 
+- iv / col 'varid' identifies the standard by a variant id eg that assigned by the source of the standard. 
 
-we now set out lower level ie second order standards.
+note1 / sources = 
+- i / nos=1-10, 400 from `work/aug-22/rules-20-aug-2022.tsv` and `work/aug-22/rules-20-aug-2022.md` s 3. 
 
-| no | standard | adopted | note |
-|:--|:--|:--:|:--|
-| 1.1 | xx | yes | xx |
+note2 / defined terms in cols 'standard', 'elucidation', 'notes' = 
+- i / `work` is `pre-git-hist` to `historical-series-re-Belize/v-1.5` process, 
+- ii / `v 1.5` is `historical-series-re-Belize/v-1.5`, 
+- iii / `source data` is `pre-git-hist`, 
+- iv / `work files` are those in `historical-series-re-Belize/work/*-23` for \* = nov or dec *in addition to* those in `historical-series-re-Belize/work/oct-23` created after \\(n\\) for \\(n\\) = date and time of `osf` registration submission (assuming submission in oct 2023 and `work` completed during \\(n\\) to 31 dec 2023).
 
 ## process
 xx
