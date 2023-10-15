@@ -18,8 +18,8 @@ routed to `work/oct-23/osf-stds.tsv`, with the following notes.[^sheet created 1
     - iv / col 'varid' identifies the standard by a variant id eg that assigned by the source of the standard
     - v / col 'source' identifies the standard's original source. 
 2. note1 / sources = 
-    - i / nos=1-10, 400 from `work/aug-22/rules-20-aug-2022.tsv` and `work/aug-22/rules-20-aug-2022.md` s 3,
-    - ii / nos=11-316 from `work/aug-22/rules-20-aug-2022.tsv`.
+    - i / nos=1-10, 400 from `work/aug-22/rules-20-aug-2022.md` s 3,
+    - ii / nos=1-316 from `work/aug-22/rules-20-aug-2022.tsv`.[^with col 'varid' vals adapted from col 'standard' vals, and col 'adoption' vals 'full' or 'part' from col 'adoption' val 'yes', and val 'none' from val 'no']
 3. note2 / defined terms in cols 'standard', 'elucidation', 'notes' = 
     - i / `work` is `pre-git-hist` to `historical-series-re-Belize/v-1.5` process,[^occurring oct 2023 to dec 2023, assuming `work` completion by 31 dec 2023.] 
     - ii / `v 1.5` is `historical-series-re-Belize/v-1.5`, 
@@ -29,7 +29,9 @@ routed to `work/oct-23/osf-stds.tsv`, with the following notes.[^sheet created 1
 4. note3 / col 'source' values = 
     - i / AEN at `work/aug-22/rules-20-aug-2022.md` s 3,
     - ii / TOP at https://www.cos.io/initiatives/top-guidelines ie https://www.cos.io/top with more verbose specification of version 1.0.1 at https://osf.io/9f6gx/wiki/home/,[^where possible, reading – article or preprint for 'article', `v 1.5` for 'data', `source data` or `work files` for 'materials', `work files` for 'code'.]
-    - iii / xx.
+    - iii / AWI at http://www.w3.org/TR/webarch/,
+    - iv / NDP at https://web.archive.org/web/20220808095409/https://www.springernature.com/gp/authors/research-data-policy/,[^archived content significantly different to live version],
+    - v / DWP at https://www.w3.org/TR/dwbp/.
 
 ## process
 xx
