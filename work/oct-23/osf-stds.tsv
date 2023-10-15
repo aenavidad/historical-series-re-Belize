@@ -9,39 +9,39 @@ no	top	varid	source	adoption	standard	elucidation	notes
 8	1	1.5	AEN	na	`source data` and `work files` must be licensed	"nos=51, 56, 91, 175, 184, 204, 212, 226"	na
 9	1	1.6	AEN	na	`work files` must be citeable	"nos=51, 62-63, 92, 98, 176, 190, 192, 221"	na
 10	1	1.7	AEN	na	`v 1.5` must inc metadata	"nos=53-55, 57-59, 74, 80, 117, 119, 121, 142, 160, 174, 177, 193-194, 203, 205-206, 220"	na
-11	1	citation stds lvl iii	TOP	na	preprint must *appropriately* cite `source data` and `v 1.5` and `work files`	citation must inc persistent identifier eg doi and must be listed in reference section	na
-12	1	data transparency lvl ii	TOP	na	`v 1.5` must be deposited in trusted digital repository	"`v 1.5` must be clearly and precisely documented, and must be maximally available, and must inc all vars and records described in preprint"	lvl iii not relevant here
-13	1	code transparency lvl ii	TOP	na	`work files` must be deposited in trusted digital repository	"`work files` must be clearly and precisely documented, and must be maximally available, and must inc full acct of `pre work` and of `work` st `work files` are sufficient to precisely reproduce `v 1.5` independently"	lvl iii not relevant here
-14	1	materials transparency lvl ii	TOP	na	`source data` must be deposited in trusted digital repository	"`source data` must be clearly and precisely documented, and must be maximally available"	lvl iii not relevant here
-15	1	design transparency lvl ii	TOP	na	preprint must inc design and log details of `pre work` and `work`	"details must meet a relevant EQUATOR std = https://www.equator-network.org/reporting-guidelines/prisma *or* some other relevant std in https://www.equator-network.org; preprint must confirm whether std were reviewed, relevant, and followed"	col 'varid' val given 'lvl iii' in source file but corrected on review; lvl iii not relevant here
-16	1	study prereg lvl i	TOP	na	preprint must state whether `pre work` and `work` were preregistered in independent institutional registry	statement must be in acknowledgements section or in first footnote	not possible to preregister source data; lvls ii-iii not relevant here; col 'adoption' val given 'no' ie 'none' in source file but corrected on review
-17	1	analysis prereg lvl i	TOP	none	as no=16 adding '* and must state whether prereg inc analysis plan'	for analysis plan specifying sequence of analyses or statistical model used	lvls i-iii not relevant here; col 'adoption' val given 'yes' ie 'full' *or* 'part' in source file but corrected on review
+11	1	citation stds lvl iii	TOP	full	preprint must *appropriately* cite `source data` and `v 1.5` and `work files`	citation must inc persistent identifier eg doi and must be listed in reference section	na
+12	1	data transparency lvl ii	TOP	full	`v 1.5` must be deposited in trusted digital repository	"`v 1.5` must be clearly and precisely documented, and must be maximally available, and must inc all vars and records described in preprint"	lvl iii not relevant here
+13	1	code transparency lvl ii	TOP	part	`work files` must be deposited in trusted digital repository	"`work files` must be clearly and precisely documented, and must be maximally available, and must inc full acct of `pre work` and of `work` st `work files` are sufficient to precisely reproduce `v 1.5` independently"	lvl iii not relevant here; adopt all but inc full acct of `pre work` as this not possible
+14	1	materials transparency lvl ii	TOP	full	`source data` must be deposited in trusted digital repository	"`source data` must be clearly and precisely documented, and must be maximally available"	lvl iii not relevant here
+15	1	design transparency lvl ii	TOP	none	preprint must inc design and log details of `pre work` and `work`	"details must meet a relevant EQUATOR std = https://www.equator-network.org/reporting-guidelines/prisma *or* https://www.equator-network.org/reporting-guidelines/srqr *or* some other relevant std in https://www.equator-network.org; preprint must confirm whether std were reviewed, relevant, and followed"	col 'varid' val given 'lvl iii' in source file but corrected on review; lvl iii not relevant here; col 'adoption' val given 'yes' in source file but corrected on review
+16	1	study prereg lvl i	TOP	part	preprint must state whether `pre work` and `work` were preregistered in independent institutional registry	statement must be in acknowledgements section or in first footnote	not possible to preregister source data; lvls ii-iii not relevant here; col 'adoption' val given 'no' in source file but corrected on review; adopt all but statement location requirement
+17	1	analysis prereg lvl i	TOP	none	as no=16 adding '* and must state whether prereg inc analysis plan'	for analysis plan specifying sequence of analyses or statistical model used	lvls i-iii not relevant here; col 'adoption' val given 'yes' in source file but corrected on review
 18	1	replication lvl i	TOP	none	article journal encourage submission of replication studies	na	lvls i-iii not relevant here
-20	999	na	na	na	na	na	na
-21	999	na	na	na	na	na	na
-22	999	na	na	na	na	na	na
-24	999	na	na	na	na	na	na
-51	999	na	na	na	na	na	na
-53	999	na	na	na	na	na	na
-54	999	na	na	na	na	na	na
-55	999	na	na	na	na	na	na
-56	999	na	na	na	na	na	na
-57	999	na	na	na	na	na	na
-58	999	na	na	na	na	na	na
-59	999	na	na	na	na	na	na
-61	999	na	na	na	na	na	na
-62	999	na	na	na	na	na	na
-63	999	na	na	na	na	na	na
-64	999	na	na	na	na	na	na
-65	999	na	na	na	na	na	na
-66	999	na	na	na	na	na	na
-67	999	na	na	na	na	na	na
-68	999	na	na	na	na	na	na
-74	999	na	na	na	na	na	na
-80	999	na	na	na	na	na	na
-83	999	na	na	na	na	na	na
-86	999	na	na	na	na	na	na
-87	999	na	na	na	na	na	na
+20	3	practice 2.1	AWI	full	resources ought to be identified with URIs	ie identify with URIs	na
+21	3	constraint 2.2	AWI	full	distinct resources to be identified with distinct URIs	ie URIs identify a single resource	na
+22	3	practice 2.3.1	AWI	full	resources ought not to be arbitrarily identified with more than one URI	ie avoid URI aliasses	na
+24	3	practice 2.4	AWI	full	URIs used ought to conform to existing scheme if that would suffice	ie reuse URI schemes eg https when these meet identification needs	na
+51	1	policy type 3	NDP	full	preprint must state whether `source data` and `work files` are available	and `source data` and `work files` ought to be deposited in public repository *or* must be deposited in a community endorsed one if such expectation is widely established in community; and preprint must provide persistent identifier eg doi for any made available; and preprint dataset citations ought to inc min info recd by DataCite = https://www.datacite.org	na
+53	999	best practice 1	DWP	na	na	na	na
+54	999	best practice 2	DWP	na	na	na	na
+55	999	best practice 3	DWP	na	na	na	na
+56	999	best practice 4	DWP	na	na	na	na
+57	999	best practice 5	DWP	na	na	na	na
+58	999	best practice 6	DWP	na	na	na	na
+59	999	best practice 7	DWP	na	na	na	na
+61	999	na	DWP	na	na	na	na
+62	999	na	DWP	na	na	na	na
+63	999	na	DWP	na	na	na	na
+64	999	na	DWP	na	na	na	na
+65	999	na	DWP	na	na	na	na
+66	999	na	DWP	na	na	na	na
+67	999	na	DWP	na	na	na	na
+68	999	na	DWP	na	na	na	na
+74	999	na	DWP	na	na	na	na
+80	999	na	DWP	na	na	na	na
+83	999	na	DWP	na	na	na	na
+86	999	na	DWP	na	na	na	na
+87	999	na	DWP	na	na	na	na
 90	999	na	na	na	na	na	na
 91	999	na	na	na	na	na	na
 92	999	na	na	na	na	na	na
