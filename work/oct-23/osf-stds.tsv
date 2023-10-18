@@ -22,51 +22,52 @@ no	top	varid	source	adoption	standard	elucidation	notes
 22	3	practice 2.3.1	AWI	full	resources ought not to be arbitrarily identified with more than one URI	ie avoid URI aliasses	na
 24	3	practice 2.4	AWI	full	URIs used ought to conform to existing scheme if that would suffice	ie reuse URI schemes eg https when these meet identification needs	na
 51	1	policy type 3	NDP	full	preprint must state whether `source data` and `work files` are available	and `source data` and `work files` ought to be deposited in public repository *or* must be deposited in a community endorsed one if such expectation is widely established in community; and preprint must provide persistent identifier eg doi for any made available; and preprint dataset citations ought to inc min info recd by DataCite = https://www.datacite.org	na
-53	999	best practice 1	DWP	na	na	na	na
-54	999	best practice 2	DWP	na	na	na	na
-55	999	best practice 3	DWP	na	na	na	na
-56	999	best practice 4	DWP	na	na	na	na
-57	999	best practice 5	DWP	na	na	na	na
-58	999	best practice 6	DWP	na	na	na	na
-59	999	best practice 7	DWP	na	na	na	na
-61	999	na	DWP	na	na	na	na
-62	999	na	DWP	na	na	na	na
-63	999	na	DWP	na	na	na	na
-64	999	na	DWP	na	na	na	na
-65	999	na	DWP	na	na	na	na
-66	999	na	DWP	na	na	na	na
-67	999	na	DWP	na	na	na	na
-68	999	na	DWP	na	na	na	na
-74	999	na	DWP	na	na	na	na
-80	999	na	DWP	na	na	na	na
-83	999	na	DWP	na	na	na	na
-86	999	na	DWP	na	na	na	na
-87	999	na	DWP	na	na	na	na
-90	999	na	na	na	na	na	na
-91	999	na	na	na	na	na	na
-92	999	na	na	na	na	na	na
-93	999	na	na	na	na	na	na
-94	999	na	na	na	na	na	na
-98	999	na	na	na	na	na	na
-99	999	na	na	na	na	na	na
-100	999	na	na	na	na	na	na
-102	999	na	na	na	na	na	na
-116	999	na	na	na	na	na	na
-117	999	na	na	na	na	na	na
-119	999	na	na	na	na	na	na
-121	999	na	na	na	na	na	na
-123	999	na	na	na	na	na	na
-124	999	na	na	na	na	na	na
-125	999	na	na	na	na	na	na
-142	999	na	na	na	na	na	na
-146	999	na	na	na	na	na	na
-153	999	na	na	na	na	na	na
-158	999	na	na	na	na	na	na
-160	999	na	na	na	na	na	na
-162	999	na	na	na	na	na	na
-166	999	na	na	na	na	na	na
-167	999	na	na	na	na	na	na
-168	999	na	na	na	na	na	na
+53	999	best practice 1	DWP	part	`v 1.5` to inc metadata	na	adopt human but not machine aspect
+54	999	best practice 2	DWP	part	as no=53 adding '* which describes `v 1.5`'	"ie inc descriptive metadata; for usual description eg title, description, keywords, date, author, coverage, etc"	adopt human but not machine aspect
+55	999	best practice 3	DWP	part	as no=53 adding '* which describes schema and structure of `v 1.5`'	ie inc structural metadata; eg inc data dictionary ie codebook of variables	adopt human but not machine aspect
+56	999	best practice 4	DWP	part	`v 1.5` to inc licence	inc link or copy of licence	adopt human but not machine aspect
+57	999	best practice 5	DWP	part	`v 1.5` to inc provenance	"ie inc complete info re sources of raw data and transformations thereof eg cleaning, standardising, validating, processing, etc"	adopt human but not machine aspect *except* human aspect adopted *only* for `work` as not possible to adopt for `pre work`
+58	999	best practice 6	DWP	part	`v 1.5` to inc info re quality	inc info re fitness ie suitability for particular purposes	adopt human but not machine aspect
+59	999	best practice 7	DWP	part	`v 1.5` to inc version number or date	eg version by schemaver = https://snowplow.io/blog/introducing-schemaver-for-semantic-versioning-of-schemas	adopt human but not machine aspect
+61	999	best practice 9	DWP	part	`v 1.5` to be identified by persistent URI	na	adopt human but not machine aspect
+62	999	best practice 10	DWP	part	`v 1.5` to cite data sources via persistent URIs	na	adopt human but not machine aspect
+63	999	best practice 11	DWP	part	`v 1.5` and successors to be identified by URI	ie a single URI for all versions as a whole	adopt human but not machine aspect
+64	999	best practice 12	DWP	none	"`v 1.5` to use machine readable, standardised data formats"	na	col 'adoption' val given 'yes' in source file but corrected on review
+65	999	best practice 13	DWP	none	"`v 1.5` to use locale neutral data structures and values *or* when not possible, provide metadata on locale used"	"ie location neutral eg for dates, currencies, etc"	col 'adoption' val given 'yes' in source file but corrected on review
+66	999	best practice 14	DWP	none	`v 1.5` to be available in vars formats	na	col 'adoption' val given 'yes' in source file but corrected on review
+67	999	best practice 15	DWP	none	`v 1.5` to use controlled vocabs	"ie standardised, shared vocabularies"	col 'adoption' val given 'yes' in source file but corrected on review
+68	999	best practice 16	DWP	none	as no=67 adding '* to an appropriate extent'	ie to extent fitting both data and its most likely applications	col 'adoption' val given 'yes' in source file but corrected on review
+74	999	best practice 22	DWP	part	`v 1.5` to inc info re unavailable data	inc info re how to access and who can or may access unavailable data	adopt human but not machine aspect
+80	999	best practice 28	DWP	none	`v 1.5` to inc archived copies of resources if necessary	"ie for resources employed or depended on by `v 1.5`, ensure they are already preserved ie archived or else provide copy for preservation"	col 'adoption' val given 'yes' in source file but corrected on review
+83	999	best practice 31	DWP	none	`v 1.5` to inc generated data if enriching	na	col 'adoption' val given 'yes' in source file but corrected on review
+86	999	best practice 34	DWP	part	`v 1.5` to obey licences of sources employed in `work`	na	adopt human but not machine aspect
+87	999	best practice 35	DWP	part	`v 1.5` to cite sources	na	adopt human but not machine aspect
+90	999	step 3	LDP	none	`v 1.5` to be available in vars formats	na	col 'adoption' val given 'yes' in source file but corrected on review
+91	999	step 4	LDP	full	`v 1.5` to be *appropriately* licensed	ie open licence	na
+92	999	step 5	LDP	none	`v 1.5` or subcomponent URIs to be *appropriately* built	na	col 'adoption' val given 'yes' in source file but corrected on review
+93	999	step 6	LDP	none	`v 1.5` to reuse standardised vocabularies	na	col 'adoption' val given 'yes' in source file but corrected on review
+94	999	step 7	LDP	none	`v 1.5` to be available in `rdf` formats	na	col 'adoption' val given 'yes' in source file but corrected on review
+98	999	cat content dim object	PXG	part	`v 1.5` must be identified by URI	inc portions ie data series and subseries of `v 1.5` if referenced in provenance info	adopt human but not machine aspect
+99	999	cat content dim attribution	PXG	part	`v 1.5` must identify sources used and persons involved in `work`	na	adopt human but not machine aspect
+100	999	cat content dim process	PXG	part	`v 1.5` must inc log details of `pre work` and `work`	na	adopt human but not machine aspect *except* human aspect adopted *only* for `work` as not possible to adopt for `pre work`
+102	999	cat content dim justification	PXG	part	as no=100 adding '* inc reasoning or justification for decisions made during `work`'	"inc supporting evidence for and against decision, collected as per a well defined procedure ideally automatically"	adopt human but not machine aspect
+116	999	resource sec location	OFS	none	individual tables and files in `v 1.5` must each be identified by URIs	in `json` file meeting vars reqs with exactly one of `path` or `data` properties	col 'adoption' val given 'yes' in source file but corrected on review
+117	999	resource sec metadata	OFS	none	individual tables and files in `v 1.5` must each inc metadata	in `json` file meeting vars reqs with at least `name` property	col 'adoption' val given 'yes' in source file but corrected on review
+119	999	package sec descriptor	OFS	none	as no=121 adding '* inc list and locations of individual tables and files in `v 1.5`'	in `json` file meeting vars reqs with vars properties	col 'adoption' val given 'yes' in source file but corrected on review
+121	999	package sec metadata	OFS	none	`v 1.5` must inc metadata	in `json` file meeting vars reqs with vars properties	col 'adoption' val given 'yes' in source file but corrected on review
+123	999	1.2	OOD	full	`v 1.5` must be provided as a whole	and must inc all info needed for licence compliance and ought to be accessible sans charge	na
+124	999	1.3	OOD	none	`v 1.5` must be machine readable	ie in form readily processable by computer and where individual elements of `v 1.5` can be easily accessed and modified	'* accessed and modified' *by* a computer ? - 15 oct 2023 04.17; col 'adoption' val given 'yes' in source file but corrected on review
+125	999	1.4	OOD	full	`v 1.5` must be available in open formats	ie format which places no restrictions eg monetary on use and which can be fully processed with at least one open source software	na
+142	999	A1	MDP	full	`v 1.5` ought to define aim and content very clearly	na	na
+146	999	B1	MDP	part	`v 1.5` files must be editable	na	adopted only for `github` copy
+153	999	B8	MDP	full	`work files` ought to be archived regularly	in disaster proof environment eg institutional repository	na
+158	999	C5	MDP	none	`v 1.5` variables and values ought to be standardised	"as much as possible sans content loss eg use internationally standardised values for occupation, birthplace"	col 'adoption' val given 'yes' in source file but corrected on review
+159	999	C6	MDP	full	reasons for missing values in `v 1.5` ought to be explained	"eg have distinct missing data values for distinct reasons eg not available in source vs not readable in source vs not given for privacy, so on"	na
+160	999	C7	MDP	none	geographic data values in `v 1.5` ought to be georeferenced	na	col 'adoption' val given 'yes' in source file but corrected on review
+162	999	C9	MDP	full	`v 1.5` ought to be made available in an *easy to use* format	esp if `v 1.5` is large; for easy as in easy for users unfamiliar with large datasets	na
+166	999	sec 1 para 4	HKD	na	`work files` must inc *explicit* details of data transforming activities undertaken in `work`	"where data transforming activities = selecting, modelling, normalising, classifying, linking"	na
+167	999	sec 1 para 6 pt i	HKD	na	`work files` must be archived	eg in `github`	na
+168	999	sec 1 para 6 pt ii	HKD	na	as no=166 adding '* and reasoning ie justification for each such activity'	na	na
 169	999	na	na	na	na	na	na
 173	999	na	na	na	na	na	na
 174	999	na	na	na	na	na	na
