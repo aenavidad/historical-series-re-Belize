@@ -65,32 +65,32 @@ no	top	varid	source	adoption	standard	elucidation	notes
 159	999	C6	MDP	full	reasons for missing values in `v 1.5` ought to be explained	"eg have distinct missing data values for distinct reasons eg not available in source vs not readable in source vs not given for privacy, so on"	na
 160	999	C7	MDP	none	geographic data values in `v 1.5` ought to be georeferenced	na	col 'adoption' val given 'yes' in source file but corrected on review
 162	999	C9	MDP	full	`v 1.5` ought to be made available in an *easy to use* format	esp if `v 1.5` is large; for easy as in easy for users unfamiliar with large datasets	na
-166	999	sec 1 para 4	HKD	na	`work files` must inc *explicit* details of data transforming activities undertaken in `work`	"where data transforming activities = selecting, modelling, normalising, classifying, linking"	na
-167	999	sec 1 para 6 pt i	HKD	na	`work files` must be archived	eg in `github`	na
-168	999	sec 1 para 6 pt ii	HKD	na	as no=166 adding '* and reasoning ie justification for each such activity'	na	na
-169	999	na	na	na	na	na	na
-173	999	na	na	na	na	na	na
-174	999	na	na	na	na	na	na
-175	999	na	na	na	na	na	na
-176	999	na	na	na	na	na	na
-177	999	na	na	na	na	na	na
-178	999	na	na	na	na	na	na
-179	999	na	na	na	na	na	na
-180	999	na	na	na	na	na	na
-181	999	na	na	na	na	na	na
-184	999	na	na	na	na	na	na
-187	999	na	na	na	na	na	na
-188	999	na	na	na	na	na	na
-190	999	na	na	na	na	na	na
-192	999	na	na	na	na	na	na
-193	999	na	na	na	na	na	na
-194	999	na	na	na	na	na	na
-200	999	na	na	na	na	na	na
-203	999	na	na	na	na	na	na
-204	999	na	na	na	na	na	na
-205	999	na	na	na	na	na	na
-206	999	na	na	na	na	na	na
-212	999	na	na	na	na	na	na
+166	999	sec 1 para 4	HKD	part	`work files` ought to inc *explicit* details of data transforming activities undertaken in `pre work` and `work`	"where data transforming activities = selecting, modelling, normalising, classifying, linking"	not possible to adopt for `pre work`
+167	999	sec 1 para 6 pt i	HKD	full	`work files` ought to be archived	eg in `github`	na
+168	999	sec 1 para 6 pt ii	HKD	part	as no=166 adding '* and of reasoning ie justification for each such activity'	na	not possible to adopt for `pre work`
+169	999	cat management sec administration para 1	IDP	full	`work files` ought to be archived	eg in `github`	na
+173	999	cat management sec FAIR para 1	IDP	full	as no=169 adding '* in repositories which ensure data persistence'	na	assume `osf` ensures persistence
+174	999	cat management sec FAIR para 2	IDP	part	`v 1.5` ought to inc *explicit* provenance details	"inc who collected data, where primary source is, how data changed; eg use PROV ontology"	na
+175	999	cat management sec FAIR para 3	IDP	part	`v 1.5` ought to be licensed	inc in machine readable format	na
+176	999	cat management sec FAIR para 4	IDP	full	`v 1.5` ought to be citeable via URI	eg doi	na
+177	999	cat management sec FAIR paras 5-7	IDP	full	`v 1.5` ought to inc details re compliance with FAIR	eg via assessment by tests listed at https://fairassist.org	na
+178	999	cat development sec environment paras 1-2	IDP	none	`work` ought to use Docker to run programmes	na	col 'adoption' val given 'yes' in source file but corrected on review
+179	999	"cat development sec environment paras 1, 3"	IDP	none	`work` ought to use Homebrew to manage programming libraries	na	col 'adoption' val given 'yes' in source file but corrected on review
+180	999	"cat development sec environment paras 1, 4-8"	IDP	none	`work` ought to use Terminal ie line interface to run text commands	na	col 'adoption' val given 'yes' in source file but corrected on review
+181	999	cat development sec code management para 1	IDP	full	`work` ought to use Git for version control	na	na
+184	999	cat development sec repository para 3	IDP	full	`v 1.5` must be licensed for reuse	eg MIT for software	na
+187	999	"cat development sec documentation paras 1, 3-5"	IDP	part	`v 1.5` ought to inc *well written* readme file	"inc at least short description of `v 1.5`, list of prerequisites to access or use `v 1.5`, instructions to get local copy of `v 1.5`, a few working examples of main features of `v 1.5`"	na
+188	999	cat development sec ontologies paras 1-11	IDP	none	`v 1.5` ought to reuse existing ontologies ie vocabularies	na	col 'adoption' val given 'yes' in source file but corrected on review
+190	999	cat development sec ontologies paras 29-31	IDP	none	ontologies ie vocabularies tailor made for `v 1.5` ought to use persistent URIs	eg from http://w3id.org	col 'adoption' val given 'yes' in source file but corrected on review
+192	999	F1	FAI	part	`v 1.5` and all its components must be assigned *globally unique and persistent* URIs	"inc every element of metadata, every concept or measurement in dataset"	na
+193	999	F2	FAI	part	`v 1.5` must inc *rich* metadata	where rich metadata is defined by nos=203-206	na
+194	999	F3	FAI	part	metadata files in `v 1.5` must identify described resource via URIs	na	na
+200	999	I1	FAI	none	`v 1.5` must be machine readable	ie use standardiised vocabs ie ontologies and use well defined framework to describe and structure data and metadata eg rdf	col 'adoption' val given 'yes' in source file but corrected on review
+203	999	R1	FAI	part	as no=193 adding '* which must inc a plurality of accurate and relevant attributes'	na	na
+204	999	R1.1	FAI	part	`v 1.5` must be *appropriately* licensed	ie clear and accessible data usage licence	na
+205	999	R1.2	FAI	part	`v 1.5` must inc detailed provenance	na	na
+206	999	R1.3	FAI	part	metadata files in `v 1.5` must meet domain specific (if available) or general purpose (else) metadata standards	"eg http://schema.datacite.org for general, https://www.iso.org/standard/53798.html for geographic, etc"	na
+212	999	sec open practices subsec 2	PSG	part	`source data` and `work files` ought to be archived and licensed	na	na
 219	999	na	na	na	na	na	na
 220	999	na	na	na	na	na	na
 221	999	na	na	na	na	na	na
