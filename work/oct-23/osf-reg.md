@@ -15,7 +15,7 @@ routed to `work/oct-23/osf-stds.tsv`, with the following notes.[^sheet created 1
     - i / 'na' and '999' are null vals, cols with names starting in '\*' are working cols,
     - ii / col 'no' identifies the corresponding standard number per `work/aug-22/rules-20-aug-2022.tsv` for nos=1-316 or assigns an identifying number for the same if not available, 
     - iii / col 'top' identifies the subsuming top level ie first order standard from nos=1-3, 
-    - iv / col 'varid' identifies the standard by a variant id eg that assigned by the source of the standard
+    - iv / col 'varid' identifies the standard by a variant id eg that assigned by the source of the standard,
     - v / col 'source' identifies the standard's original source. 
 2. note1 / sources = 
     - i / nos=1-10, 400 from `work/aug-22/rules-20-aug-2022.md` s 3,
@@ -37,7 +37,10 @@ routed to `work/oct-23/osf-stds.tsv`, with the following notes.[^sheet created 1
     - viii / OFS at https://specs.frictionlessdata.io/data-resource/ and https://specs.frictionlessdata.io/data-package/,
     - ix / OOD at https://opendefinition.org/od/2.1/en/
     - x / MDP at https://doi.org/10.3200/HMTS.37.1.34-38,
-    - xi / HKD at https://doi.org/10.1080/01615440.2018.1484676.
+    - xi / HKD at https://doi.org/10.1080/01615440.2018.1484676,
+    - xii / IDP at https://maastrichtu-ids.github.io/best-practices/docs/,
+    - xiii / FAI at https://www.go-fair.org/fair-principles/,
+    - xiv / PSG at http://www.psychologicalscience.org/publications/psychological_science/ps-submissions.
 
 ## process
 xx
