@@ -40,7 +40,8 @@ routed to `work/oct-23/osf-stds.tsv`, with the following notes.[^sheet created 1
     - xi / HKD at https://doi.org/10.1080/01615440.2018.1484676,
     - xii / IDP at https://maastrichtu-ids.github.io/best-practices/docs/,
     - xiii / FAI at https://www.go-fair.org/fair-principles/,
-    - xiv / PSG at http://www.psychologicalscience.org/publications/psychological_science/ps-submissions.
+    - xiv / PSG at http://www.psychologicalscience.org/publications/psychological_science/ps-submissions,
+    - xv / LCT at https://librarycarpentry.org/Top-10-FAIR/2018/12/01/historical-research/.
 
 ## process
 xx
