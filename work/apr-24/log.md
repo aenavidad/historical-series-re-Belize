@@ -21,4 +21,21 @@ file written 9 apr 2024 at 03.55 benque. this is a log of apr 2024 work.
     - [x] fill in null vals in `varid` col
     - [ ] ~~fill in null vals in `adoption` col~~
     - [x] review TOP stds for accuracy and thoroughness
-    - [ ] review AWI stds
+    - [x] review AWI stds
+    - [x] review NDP stds
+    - [x] review DWP stds
+    - [x] review LDP stds
+    - [x] review PXG stds
+    - [x] review OFS stds
+    - [x] review OOD stds
+    - [x] review MDP stds
+    - [x] review HKD stds
+    - [x] review IDP stds
+    - [x] review FAI stds
+    - [x] review PSG stds
+    - [ ] review BWO stds et further elucidate
+    - [x] review LCT stds
+    - [ ] review DCP stds et elucidate
+    - [ ] review CWP stds et elucidate
+    - [ ] review CWM stds et elucidate
+    - [ ] review AEN stds
