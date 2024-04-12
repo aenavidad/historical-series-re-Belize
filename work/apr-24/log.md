@@ -15,3 +15,8 @@ file written 9 apr 2024 at 03.55 benque. this is a log of apr 2024 work.
     - [x] supplement to `osf` registration ie `osf-reg.md`[^ie [[osf-reg]] `which details the expected structure and contents of version 1.5, standards for it, and work process to obtain it']
 3. [x] transfer `osf-draft.md`, `osf-reg.md`, `osf-stds.tsv` to `work/apr-24`
 4. [ ] complete `osf-stds.tsv`
+    - [x] compare nos 11 to 227 in `tsv` to nos 11 to 227 `work/aug-22/rules-20-aug-2022.tsv` to ensure none missing sans reason[^skimmed comparison except where col `note` in `aug-22/*.tsv` mentioned csv]
+    - [x] review nos 228 to 316 in `aug-22/*.tsv` and import appropriate stds to `apr-24/*.tsv`[^vars `linked csv' and `csv on web' standards, not adopted in first `tsv`, likewise not adopted in second `tsv` and so not imported]
+    - [ ] fill in null vals in `standard` col
+    - [ ] fill in null vals in `varid` col
+    - [ ] fill in null vals in `adoption` col
