@@ -1,6 +1,6 @@
 # oct-23 > osf-reg
 ## abstract
-written 11 oct 2023 17.53 belmopan. this document details the expected structure of, expected content of, expected standards for, and expected process for, version 1.5 of dataset ie data series.[^expected by 31 Dec 2023 in at least `github` at [v-1.5](https://github.com/aenavidad/historical-series-re-Belize/tree/main/v-1.5) and `osf` at [version 1.5](https://osf.io/27mx5/).]
+written 11 oct 2023 17.53 belmopan. this document details the expected structure of, expected content of, expected standards for, and expected process for, version 1.5 of dataset ie data series.[^expected by 31 Dec 2023 in at least `github` at [v-1.5](https://github.com/aenavidad/historical-series-re-Belize/tree/main/v-1.5) and `osf` at [version 1.5](https://osf.io/27mx5/). this file copied to `work/apr-24` on 12 apr 2024 shortly before 02.27 benq]
 
 ## structure
 version 1.5 ought to be composed of exactly six data series ie directories (`calendar`, `chronicle`, `compendium`, `catalogue`, `gazetteer`, `dictionary`) and exactly one descriptive ie introductory text file (`readme.md` or similar text file) and \\(n\\) supplementary text files *referenced* in the `readme` for \\(0\leq n\\) (eg a `licence.md` file referred to in the relevant `readme.md` section) and nothing else.
@@ -9,7 +9,7 @@ version 1.5 ought to be composed of exactly six data series ie directories (`cal
 xx
 
 ## standards
-routed to `work/oct-23/osf-stds.tsv`, with the following notes.[^sheet created 11 oct 2023 20.58 bmp.]
+routed to `work/apr-24/osf-stds.tsv`, with the following notes.[^sheet created 11 oct 2023 20.58 bmp. previously in `work/oct-23/osf-stds.tsv`]
 
 1. note0 / conventions, etc = 
     - i / 'na' and '999' are null vals, cols with names starting in '\*' are working cols,
@@ -41,7 +41,11 @@ routed to `work/oct-23/osf-stds.tsv`, with the following notes.[^sheet created 1
     - xii / IDP at https://maastrichtu-ids.github.io/best-practices/docs/,
     - xiii / FAI at https://www.go-fair.org/fair-principles/,
     - xiv / PSG at http://www.psychologicalscience.org/publications/psychological_science/ps-submissions,
-    - xv / LCT at https://librarycarpentry.org/Top-10-FAIR/2018/12/01/historical-research/.
+    - xv / LCT at https://librarycarpentry.org/Top-10-FAIR/2018/12/01/historical-research/,
+    - xvi / BWO at https://doi.org/10.1080/00031305.2017.1375989,
+    - xvii / DCP at https://datacarpentry.org/spreadsheet-ecology-lesson/,
+    - xviii / CWP at https://www.w3.org/TR/tabular-data-primer/,
+    - xix / CWM at https://www.w3.org/TR/tabular-data-model/.
 
 ## process
 xx
