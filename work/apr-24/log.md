@@ -19,4 +19,6 @@ file written 9 apr 2024 at 03.55 benque. this is a log of apr 2024 work.
     - [x] review nos 228 to 316 in `aug-22/*.tsv` and import appropriate stds to `apr-24/*.tsv`[^vars `linked csv' and `csv on web' standards, not adopted in first `tsv`, likewise not adopted in second `tsv` and so not imported]
     - [x] fill in null vals in `standard` col
     - [x] fill in null vals in `varid` col
-    - [ ] fill in null vals in `adoption` col
+    - [ ] ~~fill in null vals in `adoption` col~~
+    - [x] review TOP stds for accuracy and thoroughness
+    - [ ] review AWI stds
