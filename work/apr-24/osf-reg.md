@@ -24,8 +24,10 @@ routed to `work/apr-24/osf-stds.tsv`, with the following notes.[^sheet created 1
     - i / `work` is `pre-git-hist` to `historical-series-re-Belize/v-1.5` process,[^occurring oct 2023 to dec 2023, assuming `work` completion by 31 dec 2023.] 
     - ii / `v 1.5` is `historical-series-re-Belize/v-1.5`, 
     - iii / `source data` is `pre-git-hist`, 
-    - iv / `work files` are those in `historical-series-re-Belize/work/*-23` for \* = nov or dec *in addition to* those in `historical-series-re-Belize/work/oct-23` created after \\(n\\) for \\(n\\) = date and time of `osf` registration submission,[^assuming submission in oct 2023 and `work` completed during \\(n\\) to 31 dec 2023.]
-    - v / `pre work` is process to `pre-git-hist`.[^occurred oct 2020 to aug 2022.]
+    - iv / `work files` are those in `historical-series-re-Belize/work/*-24` for \* = may, jun, so on, *in addition to* those in `historical-series-re-Belize/work/apr-24` created after \\(n\\) for \\(n\\) = date and time of `osf` registration submission,[^assuming submission in apr 2024 and `work` completed during \\(n\\) to 31 dec 2024.]
+    - v / `pre work` is `pre source data` to `pre-git-hist` process,[^occurred oct 2020 to aug 2022.]
+    - vi / `pre source data` are the books, papers, databases, manuscripts, and so on, consulted or copied during `pre work`,[^could use with less circular / primitive def here eg specify with ref to exhaustive list of these, possibly including tools / engines / libraries used to access these materials.]
+    - vii / `pre work files` are those in `historical-series-re-Belize` and `pre-git-hist` other than `work files` and `v 1.5`.
 4. note3 / col 'source' values = 
     - i / AEN at `work/aug-22/rules-20-aug-2022.md` s 3,
     - ii / TOP at https://www.cos.io/initiatives/top-guidelines ie https://www.cos.io/top with more verbose specification of version 1.0.1 at https://osf.io/9f6gx/wiki/home/,[^where possible, reading – article or preprint for 'article', `v 1.5` for 'data', `source data` or `work files` for 'materials', `work files` for 'code'.]
