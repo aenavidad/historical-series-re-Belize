@@ -14,12 +14,12 @@ file written 9 apr 2024 at 03.55 benque. this is a log of apr 2024 work.
     - [x] answers to `osf` registration summary qs[^ie [[osf-draft]] w 9 qs missing answers]
     - [x] supplement to `osf` registration ie `osf-reg.md`[^ie [[osf-reg]] `which details the expected structure and contents of version 1.5, standards for it, and work process to obtain it']
 3. [x] transfer `osf-draft.md`, `osf-reg.md`, `osf-stds.tsv` to `work/apr-24`
-4. [ ] complete `osf-stds.tsv`
+4. [x] complete `osf-stds.tsv`
     - [x] compare nos 11 to 227 in `tsv` to nos 11 to 227 `work/aug-22/rules-20-aug-2022.tsv` to ensure none missing sans reason[^skimmed comparison except where col `note` in `aug-22/*.tsv` mentioned csv]
     - [x] review nos 228 to 316 in `aug-22/*.tsv` and import appropriate stds to `apr-24/*.tsv`[^vars `linked csv' and `csv on web' standards, not adopted in first `tsv`, likewise not adopted in second `tsv` and so not imported]
     - [x] fill in null vals in `standard` col
     - [x] fill in null vals in `varid` col
-    - [ ] ~~fill in null vals in `adoption` col~~
+    - [x] ~~fill in null vals in `adoption` col~~
     - [x] review TOP stds for accuracy and thoroughness
     - [x] review AWI stds
     - [x] review NDP stds
@@ -33,9 +33,11 @@ file written 9 apr 2024 at 03.55 benque. this is a log of apr 2024 work.
     - [x] review IDP stds
     - [x] review FAI stds
     - [x] review PSG stds
-    - [ ] review BWO stds et further elucidate
+    - [x] review BWO stds et further elucidate
     - [x] review LCT stds
-    - [ ] review DCP stds et elucidate
-    - [ ] review CWP stds et elucidate
-    - [ ] review CWM stds et elucidate
-    - [ ] review AEN stds
+    - [x] review DCP stds et elucidate
+    - [x] review CWP stds et elucidate
+    - [x] review CWM stds et elucidate
+    - [x] review AEN stds
+    - [x] fill in null vals in `adoption` col
+    - [x] fill in null vals in `top` col[^by reference to the original sources rationale / motive for proferring stds, rather than by close reading / anls of each individual std]
