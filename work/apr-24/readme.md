@@ -7,3 +7,4 @@ this file is a standard readme. written 9 apr 2024 at 03.53 in benque. this dire
 ## navigation
 
 - [[apr-24/log]] is work log
+- `osf-*` are `osf` registration files
