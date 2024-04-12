@@ -30,7 +30,7 @@ routed to `work/apr-24/osf-stds.tsv`, with the following notes.[^sheet created 1
     - vii / `pre work files` are those in `historical-series-re-Belize` and `pre-git-hist` other than `work files` and `v 1.5`.
 4. note3 / col 'source' values = 
     - i / AEN at `work/aug-22/rules-20-aug-2022.md` s 3,
-    - ii / TOP at https://www.cos.io/initiatives/top-guidelines ie https://www.cos.io/top with more verbose specification of version 1.0.1 at https://osf.io/9f6gx/wiki/home/,[^where possible, reading – article or preprint for 'article', `v 1.5` for 'data', `source data` or `work files` for 'materials', `work files` for 'code'.]
+    - ii / TOP at https://www.cos.io/initiatives/top-guidelines ie https://www.cos.io/top with more verbose specification of version 1.0.1 at https://osf.io/9f6gx/wiki/home/,[^where possible, reading – article or preprint for 'article', `v 1.5` for 'data', `pre source data` or `source data` or `pre work files` or `work files` for 'materials', `work files` for 'code', `pre work` or `work` for 'design' and 'methods', `work` for 'analysis'.]
     - iii / AWI at http://www.w3.org/TR/webarch/,
     - iv / NDP at https://web.archive.org/web/20220808095409/https://www.springernature.com/gp/authors/research-data-policy/,[^archived content significantly different to live version]
     - v / DWP at https://www.w3.org/TR/dwbp/,
