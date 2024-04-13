@@ -41,3 +41,4 @@ file written 9 apr 2024 at 03.55 benque. this is a log of apr 2024 work.
     - [x] review AEN stds
     - [x] fill in null vals in `adoption` col
     - [x] fill in null vals in `top` col[^by reference to the original sources rationale / motive for proferring stds, rather than by close reading / anls of each individual std]
+5. [ ] fill in s 3 re content in [[apr-24/osf-reg.md]]

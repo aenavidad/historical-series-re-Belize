@@ -1,12 +1,17 @@
-# oct-23 > osf-reg
+# apr-24 > osf-reg
 ## abstract
-written 11 oct 2023 17.53 belmopan. this document details the expected structure of, expected content of, expected standards for, and expected process for, version 1.5 of dataset ie data series.[^expected by 31 Dec 2023 in at least `github` at [v-1.5](https://github.com/aenavidad/historical-series-re-Belize/tree/main/v-1.5) and `osf` at [version 1.5](https://osf.io/27mx5/). this file copied to `work/apr-24` on 12 apr 2024 shortly before 02.27 benq]
+written 11 oct 2023 17.53 belmopan. this document details the expected structure of, expected content of, expected standards for, and expected process for, version 1.5 of dataset ie data series.[^expected by 31 Dec 2024 in at least `github` at [v-1.5](https://github.com/aenavidad/historical-series-re-Belize/tree/main/v-1.5) and `osf` at [version 1.5](https://osf.io/27mx5/). this file copied to `work/apr-24` on 12 apr 2024 shortly before 02.27 benq]
 
 ## structure
 version 1.5 ought to be composed of exactly six data series ie directories (`calendar`, `chronicle`, `compendium`, `catalogue`, `gazetteer`, `dictionary`) and exactly one descriptive ie introductory text file (`readme.md` or similar text file) and \\(n\\) supplementary text files *referenced* in the `readme` for \\(0\leq n\\) (eg a `licence.md` file referred to in the relevant `readme.md` section) and nothing else.
 
 ## content
-xx
+each data series will contain data ie tabular data ie variable-value pairs and nothing else. the descriptive ie introductiory text file will contain at least -
+- preprint content[^eg a la `oct-23/draft.tex`, itself from [[sep-23/draft0.md]] per [[oct-23/log.md]] no 1]
+- provenance content
+- metadata content
+- versioning content
+- introductory content
 
 ## standards
 routed to `work/apr-24/osf-stds.tsv`, with the following notes.[^sheet created 11 oct 2023 20.58 bmp. previously in `work/oct-23/osf-stds.tsv`]
