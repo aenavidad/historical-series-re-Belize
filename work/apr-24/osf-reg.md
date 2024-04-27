@@ -9,7 +9,7 @@ version 1.5 ought to be composed of exactly six data series ie directories (`cal
 each data series will contain data ie tabular data ie variable-value pairs and nothing else. the descriptive ie introductiory text file will contain at least -
 - preprint content[^eg a la `oct-23/draft.tex`, itself from [[sep-23/draft0.md]] per [[oct-23/log.md]] no 1]
 - provenance content
-- metadata content
+- metadata content[^incl title, URIs, licence, so on]
 - versioning content
 - introductory content
 
@@ -55,4 +55,10 @@ routed to `work/apr-24/osf-stds.tsv`, with the following notes.[^sheet created 1
     - xix / CWM at https://www.w3.org/TR/tabular-data-model/.
 
 ## process
-xx
+for data series -
+1. [ ] tag files in `pre git hist` to be used for `v 1.5`[^review `work/*-23` as this task has already been started]
+2. [ ] xx
+
+for descriptive ie introductiory text file -
+1. [ ] reconstruct chronological log of `pre work`, incl exhaustive list of `pre source data`[^review `work/*-23' as this task has already been started]
+2. [ ] xx
